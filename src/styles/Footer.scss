@@ -7,7 +7,10 @@
     gap: 20px;
     padding: 10px;
     &__medias {
-        gap: 10px;
         color: white;
+        font-size: 200%;
+        &__icon {
+            padding: 10px;
+        }
     }
 }
