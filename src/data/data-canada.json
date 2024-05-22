@@ -1,0 +1,147 @@
+{
+    "provinces": [
+      {
+        "nom": "Alberta",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Alberta",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": ["Edmonton FC"],
+          "NHL": ["Edmonton Oilers"],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Colombie-Britannique",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_British_Columbia",
+        "equipes": {
+          "NBA": [],
+          "MLB": ["Vancouver Canadians"],
+          "MLS": ["Vancouver Whitecaps FC"],
+          "NHL": ["Vancouver Canucks"],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Manitoba",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Manitoba",
+        "equipes": {
+          "NBA": [],
+          "MLB": ["Winnipeg Goldeyes"],
+          "MLS": ["Winnipeg FC"],
+          "NHL": ["Winnipeg Jets"],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Nouveau-Brunswick",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": ["FC Edmonton"],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Terre-Neuve-et-Labrador",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": [],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Territoires du Nord-Ouest",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": [],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Nouvelle-Écosse",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia",
+        "equipes": {
+          "NBA": [],
+          "MLB": ["Halifax Mooseheads"],
+          "MLS": ["Halifax Wanderers FC"],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Nunavut",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nunavut",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": [],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Ontario",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Ontario",
+        "equipes": {
+          "NBA": ["Toronto Raptors"],
+          "MLB": ["Toronto Blue Jays"],
+          "MLS": ["Toronto FC"],
+          "NHL": ["Ottawa Senators", "Toronto Maple Leafs"],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Île-du-Prince-Édouard",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Prince_Edward_Island",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": [],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Québec",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Quebec",
+        "equipes": {
+          "NBA": ["Montréal Alouettes"],
+          "MLB": ["Montréal Royals"],
+          "MLS": ["CF Montréal"],
+          "NHL": ["Montréal Canadiens"],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Saskatchewan",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": ["Saskatoon Rush"],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom":"Yukon",
+        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Yukon",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": [],
+          "NHL": [],
+          "NFL": []
+        }
+      }
+    ]
+  }

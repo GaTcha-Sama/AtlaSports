@@ -1,0 +1,35 @@
+@import '../variables.scss';
+
+.gallery {
+    display: flex;
+    margin: 20px;
+    gap: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: 100%;
+    &__card {
+        display: flex;
+        background-color: rgb(42, 94, 189);
+        border-radius: 20px;
+        cursor: pointer;
+        padding: 0;
+        height: 200px;
+        width: 300px;
+        justify-content: center;
+        align-items: center;
+    }
+    &__title {
+        font-family: $main-text;
+        font-weight: 700;
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        color: white;
+    }
+    &__img {
+        display: flex;
+    }
+}

@@ -1,0 +1,619 @@
+[
+    {
+      "id": 1,
+      "nom": "Alabama",
+      "drapeau": "",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 2,
+      "nom": "Alaska",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Alaska",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 3,
+      "nom": "Arizona",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Arizona",
+      "equipes": {
+        "NBA": ["Phoenix Suns"],
+        "MLB": ["Arizona Diamondbacks"],
+        "MLS": ["Phoenix Rising FC"],
+        "NHL": [],
+        "NFL": ["Arizona Cardinals"]
+      }
+    },
+    {
+      "id": 4,
+      "nom": "Arkansas",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Arkansas",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": ["Little Rock Rangers"],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 5,
+      "nom": "California",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_California",
+      "equipes": {
+        "NBA": ["Golden State Warriors", "Los Angeles Clippers", "Los Angeles Lakers", "Sacramento Kings"],
+        "MLB": ["Los Angeles Angels", "Los Angeles Dodgers", "Oakland Athletics", "San Diego Padres", "San Francisco Giants"],
+        "MLS": ["Los Angeles FC", "LA Galaxy", "Sacramento Republic FC", "San Jose Earthquakes"],
+        "NHL": ["Anaheim Ducks", "Los Angeles Kings", "San Jose Sharks"],
+        "NFL": ["Los Angeles Chargers", "Los Angeles Rams", "San Francisco 49ers"],
+        "WNBA": ["Los Angeles Sparks", "Golden State Valkyries"]
+      }
+    },
+    {
+      "id": 6,
+      "nom": "Colorado",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Colorado",
+      "equipes": {
+        "NBA": ["Denver Nuggets"],
+        "MLB": ["Colorado Rockies"],
+        "MLS": ["Colorado Rapids"],
+        "NHL": ["Colorado Avalanche"],
+        "NFL": ["Denver Broncos"]
+      }
+    },
+    {
+      "id": 7,
+      "nom": "Connecticut",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Connecticut",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": ["Hartford Athletic"],
+        "NHL": [],
+        "NFL": [],
+        "WNBA": ["Connecticut Sun"]
+      }
+    },
+    {
+      "id": 8,
+      "nom": "Delaware",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Delaware",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": ["Delaware Phily"],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 10,
+      "nom": "Florida",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Florida",
+      "equipes": {
+        "NBA": ["Miami Heat", "Orlando Magic"],
+        "MLB": ["Miami Marlins", "Tampa Bay Rays"],
+        "MLS": ["Inter Miami CF", "Orlando City SC", "Tampa Bay Rowdies"],
+        "NHL": ["Florida Panthers", "Tampa Bay Lighning"],
+        "NFL": ["Jacksonville Jaguars", "Miami Dolphins", "Tampa Bay Buccaneers"]
+      }
+    },
+    {
+      "id": 11,
+    "nom": "Georgia",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state",
+    "equipes": {
+    "NBA": ["Atlanta Hawks"],
+    "MLB": ["Atlanta Braves"],
+    "MLS": ["Atlanta United FC"],
+    "NHL": [],
+    "NFL": ["Atlanta Falcons"]
+    }
+    },
+    {
+      "id": 12,
+    "nom": "Hawaii",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Hawaii",
+    "equipes": {
+    "NBA": [],
+    "MLB": [],
+    "MLS": [],
+    "NHL": [],
+    "NFL": []
+    }
+    },
+    {
+      "id": 13,
+    "nom": "Idaho",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Idaho",
+    "equipes": {
+    "NBA": [],
+    "MLB": [],
+    "MLS": [],
+    "NHL": [],
+    "NFL": []
+    }
+    },
+    {
+      "id": 14,
+    "nom": "Illinois",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Illinois",
+    "equipes": {
+    "NBA": ["Chicago Bulls"],
+    "MLB": ["Chicago Cubs", "Chicago White Sox"],
+    "MLS": ["Chicago Fire FC"],
+    "NHL": ["Chicago Blackhawks"],
+    "NFL": ["Chicago Bears"]
+    }
+    },
+    {
+      "id": 15,
+    "nom": "Indiana",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Indiana",
+    "equipes": {
+    "NBA": ["Indiana Pacers"],
+    "MLB": [],
+    "MLS": [],
+    "NHL": [],
+    "NFL": ["Indianapolis Colts"],
+    "WNBA": ["Indiana Fever"]
+    }
+    },
+    {
+      "id": 16,
+    "nom": "Iowa",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Iowa",
+    "equipes": {
+    "NBA": [],
+    "MLB": [],
+    "MLS": [],
+    "NHL": [],
+    "NFL": []
+    }
+    },
+    {
+      "id": 17,
+    "nom": "Kansas",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Kansas",
+    "equipes": {
+    "NBA": [],
+    "MLB": ["Kansas City Royals"],
+    "MLS": ["Sporting Kansas City"],
+    "NHL": [],
+    "NFL": ["Kansas City Chiefs"]
+    }
+    },
+    {
+      "id": 18,
+    "nom": "Kentucky",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Kentucky",
+    "equipes": {
+    "NBA": [],
+    "MLB": [],
+    "MLS": ["Louisville City FC"],
+    "NHL": [],
+    "NFL": []
+    }
+    },
+    {
+      "id": 19,
+    "nom": "Louisiana",
+    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Louisiana",
+    "equipes": {
+    "NBA": ["New Orleans Pelicans"],
+    "MLB": [],
+    "MLS": ["New Orleans FC"],
+    "NHL": [],
+    "NFL": ["New Orleans Saints"]
+    }
+    },
+    {
+      "id": 20,
+      "nom": "Maine",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Maine",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 21,
+      "nom": "Maryland",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Maryland",
+      "equipes": {
+        "NBA": [],
+        "MLB": ["Baltimore Orioles"],
+        "MLS": [],
+        "NHL": [],
+        "NFL": ["Baltimore Ravens"]
+      }
+    },
+    {
+      "id": 22,
+      "nom": "Massachusetts",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Massachusetts",
+      "equipes": {
+        "NBA": ["Boston Celtics"],
+        "MLB": ["Boston Red Sox"],
+        "MLS": ["New England Revolution"],
+        "NHL": ["Boston Bruins"],
+        "NFL": ["New England Patriots"]
+      }
+    },
+    {
+      "id": 23,
+      "nom": "Michigan",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Michigan",
+      "equipes": {
+        "NBA": ["Detroit Pistons"],
+        "MLB": ["Detroit Tigers"],
+        "MLS": ["Detroit City FC"],
+        "NHL": ["Detroit Red Wings"],
+        "NFL": ["Detroit Lions"]
+      }
+    },
+    {
+      "id": 24,
+      "nom": "Minnesota",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Minnesota",
+      "equipes": {
+        "NBA": ["Minnesota Timberwolves"],
+        "MLB": ["Minnesota Twins"],
+        "MLS": ["Minnesota United FC"],
+        "NHL": ["Minnesota Wild"],
+        "NFL": ["Minnesota Vikings"]
+      }
+    },
+    {
+      "id": 25,
+      "nom": "Mississippi",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Mississippi",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": ["Mississippi Brilla FC"],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 26,
+      "nom": "Missouri",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Missouri",
+      "equipes": {
+        "NBA": [],
+        "MLB": ["St. Louis Cardinals"],
+        "MLS": ["St. Louis City SC"],
+        "NHL": ["St. Louis Blues"],
+        "NFL": ["Kansas City Chiefs"]
+      }
+    },
+    {
+      "id": 27,
+      "nom": "Montana",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Montana",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 28,
+      "nom": "Nebraska",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nebraska",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 29,
+      "nom": "Nevada",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nevada",
+      "equipes": {
+        "NBA": ["Las Vegas Aces"],
+        "MLB": [],
+        "MLS": ["Las Vegas Lights FC"],
+        "NHL": ["Vegas Golden Knights"],
+        "NFL": ["Las Vegas Raiders"]
+      }
+    },
+    {
+      "id": 30,
+      "nom": "New Hampshire",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Hampshire",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": ["New Hampshire Monarchs"],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 31,
+      "nom": "New Jersey",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Jersey",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": ["New Jersey Devils"],
+        "NFL": []
+      }
+    },
+    {
+      "id": 32,
+      "nom": "New Mexico",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Mexico",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 33,
+      "nom": "New York",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_York",
+      "equipes": {
+        "NBA": ["Brooklyn Nets", "New York Knicks"],
+        "MLB": ["New York Mets", "New York Yankees"],
+        "MLS": ["New York City FC", "New York Red Bulls"],
+        "NHL": ["Buffalo Sabres", "New York Rangers", "New York Islanders"],
+        "NFL": ["Buffalo Bills", "New York Giants", "New York Jets"],
+        "WNBA": ["New York Liberty"]
+      }
+    },
+    {
+      "id": 34,
+      "nom": "North Carolina",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_North_Carolina",
+      "equipes": {
+        "NBA": ["Charlotte Hornets"],
+        "MLB": [],
+        "MLS": ["Charlotte FC"],
+        "NHL": ["Carolina Hurricanes"],
+        "NFL": ["Carolina Panthers"]
+      }
+    },
+    {
+      "id": 35,
+      "nom": "North Dakota",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_North_Dakota",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 36,
+      "nom": "Ohio",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Ohio",
+      "equipes": {
+        "NBA": ["Cleveland Cavaliers"],
+        "MLB": ["Cincinnati Reds", "Cleveland Guardians"],
+        "MLS": ["Columbus Crew SC", "FC Cincinnati"],
+        "NHL": ["Columbus Blue Jackets"],
+        "NFL": ["Cincinnati Bengals", "Cleveland Browns"]
+      }
+    },
+    {
+      "id": 37,
+      "nom": "Oklahoma",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Oklahoma",
+      "equipes": {
+        "NBA": ["Oklahoma City Thunder"],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 38,
+      "nom": "Oregon",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Oregon",
+      "equipes": {
+        "NBA": ["Portland Trail Blazers"],
+        "MLB": [],
+        "MLS": ["Portland Timbers"],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 39,
+      "nom": "Pennsylvania",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania",
+      "equipes": {
+        "NBA": ["Philadelphia 76ers"],
+        "MLB": ["Philadelphia Phillies", "Pittsburgh Pirates"],
+        "MLS": ["Philadelphia Union"],
+        "NHL": ["Philadelphia Flyers", "Pittsburgh Penguins"],
+        "NFL": ["Philadelphia Eagles", "Pittsburgh Steelers"]
+      }
+    },
+    {
+      "id": 40,
+      "nom": "Rhode Island",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 41,
+      "nom": "South Carolina",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_South_Carolina",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 42,
+      "nom": "South Dakota",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_South_Dakota",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 43,
+      "nom": "Tennessee",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Tennessee",
+      "equipes": {
+        "NBA": ["Memphis Grizzlies"],
+        "MLB": [],
+        "MLS": ["Nashville SC"],
+        "NHL": [],
+        "NFL": ["Tennessee Titans"]
+      }
+    },
+    {
+      "id": 44,
+      "nom": "Texas",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Texas",
+      "equipes": {
+        "NBA": ["Dallas Mavericks", "Houston Rockets", "San Antonio Spurs"],
+        "MLB": ["Houston Astros", "Texas Rangers"],
+        "MLS": ["Dallas FC", "Houston Dynamo"],
+        "NHL": ["Dallas Stars"],
+        "NFL": ["Dallas Cowboys", "Houston Texans"],
+        "WNBA": ["Dallas Wings"]
+      }
+    },
+    {
+      "id": 45,
+      "nom": "Utah",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Utah",
+      "equipes": {
+        "NBA": ["Utah Jazz"],
+        "MLB": [],
+        "MLS": ["Real Salt Lake"],
+        "NHL": ["Utah HC"],
+        "NFL": []
+      }
+    },
+    {
+      "id": 46,
+      "nom": "Vermont",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Vermont",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 47,
+      "nom": "Virginia",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Virginia",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 48,
+      "nom": "Washington",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Washington_D.C.",
+      "equipes": {
+        "NBA": ["Washington Wizards"],
+        "MLB": ["Washington Nationals"],
+        "MLS": ["D.C. United"],
+        "NHL": ["Washington Capitals"],
+        "NFL": ["Washington Commanders"]
+      }
+    },
+    {
+      "id": 9,
+      "nom": "Washington DC",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_the_District_of_Columbia",
+      "equipes": {
+        "NBA": ["Washington Wizards"],
+        "MLB": ["Washington Nationals"],
+        "MLS": ["D.C. United"],
+        "NHL": ["Washington Capitals"],
+        "NFL": ["Washington Commanders"]
+      }
+    },
+    {
+      "id": 49,
+      "nom": "West Virginia",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_West_Virginia",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    },
+    {
+      "id": 50,
+      "nom": "Wisconsin",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Wisconsin",
+      "equipes": {
+        "NBA": ["Milwaukee Bucks"],
+        "MLB": ["Milwaukee Brewers"],
+        "MLS": [],
+        "NHL": [],
+        "NFL": ["Green Bay Packers"]
+      }
+    },
+    {
+      "id": 51,
+      "nom": "Wyoming",
+      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Wyoming#/media/File:Flag_of_Wyoming.svg",
+      "equipes": {
+        "NBA": [],
+        "MLB": [],
+        "MLS": [],
+        "NHL": [],
+        "NFL": []
+      }
+    }
+  ]

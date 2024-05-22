@@ -13,7 +13,7 @@ function Footer() {
         <FontAwesomeIcon icon={faXTwitter} className='footer__medias__icon' />
         <FontAwesomeIcon icon={faFacebook} className='footer__medias__icon' />
       </div>
-      Made by Jeremy Louet in 2024. © All rights reserved.
+        <div className='footer__copyrights'>Made by Jeremy Louet in 2024. © All rights reserved.</div>
     </div>
   )
 }

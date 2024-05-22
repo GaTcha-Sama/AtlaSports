@@ -1,3 +1,5 @@
+@import '../variables.scss';
+
 .footer {
     background-color: black;
     color: white;
@@ -7,11 +9,15 @@
     gap: 20px;
     padding: 10px;
     margin-top: 30px;
+    font-family: $main-text;
     &__medias {
         color: white;
         font-size: 200%;
         &__icon {
             padding: 10px;
         }
+    }
+    &__copyrights {
+        padding-bottom: 10px;
     }
 }
