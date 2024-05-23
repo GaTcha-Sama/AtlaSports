@@ -2,7 +2,7 @@
     {
       "id": 1,
       "nom": "Alabama",
-      "drapeau": "",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "nom": "Alaska",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Alaska",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "nom": "Arizona",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Arizona",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
       "equipes": {
         "NBA": ["Phoenix Suns"],
         "MLB": ["Arizona Diamondbacks"],
@@ -38,7 +38,7 @@
     {
       "id": 4,
       "nom": "Arkansas",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Arkansas",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -50,7 +50,7 @@
     {
       "id": 5,
       "nom": "California",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_California",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
       "equipes": {
         "NBA": ["Golden State Warriors", "Los Angeles Clippers", "Los Angeles Lakers", "Sacramento Kings"],
         "MLB": ["Los Angeles Angels", "Los Angeles Dodgers", "Oakland Athletics", "San Diego Padres", "San Francisco Giants"],
@@ -63,7 +63,7 @@
     {
       "id": 6,
       "nom": "Colorado",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Colorado",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
       "equipes": {
         "NBA": ["Denver Nuggets"],
         "MLB": ["Colorado Rockies"],
@@ -75,7 +75,7 @@
     {
       "id": 7,
       "nom": "Connecticut",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Connecticut",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -88,7 +88,7 @@
     {
       "id": 8,
       "nom": "Delaware",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Delaware",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -100,7 +100,7 @@
     {
       "id": 10,
       "nom": "Florida",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Florida",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
       "equipes": {
         "NBA": ["Miami Heat", "Orlando Magic"],
         "MLB": ["Miami Marlins", "Tampa Bay Rays"],
@@ -112,7 +112,7 @@
     {
       "id": 11,
     "nom": "Georgia",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
     "equipes": {
     "NBA": ["Atlanta Hawks"],
     "MLB": ["Atlanta Braves"],
@@ -124,7 +124,7 @@
     {
       "id": 12,
     "nom": "Hawaii",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Hawaii",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
     "equipes": {
     "NBA": [],
     "MLB": [],
@@ -136,7 +136,7 @@
     {
       "id": 13,
     "nom": "Idaho",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Idaho",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
     "equipes": {
     "NBA": [],
     "MLB": [],
@@ -148,7 +148,7 @@
     {
       "id": 14,
     "nom": "Illinois",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Illinois",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg",
     "equipes": {
     "NBA": ["Chicago Bulls"],
     "MLB": ["Chicago Cubs", "Chicago White Sox"],
@@ -160,7 +160,7 @@
     {
       "id": 15,
     "nom": "Indiana",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Indiana",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
     "equipes": {
     "NBA": ["Indiana Pacers"],
     "MLB": [],
@@ -173,7 +173,7 @@
     {
       "id": 16,
     "nom": "Iowa",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Iowa",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
     "equipes": {
     "NBA": [],
     "MLB": [],
@@ -185,7 +185,7 @@
     {
       "id": 17,
     "nom": "Kansas",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Kansas",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
     "equipes": {
     "NBA": [],
     "MLB": ["Kansas City Royals"],
@@ -197,7 +197,7 @@
     {
       "id": 18,
     "nom": "Kentucky",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Kentucky",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
     "equipes": {
     "NBA": [],
     "MLB": [],
@@ -209,7 +209,7 @@
     {
       "id": 19,
     "nom": "Louisiana",
-    "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Louisiana",
+    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
     "equipes": {
     "NBA": ["New Orleans Pelicans"],
     "MLB": [],
@@ -221,7 +221,7 @@
     {
       "id": 20,
       "nom": "Maine",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Maine",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -233,7 +233,7 @@
     {
       "id": 21,
       "nom": "Maryland",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Maryland",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg",
       "equipes": {
         "NBA": [],
         "MLB": ["Baltimore Orioles"],
@@ -245,7 +245,7 @@
     {
       "id": 22,
       "nom": "Massachusetts",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Massachusetts",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg",
       "equipes": {
         "NBA": ["Boston Celtics"],
         "MLB": ["Boston Red Sox"],
@@ -257,7 +257,7 @@
     {
       "id": 23,
       "nom": "Michigan",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Michigan",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg",
       "equipes": {
         "NBA": ["Detroit Pistons"],
         "MLB": ["Detroit Tigers"],
@@ -269,7 +269,7 @@
     {
       "id": 24,
       "nom": "Minnesota",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Minnesota",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg",
       "equipes": {
         "NBA": ["Minnesota Timberwolves"],
         "MLB": ["Minnesota Twins"],
@@ -281,7 +281,7 @@
     {
       "id": 25,
       "nom": "Mississippi",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Mississippi",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -293,7 +293,7 @@
     {
       "id": 26,
       "nom": "Missouri",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Missouri",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg",
       "equipes": {
         "NBA": [],
         "MLB": ["St. Louis Cardinals"],
@@ -305,7 +305,7 @@
     {
       "id": 27,
       "nom": "Montana",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Montana",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -317,7 +317,7 @@
     {
       "id": 28,
       "nom": "Nebraska",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nebraska",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -329,7 +329,7 @@
     {
       "id": 29,
       "nom": "Nevada",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nevada",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg",
       "equipes": {
         "NBA": ["Las Vegas Aces"],
         "MLB": [],
@@ -341,7 +341,7 @@
     {
       "id": 30,
       "nom": "New Hampshire",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Hampshire",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -353,7 +353,7 @@
     {
       "id": 31,
       "nom": "New Jersey",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Jersey",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -365,7 +365,7 @@
     {
       "id": 32,
       "nom": "New Mexico",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Mexico",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -377,7 +377,7 @@
     {
       "id": 33,
       "nom": "New York",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_York",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
       "equipes": {
         "NBA": ["Brooklyn Nets", "New York Knicks"],
         "MLB": ["New York Mets", "New York Yankees"],
@@ -390,7 +390,7 @@
     {
       "id": 34,
       "nom": "North Carolina",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_North_Carolina",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg",
       "equipes": {
         "NBA": ["Charlotte Hornets"],
         "MLB": [],
@@ -402,7 +402,7 @@
     {
       "id": 35,
       "nom": "North Dakota",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_North_Dakota",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -414,7 +414,7 @@
     {
       "id": 36,
       "nom": "Ohio",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Ohio",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
       "equipes": {
         "NBA": ["Cleveland Cavaliers"],
         "MLB": ["Cincinnati Reds", "Cleveland Guardians"],
@@ -426,7 +426,7 @@
     {
       "id": 37,
       "nom": "Oklahoma",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Oklahoma",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
       "equipes": {
         "NBA": ["Oklahoma City Thunder"],
         "MLB": [],
@@ -438,7 +438,7 @@
     {
       "id": 38,
       "nom": "Oregon",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Oregon",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
       "equipes": {
         "NBA": ["Portland Trail Blazers"],
         "MLB": [],
@@ -450,7 +450,7 @@
     {
       "id": 39,
       "nom": "Pennsylvania",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
       "equipes": {
         "NBA": ["Philadelphia 76ers"],
         "MLB": ["Philadelphia Phillies", "Pittsburgh Pirates"],
@@ -462,7 +462,7 @@
     {
       "id": 40,
       "nom": "Rhode Island",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -474,7 +474,7 @@
     {
       "id": 41,
       "nom": "South Carolina",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_South_Carolina",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -486,7 +486,7 @@
     {
       "id": 42,
       "nom": "South Dakota",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_South_Dakota",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -498,7 +498,7 @@
     {
       "id": 43,
       "nom": "Tennessee",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Tennessee",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg",
       "equipes": {
         "NBA": ["Memphis Grizzlies"],
         "MLB": [],
@@ -510,7 +510,7 @@
     {
       "id": 44,
       "nom": "Texas",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Texas",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
       "equipes": {
         "NBA": ["Dallas Mavericks", "Houston Rockets", "San Antonio Spurs"],
         "MLB": ["Houston Astros", "Texas Rangers"],
@@ -523,7 +523,7 @@
     {
       "id": 45,
       "nom": "Utah",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Utah",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg",
       "equipes": {
         "NBA": ["Utah Jazz"],
         "MLB": [],
@@ -535,7 +535,7 @@
     {
       "id": 46,
       "nom": "Vermont",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Vermont",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -547,7 +547,7 @@
     {
       "id": 47,
       "nom": "Virginia",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Virginia",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -559,19 +559,19 @@
     {
       "id": 48,
       "nom": "Washington",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Washington_D.C.",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg",
       "equipes": {
-        "NBA": ["Washington Wizards"],
-        "MLB": ["Washington Nationals"],
-        "MLS": ["D.C. United"],
-        "NHL": ["Washington Capitals"],
-        "NFL": ["Washington Commanders"]
+        "NBA": [],
+        "MLB": ["Seattle Mariners"],
+        "MLS": ["Seattle Sounders"],
+        "NHL": ["Seattle Kraken"],
+        "NFL": ["Seattle Seahawks"]
       }
     },
     {
       "id": 9,
-      "nom": "Washington DC",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_the_District_of_Columbia",
+      "nom": "Washington D.C.",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
       "equipes": {
         "NBA": ["Washington Wizards"],
         "MLB": ["Washington Nationals"],
@@ -583,7 +583,7 @@
     {
       "id": 49,
       "nom": "West Virginia",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_West_Virginia",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],
@@ -595,7 +595,7 @@
     {
       "id": 50,
       "nom": "Wisconsin",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Wisconsin",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
       "equipes": {
         "NBA": ["Milwaukee Bucks"],
         "MLB": ["Milwaukee Brewers"],
@@ -607,7 +607,7 @@
     {
       "id": 51,
       "nom": "Wyoming",
-      "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Wyoming#/media/File:Flag_of_Wyoming.svg",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg",
       "equipes": {
         "NBA": [],
         "MLB": [],

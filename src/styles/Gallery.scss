@@ -1,35 +1,46 @@
 @import '../variables.scss';
 
 .gallery {
-    display: flex;
-    margin: 20px;
-    gap: 10px;
-    justify-content: space-around;
-    flex-wrap: wrap;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: 20px;
     width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
     &__card {
-        display: flex;
-        background-color: rgb(42, 94, 189);
+        position: relative; /* Allows positioning of child elements */
         border-radius: 20px;
         cursor: pointer;
         padding: 0;
+        margin-bottom: 15px;
         height: 200px;
         width: 300px;
-        justify-content: center;
-        align-items: center;
-    }
-    &__title {
-        font-family: $main-text;
-        font-weight: 700;
-        font-size: 30px;
-        justify-content: center;
-        align-items: center;
+        overflow: hidden; /* Ensures content does not overflow */
         display: flex;
-        color: white;
+        justify-content: center;
+        align-items: center;
     }
     &__img {
-        display: flex;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Ensures the image covers the entire card */
+    }
+    &__title {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -80%); /* Centers the title */
+        font-family: $main-text;
+        font-weight: 400;
+        font-size: 20px;
+        color: white;
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        border-radius: 10px;
     }
 }
