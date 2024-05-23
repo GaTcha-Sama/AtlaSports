@@ -1,18 +1,18 @@
 import React from 'react'
 import '../../styles/Gallery.scss'
 import {useNavigate} from 'react-router-dom'
-import DataUSA from '../../data/data-usa.json'
+import DataCAN from '../../data/data-flag-provinces-canada.json'
 
-function Gallery() {
-const navigate = useNavigate();
+function GalleryCAN() {
+const navigate = useNavigate()
 
 const handleItemClick = (item) => {
-  navigate(`/state/${item.id}`);
-};
+  navigate(`/state/${item.id}`)
+}
 
 return (
   <main className="gallery">
-    {DataUSA.map((item) => (
+    {DataCAN.map((item) => (
       <div key={item.id}>
         <button type="button" className='gallery__card' onClick={() => handleItemClick(item)}>
           <img src={item.drapeau} alt="" className="gallery__img" />
@@ -21,7 +21,8 @@ return (
       </div>
     ))}
   </main>
-);
+)
+
 }
 
-export default Gallery
+export default GalleryCAN

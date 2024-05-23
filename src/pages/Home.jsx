@@ -1,12 +1,20 @@
 import React from 'react'
 import '../styles/Home.scss'
-import Gallery from '../components/Home/Gallery'
+import GalleryUSA from '../components/Home/Gallery-USA'
+import GalleryCAN from '../components/Home/Gallery-CAN'
 
 function Home() {
   return (
-        <div>
-            <Gallery />
-        </div>        
+    <main className='home'>
+        <section>
+          <h1 className='home__title'>USA</h1>
+            <GalleryUSA />
+        </section>
+        <section>
+          <h1 className='home__title'>CANADA</h1>
+            <GalleryCAN />
+        </section> 
+    </main>    
   )
 }
 

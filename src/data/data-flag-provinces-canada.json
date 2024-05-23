@@ -1,22 +1,21 @@
-{
-    "provinces": [
+[
       {
         "nom": "Alberta",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Alberta",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
-          "MLS": ["Edmonton FC"],
+          "MLS": [],
           "NHL": ["Edmonton Oilers"],
           "NFL": []
         }
       },
       {
-        "nom": "Colombie-Britannique",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_British_Columbia",
+        "nom": "British Colombia",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg",
         "equipes": {
           "NBA": [],
-          "MLB": ["Vancouver Canadians"],
+          "MLB": [],
           "MLS": ["Vancouver Whitecaps FC"],
           "NHL": ["Vancouver Canucks"],
           "NFL": []
@@ -24,29 +23,18 @@
       },
       {
         "nom": "Manitoba",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Manitoba",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg",
         "equipes": {
           "NBA": [],
-          "MLB": ["Winnipeg Goldeyes"],
-          "MLS": ["Winnipeg FC"],
+          "MLB": [],
+          "MLS": [],
           "NHL": ["Winnipeg Jets"],
           "NFL": []
         }
       },
       {
-        "nom": "Nouveau-Brunswick",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": ["FC Edmonton"],
-          "NHL": [],
-          "NFL": []
-        }
-      },
-      {
-        "nom": "Terre-Neuve-et-Labrador",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador",
+        "nom": "New Brunswick",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
@@ -56,8 +44,8 @@
         }
       },
       {
-        "nom": "Territoires du Nord-Ouest",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories",
+        "nom": "Newfoundland and Labrador",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
@@ -67,19 +55,30 @@
         }
       },
       {
-        "nom": "Nouvelle-Écosse",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia",
+        "nom": "Northwest Territories",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg",
         "equipes": {
           "NBA": [],
-          "MLB": ["Halifax Mooseheads"],
-          "MLS": ["Halifax Wanderers FC"],
+          "MLB": [],
+          "MLS": [],
+          "NHL": [],
+          "NFL": []
+        }
+      },
+      {
+        "nom": "Nova Scotia",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg",
+        "equipes": {
+          "NBA": [],
+          "MLB": [],
+          "MLS": [],
           "NHL": [],
           "NFL": []
         }
       },
       {
         "nom": "Nunavut",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Nunavut",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
@@ -90,7 +89,7 @@
       },
       {
         "nom": "Ontario",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Ontario",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg",
         "equipes": {
           "NBA": ["Toronto Raptors"],
           "MLB": ["Toronto Blue Jays"],
@@ -100,8 +99,8 @@
         }
       },
       {
-        "nom": "Île-du-Prince-Édouard",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Prince_Edward_Island",
+        "nom": "Prince Edward Island",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
@@ -112,10 +111,10 @@
       },
       {
         "nom": "Québec",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Quebec",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg",
         "equipes": {
-          "NBA": ["Montréal Alouettes"],
-          "MLB": ["Montréal Royals"],
+          "NBA": [],
+          "MLB": [],
           "MLS": ["CF Montréal"],
           "NHL": ["Montréal Canadiens"],
           "NFL": []
@@ -123,18 +122,18 @@
       },
       {
         "nom": "Saskatchewan",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
-          "MLS": ["Saskatoon Rush"],
+          "MLS": [],
           "NHL": [],
           "NFL": []
         }
       },
       {
         "nom":"Yukon",
-        "drapeau": "https://en.wikipedia.org/wiki/Flag_of_Yukon",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg",
         "equipes": {
           "NBA": [],
           "MLB": [],
@@ -144,4 +143,3 @@
         }
       }
     ]
-  }

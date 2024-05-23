@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className='header'>
       <div className='header__title'>
-      ATLAS DES SPORTS US
+      ATLAS OF NORTH AMERICAN SPORTS
       </div>      
     </div>
   )
