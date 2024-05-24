@@ -1,0 +1,10 @@
+@import '../variables.scss';
+
+.state {
+    &__title {
+        display: flex;
+        font-family: $main-text;
+        justify-content: center;
+        font-size: 70px;
+    }
+}

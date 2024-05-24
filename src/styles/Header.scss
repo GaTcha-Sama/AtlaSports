@@ -9,15 +9,26 @@
     background-size: cover;
     margin-bottom: 30px;
     height: 200px;
+    font-family: $main-text;
     &__title {
         color: black;
         font-size: 50px;
-        font-family: $main-text;
         font-weight: 800;
         background-color: white;
         height: 50px;
         padding: 10px;
         margin-top: 60px;
         border: solid 2px black;
+    }
+    &__navbar {
+        list-style-type: none;
+        font-size: 20px;
+        flex-direction: column;
+        display: flex;
+        gap: 15px;
+        background-color: white;
+        border: solid 1px black;
+        padding: 5px;
+        margin-top: 60px;
     }
 }
