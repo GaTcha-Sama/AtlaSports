@@ -1,0 +1,17 @@
+[
+    {
+        "id": "can",
+        "nom": "Canada",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+    },
+    {
+        "id": "usa",
+        "nom": "USA",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg"
+    },
+    {
+        "id": "fra",
+        "nom": "France",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+    }
+]

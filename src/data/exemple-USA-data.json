@@ -1,0 +1,108 @@
+[
+    {
+        "id":1,
+        "country": "USA",
+        "states": [
+        {
+            "name": "Illinois",
+            "flag": "url_to_illinois_flag_image",
+            "professional_teams": [
+            {
+                "teams": [
+                {
+                    "name": "Chicago Bulls",
+                    "logo": "url_to_chicago_bulls_logo",
+                    "stadium": {
+                    "name": "United Center",
+                    "location": "Chicago, Illinois",
+                    "capacity": 20917
+                    },
+                    "top_players": [
+                    {
+                        "name": "Michael Jordan",
+                        "position": "Shooting Guard",
+                        "achievements": [
+                        "6× NBA Champion",
+                        "5× NBA MVP",
+                        "14× NBA All-Star"
+                        ]
+                    },
+                    {
+                        "name": "Scottie Pippen",
+                        "position": "Small Forward",
+                        "achievements": [
+                        "6× NBA Champion",
+                        "7× NBA All-Star",
+                        "NBA All-Star Game MVP (1994)"
+                        ]
+                    }
+                    ]
+                }
+                ]
+            },
+            {
+                "teams": [
+                {
+                    "name": "Chicago Cubs",
+                    "logo": "url_to_chicago_cubs_logo",
+                    "stadium": {
+                    "name": "Wrigley Field",
+                    "location": "Chicago, Illinois",
+                    "capacity": 41649
+                    },
+                    "top_players": [
+                    {
+                        "name": "Ernie Banks",
+                        "position": "First Baseman",
+                        "achievements": [
+                        "2× NL MVP",
+                        "14× All-Star",
+                        "Gold Glove Award (1960)"
+                        ]
+                    },
+                    {
+                        "name": "Ryne Sandberg",
+                        "position": "Second Baseman",
+                        "achievements": [
+                        "NL MVP (1984)",
+                        "10× All-Star",
+                        "9× Gold Glove Award"
+                        ]
+                    }
+                    ]
+                },
+                {
+                    "name": "Chicago White Sox",
+                    "logo": "url_to_chicago_white_sox_logo",
+                    "stadium": {
+                    "name": "Guaranteed Rate Field",
+                    "location": "Chicago, Illinois",
+                    "capacity": 40615
+                    },
+                    "top_players": [
+                    {
+                        "name": "Frank Thomas",
+                        "position": "First Baseman",
+                        "achievements": [
+                        "2× AL MVP",
+                        "5× All-Star",
+                        "4× Silver Slugger Award"
+                        ]
+                    },
+                    {
+                        "name": "Paul Konerko",
+                        "position": "First Baseman",
+                        "achievements": [
+                        "6× All-Star",
+                        "World Series champion (2005)"
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+            ]
+        }
+        ]
+    }
+]

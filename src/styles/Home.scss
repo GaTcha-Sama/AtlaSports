@@ -5,6 +5,60 @@
         display: flex;
         font-family: $main-text;
         justify-content: center;
-        font-size: 70px;
+        font-size: 40px;
     }
+    &__welcome {
+        font-family: $main-text;
+        border: solid 3px black;
+        border-radius: 30px;
+        padding: 10px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    &__gallery {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 10px;
+        margin: 20px;
+        width: 100%;
+        justify-content: space-around;
+        display: flex;
+        flex-wrap: wrap;
+        &__card {
+            position: relative; /* Allows positioning of child elements */
+            border-radius: 20px;
+            cursor: pointer;
+            padding: 0;
+            margin-bottom: 15px;
+            height: 200px;
+            width: 300px;
+            overflow: hidden; /* Ensures content does not overflow */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        &__img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures the image covers the entire card */
+        }
+        &__title {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -80%); /* Centers the title */
+            font-family: $main-text;
+            font-weight: 400;
+            font-size: 20px;
+            color: white;
+            background-color: black;
+            text-align: center;
+            padding: 10px;
+            border-radius: 10px;
+        }
+}
+
 }
