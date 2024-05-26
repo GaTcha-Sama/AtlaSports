@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className='header'>
       <div className='header__title'>
-      ATLASPORT - The atlas of all sports
+      ATLASPORTS - The atlas of all sports
       </div>
       <div>
         <ul className='header__navbar'>
