@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className='header'>
       <div className='header__title'>
-      ATLAS OF NORTH AMERICAN SPORTS
+      ATLASPORT - The atlas of all sports
       </div>
       <div>
         <ul className='header__navbar'>

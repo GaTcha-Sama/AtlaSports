@@ -11,7 +11,11 @@ const handleItemClick = (item) => {
 }
 
 return (
-  <main className="gallery">
+  <>
+  <section>
+    <h1 className='country'>🇺🇸​​ UNITED STATES OF AMERICA 🇺🇸​​</h1>
+  </section>
+  <section className="gallery">
     {DataUSA.map((item) => (
       <div key={item.id}>
         <button type="button" className='gallery__card' onClick={() => handleItemClick(item)}>
@@ -20,7 +24,8 @@ return (
         </button>
       </div>
     ))}
-  </main>
+  </section>
+  </>
 )
 
 }
