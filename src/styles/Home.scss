@@ -1,12 +1,6 @@
 @import '../variables.scss';
 
 .home {
-    &__title {
-        display: flex;
-        font-family: $main-text;
-        justify-content: center;
-        font-size: 40px;
-    }
     &__welcome {
         font-family: $main-text;
         border: solid 3px black;

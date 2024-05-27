@@ -619,7 +619,7 @@
       "id": 9,
       "nom": "Washington D.C.",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
-      "carte": "",
+      "carte": "state-layer/DC.jpg",
       "equipes": {
         "NBA": ["Washington Wizards"],
         "MLB": ["Washington Nationals"],

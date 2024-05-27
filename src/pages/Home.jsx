@@ -2,6 +2,7 @@ import React from 'react'
 import '../styles/Home.scss'
 import {useNavigate} from 'react-router-dom'
 import DataCountries from '../data/data-flag-countries.json'
+import Banner from '../components/Home/Banner'
 
 function Home() {
   const navigate = useNavigate();
@@ -19,13 +20,15 @@ function Home() {
   return (
     <main className='home'>
       <section>
-      <h1 className='home__title'>When sports meet geography (en faire une Banner)</h1>
+        <div>
+          <Banner />
+        </div>
       <p className='home__welcome'>
-        Hello everybody and welcome! Here you will can find an atlas where most of major league and minor league clubs are existants in North America,
-        specially in Canada and United States of America. The objective is to map all over the world so after Canada and USA,
+        Hello everybody and welcome! On this website you can find an atlas where most of major and minor league clubs are known in North America,
+        specially in Canada and United States. The objective is to map all over the world so after Canada and USA,
         I will look forward to create the same things in Europe. Most of collective sports are represented like
         basketball, baseball, ice hockey, soccer and football. And yes! You will find some women's sport league like WNBA too!
-        Right now you juste have to choose the country you are interested in and I wish you a nice journey on this website !
+        Right now you juste have to choose the country you are interested in and I wish you a nice journey on this website ! Perfect to get some information when you are on a trip and wish to see some games where you're at ! Have fun, peace !
       </p>
       </section>
       <section className='home__gallery'>

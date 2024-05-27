@@ -1,0 +1,10 @@
+@import '../variables.scss';
+
+.banner {
+    &__title {
+        display: flex;
+        font-family: $main-text;
+        justify-content: center;
+        font-size: 40px;
+    }
+}
