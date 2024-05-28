@@ -52,17 +52,14 @@
 
     &__title {
         position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -80%); /* Centers the title */
         font-family: $main-text;
         font-weight: 400;
-        font-size: 20px;
+        font-size: 18px;
         color: white;
         background-color: black;
         text-align: center;
         padding: 10px;
-        border-radius: 10px;
+        border-radius: 5px;
     }
 
     &__overlay {
@@ -92,18 +89,31 @@
     }
 }
 
-.collapse-container {
+.search-container {
     display: flex;
+    flex-direction: column; /* Ensure the elements are in a column */
     justify-content: center;
     align-items: center;
     width: 100%;
     margin: 20px 0;
 }
 
-.collapse-content {
+.search-content {
     width: 50%; /* Adjust as needed for your design */
     background-color: #f8f9fa; /* Optional: Add background color */
-    padding: 20px; /* Optional: Add padding for better spacing */
+    padding: 10px; /* Optional: Add padding for better spacing */
     border-radius: 10px; /* Optional: Add border radius for rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visual effect */
+    border: solid 1px black;
+    margin-bottom: 20px; /* Adjust margin bottom */
+}
+
+.search-list {
+    width: 50%; /* Ensure the list is the same width as the search input */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-height: 200px; /* Optional: limit the height of the list */
+    overflow-y: auto; /* Optional: add scroll for overflow */
 }

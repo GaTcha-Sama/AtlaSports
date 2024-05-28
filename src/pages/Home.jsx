@@ -22,15 +22,16 @@ function Home() {
           <Banner />
         </div>
       <p className='home__welcome'>
-        Hello everybody and welcome! <br />
+        Hi everybody and welcome! 👋​<br />
         On this website you can find an atlas where most of major and minor league clubs are known in North America,
         specially in Canada and United States. <br />
         The objective is to map all over the world so after Canada and USA,
         I will look forward to create the same things in Europe. Most of collective sports are represented like
-        basketball, baseball, ice hockey, soccer and football. <br />
-        And yes! You will find some women's sport league like WNBA too! <br />
-        This website is also perfect to get some information when you are on a trip and wish to see some games where you're at ! <br />
-        Right now you juste have to choose the country you are interested in and I wish you a nice journey on this website ! Have fun, peace !
+        basketball 🏀​, baseball ⚾​, ice hockey 🏒​, soccer ⚽​ and football 🏈​. <br />
+        And yes! You will find some women's sport league like WNBA ou PWHL too! <br />
+        This website is also perfect to get some informations when you are on a trip ​✈️​ and wish to see some games where you're at !  <br />
+        Right now, just choose the country you want and I wish you a nice journey on this website ! Have fun, peace ! ​✌️​ <br />
+        PS : Thank you guys for all the support, it's awesome ! ​🤩​
       </p>
       </section>
       <section className='home__gallery'>
