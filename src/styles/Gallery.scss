@@ -91,3 +91,19 @@
         margin: 0 auto; /* Centers the image horizontally */
     }
 }
+
+.collapse-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.collapse-content {
+    width: 50%; /* Adjust as needed for your design */
+    background-color: #f8f9fa; /* Optional: Add background color */
+    padding: 20px; /* Optional: Add padding for better spacing */
+    border-radius: 10px; /* Optional: Add border radius for rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visual effect */
+}
