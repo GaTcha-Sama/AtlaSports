@@ -12,8 +12,6 @@ function Home() {
       navigate('/gallery-can');
     } else if (item.id === 'usa') {
       navigate('/gallery-usa');
-    } else if (item.id === 'fra') {
-      navigate('/gallery-fra');
     }
   };
 
@@ -24,11 +22,15 @@ function Home() {
           <Banner />
         </div>
       <p className='home__welcome'>
-        Hello everybody and welcome! On this website you can find an atlas where most of major and minor league clubs are known in North America,
-        specially in Canada and United States. The objective is to map all over the world so after Canada and USA,
+        Hello everybody and welcome! <br />
+        On this website you can find an atlas where most of major and minor league clubs are known in North America,
+        specially in Canada and United States. <br />
+        The objective is to map all over the world so after Canada and USA,
         I will look forward to create the same things in Europe. Most of collective sports are represented like
-        basketball, baseball, ice hockey, soccer and football. And yes! You will find some women's sport league like WNBA too!
-        Right now you juste have to choose the country you are interested in and I wish you a nice journey on this website ! Perfect to get some information when you are on a trip and wish to see some games where you're at ! Have fun, peace !
+        basketball, baseball, ice hockey, soccer and football. <br />
+        And yes! You will find some women's sport league like WNBA too! <br />
+        This website is also perfect to get some information when you are on a trip and wish to see some games where you're at ! <br />
+        Right now you juste have to choose the country you are interested in and I wish you a nice journey on this website ! Have fun, peace !
       </p>
       </section>
       <section className='home__gallery'>
