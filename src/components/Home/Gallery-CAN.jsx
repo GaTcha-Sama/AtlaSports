@@ -15,6 +15,9 @@ return (
   <section>
     <h1 className='country'>🇨🇦​ CANADA 🇨🇦​</h1>
   </section>
+  <section className='country__text'>
+        <p>In this gallery you can choose not only among the 13 provinces of Canada but also among the biggest cities in all over the country </p>
+      </section>
   <section className="gallery">
     {DataCAN.map((item) => (
       <div key={item.id}>

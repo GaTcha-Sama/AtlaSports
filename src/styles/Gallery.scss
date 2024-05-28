@@ -5,6 +5,12 @@
     font-size: 70px;
     display: flex;
     justify-content: center;
+    &__text {
+        font-family: $main-text;
+        justify-content: center;
+        display: flex;
+        font-size: 25px;
+    }
 }
 
 .gallery {
