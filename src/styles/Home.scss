@@ -1,6 +1,10 @@
 @import '../variables.scss';
 
 .home {
+    background-color: burlywood;
+    &__banner {
+        background-color: white;
+    }
     &__welcome {
         font-family: $main-text;
         border: solid 3px black;
@@ -9,6 +13,7 @@
         margin-left: 100px;
         margin-right: 100px;
         margin-bottom: 50px;
+        background-color: white;
     }
     &__gallery {
         display: grid;
@@ -42,9 +47,8 @@
         }
         &__title {
             position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -80%); /* Centers the title */
+            top: 10px;
+            right: 10px;
             font-family: $main-text;
             font-weight: 400;
             font-size: 20px;

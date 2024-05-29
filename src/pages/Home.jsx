@@ -18,7 +18,7 @@ function Home() {
   return (
     <main className='home'>
       <section>
-        <div>
+        <div className='home__banner'>
           <Banner />
         </div>
       <p className='home__welcome'>
