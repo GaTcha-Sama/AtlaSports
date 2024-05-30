@@ -22,13 +22,13 @@ function GalleryUSA() {
         <h1 className='country'>🇺🇸​​ UNITED STATES OF AMERICA 🇺🇸​​</h1>
       </section>
       <section className='country__text'>
-        <p className='country__text'>Dans cette galerie, vous pouvez choisir non seulement parmi les 50 états des États-Unis, mais aussi parmi les plus grandes villes du pays.</p>
+        <p className='country__text'>In this gallery you can choose not only among the 50 states of the US but also among the biggest cities in all over the country.</p>
       </section>
       
       <div className="search-container">
         <Form.Control
           type="text"
-          placeholder="Tapez votre recherche..."
+          placeholder="Tap your research..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className='search-content mb-3'

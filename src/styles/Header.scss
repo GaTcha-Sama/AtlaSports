@@ -1,39 +1,44 @@
 @import '../variables.scss';
 
 .header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 310px;
+  font-family: $main-text;
+  background-color: burlywood;
+  justify-content: space-between;
+  padding: 0 30px; // Ajoutez un padding pour l'espacement sur les côtés
+  
+  &__logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  &__logo {
+    border-radius: 20px;
+    height: 250px;
+  }
+  
+  &__navbar-container {
+    display: flex;
+    align-items: center;
+  }
+
+  &__navbar {
+    list-style-type: none;
+    font-size: 30px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-self: center;
-    background-image: url('../assets/header-img-bis.jpg');
-    background-size: cover;
-    margin-bottom: 30px;
-    height: 200px;
-    font-family: $main-text;
-    &__title {
-        color: black;
-        font-size: 50px;
-        font-weight: 800;
-        background-color: white;
-        border-radius: 20px;
-        height: 100px;
-        padding: 10px;
-        margin-top: 50px;
-        border: solid 2px black;
-        margin-left: 100px;
+    gap: 50px;
+    padding: 0; // Remove padding to prevent spacing issues
+
+    &__txt {
+      color: black;
+      &.active {
+        text-decoration: underline;
+        text-decoration-color: black;
+      }
     }
-    &__navbar {
-        list-style-type: none;
-        font-size: 20px;
-        flex-direction: column;
-        display: flex;
-        justify-content: flex-start;
-        gap: 15px;
-        background-color: white;
-        border: solid 1px black;
-        padding: 5px;
-        margin-top: 35px;
-        margin-left: 70px;
-        border-radius: 10px;
-    }
+  }
 }

@@ -3,11 +3,12 @@
 .banner {
     background-image: url('../assets/banner-img.png');
     background-size: cover;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
     border-radius: 20px;
-    padding: 115px;
+    padding: 120px;
     margin-bottom: 50px;
+    background-color: white;
     &__title {
         display: flex;
         font-family: $main-text;
@@ -16,7 +17,7 @@
         background-color: black;
         color: white;
         width: 100%;
-        padding: 5px;
+        padding: 15px;
         border-radius: 5px;
     }
 }

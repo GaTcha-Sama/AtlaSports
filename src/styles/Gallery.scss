@@ -5,11 +5,13 @@
     font-size: 70px;
     display: flex;
     justify-content: center;
+    padding-top: 20px;
     &__text {
         font-family: $main-text;
         justify-content: center;
         display: flex;
         font-size: 25px;
+
     }
 }
 
