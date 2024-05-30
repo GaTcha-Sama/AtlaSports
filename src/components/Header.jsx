@@ -1,7 +1,8 @@
 import React from 'react';
 import '../styles/Header.scss';
 import { Link, useLocation } from 'react-router-dom';
-import Logo from '../assets/logo-website-black.jpg';
+import LogoAS from '../assets/logo-website-black.jpg';
+import LogoGoats from '../assets/header-goats.jpg'
 
 function Header() {
   const location = useLocation();
@@ -9,7 +10,10 @@ function Header() {
   return (
     <header className='header'>
       <div className='header__logo-container'>
-        <img src={Logo} alt="logo-atlasports" className='header__logo' />
+        <img src={LogoAS} alt="logo-atlasports" className='header__logo' />
+      </div>
+      <div>
+        <img src={LogoGoats} alt="logo-atlasports" className='header__logo' />
       </div>
       <div className='header__navbar-container'>
         <ul className='header__navbar'>

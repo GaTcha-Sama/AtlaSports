@@ -32,7 +32,7 @@
     flex-direction: row;
     gap: 50px;
     padding: 0; // Remove padding to prevent spacing issues
-
+    margin-right: 30px;
     &__txt {
       color: black;
       &.active {
