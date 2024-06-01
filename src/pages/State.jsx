@@ -8,7 +8,7 @@ import Players from '../components/State/Players'
 function State() {
   return (
     <div className='state'>
-      <h1 className='state__title'>STATE</h1>
+      <h1 className='state__title'>ARIZONA</h1>
       <div className='state__map'>
         <Map/>
       </div>
