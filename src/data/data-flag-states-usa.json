@@ -3,1001 +3,532 @@
       "id": 1,
       "nom": "Alabama",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg",
-      "carte": "state-layer/AB.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/AB.jpg"      
     },
     {
       "id": 2,
       "nom": "Alaska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
-      "carte": "state-layer/AK.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/AK.jpg"
     },
     {
       "id": 3,
       "nom": "Arizona",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
       "carte": "state-layer/AZ.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "map": "./src/assets/Logos/AA-TOUS LES LOGOS/NBA/2024/Atlanta-Hawks-logo.png",
+      "major_league": [
+        {
+          "name": "Arizona Diamondbacks",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg",
+          "league": "MLB"
+        },
+        {
+          "name": "Phoenix Suns",
+          "logo": "public/logos/NBA/Phoenix-Suns-Logo.png",
+          "league": "NBA"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Tucson Roadrunners",
+          "logo": "state-layer/AZ.jpg",
+          "league": "AHL"
+        }
+      ],
+      "stadiums": [
+        {
+          "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chase_Field.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Devin Booker",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/6/66/Devin_Booker_%28cropped%29.jpg"
+        }
+      ]
     },
     {
       "id": 301,
       "nom": "Phoenix",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/98/Flag_of_Phoenix%2C_Arizona.svg",
-      "carte": "state-layer/AZ.jpg",
-      "equipes": {
-        "NBA": ["Phoenix Suns"],
-        "MLB": ["Arizona Diamondbacks"],
-        "MLS": ["Phoenix Rising FC"],
-        "NHL": [],
-        "NFL": ["Arizona Cardinals"]
-      }
+      "carte": "state-layer/AZ.jpg"
     },
     {
       "id": 4,
       "nom": "Arkansas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg",
-      "carte": "state-layer/AR.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["Little Rock Rangers"],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/AR.jpg"
     },
     {
       "id": 5,
       "nom": "California",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
-      "carte": "state-layer/CA.jpg",
-      "equipes": {
-        "NBA": ["Sacramento Kings"],
-        "MLB": ["San Diego Padres"],
-        "MLS": ["Sacramento Republic FC"],
-        "NHL": [],
-        "NFL": [],
-        "WNBA": []
-      }
+      "carte": "state-layer/CA.jpg"
     },
     {
       "id": 501,
       "nom": "Los Angeles",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Los_Angeles%2C_California.svg",
-      "carte": "state-layer/CA.jpg",
-      "equipes": {
-        "NBA": ["Los Angeles Clippers", "Los Angeles Lakers"],
-        "MLB": ["Los Angeles Angels", "Los Angeles Dodgers"],
-        "MLS": ["Los Angeles FC", "LA Galaxy"],
-        "NHL": ["Anaheim Ducks", "Los Angeles Kings"],
-        "NFL": ["Los Angeles Chargers", "Los Angeles Rams"],
-        "WNBA": ["Los Angeles Sparks"]
-      }
+      "carte": "state-layer/CA.jpg"
     },
     {
       "id": 502,
       "nom": "San Francisco - Bay Area",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_San_Francisco.svg",
-      "carte": "state-layer/CA.jpg",
-      "equipes": {
-        "NBA": ["Golden State Warriors"],
-        "MLB": ["Oakland Athletics", "San Francisco Giants"],
-        "MLS": ["San Jose Earthquakes"],
-        "NHL": ["San Jose Sharks"],
-        "NFL": ["San Francisco 49ers"],
-        "WNBA": ["Golden State Valkyries"]
-      }
+      "carte": "state-layer/CA.jpg"
     },
     {
       "id": 6,
       "nom": "Colorado",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
-      "carte": "state-layer/CO.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/CO.jpg"
     },
     {
       "id": 601,
       "nom": "Denver",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/61/Flag_of_Denver%2C_Colorado.svg",
-      "carte": "state-layer/CO.jpg",
-      "equipes": {
-        "NBA": ["Denver Nuggets"],
-        "MLB": ["Colorado Rockies"],
-        "MLS": ["Colorado Rapids"],
-        "NHL": ["Colorado Avalanche"],
-        "NFL": ["Denver Broncos"]
-      }
+      "carte": "state-layer/CO.jpg"
     },
     {
       "id": 7,
       "nom": "Connecticut",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
-      "carte": "state-layer/CT.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["Hartford Athletic"],
-        "NHL": [],
-        "NFL": [],
-        "WNBA": ["Connecticut Sun"]
-      }
+      "carte": "state-layer/CT.jpg"
     },
     {
       "id": 8,
       "nom": "Delaware",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg",
-      "carte": "state-layer/DE.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["Delaware Phily"],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/DE.jpg"
     },
     {
       "id": 10,
       "nom": "Florida",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
-      "carte": "state-layer/FL.jpg",
-      "equipes": {
-        "NBA": ["Orlando Magic"],
-        "MLB": ["Tampa Bay Rays"],
-        "MLS": ["Orlando City SC", "Tampa Bay Rowdies"],
-        "NHL": ["Tampa Bay Lighning"],
-        "NFL": ["Miami Dolphins"]
-      }
+      "carte": "state-layer/FL.jpg"
     },
     {
       "id": 1001,
       "nom": "Miami",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Miami%2C_Florida.svg",
-      "carte": "state-layer/FL.jpg",
-      "equipes": {
-        "NBA": ["Miami Heat"],
-        "MLB": ["Miami Marlins"],
-        "MLS": ["Inter Miami CF"],
-        "NHL": ["Florida Panthers"],
-        "NFL": ["Miami Dolphins"]
-      }
+      "carte": "state-layer/FL.jpg"
     },
     {
       "id": 11,
     "nom": "Georgia",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
-    "carte": "state-layer/GE.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/GE.jpg"
     },
     {
       "id": 1101,
     "nom": "Atlanta",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Atlanta.svg",
-    "carte": "state-layer/GE.jpg",
-    "equipes": {
-    "NBA": ["Atlanta Hawks"],
-    "MLB": ["Atlanta Braves"],
-    "MLS": ["Atlanta United FC"],
-    "NHL": [],
-    "NFL": ["Atlanta Falcons"]
-    }
+    "carte": "state-layer/GE.jpg"
     },
     {
       "id": 12,
     "nom": "Hawaii",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
-    "carte": "state-layer/HW.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/HW.jpg"
     },
     {
       "id": 13,
     "nom": "Idaho",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
-    "carte": "state-layer/ID.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/ID.jpg"
     },
     {
       "id": 14,
     "nom": "Illinois",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg",
-    "carte": "state-layer/IL.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/IL.jpg"
     },
     {
       "id": 53,
     "nom": "Chicago",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Chicago%2C_Illinois.svg",
-    "carte": "state-layer/IL.jpg",
-    "equipes": {
-    "NBA": ["Chicago Bulls"],
-    "MLB": ["Chicago Cubs", "Chicago White Sox"],
-    "MLS": ["Chicago Fire FC"],
-    "NHL": ["Chicago Blackhawks"],
-    "NFL": ["Chicago Bears"]
-    }
+    "carte": "state-layer/IL.jpg"
     },
     {
       "id": 15,
     "nom": "Indiana",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
-    "carte": "state-layer/IN.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": [],
-    "WNBA": []
-    }
+    "carte": "state-layer/IN.jpg"
     },
     {
       "id": 1501,
     "nom": "Indianapolis",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Indianapolis.svg",
-    "carte": "state-layer/IN.jpg",
-    "equipes": {
-    "NBA": ["Indiana Pacers"],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": ["Indianapolis Colts"],
-    "WNBA": ["Indiana Fever"]
-    }
+    "carte": "state-layer/IN.jpg"
     },
     {
       "id": 16,
     "nom": "Iowa",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
-    "carte": "state-layer/IW.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/IW.jpg"
     },
     {
       "id": 17,
     "nom": "Kansas",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
-    "carte": "state-layer/KS.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": ["Kansas City Royals"],
-    "MLS": ["Sporting Kansas City"],
-    "NHL": [],
-    "NFL": ["Kansas City Chiefs"]
-    }
+    "carte": "state-layer/KS.jpg"
     },
     {
       "id": 18,
     "nom": "Kentucky",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
-    "carte": "state-layer/KT.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": ["Louisville City FC"],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/KT.jpg"
     },
     {
       "id": 19,
     "nom": "Louisiana",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
-    "carte": "state-layer/LO.jpg",
-    "equipes": {
-    "NBA": [],
-    "MLB": [],
-    "MLS": [],
-    "NHL": [],
-    "NFL": []
-    }
+    "carte": "state-layer/LO.jpg"
     },
     {
       "id": 1901,
     "nom": "New Orleans",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_New_Orleans%2C_Louisiana.svg",
-    "carte": "state-layer/LO.jpg",
-    "equipes": {
-    "NBA": ["New Orleans Pelicans"],
-    "MLB": [],
-    "MLS": ["New Orleans FC"],
-    "NHL": [],
-    "NFL": ["New Orleans Saints"]
-    }
+    "carte": "state-layer/LO.jpg"
     },
     {
       "id": 20,
       "nom": "Maine",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg",
-      "carte": "state-layer/MA.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/MA.jpg"
     },
     {
       "id": 21,
       "nom": "Maryland",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg",
-      "carte": "state-layer/MY.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": ["Baltimore Orioles"],
-        "MLS": [],
-        "NHL": [],
-        "NFL": ["Baltimore Ravens"]
-      }
+      "carte": "state-layer/MY.jpg"
     },
     {
       "id": 22,
       "nom": "Massachusetts",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg",
-      "carte": "state-layer/MC.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["New England Revolution"],
-        "NHL": [],
-        "NFL": ["New England Patriots"]
-      }
+      "carte": "state-layer/MA.jpg",
+      "major_league": [
+        {
+          "name": "Boston Red Sox",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/6/6d/RedSoxPrimary_HangingSocks.svg",
+          "league": "MLB"
+        },
+        {
+          "name": "New England Patriots",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg",
+          "league": "NFL"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Worcester Red Sox",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Worcester_Red_Sox_logo.svg",
+          "league": "MiLB"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Fenway Park",
+          "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fenway_Park_overhead.jpg"
+          ]
+        },
+        {
+          "name": "Gillette Stadium",
+          "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gillette_Stadium%2C_Foxborough%2C_Massachusetts.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "David Ortiz",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/8/8c/David_Ortiz_2014.jpg"
+        },
+        {
+          "name": "Tom Brady",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tom_Brady_2017.JPG"
+        }
+      ]
     },
     {
       "id": 2201,
       "nom": "Boston",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Boston.svg",
-      "carte": "state-layer/MC.jpg",
-      "equipes": {
-        "NBA": ["Boston Celtics"],
-        "MLB": ["Boston Red Sox"],
-        "MLS": [],
-        "NHL": ["Boston Bruins"],
-        "NFL": []
-      }
+      "carte": "state-layer/MC.jpg"
     },
     {
       "id": 23,
       "nom": "Michigan",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg",
-      "carte": "state-layer/MG.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/MG.jpg"
     },
     {
       "id": 2301,
       "nom": "Detroit",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Detroit.svg",
-      "carte": "state-layer/MG.jpg",
-      "equipes": {
-        "NBA": ["Detroit Pistons"],
-        "MLB": ["Detroit Tigers"],
-        "MLS": ["Detroit City FC"],
-        "NHL": ["Detroit Red Wings"],
-        "NFL": ["Detroit Lions"]
-      }
+      "carte": "state-layer/MG.jpg"
     },
     {
       "id": 24,
       "nom": "Minnesota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg",
-      "carte": "state-layer/MN.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/MN.jpg"
     },
     {
       "id": 2401,
       "nom": "Minneapolis - St. Paul",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapolis.svg",
-      "carte": "state-layer/MN.jpg",
-      "equipes": {
-        "NBA": ["Minnesota Timberwolves"],
-        "MLB": ["Minnesota Twins"],
-        "MLS": ["Minnesota United FC"],
-        "NHL": ["Minnesota Wild"],
-        "NFL": ["Minnesota Vikings"]
-      }
+      "carte": "state-layer/MN.jpg"
     },
     {
       "id": 25,
       "nom": "Mississippi",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg",
-      "carte": "state-layer/MS.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["Mississippi Brilla FC"],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/MS.jpg"
     },
     {
       "id": 26,
       "nom": "Missouri",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg",
-      "carte": "state-layer/MI.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": ["St. Louis Cardinals"],
-        "MLS": ["St. Louis City SC"],
-        "NHL": ["St. Louis Blues"],
-        "NFL": ["Kansas City Chiefs"]
-      }
+      "carte": "state-layer/MI.jpg"
     },
     {
       "id": 27,
       "nom": "Montana",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg",
-      "carte": "state-layer/MT.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/MT.jpg"
     },
     {
       "id": 28,
       "nom": "Nebraska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
-      "carte": "state-layer/NE.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/NE.jpg"
     },
     {
       "id": 29,
       "nom": "Nevada",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg",
-      "carte": "state-layer/NV.jpg",
-      "equipes": {
-        "NBA": ["Las Vegas Aces"],
-        "MLB": [],
-        "MLS": ["Las Vegas Lights FC"],
-        "NHL": ["Vegas Golden Knights"],
-        "NFL": ["Las Vegas Raiders"]
-      }
+      "carte": "state-layer/NV.jpg"
     },
     {
       "id": 30,
       "nom": "New Hampshire",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg",
-      "carte": "state-layer/NH.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["New Hampshire Monarchs"],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/NH.jpg"
     },
     {
       "id": 31,
       "nom": "New Jersey",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg",
-      "carte": "state-layer/NJ.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": ["New Jersey Devils"],
-        "NFL": []
-      }
+      "carte": "state-layer/NJ.jpg"
     },
     {
       "id": 32,
       "nom": "New Mexico",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg",
-      "carte": "state-layer/NM.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/NM.jpg"
     },
     {
       "id": 33,
       "nom": "New York",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
-      "carte": "state-layer/NY.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": [],
-        "WNBA": []
-      }
+      "carte": "state-layer/NY.jpg"
     },
     {
       "id": 3301,
       "nom": "New York City",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg",
-      "carte": "state-layer/NY.jpg",
-      "equipes": {
-        "NBA": ["Brooklyn Nets", "New York Knicks"],
-        "MLB": ["New York Mets", "New York Yankees"],
-        "MLS": ["New York City FC", "New York Red Bulls"],
-        "NHL": ["New York Rangers", "New York Islanders"],
-        "NFL": ["New York Giants", "New York Jets"],
-        "WNBA": ["New York Liberty"]
-      }
+      "carte": "state-layer/NY.jpg"
     },
     {
       "id": 3302,
       "nom": "Buffalo",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Buffalo%2C_New_York.svg",
-      "carte": "state-layer/NY.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": ["Buffalo Sabres"],
-        "NFL": ["Buffalo Bills"],
-        "WNBA": []
-      }
+      "carte": "state-layer/NY.jpg"
     },
     {
       "id": 34,
       "nom": "North Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg",
-      "carte": "state-layer/NC.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": ["Carolina Hurricanes"],
-        "NFL": []
-      }
+      "carte": "state-layer/NC.jpg"
     },
     {
       "id": 3401,
       "nom": "Charlotte",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Charlotte%2C_North_Carolina.svg",
-      "carte": "state-layer/NC.jpg",
-      "equipes": {
-        "NBA": ["Charlotte Hornets"],
-        "MLB": [],
-        "MLS": ["Charlotte FC"],
-        "NHL": [],
-        "NFL": ["Carolina Panthers"]
-      }
+      "carte": "state-layer/NC.jpg"
     },
     {
       "id": 35,
       "nom": "North Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg",
-      "carte": "state-layer/ND.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/ND.jpg"
     },
     {
       "id": 36,
       "nom": "Ohio",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
-      "carte": "state-layer/OH.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["Columbus Crew SC"],
-        "NHL": ["Columbus Blue Jackets"],
-        "NFL": []
-      }
+      "carte": "state-layer/OH.jpg"
     },
     {
       "id": 3601,
       "nom": "Cleveland",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Cleveland%2C_Ohio.svg",
-      "carte": "state-layer/OH.jpg",
-      "equipes": {
-        "NBA": ["Cleveland Cavaliers"],
-        "MLB": ["Cleveland Guardians"],
-        "MLS": [],
-        "NHL": [],
-        "NFL": ["Cleveland Browns"]
-      }
+      "carte": "state-layer/OH.jpg"
     },
     {
       "id": 3602,
       "nom": "Cincinnati",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Cincinnati%2C_Ohio.svg",
-      "carte": "state-layer/OH.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": ["Cincinnati Reds"],
-        "MLS": ["FC Cincinnati"],
-        "NHL": [],
-        "NFL": ["Cincinnati Bengals"]
-      }
+      "carte": "state-layer/OH.jpg"
     },
     {
       "id": 37,
       "nom": "Oklahoma",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
-      "carte": "state-layer/OK.jpg",
-      "equipes": {
-        "NBA": ["Oklahoma City Thunder"],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/OK.jpg"
     },
     {
       "id": 38,
       "nom": "Oregon",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
-      "carte": "state-layer/OR.jpg",
-      "equipes": {
-        "NBA": ["Portland Trail Blazers"],
-        "MLB": [],
-        "MLS": ["Portland Timbers"],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/OR.jpg"
     },
     {
       "id": 39,
       "nom": "Pennsylvania",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
-      "carte": "state-layer/PN.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/PN.jpg"
     },
     {
       "id": 3901,
       "nom": "Philadelphia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
-      "carte": "state-layer/PN.jpg",
-      "equipes": {
-        "NBA": ["Philadelphia 76ers"],
-        "MLB": ["Philadelphia Phillies"],
-        "MLS": ["Philadelphia Union"],
-        "NHL": ["Philadelphia Flyers"],
-        "NFL": ["Philadelphia Eagles"]
-      }
+      "carte": "state-layer/PN.jpg"
     },
     {
       "id": 3902,
       "nom": "Pittsburgh",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Pittsburgh%2C_Pennsylvania.svg",
-      "carte": "state-layer/PN.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": ["Pittsburgh Pirates"],
-        "MLS": [],
-        "NHL": ["Pittsburgh Penguins"],
-        "NFL": ["Pittsburgh Steelers"]
-      }
+      "carte": "state-layer/PN.jpg"
     },
     {
       "id": 40,
       "nom": "Rhode Island",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg",
-      "carte": "state-layer/RI.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/RI.jpg"
     },
     {
       "id": 41,
       "nom": "South Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg",
-      "carte": "state-layer/SC.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/SC.jpg"
     },
     {
       "id": 42,
       "nom": "South Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg",
-      "carte": "state-layer/SD.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/SD.jpg"
     },
     {
       "id": 43,
       "nom": "Tennessee",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg",
-      "carte": "state-layer/TN.jpg",
-      "equipes": {
-        "NBA": ["Memphis Grizzlies"],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/TN.jpg"
     },
     {
       "id": 4301,
       "nom": "Nashville",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Nashville%2C_Tennessee.png",
-      "carte": "state-layer/TN.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": ["Nashville SC"],
-        "NHL": [],
-        "NFL": ["Tennessee Titans"]
-      }
+      "carte": "state-layer/TN.jpg"
     },
     {
       "id": 44,
       "nom": "Texas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
-      "carte": "state-layer/TX.jpg",
-      "equipes": {
-        "NBA": ["Dallas Mavericks", "Houston Rockets", "San Antonio Spurs"],
-        "MLB": ["Houston Astros", "Texas Rangers"],
-        "MLS": ["Dallas FC", "Houston Dynamo"],
-        "NHL": ["Dallas Stars"],
-        "NFL": ["Dallas Cowboys", "Houston Texans"],
-        "WNBA": ["Dallas Wings"]
-      }
+      "carte": "state-layer/TX.jpg"
     },
     {
       "id": 4401,
       "nom": "Dallas - Fort Worth",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Dallas.svg",
-      "carte": "state-layer/TX.jpg",
-      "equipes": {
-        "NBA": ["Dallas Mavericks"],
-        "MLB": ["Texas Rangers"],
-        "MLS": ["Dallas FC"],
-        "NHL": ["Dallas Stars"],
-        "NFL": ["Dallas Cowboys"],
-        "WNBA": ["Dallas Wings"]
-      }
+      "carte": "state-layer/TX.jpg"
     },
     {
       "id": 4402,
       "nom": "Houston",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Flag_of_Houston%2C_Texas.svg",
-      "carte": "state-layer/TX.jpg",
-      "equipes": {
-        "NBA": ["Houston Rockets"],
-        "MLB": ["Houston Astros"],
-        "MLS": ["Houston Dynamo"],
-        "NHL": [],
-        "NFL": ["Houston Texans"],
-        "WNBA": []
-      }
+      "carte": "state-layer/TX.jpg"
     },
     {
       "id": 4403,
       "nom": "San Antonio - Austin",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_San_Antonio%2C_Texas.svg",
-      "carte": "state-layer/TX.jpg",
-      "equipes": {
-        "NBA": ["San Antonio Spurs"],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": [],
-        "WNBA": []
-      }
+      "carte": "state-layer/TX.jpg"
     },
     {
       "id": 45,
       "nom": "Utah",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg",
-      "carte": "state-layer/UT.jpg",
-      "equipes": {
-        "NBA": ["Utah Jazz"],
-        "MLB": [],
-        "MLS": ["Real Salt Lake"],
-        "NHL": ["Utah HC"],
-        "NFL": []
-      }
+      "carte": "state-layer/UT.jpg"
     },
     {
       "id": 46,
       "nom": "Vermont",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg",
-      "carte": "state-layer/VT.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/VT.jpg"
     },
     {
       "id": 47,
       "nom": "Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg",
-      "carte": "state-layer/VI.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/VI.jpg"
     },
     {
       "id": 48,
       "nom": "Washington",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg",
-      "carte": "state-layer/WA.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/WA.jpg"
     },
     {
       "id": 4801,
       "nom": "Seattle",
       "drapeau": "https://upload.wikimedia.org/wikipedia/en/6/6d/Flag_of_Seattle.svg",
-      "carte": "state-layer/WA.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": ["Seattle Mariners"],
-        "MLS": ["Seattle Sounders"],
-        "NHL": ["Seattle Kraken"],
-        "NFL": ["Seattle Seahawks"]
-      }
+      "carte": "state-layer/WA.jpg"
     },
     {
       "id": 9,
       "nom": "Washington D.C.",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
-      "carte": "state-layer/DC.jpg",
-      "equipes": {
-        "NBA": ["Washington Wizards"],
-        "MLB": ["Washington Nationals"],
-        "MLS": ["D.C. United"],
-        "NHL": ["Washington Capitals"],
-        "NFL": ["Washington Commanders"]
-      }
+      "carte": "state-layer/DC.jpg"
     },
     {
       "id": 49,
       "nom": "West Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg",
-      "carte": "state-layer/WV.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/WV.jpg"
     },
     {
       "id": 50,
       "nom": "Wisconsin",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
-      "carte": "state-layer/WI.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": ["Green Bay Packers"]
-      }
+      "carte": "state-layer/WI.jpg"
     },
     {
       "id": 5001,
       "nom": "Milwaukee",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Milwaukee%2C_Wisconsin.svg",
-      "carte": "state-layer/WI.jpg",
-      "equipes": {
-        "NBA": ["Milwaukee Bucks"],
-        "MLB": ["Milwaukee Brewers"],
-        "MLS": [],
-        "NHL": [],
-        "NFL": ["Green Bay Packers"]
-      }
+      "carte": "state-layer/WI.jpg"
     },
     {
       "id": 51,
       "nom": "Wyoming",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg",
-      "carte": "state-layer/WY.jpg",
-      "equipes": {
-        "NBA": [],
-        "MLB": [],
-        "MLS": [],
-        "NHL": [],
-        "NFL": []
-      }
+      "carte": "state-layer/WY.jpg"
     }
   ]

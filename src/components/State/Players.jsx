@@ -1,9 +1,16 @@
 import React from 'react'
 import '../../styles/Players.scss'
 
-function Players() {
+function Players({ players }) {
   return (
-    <div>Players</div>
+    <div>
+      {players.map(player => (
+        <div key={player.name}>
+          <img src={player.picture} alt={player.name} />
+          <p>{player.name}</p>
+        </div>
+      ))}
+    </div>
   )
 }
 

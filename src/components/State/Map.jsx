@@ -1,13 +1,8 @@
 import React from 'react'
 import '../../styles/Map.scss'
-import MapArizona from '../../assets/arizona-test.jpg'
 
-function Map() {
-  return (
-    <div className='map'>
-      <img src={MapArizona} alt="" className='map__style' />
-    </div>
-  )
+function Map({ map }) {
+  return <img src={map} alt="State Map" />
 }
 
 export default Map

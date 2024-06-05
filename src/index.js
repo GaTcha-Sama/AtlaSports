@@ -20,7 +20,7 @@ ReactDOM.render(
         <Route path="/" element={<Home />} />
         <Route path="/gallery-can" element={<GalleryCAN />} />
         <Route path="/gallery-usa" element={<GalleryUSA />} />
-        <Route path="/state" element={<State />} />
+        <Route path="/state/:id" element={<State />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Error />} />
