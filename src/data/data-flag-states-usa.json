@@ -19,21 +19,36 @@
       "map": "./src/assets/Logos/AA-TOUS LES LOGOS/NBA/2024/Atlanta-Hawks-logo.png",
       "major_league": [
         {
+          "name": "Arizona Cardinals",
+          "logo": "../logos/NFL/Arizona-Cardinals-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
           "name": "Arizona Diamondbacks",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Arizona_Diamondbacks_logo_teal.svg",
-          "league": "MLB"
+          "logo": "../logos/MLB/Arizona-Diamondbacks-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
         {
           "name": "Phoenix Suns",
-          "logo": "public/logos/NBA/Phoenix-Suns-Logo.png",
-          "league": "NBA"
+          "logo": "../logos/NBA/Phoenix-Suns-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Phoenix Mercury",
+          "logo": "../logos/WNBA/Phoenix Mercury.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
         }
       ],
       "minor_league": [
         {
           "name": "Tucson Roadrunners",
-          "logo": "state-layer/AZ.jpg",
-          "league": "AHL"
+          "logo": "../logos/AHL/Tucson_Roadrunners_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "URL_TO_AHL_LOGO"
         }
       ],
       "stadiums": [

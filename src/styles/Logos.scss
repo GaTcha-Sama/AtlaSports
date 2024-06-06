@@ -3,32 +3,58 @@
 .logo {
     background-color: $main-color;
     display: flex;
-    flex-direction: row;
-    justify-content:flex-start;
-    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
     padding-bottom: 40px;
+
     &__league {
-        width: 15%;
+        width: 100%;
         margin-left: 30px;
+        margin-bottom: 20px;
+        margin: 20px;
     }
+
+    &__teams {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        margin: 20px;
+        justify-content: space-around;
+    }
+
     &__club {
-        height: 200px;
-        width: 16.8%;
+        height: 100%;
+        width: 20%;
         background-color: white;
         border-radius: 10px;
         margin: 20px; 
         border: solid 1px black;
-        img {
+        
+        &__img {
             width: 100%;
             height: 100%;
-            object-fit: contain; 
-            border-radius: inherit; 
+            object-fit: contain;
+            border-radius: inherit;
         }
-        &__title {
+
+        &__info {
             display: flex;
-            justify-content: center;
-            padding-top: 5px;
+            flex-direction: row;
+            justify-content: space-around;
+            align-items: flex-start;
+            padding: 5px 0;
+
+            &__title {
+                margin: 0;
+                font-weight: 800;
+            }
+            img {
+                width: 25%; 
+                height: 25%;
+                object-fit: contain; 
+            }
         }
     }
 }
-

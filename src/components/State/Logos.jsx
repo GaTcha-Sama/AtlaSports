@@ -1,26 +1,36 @@
-import React from 'react'
-import '../../styles/Logos.scss'
-
+import React from 'react';
+import '../../styles/Logos.scss';
 
 function Logos({ majorLeague, minorLeague }) {
   return (
-    <div>
-      <h2>Major League Teams</h2>
-      {majorLeague.map(team => (
-        <div key={team.name}>
-          <img src={team.logo} alt={team.name} />
-          <p>{team.name}</p>
-        </div>
-      ))}
-      <h2>Minor League Teams</h2>
-      {minorLeague.map(team => (
-        <div key={team.name}>
-          <img src={team.logo} alt={team.name} />
-          <p>{team.name}</p>
-        </div>
-      ))}
+    <div className='logo'>
+      <h2 className='logo__league'>Major League Teams</h2>
+      <div className='logo__teams'>
+        {majorLeague.map(team => (
+          <div key={team.name} className='logo__club'>
+            <img src={team.logo} alt={team.name} className='logo__club__img'/>
+            <div className='logo__club__info'>
+              <p className='logo__club__title'>{team.name}</p>
+              <img src={team.leagueLogo} alt="major-league" />
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <h2 className='logo__league'>Minor League Teams</h2>
+      <div className='logo__teams'>
+        {minorLeague.map(team => (
+          <div key={team.name} className='logo__club'>
+            <img src={team.logo} alt={team.name} className='logo__club__img'/>
+            <div className='logo__club__info'>
+              <p className='logo__club__title'>{team.name}</p>
+              <img src={team.leagueLogo} alt="minor-league" />
+            </div>
+          </div>
+        ))}
+      </div>
     </div>
-  )
+  );
 }
 
-export default Logos
+export default Logos;
