@@ -22,12 +22,17 @@ function State() {
         <Map src={stateInfo.carte} />
       </div>
       <div className='state__logos'>
-        <Logos majorLeague={stateInfo.major_league} minorLeague={stateInfo.minor_league} />
+        <h1 className='state__title-container'>TEAMS</h1>
+        <Logos majorLeague={stateInfo.major_league} 
+                minorLeague={stateInfo.minor_league} 
+                juniorLeague={stateInfo.junior_league} />
       </div>
       <div className='state__stadiums'>
+        <h1 className='state__title-container'>BIGGESTS STADIUMS & ARENAS</h1>
         <Stadiums stadiums={stateInfo.stadiums} />
       </div>
       <div className='state__players'>
+        <h1 className='state__title-container' >FAMOUS PLAYERS</h1>
         <Players players={stateInfo.players} />
       </div>
     </div>

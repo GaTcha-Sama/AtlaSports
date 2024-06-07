@@ -16,7 +16,7 @@
       "nom": "Arizona",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
       "carte": "state-layer/AZ.jpg",
-      "map": "./src/assets/Logos/AA-TOUS LES LOGOS/NBA/2024/Atlanta-Hawks-logo.png",
+      "map": "",
       "major_league": [
         {
           "name": "Arizona Cardinals",
@@ -45,16 +45,97 @@
       ],
       "minor_league": [
         {
+          "name": "Valley Suns",
+          "logo": "../logos/NBA GL/Valley_Suns_logo.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
           "name": "Tucson Roadrunners",
           "logo": "../logos/AHL/Tucson_Roadrunners_logo.svg.png",
           "league": "AHL",
-          "leagueLogo": "URL_TO_AHL_LOGO"
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Arizona Wildcats",
+          "logo": "../logos/NCAA/Arizona-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Arizona State Sun Devils",
+          "logo": "../logos/NCAA/Arizona-State-Sun-Devils-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Northern Arizona Lumberjacks",
+          "logo": "../logos/NCAA/Northern-Arizona-Lumberjacks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Grand Canyon Antelopes",
+          "logo": "../logos/NCAA/Grand-Canyon-Antelopes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
+          "name": "State Farm Stadium",
+          "city": "Glendale",
+          "capacity": "63.400 seats",
           "pictures": [
-            "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chase_Field.jpg"
+            "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM.jpg",
+            "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM CARDINALS.jpg"
+          ]
+        },
+        {
+          "name": "Chase Field",
+          "city": "Phoenix",
+          "capacity": "48.686 seats",
+          "pictures": [
+            "../stadiums-pro/PHOENIX - CHASE FIELD.jpg",
+            "../stadiums-pro/PHOENIX - CHASE FIELD DIAMONDBACKS.jpg"
+          ]
+        },
+        {
+          "name": "Footprint Center",
+          "city": "Phoenix",
+          "capacity": "18.422 seats",
+          "pictures": [
+            "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA.jpg",
+            "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA SUNS.jpg"
+          ]
+        },
+        {
+          "name": "Arizona Stadium",
+          "city": "Tucson",
+          "capacity": "50.782 seats",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON.jpg",
+            "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Sun Devil Stadium",
+          "city": "Tempe",
+          "capacity": "53.599 seats",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE.jpg",
+            "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE SUN DEVILS.jpg"
+          ]
+        },
+        {
+          "name": "Walkup Skydome",
+          "city": "Flagstaff",
+          "capacity": "11.230 seats",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF.jpg",
+            "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF LUMBERJACKS.jpg"
           ]
         }
       ],

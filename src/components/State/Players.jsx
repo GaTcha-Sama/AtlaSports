@@ -3,14 +3,14 @@ import '../../styles/Players.scss'
 
 function Players({ players }) {
   return (
-    <div>
+    <section className='players'>
       {players.map(player => (
         <div key={player.name}>
           <img src={player.picture} alt={player.name} />
           <p>{player.name}</p>
         </div>
       ))}
-    </div>
+    </section>
   )
 }
 
