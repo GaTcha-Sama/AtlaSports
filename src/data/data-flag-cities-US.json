@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1101,
+      "nom": "Atlanta",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Atlanta.svg",
+      "carte": "state-layer/GE.jpg"
+    },
+    {
+        "id": 2201,
+        "nom": "Boston",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Boston.svg",
+        "carte": "state-layer/MC.jpg"
+    },
+    {
+        "id": 3302,
+        "nom": "Buffalo",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Buffalo%2C_New_York.svg",
+        "carte": "state-layer/NY.jpg"
+    },
+    {
+        "id": 3401,
+        "nom": "Charlotte",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Charlotte%2C_North_Carolina.svg",
+        "carte": "state-layer/NC.jpg"
+    },
+    {
+        "id": 53,
+      "nom": "Chicago",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Chicago%2C_Illinois.svg",
+      "carte": "state-layer/IL.jpg"
+    },
+    {
+        "id": 3602,
+        "nom": "Cincinnati",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Cincinnati%2C_Ohio.svg",
+        "carte": "state-layer/OH.jpg"
+    },
+    {
+        "id": 3601,
+        "nom": "Cleveland",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Cleveland%2C_Ohio.svg",
+        "carte": "state-layer/OH.jpg"
+    },
+    {
+        "id": 4401,
+        "nom": "Dallas - Fort Worth",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Dallas.svg",
+        "carte": "state-layer/TX.jpg"
+    },
+    {
+        "id": 601,
+        "nom": "Denver",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/61/Flag_of_Denver%2C_Colorado.svg",
+        "carte": "state-layer/CO.jpg"
+    },
+    {
+        "id": 2301,
+        "nom": "Detroit",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Detroit.svg",
+        "carte": "state-layer/MG.jpg"
+    },
+    {
+        "id": 4402,
+        "nom": "Houston",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Flag_of_Houston%2C_Texas.svg",
+        "carte": "state-layer/TX.jpg"
+    },
+    {
+        "id": 1501,
+      "nom": "Indianapolis",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Indianapolis.svg",
+      "carte": "state-layer/IN.jpg"
+    },
+    {
+        "id": 501,
+        "nom": "Los Angeles",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Los_Angeles%2C_California.svg",
+        "carte": "state-layer/CA.jpg"
+    },
+    {
+        "id": 1001,
+        "nom": "Miami",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Miami%2C_Florida.svg",
+        "carte": "state-layer/FL.jpg"
+    },
+    {
+        "id": 5001,
+        "nom": "Milwaukee",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Milwaukee%2C_Wisconsin.svg",
+        "carte": "state-layer/WI.jpg"
+    },
+    {
+        "id": 2401,
+        "nom": "Minneapolis - St. Paul",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapolis.svg",
+        "carte": "state-layer/MN.jpg"
+    },
+    {
+        "id": 4301,
+        "nom": "Nashville",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Nashville%2C_Tennessee.png",
+        "carte": "state-layer/TN.jpg"
+    },
+    {
+        "id": 1901,
+      "nom": "New Orleans",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_New_Orleans%2C_Louisiana.svg",
+      "carte": "state-layer/LO.jpg"
+    },
+    {
+        "id": 3301,
+        "nom": "New York City",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg",
+        "carte": "state-layer/NY.jpg"
+    },
+    {
+        "id": 3901,
+        "nom": "Philadelphia",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
+        "carte": "state-layer/PN.jpg"
+    },
+    {
+      "id": 301,
+      "nom": "Phoenix",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/98/Flag_of_Phoenix%2C_Arizona.svg",
+      "carte": "state-layer/AZ.jpg"
+    },
+    {
+        "id": 3902,
+        "nom": "Pittsburgh",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Pittsburgh%2C_Pennsylvania.svg",
+        "carte": "state-layer/PN.jpg"
+    }, 
+    {
+        "id": 4403,
+        "nom": "San Antonio - Austin",
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_San_Antonio%2C_Texas.svg",
+        "carte": "state-layer/TX.jpg"
+    }, 
+    {
+      "id": 502,
+      "nom": "San Francisco - Bay Area",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_San_Francisco.svg",
+      "carte": "state-layer/CA.jpg"
+    },
+    
+    
+   
+    
+    {
+      "id": 4801,
+      "nom": "Seattle",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/en/6/6d/Flag_of_Seattle.svg",
+      "carte": "state-layer/WA.jpg"
+    },
+    {
+      "id": 9,
+      "nom": "Washington",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
+      "carte": "state-layer/DC.jpg"
+    }    
+  ]

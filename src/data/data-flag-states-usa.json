@@ -16,7 +16,8 @@
       "nom": "Arizona",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
       "carte": "state-layer/AZ.jpg",
-      "map": "",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
       "major_league": [
         {
           "name": "Arizona Cardinals",
@@ -88,6 +89,7 @@
           "name": "State Farm Stadium",
           "city": "Glendale",
           "capacity": "63.400 seats",
+          "residents": "Arizona Cardinals (NFL)",
           "pictures": [
             "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM.jpg",
             "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM CARDINALS.jpg"
@@ -97,6 +99,7 @@
           "name": "Chase Field",
           "city": "Phoenix",
           "capacity": "48.686 seats",
+          "residents": "Arizona Diamondbacks (MLB)",
           "pictures": [
             "../stadiums-pro/PHOENIX - CHASE FIELD.jpg",
             "../stadiums-pro/PHOENIX - CHASE FIELD DIAMONDBACKS.jpg"
@@ -106,6 +109,7 @@
           "name": "Footprint Center",
           "city": "Phoenix",
           "capacity": "18.422 seats",
+          "residents": "Phoenix Suns (NBA) and Phoenix Mercury (WNBA)",
           "pictures": [
             "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA.jpg",
             "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA SUNS.jpg"
@@ -115,6 +119,7 @@
           "name": "Arizona Stadium",
           "city": "Tucson",
           "capacity": "50.782 seats",
+          "residents": "Arizona Wildcats (NCAA Football)",
           "pictures": [
             "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON.jpg",
             "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON WILDCATS.jpg"
@@ -124,33 +129,98 @@
           "name": "Sun Devil Stadium",
           "city": "Tempe",
           "capacity": "53.599 seats",
+          "residents": "Arizona State Sun Devils (NCAA Football)",
           "pictures": [
             "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE.jpg",
             "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE SUN DEVILS.jpg"
           ]
         },
         {
+          "name": "McKale Center",
+          "city": "Tucson",
+          "capacity": "14.545 seats",
+          "residents": "Arizona Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ARIZONA - MCKALE CENTER - TUCSON.jpg",
+            "../stadiums-ncaa/arenas/ARIZONA - MCKALE CENTER - TUCSON WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Wells Fargo Arena",
+          "city": "Tempe",
+          "capacity": "14.198 seats",
+          "residents": "Arizona State Sun Devils (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ARIZONA STATE - WELLS FARGO ARENA - TEMPE.jpg",
+            "../stadiums-ncaa/arenas/ARIZONA STATE - WELLS FARGO ARENA - TEMPE SUN DEVILS.jpg"
+          ]
+        },        
+        {
           "name": "Walkup Skydome",
           "city": "Flagstaff",
           "capacity": "11.230 seats",
+          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
           "pictures": [
             "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF.jpg",
             "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF LUMBERJACKS.jpg"
+          ]
+        },
+        {
+          "name": "Tucson Convention Center",
+          "city": "Tucson",
+          "capacity": "9.275 seats",
+          "residents": "Tucson Roadrunners (AHL)",
+          "pictures": [
+            "../stadiums-pro/TUCSON - TUCSON ARENA.jpeg",
+            "../stadiums-pro/TUCSON - TUCSON ARENA ROADRUNNERS.jpg"
+          ]
+        },
+        {
+          "name": "Mullett Arena",
+          "city": "Tempe",
+          "capacity": "5.000 seats",
+          "residents": "Valley Suns (NBA G-League) and Arizona State Sun Devils (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-pro/TEMPE - MULLETT ARENA.jpg",
+            "../stadiums-pro/TEMPE - MULLETT ARENA SUNS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Devin Booker",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/6/66/Devin_Booker_%28cropped%29.jpg"
+          "name": "Randy Johnson",
+          "picture": "../players/ARIZONA/D'BACKS - RANDY JOHNSON.jpg"
+        },
+        {
+          "name": "Charles Barkley",
+          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg"
+        },
+        {
+          "name": "Steve Nash",
+          "picture": "../players/ARIZONA/SUNS - NASH.jpg"
+        },
+        {
+          "name": "Larry Fitzgerald",
+          "picture": "../players/ARIZONA/CARDINALS - LARRY FITZGERALD 3.jpg"
+        },
+        {
+          "name": "Kurt Warner",
+          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
+        },
+        {
+          "name": "Shane Doan",
+          "team": "Arizona Coyotes",
+          "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg"
+        },
+        {
+          "name": "Rob Gronkowski",
+          "picture": "../players/ARIZONA/ARIZONA - GRONKOWSKI.jpg"
+        },
+        {
+          "name": "James Harden",
+          "picture": "../players/ARIZONA/ARIZONA STATE - HARDEN.jpg"
         }
       ]
-    },
-    {
-      "id": 301,
-      "nom": "Phoenix",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/98/Flag_of_Phoenix%2C_Arizona.svg",
-      "carte": "state-layer/AZ.jpg"
     },
     {
       "id": 4,
@@ -165,27 +235,9 @@
       "carte": "state-layer/CA.jpg"
     },
     {
-      "id": 501,
-      "nom": "Los Angeles",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Los_Angeles%2C_California.svg",
-      "carte": "state-layer/CA.jpg"
-    },
-    {
-      "id": 502,
-      "nom": "San Francisco - Bay Area",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_San_Francisco.svg",
-      "carte": "state-layer/CA.jpg"
-    },
-    {
       "id": 6,
       "nom": "Colorado",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
-      "carte": "state-layer/CO.jpg"
-    },
-    {
-      "id": 601,
-      "nom": "Denver",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/61/Flag_of_Denver%2C_Colorado.svg",
       "carte": "state-layer/CO.jpg"
     },
     {
@@ -207,21 +259,9 @@
       "carte": "state-layer/FL.jpg"
     },
     {
-      "id": 1001,
-      "nom": "Miami",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Miami%2C_Florida.svg",
-      "carte": "state-layer/FL.jpg"
-    },
-    {
       "id": 11,
     "nom": "Georgia",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
-    "carte": "state-layer/GE.jpg"
-    },
-    {
-      "id": 1101,
-    "nom": "Atlanta",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Atlanta.svg",
     "carte": "state-layer/GE.jpg"
     },
     {
@@ -243,21 +283,9 @@
     "carte": "state-layer/IL.jpg"
     },
     {
-      "id": 53,
-    "nom": "Chicago",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Chicago%2C_Illinois.svg",
-    "carte": "state-layer/IL.jpg"
-    },
-    {
       "id": 15,
     "nom": "Indiana",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
-    "carte": "state-layer/IN.jpg"
-    },
-    {
-      "id": 1501,
-    "nom": "Indianapolis",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Indianapolis.svg",
     "carte": "state-layer/IN.jpg"
     },
     {
@@ -282,12 +310,6 @@
       "id": 19,
     "nom": "Louisiana",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
-    "carte": "state-layer/LO.jpg"
-    },
-    {
-      "id": 1901,
-    "nom": "New Orleans",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_New_Orleans%2C_Louisiana.svg",
     "carte": "state-layer/LO.jpg"
     },
     {
@@ -352,33 +374,15 @@
       ]
     },
     {
-      "id": 2201,
-      "nom": "Boston",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Boston.svg",
-      "carte": "state-layer/MC.jpg"
-    },
-    {
       "id": 23,
       "nom": "Michigan",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg",
       "carte": "state-layer/MG.jpg"
     },
     {
-      "id": 2301,
-      "nom": "Detroit",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Detroit.svg",
-      "carte": "state-layer/MG.jpg"
-    },
-    {
       "id": 24,
       "nom": "Minnesota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg",
-      "carte": "state-layer/MN.jpg"
-    },
-    {
-      "id": 2401,
-      "nom": "Minneapolis - St. Paul",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Minneapolis.svg",
       "carte": "state-layer/MN.jpg"
     },
     {
@@ -436,27 +440,9 @@
       "carte": "state-layer/NY.jpg"
     },
     {
-      "id": 3301,
-      "nom": "New York City",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg",
-      "carte": "state-layer/NY.jpg"
-    },
-    {
-      "id": 3302,
-      "nom": "Buffalo",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Buffalo%2C_New_York.svg",
-      "carte": "state-layer/NY.jpg"
-    },
-    {
       "id": 34,
       "nom": "North Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg",
-      "carte": "state-layer/NC.jpg"
-    },
-    {
-      "id": 3401,
-      "nom": "Charlotte",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Charlotte%2C_North_Carolina.svg",
       "carte": "state-layer/NC.jpg"
     },
     {
@@ -469,18 +455,6 @@
       "id": 36,
       "nom": "Ohio",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
-      "carte": "state-layer/OH.jpg"
-    },
-    {
-      "id": 3601,
-      "nom": "Cleveland",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Cleveland%2C_Ohio.svg",
-      "carte": "state-layer/OH.jpg"
-    },
-    {
-      "id": 3602,
-      "nom": "Cincinnati",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Cincinnati%2C_Ohio.svg",
       "carte": "state-layer/OH.jpg"
     },
     {
@@ -499,18 +473,6 @@
       "id": 39,
       "nom": "Pennsylvania",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
-      "carte": "state-layer/PN.jpg"
-    },
-    {
-      "id": 3901,
-      "nom": "Philadelphia",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
-      "carte": "state-layer/PN.jpg"
-    },
-    {
-      "id": 3902,
-      "nom": "Pittsburgh",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Pittsburgh%2C_Pennsylvania.svg",
       "carte": "state-layer/PN.jpg"
     },
     {
@@ -538,33 +500,9 @@
       "carte": "state-layer/TN.jpg"
     },
     {
-      "id": 4301,
-      "nom": "Nashville",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Nashville%2C_Tennessee.png",
-      "carte": "state-layer/TN.jpg"
-    },
-    {
       "id": 44,
       "nom": "Texas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
-      "carte": "state-layer/TX.jpg"
-    },
-    {
-      "id": 4401,
-      "nom": "Dallas - Fort Worth",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Dallas.svg",
-      "carte": "state-layer/TX.jpg"
-    },
-    {
-      "id": 4402,
-      "nom": "Houston",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Flag_of_Houston%2C_Texas.svg",
-      "carte": "state-layer/TX.jpg"
-    },
-    {
-      "id": 4403,
-      "nom": "San Antonio - Austin",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flag_of_San_Antonio%2C_Texas.svg",
       "carte": "state-layer/TX.jpg"
     },
     {
@@ -592,12 +530,6 @@
       "carte": "state-layer/WA.jpg"
     },
     {
-      "id": 4801,
-      "nom": "Seattle",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/en/6/6d/Flag_of_Seattle.svg",
-      "carte": "state-layer/WA.jpg"
-    },
-    {
       "id": 9,
       "nom": "Washington D.C.",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
@@ -613,12 +545,6 @@
       "id": 50,
       "nom": "Wisconsin",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
-      "carte": "state-layer/WI.jpg"
-    },
-    {
-      "id": 5001,
-      "nom": "Milwaukee",
-      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Milwaukee%2C_Wisconsin.svg",
       "carte": "state-layer/WI.jpg"
     },
     {

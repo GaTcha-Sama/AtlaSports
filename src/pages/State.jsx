@@ -19,7 +19,7 @@ function State() {
     <div className='state'>
       <h1 className='state__title'>{stateInfo.nom}</h1>
       <div className='state__map'>
-        <Map src={stateInfo.carte} />
+        <Map map={stateInfo.map} city={stateInfo.city} />
       </div>
       <div className='state__logos'>
         <h1 className='state__title-container'>TEAMS</h1>

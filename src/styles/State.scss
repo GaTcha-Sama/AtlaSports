@@ -12,5 +12,11 @@
         margin: 20px;
         justify-content: center;
         display: flex;
+        padding-top: 20px;
     }
+}
+
+.state__logos,
+.state__players {
+    background-color: $main-color;
 }

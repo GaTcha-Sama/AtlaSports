@@ -1,5 +1,23 @@
 @import '../variables.scss';
 
 .players {
-    background-color: $main-color;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 10px;
+  &__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    &__img {
+      height: 350px;
+      width: 100%;
+      object-fit: contain;
+    }
+    &__title {
+      padding-top: 10px;
+      font-weight: 600;
+    }
+  }
 }

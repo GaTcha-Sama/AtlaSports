@@ -13,6 +13,7 @@ function Stadiums({ stadiums }) {
           </div>
           <h3 className='stadium__title'>{stadium.name}</h3>
           <h2 className='stadium__subtitle'>Located in {stadium.city} - {stadium.capacity}</h2>
+          <h2 className='stadium__subtitle'>Residents : {stadium.residents}</h2>
         </div>
       ))}      
     </section>
