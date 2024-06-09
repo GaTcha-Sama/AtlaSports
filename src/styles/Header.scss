@@ -8,7 +8,7 @@
   font-family: $main-text;
   background-color: $main-color;
   justify-content: space-between;
-  padding: 0 30px; // Ajoutez un padding pour l'espacement sur les côtés
+  padding: 0 30px; 
   
   &__logo-container {
     display: flex;
@@ -31,7 +31,7 @@
     display: flex;
     flex-direction: row;
     gap: 50px;
-    padding: 0; // Remove padding to prevent spacing issues
+    padding: 0; 
     margin-right: 30px;
     &__txt {
       color: black;

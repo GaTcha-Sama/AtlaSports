@@ -15,13 +15,17 @@ function State() {
     return <div>State not found</div>
   }
 
+  const gradientStyle = {
+    background: stateInfo.backgroundGradient
+  };
+
   return (
     <div className='state'>
       <h1 className='state__title'>{stateInfo.nom}</h1>
       <div className='state__map'>
         <Map map={stateInfo.map} city={stateInfo.city} />
       </div>
-      <div className='state__logos'>
+      <div className='state__logos' style={gradientStyle}>
         <h1 className='state__title-container'>TEAMS</h1>
         <Logos majorLeague={stateInfo.major_league} 
                 minorLeague={stateInfo.minor_league} 
@@ -31,7 +35,7 @@ function State() {
         <h1 className='state__title-container'>BIGGESTS STADIUMS & ARENAS</h1>
         <Stadiums stadiums={stateInfo.stadiums} />
       </div>
-      <div className='state__players'>
+      <div className='state__players' style={gradientStyle}>
         <h1 className='state__title-container' >FAMOUS PLAYERS</h1>
         <Players players={stateInfo.players} />
       </div>

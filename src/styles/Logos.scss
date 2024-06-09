@@ -10,7 +10,6 @@
     &__level {
         width: 100%;
         margin-left: 30px;
-        padding-top: 50px;
     }
 
     &__teams {
@@ -18,9 +17,9 @@
         flex-direction: row;
         flex-wrap: wrap;
         height: 200px;
-        width: 100%;
-        margin: 20px;
+        width: 100%;        
         justify-content: space-around;
+        margin-bottom: 70px;
     }
 
     &__club {
@@ -36,24 +35,20 @@
             height: 100%;
             object-fit: contain;
             border-radius: inherit;
+            padding: 5px;
         }
-
+        &__title {
+            margin: 0;
+            font-weight: 600;
+            font-size: 20px;
+            color: white;
+        }
         &__info {
             display: flex;
             flex-direction: row;
             justify-content: space-around;
             align-items: flex-start;
-            padding-top: 10px;
-
-            &__title {
-                margin: 0;
-                font-weight: 800;
-            }
-            img {
-                width: 25%; 
-                height: 25%;
-                object-fit: contain; 
-            }
+            padding-top: 10px;           
         }
     }
 }

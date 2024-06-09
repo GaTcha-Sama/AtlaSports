@@ -18,6 +18,7 @@
       "carte": "state-layer/AZ.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #f4c542, #bf1e2e)",
       "major_league": [
         {
           "name": "Arizona Cardinals",
