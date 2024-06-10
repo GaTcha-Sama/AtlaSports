@@ -15,6 +15,9 @@ function About() {
           <li className='about__list'>
             Respect : This is a sport website so the fair-play is essential.
           </li>
+          <li className='about__list'>
+            Updates : If you have information on changing a logo, moving a franchise or changing the name of a stadium, do not hesitate to contact me !
+          </li>
         </ul>
       </section>
      

@@ -1,9 +1,10 @@
 @import '../variables.scss';
 
 .contact {
+    background: linear-gradient(to right, #cbcaa5, #334d50);
     &__title {
         display: flex;
         justify-content: center;
-        margin: 50px;
+        padding-top: 20px;
     }
 }
