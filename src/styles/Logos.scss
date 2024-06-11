@@ -17,14 +17,13 @@
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content: flex-start;
-        margin-bottom: 70px;
+        justify-content: center;        
         width: 100%;
     }
 
     &__club {
         margin: 20px;
-        width: calc(20% - 40px); // Adjust width to consider margins
+        width: calc(20% - 40px); 
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -35,6 +34,13 @@
             font-size: 20px;
             color: white;
             text-align: center;
+        }
+
+        &__league {
+            width: 100%;
+            height: 50px;
+            object-fit: contain;
+            border-radius: inherit;
         }
 
         &__content {
@@ -50,10 +56,9 @@
 
         &__img {
             width: 100%;
-            height: auto;
+            height: 150px;
             object-fit: contain;
             border-radius: inherit;
-            padding: 5px;
         }
     }
 }
