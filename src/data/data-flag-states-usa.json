@@ -395,13 +395,601 @@
       "id": 4,
       "nom": "Arkansas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg",
-      "carte": "state-layer/AR.jpg"
+      "carte": "state-layer/AR.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #dc2424, #4a569d)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Arkansas Razorbacks",
+          "logo": "../logos/NCAA/Arkansas-Razorbacks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Arkansas State Red Wolves",
+          "logo": "../logos/NCAA/Arkansas-State-Red-Wolves-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Little Rock Trojans",
+          "logo": "../logos/NCAA/Little-Rock-Trojans-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Central Arkansas Bears",
+          "logo": "../logos/NCAA/Central-Arkansas-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Donald W. Reynolds Razorback Stadium",
+          "city": "Fayetteville",
+          "capacity": "72.000 seats",
+          "residents": "Arkansas Razorbacks (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ARKANSAS - DONALD W. REYNOLDS RAZORBACK STADIUM - FAYETTEVILLE.jpg",
+            "../stadiums-ncaa/stadiums/ARKANSAS - DONALD W. REYNOLDS RAZORBACK STADIUM - FAYETTEVILLE RAZORBACKS.jpg"
+          ]
+        },
+        {
+          "name": "Centennial Bank Stadium",
+          "city": "Jonesboro",
+          "capacity": "30.964 seats",
+          "residents": "Arkansas State Red Wolves (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ARKANSAS - CENTENNIAL BANK STADIUM - JONESBORO.jpg",
+            "../stadiums-ncaa/stadiums/ARKANSAS - CENTENNIAL BANK STADIUM - JONESBORO RED WOLVES.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Scottie Pippen",
+          "picture": "../players/ARKANSAS/CENTRAL ARKANSAS - PIPPEN.jpg"
+        },
+        {
+          "name": "Lance Alworth",
+          "picture": "../players/ARKANSAS/ARKANSAS - LANCE ALWORTH.jpg"
+        }
+      ]
     },
     {
       "id": 5,
-      "nom": "California",
+      "nom": "California (North)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
-      "carte": "state-layer/CA.jpg"
+      "carte": "state-layer/CA.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #2E8B57, #4682B4)",
+      "major_league": [
+        {
+          "name": "San Francisco 49ers",
+          "logo": "../logos/NFL/San-Francisco-49ers-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "San Francisco Giants",
+          "logo": "../logos/MLB/San-Francisco-Giants-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Golden State Warriors",
+          "logo": "../logos/NBA/Golden-State-Warriors-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Sacramento Kings",
+          "logo": "../logos/NBA/Sacramento-Kings-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "San Jose Sharks",
+          "logo": "../logos/NHL/logo-San-Jose-Sharks.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "San Jose Earthquakes",
+          "logo": "../logos/MLS/San Jose Earthquakes.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Golden State Valkyries",
+          "logo": "../logos/WNBA/Golden_State_Valkyries_logo.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Bay FC",
+          "logo": "../logos/NWSL/Bay FC.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Santa Cruz Warriors",
+          "logo": "../logos/NBA GL/Santa_Cruz_Warriors_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Stockton Kings",
+          "logo": "../logos/NBA GL/Stockton_Kings_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "San Jose Barracuda",
+          "logo": "../logos/AHL/San_Jose_Barracuda_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Sacramento River Cats",
+          "logo": "../logos/PCL/Sacramento-River-Cats.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "California Golden Bears",
+          "logo": "../logos/NCAA/California-Golden-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Stanford Cardinal",
+          "logo": "../logos/NCAA/Stanford-Cardinal-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "San Francisco Dons",
+          "logo": "../logos/NCAA/San-Francisco-Dons-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Santa Clara Broncos",
+          "logo": "../logos/NCAA/Santa-Clara-Broncos-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "St. Mary's Gaels",
+          "logo": "../logos/NCAA/St. Mary's Gaels.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "San Jose State Spartans",
+          "logo": "../logos/NCAA/San-Jose-State-Spartans-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Sacramento State Hornets",
+          "logo": "../logos/NCAA/Sacramento-State-Hornets-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Fresno State Bulldogs",
+          "logo": "../logos/NCAA/Fresno-State-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UC-Davis Aggies",
+          "logo": "../logos/NCAA/California-Davis-Aggies-Logo-1.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Levi's Stadium",
+          "city": "Santa Clara",
+          "capacity": "68.500 seats",
+          "residents": "San Francisco 49ers (NFL)",
+          "pictures": [
+            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM.jpg",
+            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM 49ERS.jpg"
+          ]
+        },
+        {
+          "name": "Oracle Park",
+          "city": "San Francisco",
+          "capacity": "42.300 seats",
+          "residents": "San Francisco Giants (MLB)",
+          "pictures": [
+            "../stadiums-pro/SAN FRANCISCO - AT&T PARK.jpg",
+            "../stadiums-pro/SAN FRANCISCO - AT&T PARK GIANTS.jpg"
+          ]
+        },
+        {
+          "name": "Chase Center",
+          "city": "San Francisco",
+          "capacity": "19.200 seats",
+          "residents": "Golden State Warriors (NBA) and Golden State Valkyries (WNBA)",
+          "pictures": [
+            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER.jpg",
+            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER WARRIORS.jpg"
+          ]
+        },
+        {
+          "name": "SAP Center",
+          "city": "San Jose",
+          "capacity": "17.562 seats",
+          "residents": "San Jose Sharks (NHL) and San Jose Barracuda (AHL)",
+          "pictures": [
+            "../stadiums-pro/SAN JOSE - SAP CENTER.jpg",
+            "../stadiums-pro/SAN JOSE - SAP CENTER SHARKS.png"
+          ]
+        },
+        {
+          "name": "Golden 1 Center",
+          "city": "Sacramento",
+          "capacity": "17.608 seats",
+          "residents": "Sacramento Kings (NBA)",
+          "pictures": [
+            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER.jpg",
+            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER KINGS.jpg"
+          ]
+        },
+        {
+          "name": "PayPal Park",
+          "city": "San Jose",
+          "capacity": "18.000 seats",
+          "residents": "San Jose Earthquakes (MLS) and Bay FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/SAN JOSE - PAYPAL PARK.png",
+            "../stadiums-pro/SAN JOSE - PAYPAL PARK EARTHQUAKES.jpg"
+          ]
+        },
+        {
+          "name": "California Memorial Stadium",
+          "city": "Berkeley",
+          "capacity": "63.000 seats",
+          "residents": "Cal Golden Bears (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY.jpg",
+            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY GOLDEN BEARS.jpg"
+          ]
+        },        
+        {
+          "name": "Stanford Stadium",
+          "city": "Stanford",
+          "capacity": "50.424 seats",
+          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD.jpg",
+            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD CARDINAL.png"
+          ]
+        },
+        {
+          "name": "Save Mart Center",
+          "city": "Fresno",
+          "capacity": "18.000 seats",
+          "residents": "Fresno State Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO.jpg",
+            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "Haas Pavilion",
+          "city": "Berkeley",
+          "capacity": "11.858 seats",
+          "residents": "Cal Golden Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY.jpg",
+            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY GOLDEN BEARS.jpg"
+          ]
+        },        
+        {
+          "name": "Maples Pavilion",
+          "city": "Stanford",
+          "capacity": "7.233 seats",
+          "residents": "Stanford Cardinal (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD.jpg",
+            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD CARDINAL.jpg"
+          ]
+        },
+        {
+          "name": "Events Center Arena",
+          "city": "San Jose",
+          "capacity": "5.000 seats",
+          "residents": "San Jose State Spartans (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE.jpg",
+            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE SPARTANS.jpg"
+          ]
+        },
+        {
+          "name": "Hornets Nest",
+          "city": "Sacramento",
+          "capacity": "1.012 seats",
+          "residents": "Sacramento State Hornets (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO.jpg",
+            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO HORNETS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Stephen Curry",
+          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Thornton",
+          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+        },
+        {
+          "name": "Willie Mays",
+          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "nom": "California (South)",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+      "carte": "state-layer/CA.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #FFD700, #FFA500, #FF4500, #87CEEB)",
+      "major_league": [
+        {
+          "name": "Arizona Cardinals",
+          "logo": "../logos/NFL/Arizona-Cardinals-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Arizona Diamondbacks",
+          "logo": "../logos/MLB/Arizona-Diamondbacks-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Phoenix Suns",
+          "logo": "../logos/NBA/Phoenix-Suns-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Phoenix Mercury",
+          "logo": "../logos/WNBA/Phoenix Mercury.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Valley Suns",
+          "logo": "../logos/NBA GL/Valley_Suns_logo.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Tucson Roadrunners",
+          "logo": "../logos/AHL/Tucson_Roadrunners_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Arizona Wildcats",
+          "logo": "../logos/NCAA/Arizona-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Arizona State Sun Devils",
+          "logo": "../logos/NCAA/Arizona-State-Sun-Devils-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Northern Arizona Lumberjacks",
+          "logo": "../logos/NCAA/Northern-Arizona-Lumberjacks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Grand Canyon Antelopes",
+          "logo": "../logos/NCAA/Grand-Canyon-Antelopes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "State Farm Stadium",
+          "city": "Glendale",
+          "capacity": "63.400 seats",
+          "residents": "Arizona Cardinals (NFL)",
+          "pictures": [
+            "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM.jpg",
+            "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM CARDINALS.jpg"
+          ]
+        },
+        {
+          "name": "Chase Field",
+          "city": "Phoenix",
+          "capacity": "48.686 seats",
+          "residents": "Arizona Diamondbacks (MLB)",
+          "pictures": [
+            "../stadiums-pro/PHOENIX - CHASE FIELD.jpg",
+            "../stadiums-pro/PHOENIX - CHASE FIELD DIAMONDBACKS.jpg"
+          ]
+        },
+        {
+          "name": "Footprint Center",
+          "city": "Phoenix",
+          "capacity": "18.422 seats",
+          "residents": "Phoenix Suns (NBA) and Phoenix Mercury (WNBA)",
+          "pictures": [
+            "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA.jpg",
+            "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA SUNS.jpg"
+          ]
+        },
+        {
+          "name": "Arizona Stadium",
+          "city": "Tucson",
+          "capacity": "50.782 seats",
+          "residents": "Arizona Wildcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON.jpg",
+            "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Sun Devil Stadium",
+          "city": "Tempe",
+          "capacity": "53.599 seats",
+          "residents": "Arizona State Sun Devils (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE.jpg",
+            "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE SUN DEVILS.jpg"
+          ]
+        },
+        {
+          "name": "McKale Center",
+          "city": "Tucson",
+          "capacity": "14.545 seats",
+          "residents": "Arizona Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ARIZONA - MCKALE CENTER - TUCSON.jpg",
+            "../stadiums-ncaa/arenas/ARIZONA - MCKALE CENTER - TUCSON WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Wells Fargo Arena",
+          "city": "Tempe",
+          "capacity": "14.198 seats",
+          "residents": "Arizona State Sun Devils (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ARIZONA STATE - WELLS FARGO ARENA - TEMPE.jpg",
+            "../stadiums-ncaa/arenas/ARIZONA STATE - WELLS FARGO ARENA - TEMPE SUN DEVILS.jpg"
+          ]
+        },        
+        {
+          "name": "Walkup Skydome",
+          "city": "Flagstaff",
+          "capacity": "11.230 seats",
+          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF.jpg",
+            "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF LUMBERJACKS.jpg"
+          ]
+        },
+        {
+          "name": "Tucson Convention Center",
+          "city": "Tucson",
+          "capacity": "9.275 seats",
+          "residents": "Tucson Roadrunners (AHL)",
+          "pictures": [
+            "../stadiums-pro/TUCSON - TUCSON ARENA.jpeg",
+            "../stadiums-pro/TUCSON - TUCSON ARENA ROADRUNNERS.jpg"
+          ]
+        },
+        {
+          "name": "Mullett Arena",
+          "city": "Tempe",
+          "capacity": "5.000 seats",
+          "residents": "Valley Suns (NBA G-League) and Arizona State Sun Devils (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-pro/TEMPE - MULLETT ARENA.jpg",
+            "../stadiums-pro/TEMPE - MULLETT ARENA SUNS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Randy Johnson",
+          "picture": "../players/ARIZONA/D'BACKS - RANDY JOHNSON.jpg"
+        },
+        {
+          "name": "Charles Barkley",
+          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg"
+        },
+        {
+          "name": "Steve Nash",
+          "picture": "../players/ARIZONA/SUNS - NASH.jpg"
+        },
+        {
+          "name": "Larry Fitzgerald",
+          "picture": "../players/ARIZONA/CARDINALS - LARRY FITZGERALD 3.jpg"
+        },
+        {
+          "name": "Kurt Warner",
+          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
+        },
+        {
+          "name": "Shane Doan",
+          "team": "Arizona Coyotes",
+          "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg"
+        },
+        {
+          "name": "Rob Gronkowski",
+          "picture": "../players/ARIZONA/ARIZONA - GRONKOWSKI.jpg"
+        },
+        {
+          "name": "James Harden",
+          "picture": "../players/ARIZONA/ARIZONA STATE - HARDEN.jpg"
+        }
+      ]
     },
     {
       "id": 6,
