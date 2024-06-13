@@ -3,6 +3,7 @@
 .stadium {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     &__container {
         flex-direction: column;
         display: flex;
@@ -20,6 +21,7 @@
         margin: 15px; 
         border: solid 1px black;
         display: flex;
+        object-fit: cover;
     } 
     &__title {
         display: flex;

@@ -482,6 +482,12 @@
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
         {
+          "name": "Oakland Athletics",
+          "logo": "../logos/MLB/Oakland-Athletics-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
           "name": "Golden State Warriors",
           "logo": "../logos/NBA/Golden-State-Warriors-Logo.png",
           "league": "NBA",
@@ -622,6 +628,16 @@
           ]
         },
         {
+          "name": "Oakland-Alameda County Coliseum",
+          "city": "Oakland",
+          "capacity": "42.300 seats",
+          "residents": "Oakland Athletics (MLB)",
+          "pictures": [
+            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM.jpg",
+            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM ATHLETICS.jpg"
+          ]
+        },
+        {
           "name": "Chase Center",
           "city": "San Francisco",
           "capacity": "19.200 seats",
@@ -742,40 +758,60 @@
           "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
         },
         {
+          "name": "Ken Stabler",
+          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+        },
+        {
+          "name": "Mark McGwire",
+          "picture": "../players/CALIFORNIA/A's - MARK MCGWIRE.jpg"
+        },
+        {
           "name": "Joe Thornton",
           "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+        },
+        {
+          "name": "Rickey Henderson",
+          "picture": "../players/CALIFORNIA/A's - RICKEY HENDERSON 1.jpg"
         },
         {
           "name": "Willie Mays",
           "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Rick Barry",
+          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Jerry Rice",
+          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Barry Bonds",
+          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Rich Gannon",
+          "picture": "../players/CALIFORNIA/RAIDERS - RICH GANNON.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Chris Webber",
+          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "John Elway",
+          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Bill Russell",
+          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg"
+        },
+        {
+          "name": "Aaron Rodgers",
+          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+        },
+        {
+          "name": "Paul George",
+          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg"
         }
       ]
     },
@@ -789,205 +825,390 @@
       "backgroundGradient": "linear-gradient(to right, #FFD700, #FFA500, #FF4500, #87CEEB)",
       "major_league": [
         {
-          "name": "Arizona Cardinals",
-          "logo": "../logos/NFL/Arizona-Cardinals-Logo.png",
+          "name": "Los Angeles Rams",
+          "logo": "../logos/NFL/Los-Angeles-Rams-Logo.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
         {
-          "name": "Arizona Diamondbacks",
-          "logo": "../logos/MLB/Arizona-Diamondbacks-logo.png",
+          "name": "Los Angeles Chargers",
+          "logo": "../logos/NFL/Los-Angeles-Chargers-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Los Angeles Dodgers",
+          "logo": "../logos/MLB/Los-Angeles-Dodgers-logo.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
         {
-          "name": "Phoenix Suns",
-          "logo": "../logos/NBA/Phoenix-Suns-Logo.png",
+          "name": "Los Angeles Angels",
+          "logo": "../logos/MLB/Los-Angeles-Angels-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "San Diego Padres",
+          "logo": "../logos/MLB/San-Diego-Padres-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Los Angeles Lakers",
+          "logo": "../logos/NBA/Los-angeles-lakers.png",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
         },
         {
-          "name": "Phoenix Mercury",
-          "logo": "../logos/WNBA/Phoenix Mercury.png",
+          "name": "Los Angeles Clippers",
+          "logo": "../logos/NBA/Los-Angeles-Clippers-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Los Angeles Kings",
+          "logo": "../logos/NHL/Los-Angeles-Kings-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Anaheim Ducks",
+          "logo": "../logos/NHL/Anaheim Mighty Ducks.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Los Angeles Galaxy",
+          "logo": "../logos/MLS/Los Angeles Galaxy.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Los Angeles FC",
+          "logo": "../logos/MLS/Los Angeles FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "San Diego FC",
+          "logo": "../logos/MLS/San Diego FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Los Angeles Sparks",
+          "logo": "../logos/WNBA/Los Angeles Sparks.png",
           "league": "WNBA",
           "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Angel City FC",
+          "logo": "../logos/NWSL/Angel City FC.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        },
+        {
+          "name": "San Diego Wave",
+          "logo": "../logos/NWSL/San Diego Wave.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
         }
       ],
       "minor_league": [
         {
-          "name": "Valley Suns",
-          "logo": "../logos/NBA GL/Valley_Suns_logo.png",
+          "name": "South Bay Lakers",
+          "logo": "../logos/NBA GL/South_Bay_Lakers_logo.svg.png",
           "league": "NBA G-League",
           "leagueLogo": "../logos/NBA GL/NBAGL.png"
         },
         {
-          "name": "Tucson Roadrunners",
-          "logo": "../logos/AHL/Tucson_Roadrunners_logo.svg.png",
+          "name": "San Diego Clippers",
+          "logo": "../logos/NBA GL/San_Diego_Clippers_logo_NBAGL.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Ontario Reign",
+          "logo": "../logos/AHL/Ontario_Reign_(AHL)_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "San Diego Gulls",
+          "logo": "../logos/AHL/San_Diego_Gulls_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Bakersfield Condors",
+          "logo": "../logos/AHL/Bakersfield_Condors_logo_(2016).svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Coachella Valley Firebirds",
+          "logo": "../logos/AHL/Coachella_Valley_Firebirds.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         }
       ],
       "junior_league": [
         {
-          "name": "Arizona Wildcats",
-          "logo": "../logos/NCAA/Arizona-Wildcats-logo.png",
+          "name": "UCLA Bruins",
+          "logo": "../logos/NCAA/UCLA Bruins-Photoroom.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Arizona State Sun Devils",
-          "logo": "../logos/NCAA/Arizona-State-Sun-Devils-logo.png",
+          "name": "USC Trojans",
+          "logo": "../logos/NCAA/Southern-California-Trojans-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Northern Arizona Lumberjacks",
-          "logo": "../logos/NCAA/Northern-Arizona-Lumberjacks-logo.png",
+          "name": "Loyola Marymount Lions",
+          "logo": "../logos/NCAA/Loyola-Marymount-Lions-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Grand Canyon Antelopes",
-          "logo": "../logos/NCAA/Grand-Canyon-Antelopes-logo.png",
+          "name": "UC-Riverside Highlanders",
+          "logo": "../logos/NCAA/California-Riverside-Highlanders-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UC-Irvine Anteaters",
+          "logo": "../logos/NCAA/California-Irvine-Anteaters-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Cal State-Fullerton Titans",
+          "logo": "../logos/NCAA/Cal-State-Fullerton-Titans-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Long Beach 49ers",
+          "logo": "../logos/NCAA/Long-Beach-State-49ers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UC-Santa Barbara Gauchos",
+          "logo": "../logos/NCAA/UCSB-Gauchos-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Cal State-Bakersfield Roadrunners",
+          "logo": "../logos/NCAA/CSU-Bakersfield-Roadrunners-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "San Diego Toreros",
+          "logo": "../logos/NCAA/San-Diego-Toreros-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "San Diego State Aztecs",
+          "logo": "../logos/NCAA/San-Diego-State-Aztecs-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
-          "name": "State Farm Stadium",
-          "city": "Glendale",
-          "capacity": "63.400 seats",
-          "residents": "Arizona Cardinals (NFL)",
+          "name": "SoFi Stadium",
+          "city": "Los Angeles",
+          "capacity": "70.000 seats",
+          "residents": "Los Angeles Rams and Los Angeles Chargers (NFL)",
           "pictures": [
-            "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM.jpg",
-            "../stadiums-pro/PHOENIX - UNIVERSITY OF PHOENIX STADIUM CARDINALS.jpg"
+            "../stadiums-pro/LOS ANGELES - SOFI STADIUM - LA.jpg",
+            "../stadiums-pro/LOS ANGELES - SOFI STADIUM - LA RAMS.jpg"
           ]
         },
         {
-          "name": "Chase Field",
-          "city": "Phoenix",
-          "capacity": "48.686 seats",
-          "residents": "Arizona Diamondbacks (MLB)",
+          "name": "Dodger Stadium",
+          "city": "Los Angeles",
+          "capacity": "56.000 seats",
+          "residents": "Los Angeles Dodgers (MLB)",
           "pictures": [
-            "../stadiums-pro/PHOENIX - CHASE FIELD.jpg",
-            "../stadiums-pro/PHOENIX - CHASE FIELD DIAMONDBACKS.jpg"
+            "../stadiums-pro/LOS ANGELES - DODGER STADIUM.jpg",
+            "../stadiums-pro/LOS ANGELES - DODGER STADIUM DODGERS.jpg"
           ]
         },
         {
-          "name": "Footprint Center",
-          "city": "Phoenix",
-          "capacity": "18.422 seats",
-          "residents": "Phoenix Suns (NBA) and Phoenix Mercury (WNBA)",
+          "name": "Angel Stadium",
+          "city": "Anaheim",
+          "capacity": "45.050 seats",
+          "residents": "Los Angeles Angels (MLB)",
           "pictures": [
-            "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA.jpg",
-            "../stadiums-pro/PHOENIX - TALKING STICK RESORT ARENA SUNS.jpg"
+            "../stadiums-pro/ANAHEIM - ANGEL STADIUM.jpg",
+            "../stadiums-pro/ANAHEIM - ANGEL STADIUM ANGELS.jpg"
           ]
         },
         {
-          "name": "Arizona Stadium",
-          "city": "Tucson",
-          "capacity": "50.782 seats",
-          "residents": "Arizona Wildcats (NCAA Football)",
+          "name": "Petco Park",
+          "city": "San Diego",
+          "capacity": "42.445 seats",
+          "residents": "San Diego Padres (MLB)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON.jpg",
-            "../stadiums-ncaa/stadiums/ARIZONA - ARIZONA STADIUM - TUCSON WILDCATS.jpg"
+            "../stadiums-pro/SAN DIEGO - PETCO PARK.jpg",
+            "../stadiums-pro/SAN DIEGO - PETCO PARK PADRES.jpg"
           ]
         },
         {
-          "name": "Sun Devil Stadium",
-          "city": "Tempe",
-          "capacity": "53.599 seats",
-          "residents": "Arizona State Sun Devils (NCAA Football)",
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "capacity": "19.067 seats",
+          "residents": "Los Angeles Lakers, Los Angeles Clippers (NBA), Los Angeles Kings (NHL) and Los Angeles Sparks (WNBA)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE.jpg",
-            "../stadiums-ncaa/stadiums/ARIZONA STATE - SUN DEVIL STADIUM-FRANK KUSCH FIELD - TEMPE SUN DEVILS.jpg"
+            "../stadiums-pro/LOS ANGELES - CRYPTO ARENA.jpg",
+            "../stadiums-pro/LOS ANGELES - STAPLES CENTER LAKERS.jpg"
           ]
         },
         {
-          "name": "McKale Center",
-          "city": "Tucson",
-          "capacity": "14.545 seats",
-          "residents": "Arizona Wildcats (NCAA Basket)",
+          "name": "Honda Center",
+          "city": "Anaheim",
+          "capacity": "18.336 seats",
+          "residents": "Anaheim Ducks (NHL)",
           "pictures": [
-            "../stadiums-ncaa/arenas/ARIZONA - MCKALE CENTER - TUCSON.jpg",
-            "../stadiums-ncaa/arenas/ARIZONA - MCKALE CENTER - TUCSON WILDCATS.jpg"
+            "../stadiums-pro/ANAHEIM - HONDA CENTER.jpg",
+            "../stadiums-pro/ANAHEIM - HONDA CENTER DUCKS.jpg"
           ]
         },
         {
-          "name": "Wells Fargo Arena",
-          "city": "Tempe",
-          "capacity": "14.198 seats",
-          "residents": "Arizona State Sun Devils (NCAA Basket)",
+          "name": "Snapdragon Stadium",
+          "city": "San Diego",
+          "capacity": "34.248 seats",
+          "residents": "San Diego State Aztecs (NCAA Football) and San Diego FC (MLS)",
           "pictures": [
-            "../stadiums-ncaa/arenas/ARIZONA STATE - WELLS FARGO ARENA - TEMPE.jpg",
-            "../stadiums-ncaa/arenas/ARIZONA STATE - WELLS FARGO ARENA - TEMPE SUN DEVILS.jpg"
+            "../stadiums-pro/SAN DIEGO - SNAPDRAGON STADIUM.jpg",
+            "../stadiums-pro/SAN DIEGO - SNAPDRAGON STADIUM SDFC.jpg"
+          ]
+        },
+        {
+          "name": "Pechanga Arena",
+          "city": "San Diego",
+          "capacity": "12.920 seats",
+          "residents": "San Diego Gulls (AHL)",
+          "pictures": [
+            "../stadiums-pro/SAN DIEGO - PECHANGA ARENA.jpg",
+            "../stadiums-pro/SAN DIEGO - PECHANGA ARENA GULLS.jpg"
+          ]
+        },
+        {
+          "name": "Rose Bowl",
+          "city": "Los Angeles",
+          "capacity": "96.400 seats",
+          "residents": "UCLA Bruins (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/UCLA - ROSE BOWL - LOS ANGELES.jpg",
+            "../stadiums-ncaa/stadiums/UCLA - ROSE BOWL - LOS ANGELES BRUINS 1.jpg"
           ]
         },        
         {
-          "name": "Walkup Skydome",
-          "city": "Flagstaff",
-          "capacity": "11.230 seats",
-          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "name": "Los Angeles Memorial Coliseum",
+          "city": "Los Angeles",
+          "capacity": "77.500 seats",
+          "residents": "USC Trojans (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF.jpg",
-            "../stadiums-ncaa/stadiums/NORTHERN ARIZONA - WALKUP SKYDOME - FLAGSTAFF LUMBERJACKS.jpg"
+            "../stadiums-ncaa/stadiums/USC - LOS ANGELES MEMORIAL COLISEUM.jpg",
+            "../stadiums-ncaa/stadiums/USC - LOS ANGELES MEMORIAL COLISEUM - SPARTANS.jpg"
           ]
         },
         {
-          "name": "Tucson Convention Center",
-          "city": "Tucson",
-          "capacity": "9.275 seats",
-          "residents": "Tucson Roadrunners (AHL)",
+          "name": "Pauley Pavilion",
+          "city": "Los Angeles",
+          "capacity": "12.829 seats",
+          "residents": "UCLA Bruins (NCAA Basket)",
           "pictures": [
-            "../stadiums-pro/TUCSON - TUCSON ARENA.jpeg",
-            "../stadiums-pro/TUCSON - TUCSON ARENA ROADRUNNERS.jpg"
+            "../stadiums-ncaa/arenas/UCLA - PAULEY PAVILION - LOS ANGELES.jpg",
+            "../stadiums-ncaa/arenas/UCLA - PAULEY PAVILION - LOS ANGELES BRUINS.jpg"
           ]
         },
         {
-          "name": "Mullett Arena",
-          "city": "Tempe",
-          "capacity": "5.000 seats",
-          "residents": "Valley Suns (NBA G-League) and Arizona State Sun Devils (NCAA Hockey)",
+          "name": "Galen Center",
+          "city": "Los Angeles",
+          "capacity": "10.258 seats",
+          "residents": "USC Trojans (NCAA Basket)",
           "pictures": [
-            "../stadiums-pro/TEMPE - MULLETT ARENA.jpg",
-            "../stadiums-pro/TEMPE - MULLETT ARENA SUNS.jpg"
+            "../stadiums-ncaa/arenas/USC - GALEN CENTER - LOS ANGELES.jpg",
+            "../stadiums-ncaa/arenas/USC - GALEN CENTER - LOS ANGELES TROJANS.jpg"
+          ]
+        },        
+        {
+          "name": "Viejas Arena",
+          "city": "San Diego",
+          "capacity": "12.414 seats",
+          "residents": "San Diego State Aztecs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SAN DIEGO STATE - VIEJAS ARENA - SAN DIEGO.jpg",
+            "../stadiums-ncaa/arenas/SAN DIEGO STATE - VIEJAS ARENA - SAN DIEGO AZTECS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Randy Johnson",
-          "picture": "../players/ARIZONA/D'BACKS - RANDY JOHNSON.jpg"
+          "name": "Kobe Bryant",
+          "picture": "../players/CALIFORNIA/LAKERS - KOBE BRYANT 2.jpg"
         },
         {
-          "name": "Charles Barkley",
-          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg"
+          "name": "Wayne Gretzky",
+          "picture": "../players/CALIFORNIA/KINGS - GRETZKY 2.jpg"
         },
         {
-          "name": "Steve Nash",
-          "picture": "../players/ARIZONA/SUNS - NASH.jpg"
+          "name": "Albert Pujols",
+          "picture": "../players/CALIFORNIA/ANGELS - ALBERT PUJOLS.jpg"
         },
         {
-          "name": "Larry Fitzgerald",
-          "picture": "../players/ARIZONA/CARDINALS - LARRY FITZGERALD 3.jpg"
+          "name": "Aaron Donald",
+          "picture": "../players/CALIFORNIA/RAMS - DONALD.jpg"
+        },
+        {
+          "name": "Shohei Ohtani",
+          "picture": "../players/CALIFORNIA/DODGERS - OHTANI.jpg"
+        },
+        {
+          "name": "Jerry West",
+          "picture": "../players/CALIFORNIA/LAKERS - JERRY WEST.jpg"
+        },
+        {
+          "name": "Mike Trout",
+          "picture": "../players/CALIFORNIA/ANGELS - TROUT.jpg"
+        },
+        {
+          "name": "Earvin 'Magic' Johnson",
+          "picture": "../players/CALIFORNIA/LAKERS - MAGIC.jpg"
+        },
+        {
+          "name": "Teemu Selänne",
+          "picture": "../players/CALIFORNIA/DUCKS - SELANNE.jpg"
         },
         {
           "name": "Kurt Warner",
-          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
+          "picture": "../players/CALIFORNIA/RAMS - KURT WARNER.jpg"
         },
         {
-          "name": "Shane Doan",
-          "team": "Arizona Coyotes",
-          "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg"
+          "name": "Shaquille O'Neal",
+          "picture": "../players/CALIFORNIA/LAKERS - SHAQ 1.jpeg"
         },
         {
-          "name": "Rob Gronkowski",
-          "picture": "../players/ARIZONA/ARIZONA - GRONKOWSKI.jpg"
+          "name": "Sandy Koufax",
+          "picture": "../players/CALIFORNIA/DODGERS - SANDY KOUFAX.jpg"
         },
         {
-          "name": "James Harden",
-          "picture": "../players/ARIZONA/ARIZONA STATE - HARDEN.jpg"
+          "name": "Kareem Abdul-Jabbar",
+          "picture": "../players/CALIFORNIA/UCLA - ABDUL JABBAR 2.jpg"
+        },
+        {
+          "name": "Kawhi Leonard",
+          "picture": "../players/CALIFORNIA/SAN DIEGO STATE - LEONARD.jpg"
         }
       ]
     },
@@ -995,13 +1216,371 @@
       "id": 6,
       "nom": "Colorado",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
-      "carte": "state-layer/CO.jpg"
+      "carte": "state-layer/CO.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #1E4363, #6CA3B3)",
+      "major_league": [
+        {
+          "name": "Denver Broncos",
+          "logo": "../logos/NFL/Denver-broncos-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Colorado Rockies",
+          "logo": "../logos/MLB/Colorado-Rockies-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Denver Nuggets",
+          "logo": "../logos/NBA/logo-Denver-Nuggets.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Colorado Avalanche",
+          "logo": "../logos/NHL/Colorado-Avalanche-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Colorado Rapids",
+          "logo": "../logos/MLS/Colorado Rapids.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Colorado Eagles",
+          "logo": "../logos/AHL/Colorado_Eagles_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Colorado Buffaloes",
+          "logo": "../logos/NCAA/Colorado-Buffaloes-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Colorado State Rams",
+          "logo": "../logos/NCAA/Colorado-State-Rams-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Northern Colorado Bears",
+          "logo": "../logos/NCAA/Northern-Colorado-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Denver Pioneers",
+          "logo": "../logos/NCAA/Denver-Pioneers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Air Force Falcons",
+          "logo": "../logos/NCAA/Air-Force-Falcons-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Colorado College Tigers",
+          "logo": "../logos/NCAA/Colorado-College-Tigers-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Empower Field at Mile High Stadium",
+          "city": "Denver",
+          "capacity": "76.125 seats",
+          "residents": "Denver Broncos (NFL)",
+          "pictures": [
+            "../stadiums-pro/DENVER - MILE HIGH STADIUM.jpg",
+            "../stadiums-pro/DENVER - MILE HIGH STADIUM BRONCOS.jpg"
+          ]
+        },
+        {
+          "name": "Coors Field",
+          "city": "Denver",
+          "capacity": "50.144 seats",
+          "residents": "Colorado Rockies (MLB)",
+          "pictures": [
+            "../stadiums-pro/DENVER - COORS FIELD.jpg",
+            "../stadiums-pro/DENVER - COORS FIELD ROCKIES.jpg"
+          ]
+        },
+        {
+          "name": "Ball Arena",
+          "city": "Denver",
+          "capacity": "21.000 seats",
+          "residents": "Denver Nuggets (NBA) and Colorado Avalanche (NHL)",
+          "pictures": [
+            "../stadiums-pro/DENVER - PEPSI CENTER.jpg",
+            "../stadiums-pro/DENVER - PEPSI CENTER NUGGETS.jpg"
+          ]
+        },
+        {
+          "name": "Dick's Sporting Good Park",
+          "city": "Denver",
+          "capacity": "18.000 seats",
+          "residents": "Colorado Rapids (MLS)",
+          "pictures": [
+            "../stadiums-pro/DENVER - DICKS SPORTING GOOD PARK.jpg",
+            "../stadiums-pro/DENVER - DICKS SPORTING GOOD PARK RAPIDS.jpg"
+          ]
+        },
+        {
+          "name": "Folsom Field",
+          "city": "Boulder",
+          "capacity": "53.750 seats",
+          "residents": "Colorado Buffaloes (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/COLORADO - FOLSOM FIELD.jpg",
+            "../stadiums-ncaa/stadiums/COLORADO - FOLSOM  FIELD BUFFALOES.jpg"
+          ]
+        },
+        {
+          "name": "Sonny Lubick Field at Canvas Stadium",
+          "city": "Fort Collins",
+          "capacity": "36.500 seats",
+          "residents": "Colorado State Rams (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/COLORADO - CANVAS STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/COLORADO - CANVAS STADIUM RAMS.jpg"
+          ]
+        },
+        {
+          "name": "Falcon Stadium",
+          "city": "Colorado Springs",
+          "capacity": "46.692 seats",
+          "residents": "Air Force Falcons (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/AIR FORCE - FALCON STADIUM FALCONS.jpg",
+            "../stadiums-ncaa/stadiums/AIR FORCE - FALCON STADIUM.jpg"
+          ]
+        },        
+        {
+          "name": "CU Event Center",
+          "city": "Boulder",
+          "capacity": "11.064 seats",
+          "residents": "Colorado Buffaloes (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/COLORADO - COORS EVENT CENTER - BOULDER.jpg",
+            "../stadiums-ncaa/arenas/COLORADO - COORS EVENT CENTER - BOULDER BUFFALOES.jpg"
+          ]
+        },
+        {
+          "name": "Moby Arena",
+          "city": "Fort Collins",
+          "capacity": "8.083 seats",
+          "residents": "Colorado State Rams (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/COLORADO STATE - MOBY ARENA - FORT COLLINS.jpg",
+            "../stadiums-ncaa/arenas/COLORADO STATE - MOBY ARENA - FORT COLLINS CSU.jpeg"
+          ]
+        },
+        {
+          "name": "Clune Arena",
+          "city": "Colorado Springs",
+          "capacity": "5.858 seats",
+          "residents": "Air Force Falcons (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/AIR FORCE - CLUNE ARENA - COLORADO SPRINGS.jpg",
+            "../stadiums-ncaa/arenas/AIR FORCE - CLUNE ARENA - COLORADO SPRINGS FALCONS.jpg"
+          ]
+        },        
+        {
+          "name": "Bank of Colorado Arena",
+          "city": "Greeley",
+          "capacity": "2.992 seats",
+          "residents": "Northern Colorado Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NORTHERN COLORADO - BANK OF COLORADO ARENA - GREELEY BEARS.jpg",
+            "../stadiums-ncaa/arenas/NORTHERN COLORADO - BANK OF COLORADO ARENA - GREELEY.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Von Miller",
+          "picture": "../players/COLORADO/BRONCOS - VON MILLER 2.jpg"
+        },
+        {
+          "name": "Cale Makar",
+          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg"
+        },
+        {
+          "name": "Nikola Jokic",
+          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg"
+        },
+        {
+          "name": "Patrick Roy",
+          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg"
+        },
+        {
+          "name": "Larry Walker",
+          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg"
+        },
+        {
+          "name": "Joe Sakic",
+          "picture": "../players/COLORADO/AVALANCHE - SAKIC 2.jpg"
+        },
+        {
+          "name": "Carmelo Anthony",
+          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg"
+        },
+        {
+          "name": "John Elway",
+          "picture": "../players/COLORADO/BRONCOS - JOHN ELWAY 2.jpg"
+        },
+        {
+          "name": "Nathan MacKinnon",
+          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.webp"
+        },
+        {
+          "name": "Nolan Arenado",
+          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg"
+        },
+        {
+          "name": "Peyton Manning",
+          "picture": "../players/COLORADO/BRONCOS - MANNING.jpg"
+        },
+        {
+          "name": "Peter Forsberg",
+          "picture": "../players/COLORADO/AVALANCHE - FORSBERG.jpg"
+        },
+        {
+          "name": "Chauncey Billups",
+          "picture": "../players/COLORADO/COLORADO - BILLUPS.jpg"
+        },
+        {
+          "name": "Vincent Jackson",
+          "picture": "../players/COLORADO/NORTHERN COLORADO - VINCENT JACKSON.jpg"
+        }
+      ]
     },
     {
       "id": 7,
       "nom": "Connecticut",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
-      "carte": "state-layer/CT.jpg"
+      "carte": "state-layer/CT.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #0033a0, #228b22)",
+      "major_league": [
+        {
+          "name": "Connecticut Sun",
+          "logo": "../logos/WNBA/Connecticut Sun.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Hartford Wolf Pack",
+          "logo": "../logos/AHL/Hartford-Wolf-Pack-Logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Bridgeport Islanders",
+          "logo": "../logos/AHL/Bridgeport_Islanders_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "UConn Huskies",
+          "logo": "../logos/NCAA/uconn-huskies-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Yale Bulldogs",
+          "logo": "../logos/NCAA/Yale-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Quinnipiac Bobcats",
+          "logo": "../logos/NCAA/Quinnipiac-Bobcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Hartford Hawks",
+          "logo": "../logos/NCAA/Hartford-Hawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        },
+        {
+          "name": "Pat Dye Field",
+          "city": "Auburn",
+          "capacity": "87.451 seats",
+          "residents": "Auburn Tigers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/AUBURN - PAT DYE FIELD - AUBURN.jpg",
+            "../stadiums-ncaa/stadiums/AUBURN - PAT DYE FIELD - AUBURN TIGERS.jpg"
+          ]
+        },
+        {
+          "name": "Coleman Coliseum",
+          "city": "Tuscaloosa",
+          "capacity": "15.316 seats",
+          "residents": "Alabama Crimson Tide (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ALABAMA - COLEMAN COLISEUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/arenas/ALABAMA - COLEMAN COLISEUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        },
+        {
+          "name": "Auburn Arena",
+          "city": "Auburn",
+          "capacity": "9.121 seats",
+          "residents": "Auburn Tigers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/AUBURN - AUBURN ARENA - AUBURN.jpg",
+            "../stadiums-ncaa/arenas/AUBURN - AUBURN ARENA - AUBURN TIGERS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        },
+        {
+          "name": "Charles Barkley",
+          "picture": "../players/ALABAMA/AUBURN - BARKLEY.jpg"
+        },
+        {
+          "name": "DeMarcus Ware",
+          "picture": "../players/ALABAMA/TROY - DEMARCUS WARE.jpg"
+        }
+      ]
     },
     {
       "id": 8,
