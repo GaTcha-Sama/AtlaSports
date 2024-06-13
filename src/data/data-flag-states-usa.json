@@ -373,6 +373,10 @@
           "picture": "../players/ARIZONA/CARDINALS - LARRY FITZGERALD 3.jpg"
         },
         {
+          "name": "Diana Taurasi",
+          "picture": "../players/ARIZONA/MERCURY - TAURASI.jpg"
+        },
+        {
           "name": "Kurt Warner",
           "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
         },
@@ -380,6 +384,11 @@
           "name": "Shane Doan",
           "team": "Arizona Coyotes",
           "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg"
+        },
+        {
+          "name": "Brittney Griner",
+          "team": "Arizona Coyotes",
+          "picture": "../players/ARIZONA/MERCURY - GRINER.webp"
         },
         {
           "name": "Rob Gronkowski",
@@ -1187,6 +1196,10 @@
           "picture": "../players/CALIFORNIA/LAKERS - MAGIC.jpg"
         },
         {
+          "name": "Lisa Leslie",
+          "picture": "../players/CALIFORNIA/SPARKS - LESLIE.jpg"
+        },
+        {
           "name": "Teemu Selänne",
           "picture": "../players/CALIFORNIA/DUCKS - SELANNE.jpg"
         },
@@ -1201,6 +1214,10 @@
         {
           "name": "Sandy Koufax",
           "picture": "../players/CALIFORNIA/DODGERS - SANDY KOUFAX.jpg"
+        },
+        {
+          "name": "Candace Parker",
+          "picture": "../players/CALIFORNIA/SPARKS - PARKER.jpg"
         },
         {
           "name": "Kareem Abdul-Jabbar",
@@ -1527,58 +1544,96 @@
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Mohegan Sun Arena",
+          "city": "Uncasville",
+          "capacity": "10.000 seats",
+          "residents": "Connecticut Sun (WNBA)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/CONNECTICUT - MOHEGAN SUN ARENA.jpg",
+            "../stadiums-pro/CONNECTICUT - MOHEGAN SUN ARENA - SUN.jpg"
           ]
         },
         {
-          "name": "Pat Dye Field",
-          "city": "Auburn",
-          "capacity": "87.451 seats",
-          "residents": "Auburn Tigers (NCAA Football)",
+          "name": "Yale Bowl",
+          "city": "New Heaven",
+          "capacity": "70.896 seats",
+          "residents": "Yale Bulldogs (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/AUBURN - PAT DYE FIELD - AUBURN.jpg",
-            "../stadiums-ncaa/stadiums/AUBURN - PAT DYE FIELD - AUBURN TIGERS.jpg"
+            "../stadiums-ncaa/stadiums/YALE - YALE BOWL.jpg",
+            "../stadiums-ncaa/stadiums/YALE - YALE BOWL BULLDOGS.jpg"
           ]
         },
         {
-          "name": "Coleman Coliseum",
-          "city": "Tuscaloosa",
-          "capacity": "15.316 seats",
-          "residents": "Alabama Crimson Tide (NCAA Basket)",
+          "name": "Pratt & Whitney Stadium at Rentschler Field",
+          "city": "East Hartford",
+          "capacity": "40.000 seats",
+          "residents": "UConn Huskies (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/ALABAMA - COLEMAN COLISEUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/arenas/ALABAMA - COLEMAN COLISEUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-ncaa/stadiums/UCONN - RENTSCHLER FIELD.jpg",
+            "../stadiums-ncaa/stadiums/UCONN - RENTSCHLER FIELD HUSKIES.jpeg"
           ]
         },
         {
-          "name": "Auburn Arena",
-          "city": "Auburn",
-          "capacity": "9.121 seats",
-          "residents": "Auburn Tigers (NCAA Basket)",
+          "name": "XL Center",
+          "city": "Hartford",
+          "capacity": "15.684 seats",
+          "residents": "UConn Huskies (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/AUBURN - AUBURN ARENA - AUBURN.jpg",
-            "../stadiums-ncaa/arenas/AUBURN - AUBURN ARENA - AUBURN TIGERS.jpg"
+            "../stadiums-ncaa/arenas/UCONN - XL CENTER - STORRS.jpg",
+            "../stadiums-ncaa/arenas/UCONN - XL CENTER - STORRS HUSKIES.jpeg"
+          ]
+        },
+        {
+          "name": "Ingalls Rink",
+          "city": "New Heaven",
+          "capacity": "3.500 seats",
+          "residents": "Yale Bulldogs (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/YALE - INGALLS RINK.png",
+            "../stadiums-ncaa/arenas/YALE - INGALLS RINK BULLDOGS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Tina Charles",
+          "picture": "../players/CONNECTICUT/SUN - CHARLES.jpg"
         },
         {
-          "name": "Charles Barkley",
-          "picture": "../players/ALABAMA/AUBURN - BARKLEY.jpg"
+          "name": "Jonquel Jones",
+          "picture": "../players/CONNECTICUT/SUN - JONES.webp"
         },
         {
-          "name": "DeMarcus Ware",
-          "picture": "../players/ALABAMA/TROY - DEMARCUS WARE.jpg"
+          "name": "Ray Allen",
+          "picture": "../players/CONNECTICUT/UCONN - ALLEN.jpg"
+        },
+        {
+          "name": "Diana Taurasi",
+          "picture": "../players/CONNECTICUT/UCONN - TAURASI.jpg"
+        },
+        {
+          "name": "Sue Bird",
+          "picture": "../players/CONNECTICUT/UCONN - BIRD.jpg"
+        },
+        {
+          "name": "Maya Moore",
+          "picture": "../players/CONNECTICUT/UCONN - MOORE.jpg"
+        },
+        {
+          "name": "Breanna Stewart",
+          "picture": "../players/CONNECTICUT/UCONN - STEWART.webp"
+        },
+        {
+          "name": "Kemba Walker",
+          "picture": "../players/CONNECTICUT/UCONN - WALKER.jpg"
+        },
+        {
+          "name": "Vin Baker",
+          "picture": "../players/CONNECTICUT/HARTFORD - BAKER.jpg"
+        },
+        {
+          "name": "Richard 'Rip' Hamilton",
+          "picture": "../players/CONNECTICUT/UCONN - HAMILTON.jpg"
         }
       ]
     },
@@ -1586,7 +1641,127 @@
       "id": 8,
       "nom": "Delaware",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg",
-      "carte": "state-layer/DE.jpg"
+      "carte": "state-layer/DE.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #4B9CD3, #F0DC82)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Delaware Blue Coats",
+          "logo": "../logos/NBA GL/Delaware_Blue_Coats_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "UConn Huskies",
+          "logo": "../logos/NCAA/uconn-huskies-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Yale Bulldogs",
+          "logo": "../logos/NCAA/Yale-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Mohegan Sun Arena",
+          "city": "Uncasville",
+          "capacity": "10.000 seats",
+          "residents": "Connecticut Sun (WNBA)",
+          "pictures": [
+            "../stadiums-pro/CONNECTICUT - MOHEGAN SUN ARENA.jpg",
+            "../stadiums-pro/CONNECTICUT - MOHEGAN SUN ARENA - SUN.jpg"
+          ]
+        },
+        {
+          "name": "Yale Bowl",
+          "city": "New Heaven",
+          "capacity": "70.896 seats",
+          "residents": "Yale Bulldogs (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/YALE - YALE BOWL.jpg",
+            "../stadiums-ncaa/stadiums/YALE - YALE BOWL BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "Pratt & Whitney Stadium at Rentschler Field",
+          "city": "East Hartford",
+          "capacity": "40.000 seats",
+          "residents": "UConn Huskies (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/UCONN - RENTSCHLER FIELD.jpg",
+            "../stadiums-ncaa/stadiums/UCONN - RENTSCHLER FIELD HUSKIES.jpeg"
+          ]
+        },
+        {
+          "name": "XL Center",
+          "city": "Hartford",
+          "capacity": "15.684 seats",
+          "residents": "UConn Huskies (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/UCONN - XL CENTER - STORRS.jpg",
+            "../stadiums-ncaa/arenas/UCONN - XL CENTER - STORRS HUSKIES.jpeg"
+          ]
+        },
+        {
+          "name": "Ingalls Rink",
+          "city": "New Heaven",
+          "capacity": "3.500 seats",
+          "residents": "Yale Bulldogs (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/YALE - INGALLS RINK.png",
+            "../stadiums-ncaa/arenas/YALE - INGALLS RINK BULLDOGS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Tina Charles",
+          "picture": "../players/CONNECTICUT/SUN - CHARLES.jpg"
+        },
+        {
+          "name": "Jonquel Jones",
+          "picture": "../players/CONNECTICUT/SUN - JONES.webp"
+        },
+        {
+          "name": "Ray Allen",
+          "picture": "../players/CONNECTICUT/UCONN - ALLEN.jpg"
+        },
+        {
+          "name": "Diana Taurasi",
+          "picture": "../players/CONNECTICUT/UCONN - TAURASI.jpg"
+        },
+        {
+          "name": "Sue Bird",
+          "picture": "../players/CONNECTICUT/UCONN - BIRD.jpg"
+        },
+        {
+          "name": "Maya Moore",
+          "picture": "../players/CONNECTICUT/UCONN - MOORE.jpg"
+        },
+        {
+          "name": "Breanna Stewart",
+          "picture": "../players/CONNECTICUT/UCONN - STEWART.webp"
+        },
+        {
+          "name": "Kemba Walker",
+          "picture": "../players/CONNECTICUT/UCONN - WALKER.jpg"
+        },
+        {
+          "name": "Vin Baker",
+          "picture": "../players/CONNECTICUT/HARTFORD - BAKER.jpg"
+        },
+        {
+          "name": "Richard 'Rip' Hamilton",
+          "picture": "../players/CONNECTICUT/UCONN - HAMILTON.jpg"
+        }
+      ]
     },
     {
       "id": 10,
