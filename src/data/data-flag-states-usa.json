@@ -2484,13 +2484,95 @@
       "id": 12,
     "nom": "Hawaii",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
-    "carte": "state-layer/HW.jpg"
+    "carte": "state-layer/HW.jpg",
+    "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #00BFFF, #7FFF00)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Hawaii Rainbow Warriors",
+          "logo": "../logos/NCAA/Hawaii-Warriors-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Clarence T.C. Ching Athletics Complex",
+          "city": "Honolulu",
+          "capacity": "10.000 seats",
+          "residents": "Hawaii Rainbow Warriors (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/HAWAI - STADIUM AERIAL.jpg",
+            "../stadiums-ncaa/stadiums/HAWAI - STADIUM.jpg"
+          ]
+        },
+        {
+          "name": "Stan Sheriff Center",
+          "city": "Honolulu",
+          "capacity": "10.300 seats",
+          "residents": "Hawaii Rainbow Warriors (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/HAWAI - ARENA.jpg",
+            "../stadiums-ncaa/arenas/HAWAI - ARENA WARRIORS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Jason Elam",
+          "picture": "../players/HAWAII/ELAM.webp"
+        }
+      ]
     },
     {
       "id": 13,
     "nom": "Idaho",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
-    "carte": "state-layer/ID.jpg"
+    "carte": "state-layer/ID.jpg",
+    "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #00BFFF, #7FFF00)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Hawaii Rainbow Warriors",
+          "logo": "../logos/NCAA/Hawaii-Warriors-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Clarence T.C. Ching Athletics Complex",
+          "city": "Honolulu",
+          "capacity": "10.000 seats",
+          "residents": "Hawaii Rainbow Warriors (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/HAWAI - STADIUM AERIAL.jpg",
+            "../stadiums-ncaa/stadiums/HAWAI - STADIUM.jpg"
+          ]
+        },
+        {
+          "name": "Stan Sheriff Center",
+          "city": "Honolulu",
+          "capacity": "10.300 seats",
+          "residents": "Hawaii Rainbow Warriors (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/HAWAI - ARENA.jpg",
+            "../stadiums-ncaa/arenas/HAWAI - ARENA WARRIORS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Jason Elam",
+          "picture": "../players/HAWAII/ELAM.webp"
+        }
+      ]
     },
     {
       "id": 14,
