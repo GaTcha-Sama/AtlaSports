@@ -1656,118 +1656,560 @@
       ],
       "junior_league": [
         {
-          "name": "UConn Huskies",
-          "logo": "../logos/NCAA/uconn-huskies-logo.png",
+          "name": "Delaware Blue Hens",
+          "logo": "../logos/NCAA/Delaware-Blue-Hens-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Yale Bulldogs",
-          "logo": "../logos/NCAA/Yale-Bulldogs-logo.png",
+          "name": "Delaware State Hornets",
+          "logo": "../logos/NCAA/Delaware-State-Hornets-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Mohegan Sun Arena",
-          "city": "Uncasville",
-          "capacity": "10.000 seats",
-          "residents": "Connecticut Sun (WNBA)",
+          "name": "Chase Fieldhouse",
+          "city": "Wilmington",
+          "capacity": "2.500 seats",
+          "residents": "Delaware Blue Coats (NBA G-League)",
           "pictures": [
-            "../stadiums-pro/CONNECTICUT - MOHEGAN SUN ARENA.jpg",
-            "../stadiums-pro/CONNECTICUT - MOHEGAN SUN ARENA - SUN.jpg"
+            "../stadiums-pro/DELAWARE - CHASE FIELDHOUSE.jpg",
+            "../stadiums-pro/DELAWARE - BLUE COATS WILMINGTON.jpg_large"
           ]
         },
         {
-          "name": "Yale Bowl",
-          "city": "New Heaven",
-          "capacity": "70.896 seats",
-          "residents": "Yale Bulldogs (NCAA Football)",
+          "name": "Delaware Stadium",
+          "city": "Newark",
+          "capacity": "22.000 seats",
+          "residents": "Delaware Fightin' Blue Hens (NCAA Football & Lacrosse)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/YALE - YALE BOWL.jpg",
-            "../stadiums-ncaa/stadiums/YALE - YALE BOWL BULLDOGS.jpg"
+             "../stadiums-ncaa/stadiums/DELAWARE - DELAWARE STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/DELAWARE - DELAWARE STADIUM NEWARK.jpg"
           ]
         },
         {
-          "name": "Pratt & Whitney Stadium at Rentschler Field",
-          "city": "East Hartford",
-          "capacity": "40.000 seats",
-          "residents": "UConn Huskies (NCAA Football)",
+          "name": "Alumni Stadium",
+          "city": "Dover",
+          "capacity": "7.193 seats",
+          "residents": "Delaware Fightin' Blue Hens (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/UCONN - RENTSCHLER FIELD.jpg",
-            "../stadiums-ncaa/stadiums/UCONN - RENTSCHLER FIELD HUSKIES.jpeg"
-          ]
-        },
-        {
-          "name": "XL Center",
-          "city": "Hartford",
-          "capacity": "15.684 seats",
-          "residents": "UConn Huskies (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/UCONN - XL CENTER - STORRS.jpg",
-            "../stadiums-ncaa/arenas/UCONN - XL CENTER - STORRS HUSKIES.jpeg"
-          ]
-        },
-        {
-          "name": "Ingalls Rink",
-          "city": "New Heaven",
-          "capacity": "3.500 seats",
-          "residents": "Yale Bulldogs (NCAA Hockey)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/YALE - INGALLS RINK.png",
-            "../stadiums-ncaa/arenas/YALE - INGALLS RINK BULLDOGS.jpg"
+            "../stadiums-ncaa/stadiums/DELAWARE STATE - ALUMNI STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/DELAWARE STATE - ALUMNI STADIUM DOVER.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Tina Charles",
-          "picture": "../players/CONNECTICUT/SUN - CHARLES.jpg"
-        },
-        {
-          "name": "Jonquel Jones",
-          "picture": "../players/CONNECTICUT/SUN - JONES.webp"
-        },
-        {
-          "name": "Ray Allen",
-          "picture": "../players/CONNECTICUT/UCONN - ALLEN.jpg"
-        },
-        {
-          "name": "Diana Taurasi",
-          "picture": "../players/CONNECTICUT/UCONN - TAURASI.jpg"
-        },
-        {
-          "name": "Sue Bird",
-          "picture": "../players/CONNECTICUT/UCONN - BIRD.jpg"
-        },
-        {
-          "name": "Maya Moore",
-          "picture": "../players/CONNECTICUT/UCONN - MOORE.jpg"
-        },
-        {
-          "name": "Breanna Stewart",
-          "picture": "../players/CONNECTICUT/UCONN - STEWART.webp"
-        },
-        {
-          "name": "Kemba Walker",
-          "picture": "../players/CONNECTICUT/UCONN - WALKER.jpg"
-        },
-        {
-          "name": "Vin Baker",
-          "picture": "../players/CONNECTICUT/HARTFORD - BAKER.jpg"
-        },
-        {
-          "name": "Richard 'Rip' Hamilton",
-          "picture": "../players/CONNECTICUT/UCONN - HAMILTON.jpg"
+          "name": "Joe Flacco",
+          "picture": "../players/DELAWARE/DELAWARE - JOE FLACCO.jpg"
         }
       ]
     },
     {
       "id": 10,
-      "nom": "Florida",
+      "nom": "Florida (North)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
-      "carte": "state-layer/FL.jpg"
+      "carte": "state-layer/FL.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #00aaff, #008000, #ff4500)",
+      "major_league": [
+        {
+          "name": "Jacksonville Jaguars",
+          "logo": "../logos/NFL/Jacksonville-Jaguars-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Orlando Magic",
+          "logo": "../logos/NBA/Orlando-Magic-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Orlando City",
+          "logo": "../logos/MLS/Orlando City.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Orlando Pride",
+          "logo": "../logos/NWSL/Orlando Pride.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Osceola_Magic",
+          "logo": "../logos/NBA GL/Osceola_Magic.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Orlando Solar Bears",
+          "logo": "../logos/ECHL/Orlando_Solar_Bears_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        },
+        {
+          "name": "Jacksonville Icemen",
+          "logo": "../logos/ECHL/Jacksonville_Icemen_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        },
+        {
+          "name": "Jacksonville Jumbo Shrimp",
+          "logo": "../logos/IL/Jacksonville_Jumbo_Shrimp_logo.svg.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Florida Gators",
+          "logo": "../logos/NCAA/Florida-Gators-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Florida State Seminoles",
+          "logo": "../logos/NCAA/Florida State Seminoles.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Florida A&M Rattlers",
+          "logo": "../logos/NCAA/Florida-AM-Rattlers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "North Florida Ospreys",
+          "logo": "../logos/NCAA/North Florida Ospreys-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Jacksonville Dolphins",
+          "logo": "../logos/NCAA/Jacksonville-Dolphins-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Central Florida Knights",
+          "logo": "../logos/NCAA/Central-Florida-Knights-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Stetson Hatters",
+          "logo": "../logos/NCAA/Stetson-Hatters-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "EverBank Field",
+          "city": "Jacksonville",
+          "capacity": "67.838 seats",
+          "residents": "Jacksonville Jaguars (NFL)",
+          "pictures": [
+            "../stadiums-pro/JACKSONVILLE - TIAA BANK FIELD.jpg",
+            "../stadiums-pro/JACKSONVILLE - TIAA BANK FIELD JAGUARS.jpg"
+          ]
+        },
+        {
+          "name": "Amway Center",
+          "city": "Orlando",
+          "capacity": "18.500 seats",
+          "residents": "Orlando (NBA)",
+          "pictures": [
+            "../stadiums-pro/ORLANDO - AMWAY CENTER.jpg",
+            "../stadiums-pro/ORLANDO - AMWAY CENTER MAGIC.jpg"
+          ]
+        },
+        {
+          "name": "Inter&Co Stadium",
+          "city": "Orlando",
+          "capacity": "25.500 seats",
+          "residents": "Orlando City (MLS) and Orlando Pride (NWSL)",
+          "pictures": [
+            "../stadiums-pro/ORLANDO - ORLANDO STADIUM.jpg",
+            "../stadiums-pro/ORLANDO - ORLANDO STADIUM CITY.jpg"
+          ]
+        },
+        {
+          "name": "Ben Hill Griffin Stadium",
+          "city": "Gainesville",
+          "capacity": "88.548 seats",
+          "residents": "Florida Gators (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/FLORIDA - STEVE SPURRIER-FLORIDA FIELD - GAINESVILLE.png",
+            "../stadiums-ncaa/stadiums/FLORIDA - STEVE SPURRIER-FLORIDA FIELD - GAINESVILLE GATORS.jpg"
+          ]
+        },
+        {
+          "name": "Doak Campbell Stadium",
+          "city": "Tallahassee",
+          "capacity": "79.560 seats",
+          "residents": "Florida State Seminoles (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/FLORIDA STATE - BOBBY BOWDEN FIELD - TALLAHASSEE.jpg",
+            "../stadiums-ncaa/stadiums/FLORIDA STATE - BOBBY BOWDEN FIELD - TALLAHASSEE SEMINOLES.jpg"
+          ]
+        },
+        {
+          "name": "Spectrum Stadium",
+          "city": "Orlando",
+          "capacity": "45.301 seats",
+          "residents": "UCF Knights (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/UCF - SPECTRUM STADIUM - ORLANDO.jpg",
+            "../stadiums-ncaa/stadiums/UCF - SPECTRUM STADIUM - ORLANDO KNIGHTS.jpg"
+          ]
+        },
+        {
+          "name": "O'Connell Center",
+          "city": "Gainesville",
+          "capacity": "10.133 seats",
+          "residents": "Florida Gators (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FLORIDA - O'CONNELL CENTER - GAINESVILLE.jpg",
+            "../stadiums-ncaa/arenas/FLORIDA - O'CONNELL CENTER - GAINESVILLE GATORS.jpg"
+          ]
+        },        
+        {
+          "name": "Donald L. Ticker Civic Center",
+          "city": "Tallahassee",
+          "capacity": "11.500 seats",
+          "residents": "Florida State Seminoles (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FLORIDA STATE - DONALD L. TICKER CIVIC CENTER - TALLAHASSEE.jpg",
+            "../stadiums-ncaa/arenas/FLORIDA STATE - DONALD L. TICKER CIVIC CENTER - TALLAHASSEE SEMINOLES.jpg"
+          ]
+        },
+        {
+          "name": "Addition Financial Arena",
+          "city": "Orlando",
+          "capacity": "9.432 seats",
+          "residents": "UCF Knights (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/UCF - CFE ARENA - ORLANDO.jpg",
+            "../stadiums-ncaa/arenas/UCF - CFE ARENA - ORLANDO KNIGHTS.jpeg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Shaquille O'Neal",
+          "picture": "../players/FLORIDA/MAGIC - O'NEAL 4.jpg"
+        },
+        {
+          "name": "Tony Boselli",
+          "picture": "../players/FLORIDA/JAGUARS - BOSELLI.jpg"
+        },
+        {
+          "name": "Tracy McGrady",
+          "picture": "../players/FLORIDA/MAGIC - MCGRADY 2.jpg"
+        },
+        {
+          "name": "Alex Morgan",
+          "picture": "../players/FLORIDA/PRIDE - MORGAN.jpg"
+        },
+        {
+          "name": "Anfernee 'Penny' Hardaway",
+          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg"
+        },
+        {
+          "name": "Fred Taylor",
+          "picture": "../players/FLORIDA/JAGUARS - FRED TAYLOR.jpg"
+        },
+        {
+          "name": "Marta",
+          "picture": "../players/FLORIDA/PRIDE - MARTA.jpg"
+        },
+        {
+          "name": "Dwight Howard",
+          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg"
+        },
+        {
+          "name": "Kaka",
+          "picture": "../players/FLORIDA/CITY - KAKA.jpg"
+        },
+        {
+          "name": "Bradley Beal",
+          "picture": "../players/FLORIDA/FLORIDA - BEAL 1.jpg"
+        },
+        {
+          "name": "Warrick Dunn",
+          "picture": "../players/FLORIDA/FLORIDA STATE - WARRICK DUNN.jpg"
+        },
+        {
+          "name": "Al Horford",
+          "picture": "../players/FLORIDA/FLORIDA - HORFORD.JPG"
+        },
+        {
+          "name": "Emmitt Smith",
+          "picture": "../players/FLORIDA/FLORIDA - EMMITT SMITH.jpg"
+        },
+        {
+          "name": "Joachim Noah",
+          "picture": "../players/FLORIDA/FLORIDA - NOAH.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "nom": "Florida (South)",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
+      "carte": "state-layer/FL.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #00C9FF, #92FE9D, #FF6A00)",
+      "major_league": [
+        {
+          "name": "Miami Dolphins",
+          "logo": "../logos/NFL/Miami-Dolphins-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Tampa Bay Buccaneers",
+          "logo": "../logos/NFL/Tampa-Bay-Buccaneers-logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Miami Marlins",
+          "logo": "../logos/MLB/Miami-Marlins-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Tampa Bay Rays",
+          "logo": "../logos/MLB/Tampa-Bay-Rays-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Miami Heat",
+          "logo": "../logos/NBA/Miami-Heat-logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Florida Panthers",
+          "logo": "../logos/NHL/Florida-Panthers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Tampa Bay Lightning",
+          "logo": "../logos/NHL/Tampa Bay Lightning.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Inter Miami CF",
+          "logo": "../logos/MLS/Inter Miami CF.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Florida Everblades",
+          "logo": "../logos/ECHL/Florida_Everblades_Logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Miami Hurricanes",
+          "logo": "../logos/NCAA/Miami University Hurricanes.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "FIU - Florida International - Panthers",
+          "logo": "../logos/NCAA/FIU-Panthers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Florida Atlantic Owls",
+          "logo": "../logos/NCAA/Florida-Atlantic-Owls-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "FGCU - Florida Gulf Coast - Eagles",
+          "logo": "../logos/NCAA/Florida-Gulf-Coast-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "South Florida Bulls",
+          "logo": "../logos/NCAA/South-Florida-Bulls-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "EverBank Field",
+          "city": "Jacksonville",
+          "capacity": "67.838 seats",
+          "residents": "Jacksonville Jaguars (NFL)",
+          "pictures": [
+            "../stadiums-pro/JACKSONVILLE - TIAA BANK FIELD.jpg",
+            "../stadiums-pro/JACKSONVILLE - TIAA BANK FIELD JAGUARS.jpg"
+          ]
+        },
+        {
+          "name": "Amway Center",
+          "city": "Orlando",
+          "capacity": "18.500 seats",
+          "residents": "Orlando (NBA)",
+          "pictures": [
+            "../stadiums-pro/ORLANDO - AMWAY CENTER.jpg",
+            "../stadiums-pro/ORLANDO - AMWAY CENTER MAGIC.jpg"
+          ]
+        },
+        {
+          "name": "Inter&Co Stadium",
+          "city": "Orlando",
+          "capacity": "25.500 seats",
+          "residents": "Orlando City (MLS) and Orlando Pride (NWSL)",
+          "pictures": [
+            "../stadiums-pro/ORLANDO - ORLANDO STADIUM.jpg",
+            "../stadiums-pro/ORLANDO - ORLANDO STADIUM CITY.jpg"
+          ]
+        },
+        {
+          "name": "Ben Hill Griffin Stadium",
+          "city": "Gainesville",
+          "capacity": "88.548 seats",
+          "residents": "Florida Gators (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/FLORIDA - STEVE SPURRIER-FLORIDA FIELD - GAINESVILLE.png",
+            "../stadiums-ncaa/stadiums/FLORIDA - STEVE SPURRIER-FLORIDA FIELD - GAINESVILLE GATORS.jpg"
+          ]
+        },
+        {
+          "name": "Doak Campbell Stadium",
+          "city": "Tallahassee",
+          "capacity": "79.560 seats",
+          "residents": "Florida State Seminoles (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/FLORIDA STATE - BOBBY BOWDEN FIELD - TALLAHASSEE.jpg",
+            "../stadiums-ncaa/stadiums/FLORIDA STATE - BOBBY BOWDEN FIELD - TALLAHASSEE SEMINOLES.jpg"
+          ]
+        },
+        {
+          "name": "Spectrum Stadium",
+          "city": "Orlando",
+          "capacity": "45.301 seats",
+          "residents": "UCF Knights (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/UCF - SPECTRUM STADIUM - ORLANDO.jpg",
+            "../stadiums-ncaa/stadiums/UCF - SPECTRUM STADIUM - ORLANDO KNIGHTS.jpg"
+          ]
+        },
+        {
+          "name": "O'Connell Center",
+          "city": "Gainesville",
+          "capacity": "10.133 seats",
+          "residents": "Florida Gators (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FLORIDA - O'CONNELL CENTER - GAINESVILLE.jpg",
+            "../stadiums-ncaa/arenas/FLORIDA - O'CONNELL CENTER - GAINESVILLE GATORS.jpg"
+          ]
+        },        
+        {
+          "name": "Donald L. Ticker Civic Center",
+          "city": "Tallahassee",
+          "capacity": "11.500 seats",
+          "residents": "Florida State Seminoles (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FLORIDA STATE - DONALD L. TICKER CIVIC CENTER - TALLAHASSEE.jpg",
+            "../stadiums-ncaa/arenas/FLORIDA STATE - DONALD L. TICKER CIVIC CENTER - TALLAHASSEE SEMINOLES.jpg"
+          ]
+        },
+        {
+          "name": "Addition Financial Arena",
+          "city": "Orlando",
+          "capacity": "9.432 seats",
+          "residents": "UCF Knights (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/UCF - CFE ARENA - ORLANDO.jpg",
+            "../stadiums-ncaa/arenas/UCF - CFE ARENA - ORLANDO KNIGHTS.jpeg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Shaquille O'Neal",
+          "picture": "../players/FLORIDA/MAGIC - O'NEAL 4.jpg"
+        },
+        {
+          "name": "Tony Boselli",
+          "picture": "../players/FLORIDA/JAGUARS - BOSELLI.jpg"
+        },
+        {
+          "name": "Tracy McGrady",
+          "picture": "../players/FLORIDA/MAGIC - MCGRADY 2.jpg"
+        },
+        {
+          "name": "Alex Morgan",
+          "picture": "../players/FLORIDA/PRIDE - MORGAN.jpg"
+        },
+        {
+          "name": "Anfernee 'Penny' Hardaway",
+          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg"
+        },
+        {
+          "name": "Fred Taylor",
+          "picture": "../players/FLORIDA/JAGUARS - FRED TAYLOR.jpg"
+        },
+        {
+          "name": "Marta",
+          "picture": "../players/FLORIDA/PRIDE - MARTA.jpg"
+        },
+        {
+          "name": "Dwight Howard",
+          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg"
+        },
+        {
+          "name": "Kaka",
+          "picture": "../players/FLORIDA/CITY - KAKA.jpg"
+        },
+        {
+          "name": "Bradley Beal",
+          "picture": "../players/FLORIDA/FLORIDA - BEAL 1.jpg"
+        },
+        {
+          "name": "Warrick Dunn",
+          "picture": "../players/FLORIDA/FLORIDA STATE - WARRICK DUNN.jpg"
+        },
+        {
+          "name": "Al Horford",
+          "picture": "../players/FLORIDA/FLORIDA - HORFORD.JPG"
+        },
+        {
+          "name": "Emmitt Smith",
+          "picture": "../players/FLORIDA/FLORIDA - EMMITT SMITH.jpg"
+        },
+        {
+          "name": "Joachim Noah",
+          "picture": "../players/FLORIDA/FLORIDA - NOAH.jpg"
+        }
+      ]
     },
     {
       "id": 11,
