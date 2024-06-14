@@ -1743,7 +1743,7 @@
       ],
       "minor_league": [
         {
-          "name": "Osceola_Magic",
+          "name": "Osceola Magic",
           "logo": "../logos/NBA GL/Osceola_Magic.png",
           "league": "NBA G-League",
           "leagueLogo": "../logos/NBA GL/NBAGL.png"
@@ -1826,7 +1826,7 @@
           "name": "Amway Center",
           "city": "Orlando",
           "capacity": "18.500 seats",
-          "residents": "Orlando (NBA)",
+          "residents": "Orlando Magic (NBA)",
           "pictures": [
             "../stadiums-pro/ORLANDO - AMWAY CENTER.jpg",
             "../stadiums-pro/ORLANDO - AMWAY CENTER MAGIC.jpg"
@@ -2062,152 +2062,186 @@
       ],
       "stadiums": [
         {
-          "name": "EverBank Field",
-          "city": "Jacksonville",
-          "capacity": "67.838 seats",
-          "residents": "Jacksonville Jaguars (NFL)",
+          "name": "Raymond James Stadium",
+          "city": "Tampa",
+          "capacity": "75.000 seats",
+          "residents": "Tampa Bay Buccaneers (NFL)",
           "pictures": [
-            "../stadiums-pro/JACKSONVILLE - TIAA BANK FIELD.jpg",
-            "../stadiums-pro/JACKSONVILLE - TIAA BANK FIELD JAGUARS.jpg"
+            "../stadiums-pro/TAMPA - RAYMOND JAMES STADIUM.jpg",
+            "../stadiums-pro/TAMPA - RAYMOND JAMES STADIUM BUCCANEERS.jpg"
           ]
         },
         {
-          "name": "Amway Center",
-          "city": "Orlando",
-          "capacity": "18.500 seats",
-          "residents": "Orlando (NBA)",
+          "name": "Hard Rock Stadium",
+          "city": "Miami Gardens",
+          "capacity": "65.362 seats",
+          "residents": "Miami Dolphins (NFL) and Miami Hurricanes (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/ORLANDO - AMWAY CENTER.jpg",
-            "../stadiums-pro/ORLANDO - AMWAY CENTER MAGIC.jpg"
+            "../stadiums-pro/MIAMI - HARD ROCK STADIUM.jpg",
+            "../stadiums-pro/MIAMI - HARD ROCK STADIUM DOLPHINS.jpg"
           ]
         },
         {
-          "name": "Inter&Co Stadium",
-          "city": "Orlando",
-          "capacity": "25.500 seats",
-          "residents": "Orlando City (MLS) and Orlando Pride (NWSL)",
+          "name": "Marlins Park",
+          "city": "Miami",
+          "capacity": "37.000 seats",
+          "residents": "Miami Marlins (MLB)",
           "pictures": [
-            "../stadiums-pro/ORLANDO - ORLANDO STADIUM.jpg",
-            "../stadiums-pro/ORLANDO - ORLANDO STADIUM CITY.jpg"
+            "../stadiums-pro/MIAMI - MARLINS PARK.png",
+            "../stadiums-pro/MIAMI - MARLINS PARK MARLINS.jpg"
           ]
         },
         {
-          "name": "Ben Hill Griffin Stadium",
-          "city": "Gainesville",
-          "capacity": "88.548 seats",
-          "residents": "Florida Gators (NCAA Football)",
+          "name": "Tropicana Field",
+          "city": "St. Petersburg",
+          "capacity": "25.025 seats",
+          "residents": "Tampa Bay Rays (MLB)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/FLORIDA - STEVE SPURRIER-FLORIDA FIELD - GAINESVILLE.png",
-            "../stadiums-ncaa/stadiums/FLORIDA - STEVE SPURRIER-FLORIDA FIELD - GAINESVILLE GATORS.jpg"
-          ]
-        },
-        {
-          "name": "Doak Campbell Stadium",
-          "city": "Tallahassee",
-          "capacity": "79.560 seats",
-          "residents": "Florida State Seminoles (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/FLORIDA STATE - BOBBY BOWDEN FIELD - TALLAHASSEE.jpg",
-            "../stadiums-ncaa/stadiums/FLORIDA STATE - BOBBY BOWDEN FIELD - TALLAHASSEE SEMINOLES.jpg"
-          ]
-        },
-        {
-          "name": "Spectrum Stadium",
-          "city": "Orlando",
-          "capacity": "45.301 seats",
-          "residents": "UCF Knights (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/UCF - SPECTRUM STADIUM - ORLANDO.jpg",
-            "../stadiums-ncaa/stadiums/UCF - SPECTRUM STADIUM - ORLANDO KNIGHTS.jpg"
-          ]
-        },
-        {
-          "name": "O'Connell Center",
-          "city": "Gainesville",
-          "capacity": "10.133 seats",
-          "residents": "Florida Gators (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/FLORIDA - O'CONNELL CENTER - GAINESVILLE.jpg",
-            "../stadiums-ncaa/arenas/FLORIDA - O'CONNELL CENTER - GAINESVILLE GATORS.jpg"
+            "../stadiums-pro/TAMPA - TROPICANA FIELD.jpg",
+            "../stadiums-pro/TAMPA - TROPICANA FIELD RAYS.jpg"
           ]
         },        
         {
-          "name": "Donald L. Ticker Civic Center",
-          "city": "Tallahassee",
-          "capacity": "11.500 seats",
-          "residents": "Florida State Seminoles (NCAA Basket)",
+          "name": "Kaseya Center",
+          "city": "Miami",
+          "capacity": "19.600 seats",
+          "residents": "Miami Heat (NBA)",
           "pictures": [
-            "../stadiums-ncaa/arenas/FLORIDA STATE - DONALD L. TICKER CIVIC CENTER - TALLAHASSEE.jpg",
-            "../stadiums-ncaa/arenas/FLORIDA STATE - DONALD L. TICKER CIVIC CENTER - TALLAHASSEE SEMINOLES.jpg"
+            "../stadiums-pro/MIAMI - AMERICAN AIRLINES ARENA 1.png",
+            "../stadiums-pro/MIAMI - AMERICAN AIRLINES ARENA HEAT.jpg"
           ]
         },
         {
-          "name": "Addition Financial Arena",
-          "city": "Orlando",
-          "capacity": "9.432 seats",
-          "residents": "UCF Knights (NCAA Basket)",
+          "name": "Amerant Bank Arena",
+          "city": "Sunrise",
+          "capacity": "20.000 seats",
+          "residents": "Florida Panthers (NHL)",
           "pictures": [
-            "../stadiums-ncaa/arenas/UCF - CFE ARENA - ORLANDO.jpg",
-            "../stadiums-ncaa/arenas/UCF - CFE ARENA - ORLANDO KNIGHTS.jpeg"
+            "../stadiums-pro/SUNRISE - AMERANT BANK ARENA.jpg",
+            "../stadiums-pro/SUNRISE - BB&T CENTER PANTHERS.jpg"
+          ]
+        },
+        {
+          "name": "Amalie Arena",
+          "city": "Tampa",
+          "capacity": "21.500 seats",
+          "residents": "Tampa Bay Lightning (NHL)",
+          "pictures": [
+            "../stadiums-pro/TAMPA - AMALIE ARENA.png",
+            "../stadiums-pro/TAMPA - AMALIE ARENA LIGHTNING.jpg"
+          ]
+        },
+        {
+          "name": "Chase Stadium",
+          "city": "Fort Lauderdale",
+          "capacity": "21.550 seats",
+          "residents": "Inter Miami CF (MLS)",
+          "pictures": [
+            "../stadiums-pro/MIAMI - CHASE STADIUM.jpg",
+            "../stadiums-pro/MIAMI - MIAMI CHASE STADIUM INTER.webp"
+          ]
+        },
+        {
+          "name": "FAU Stadium",
+          "city": "Boca Raton",
+          "capacity": "30.000 seats",
+          "residents": "FAU Owls (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/FAU - FAU STADIUM - BOCA RATON.jpg",
+            "../stadiums-ncaa/stadiums/FAU - FAU STADIUM - BOCA RATON OWLS.jpg"
+          ]
+        },
+        {
+          "name": "BankUnited Center",
+          "city": "Coral Gables",
+          "capacity": "7.972 seats",
+          "residents": "Miami Hurricanes (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MIAMI - BANKUNITED CENTER - CORAL GABLES.jpg",
+            "../stadiums-ncaa/arenas/MIAMI - BANKUNITED CENTER - CORAL GABLES HURRICANES.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Shaquille O'Neal",
-          "picture": "../players/FLORIDA/MAGIC - O'NEAL 4.jpg"
+          "name": "Dwyane Wade",
+          "picture": "../players/FLORIDA/HEAT - WADE 1.jpg"
         },
         {
-          "name": "Tony Boselli",
-          "picture": "../players/FLORIDA/JAGUARS - BOSELLI.jpg"
+          "name": "Dan Marino",
+          "picture": "../players/FLORIDA/DOLPHINS - DAN MARINO 1.jpg"
         },
         {
-          "name": "Tracy McGrady",
-          "picture": "../players/FLORIDA/MAGIC - MCGRADY 2.jpg"
+          "name": "Martin St. Louis",
+          "picture": "../players/FLORIDA/LIGHTNING - MARTIN ST. LOUIS.jpg"
         },
         {
-          "name": "Alex Morgan",
-          "picture": "../players/FLORIDA/PRIDE - MORGAN.jpg"
+          "name": "Miguel Cabrera",
+          "picture": "../players/FLORIDA/MARLINS - MIGUEL CABRERA.jpg"
         },
         {
-          "name": "Anfernee 'Penny' Hardaway",
-          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg"
+          "name": "Roberto Luongo",
+          "picture": "../players/FLORIDA/PANTHERS - ROBERTO LUONGO 1.jpg"
         },
         {
-          "name": "Fred Taylor",
-          "picture": "../players/FLORIDA/JAGUARS - FRED TAYLOR.jpg"
+          "name": "Lionel Messi",
+          "picture": "../players/FLORIDA/INTER - MESSI.jpg"
         },
         {
-          "name": "Marta",
-          "picture": "../players/FLORIDA/PRIDE - MARTA.jpg"
+          "name": "Tom Brady",
+          "picture": "../players/FLORIDA/BUCS - BRADY.jpg"
         },
         {
-          "name": "Dwight Howard",
-          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg"
+          "name": "LeBron James",
+          "picture": "../players/FLORIDA/HEAT - JAMES 4.jpg"
         },
         {
-          "name": "Kaka",
-          "picture": "../players/FLORIDA/CITY - KAKA.jpg"
+          "name": "Jason Taylor",
+          "picture": "../players/FLORIDA/DOLPHINS - JASON TAYLOR 1.jpg"
         },
         {
-          "name": "Bradley Beal",
-          "picture": "../players/FLORIDA/FLORIDA - BEAL 1.jpg"
+          "name": "Steven Stamkos",
+          "picture": "../players/FLORIDA/LIGHTNING - STEVEN STAMKOS.jpg"
         },
         {
-          "name": "Warrick Dunn",
-          "picture": "../players/FLORIDA/FLORIDA STATE - WARRICK DUNN.jpg"
+          "name": "Giancarlo Stanton",
+          "picture": "../players/FLORIDA/MARLINS - STANTON.jpg"
         },
         {
-          "name": "Al Horford",
-          "picture": "../players/FLORIDA/FLORIDA - HORFORD.JPG"
+          "name": "Sergei Bobrovsky",
+          "picture": "../players/FLORIDA/PANTHERS - BOBROVSKY.jpg"
         },
         {
-          "name": "Emmitt Smith",
-          "picture": "../players/FLORIDA/FLORIDA - EMMITT SMITH.jpg"
+          "name": "Bob Griese",
+          "picture": "../players/FLORIDA/DOLPHINS - BOB GRIESE.jpg"
         },
         {
-          "name": "Joachim Noah",
-          "picture": "../players/FLORIDA/FLORIDA - NOAH.jpg"
+          "name": "Alonzo Mourning",
+          "picture": "../players/FLORIDA/HEAT - MOURNING.jpg"
+        },
+        {
+          "name": "Nikita Kucherov",
+          "picture": "../players/FLORIDA/LIGHTNING - NIKITA KUCHEROV 1.jpg"
+        },
+        {
+          "name": "Warren Sapp",
+          "picture": "../players/FLORIDA/BUCCANEERS - WARREN SAPP 2.jpg"
+        },
+        {
+          "name": "Pavel Bure",
+          "picture": "../players/FLORIDA/PANTHERS - PAVEL BURE 2.jpg"
+        },
+        {
+          "name": "Evan Longoria",
+          "picture": "../players/FLORIDA/RAYS - EVAN LONGORIA.jpg"
+        },
+        {
+          "name": "Victor Hedman",
+          "picture": "../players/FLORIDA/LIGHTNING - VICTOR HEDMAN.jpg"
+        },
+        {
+          "name": "Ray Lewis",
+          "picture": "../players/FLORIDA/MIAMI - RAY LEWIS.jpg"
         }
       ]
     },
@@ -2215,7 +2249,236 @@
       "id": 11,
     "nom": "Georgia",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
-    "carte": "state-layer/GE.jpg"
+    "carte": "state-layer/GE.jpg",
+    "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #D0103A, #002B7F)",
+      "major_league": [
+        {
+          "name": "Atlanta Falcons",
+          "logo": "../logos/NFL/Atlanta-Falcons-logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Atlanta Braves",
+          "logo": "../logos/MLB/Atlanta-Braves-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Atlanta Hawks",
+          "logo": "../logos/NBA/Atlanta-HAwks-logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Atlanta Dream",
+          "logo": "../logos/WNBA/Atlanta Dream.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Atlanta United FC",
+          "logo": "../logos/MLS/Atlanta United FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "College Park Skyhawks",
+          "logo": "../logos/NBA GL/College_Park_Skyhawks_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Gwinnett Stripers",
+          "logo": "../logos/IL/Gwinnett_Stripers.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Atlanta Gladiators",
+          "logo": "../logos/ECHL/Atlanta-Gladiators-logo.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Georgia Bulldogs",
+          "logo": "../logos/NCAA/Georgia-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Georgia State Panthers",
+          "logo": "../logos/NCAA/Georgia-State-Panthers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Georgia Tech Yellow Jackets",
+          "logo": "../logos/NCAA/Georgia-Tech-Yellow-Jackets-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Kennesaw State Owls",
+          "logo": "../logos/NCAA/Kennesaw-State-Owls-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Georgia Southern Eagles",
+          "logo": "../logos/NCAA/Georgia-Southern-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Mercedes-Benz Stadium",
+          "city": "Atlanta",
+          "capacity": "71.000 seats",
+          "residents": "Atlanta Falcons (NFL) and Atlanta United FC (MLS)",
+          "pictures": [
+            "../stadiums-pro/ATLANTA - MERCEDES BENZ STADIUM.jpg",
+            "../stadiums-pro/ATLANTA - MERCEDES BENZ STADIUM FALCONS.png"
+          ]
+        },
+        {
+          "name": "Truist Park",
+          "city": "Atlanta",
+          "capacity": "51.084 seats",
+          "residents": "Atlanta Braves (MLB)",
+          "pictures": [
+            "../stadiums-pro/ATLANTA - SUNTRUST PARK.jpg",
+            "../stadiums-pro/ATLANTA - SUNTRUST PARK BRAVES.jpg"
+          ]
+        },
+        {
+          "name": "State Farm Arena",
+          "city": "Atlanta",
+          "capacity": "16.600 seats",
+          "residents": "Atlanta Hawks (NBA)",
+          "pictures": [
+            "../stadiums-pro/ATLANTA - PHILIPS ARENA.jpg",
+            "../stadiums-pro/ATLANTA - PHILIPS ARENA HAWKS.jpg"
+          ]
+        },
+        {
+          "name": "Gateway Center Arena",
+          "city": "College Park",
+          "capacity": "5.000 seats",
+          "residents": "Atlanta Dream (WNBA)",
+          "pictures": [
+            "../stadiums-pro/COLLEGE PARK - GATEWAY CENTER.jpg",
+            "../stadiums-pro/COLLEGE PARK - GATEWAY CENTER DREAM.jpg"
+          ]
+        },
+        {
+          "name": "Sanford Stadium",
+          "city": "Athens",
+          "capacity": "92.746 seats",
+          "residents": "Georgia Bulldogs (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/GEORGIA - SANFORD STADIUM - ATHENS.jpg",
+            "../stadiums-ncaa/stadiums/GEORGIA - SANFORD STADIUM - ATHENS BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "Bobby Dodd Stadium",
+          "city": "Atlanta",
+          "capacity": "55.000 seats",
+          "residents": "Georgia Tech Yellow Jackets (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/GEORGIA TECH - BOBBY DODD STADIUM.webp",
+            "../stadiums-ncaa/stadiums/GEORGIA TECH - BOBBY DODD STADIUM JACKETS.jpg"
+          ]
+        },
+        {
+          "name": "Center Parc Stadium",
+          "city": "Atlanta",
+          "capacity": "24.333 seats",
+          "residents": "Georgia State Panthers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/GEORGIA STATE - CENTER PARC STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/GEORGIA STATE - CENTER PARC STADIUM PANTHERS.jpg"
+          ]
+        },
+        {
+          "name": "Stegeman Coliseum",
+          "city": "Athens",
+          "capacity": "10.523 seats",
+          "residents": "Georgia Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GEORGIA - STEGEMAN COLISEUM - ATHENS.jpg",
+            "../stadiums-ncaa/arenas/GEORGIA - STEGEMAN COLISEUM - ATHENS BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "McCamish Pavilion",
+          "city": "Atlanta",
+          "capacity": "8.600 seats",
+          "residents": "Georgia Tech Yellow Jackets (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GEORGIA TECH - HANK MCCAMISH PAVILION - ATLANTA.jpg",
+            "../stadiums-ncaa/arenas/GEORGIA TECH - HANK MCCAMISH PAVILION - ATLANTA YELLOW.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Hank Aaron",
+          "picture": "../players/GEORGIA/BRAVES - HANK AARON.jpg"
+        },
+        {
+          "name": "Deion Sanders",
+          "picture": "../players/GEORGIA/FALCONS - DEION SANDERS 1.jpg"
+        },
+        {
+          "name": "Dominique Wilkins",
+          "picture": "../players/GEORGIA/HAWKS - WILKINS 2.jpg"
+        },
+        {
+          "name": "Ilya Kovalchuk",
+          "picture": "../players/GEORGIA/THRASHERS - KOVALCHUK.jpg"
+        },
+        {
+          "name": "Greg Maddux",
+          "picture": "../players/GEORGIA/BRAVES - GREG MADDUX.jpg"
+        },
+        {
+          "name": "Julio Jones",
+          "picture": "../players/GEORGIA/FALCONS - JULIO JONES 1.jpg"
+        },
+        {
+          "name": "Pete Maravich",
+          "picture": "../players/GEORGIA/HAWKS - MARAVICH.jpg"
+        },
+        {
+          "name": "Vyacheslav Kozlov",
+          "picture": "../players/GEORGIA/THRASHERS - KOZLOV.jpg"
+        },
+        {
+          "name": "Matt Ryan",
+          "picture": "../players/GEORGIA/FALCONS - MATT RYAN 2.jpg"
+        },
+        {
+          "name": "Warren Spahn",
+          "picture": "../players/GEORGIA/BRAVES - WARREN SPAHN.jpg"
+        },
+        {
+          "name": "Chris Bosh",
+          "picture": "../players/GEORGIA/GEORGIA TECH - BOSH.jpg"
+        },
+        {
+          "name": "Shannon Sharpe",
+          "picture": "../players/GEORGIA/SAVANNAH STATE - SHANNON SHARPE.jpg"
+        }
+      ]
     },
     {
       "id": 12,
