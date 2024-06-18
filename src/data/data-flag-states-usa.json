@@ -1,5 +1,5 @@
 [
-    {
+    { "__comment": "ALABAMA",
       "id": 1,
       "nom": "Alabama",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg",
@@ -116,7 +116,7 @@
         }
       ]
     },
-    {
+    { "__comment": "ALASKA",
       "id": 2,
       "nom": "Alaska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
@@ -179,7 +179,7 @@
         }
       ]
     },
-    {
+    { "__comment": "ARIZONA",
       "id": 3,
       "nom": "Arizona",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
@@ -400,7 +400,7 @@
         }
       ]
     },
-    {
+    { "__comment": "ARKANSAS",
       "id": 4,
       "nom": "Arkansas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg",
@@ -469,7 +469,7 @@
         }
       ]
     },
-    {
+    { "__comment": "CALIFORNIA NORTH",
       "id": 5,
       "nom": "California (North)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
@@ -824,7 +824,7 @@
         }
       ]
     },
-    {
+    { "__comment": "CALIFORNIA SOUTH",
       "id": 505,
       "nom": "California (South)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
@@ -1229,7 +1229,7 @@
         }
       ]
     },
-    {
+    { "__comment": "COLORADO",
       "id": 6,
       "nom": "Colorado",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
@@ -1486,7 +1486,7 @@
         }
       ]
     },
-    {
+    { "__comment": "CONNECTICUT",
       "id": 7,
       "nom": "Connecticut",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
@@ -1637,7 +1637,7 @@
         }
       ]
     },
-    {
+    { "__comment": "DELAWARE",
       "id": 8,
       "nom": "Delaware",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg",
@@ -1707,7 +1707,7 @@
         }
       ]
     },
-    {
+    { "__comment": "FLORIDA NORTH",
       "id": 10,
       "nom": "Florida (North)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
@@ -1962,7 +1962,7 @@
         }
       ]
     },
-    {
+    { "__comment": "FLORIDA SOUTH",
       "id": 1001,
       "nom": "Florida (South)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
@@ -2245,12 +2245,12 @@
         }
       ]
     },
-    {
+    { "__comment": "GEORGIA",
       "id": 11,
-    "nom": "Georgia",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
-    "carte": "state-layer/GE.jpg",
-    "map": "../map/arizona-test.jpg",
+      "nom": "Georgia",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
+      "carte": "state-layer/GE.jpg",
+      "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
       "backgroundGradient": "linear-gradient(to right, #D0103A, #002B7F)",
       "major_league": [
@@ -2480,12 +2480,12 @@
         }
       ]
     },
-    {
+    { "__comment": "HAWAII",
       "id": 12,
-    "nom": "Hawaii",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
-    "carte": "state-layer/HW.jpg",
-    "map": "../map/arizona-test.jpg",
+      "nom": "Hawaii",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+      "carte": "state-layer/HW.jpg",
+      "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
       "backgroundGradient": "linear-gradient(to right, #00BFFF, #7FFF00)",
       "major_league": [],
@@ -2527,102 +2527,494 @@
         }
       ]
     },
-    {
+    { "__comment": "IDAHO",
       "id": 13,
-    "nom": "Idaho",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
-    "carte": "state-layer/ID.jpg",
-    "map": "../map/arizona-test.jpg",
+      "nom": "Idaho",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
+      "carte": "state-layer/ID.jpg",
+      "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #00BFFF, #7FFF00)",
+      "backgroundGradient": "linear-gradient(to right, #228B22, #4682B4, #8B4513)",
       "major_league": [],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Idaho Steelheads",
+          "logo": "../logos/ECHL/Idaho_Steelheads_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "Hawaii Rainbow Warriors",
-          "logo": "../logos/NCAA/Hawaii-Warriors-logo.png",
+          "name": "Boise State Broncos",
+          "logo": "../logos/NCAA/Boise-State-Broncos-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Idaho Vandals",
+          "logo": "../logos/NCAA/Idaho-Vandals-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Idaho State Bengals",
+          "logo": "../logos/NCAA/Idaho-State-Bengals-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Clarence T.C. Ching Athletics Complex",
-          "city": "Honolulu",
-          "capacity": "10.000 seats",
-          "residents": "Hawaii Rainbow Warriors (NCAA Football)",
+          "name": "CenturyLink Arena",
+          "city": "Boise",
+          "capacity": "5.300 seats",
+          "residents": "Idaho Steelheads (ECHL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/HAWAI - STADIUM AERIAL.jpg",
-            "../stadiums-ncaa/stadiums/HAWAI - STADIUM.jpg"
+            "../stadiums-pro/IDAHO - CENTURYLINK.jpg",
+            "../stadiums-pro/IDAHO - CENTURYLINK ARENA.jpg"
           ]
         },
         {
-          "name": "Stan Sheriff Center",
-          "city": "Honolulu",
-          "capacity": "10.300 seats",
-          "residents": "Hawaii Rainbow Warriors (NCAA Basket)",
+          "name": "Albertsons Stadium",
+          "city": "Boise",
+          "capacity": "36.363 seats",
+          "residents": "Boise State Broncos (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/HAWAI - ARENA.jpg",
-            "../stadiums-ncaa/arenas/HAWAI - ARENA WARRIORS.jpg"
+            "../stadiums-ncaa/stadiums/BOISE STATE - ALBERTSONS STADIUM THE BLUE - BOISE.jpg",
+            "../stadiums-ncaa/stadiums/BOISE STATE - ALBERTSONS STADIUM THE BLUE - BOISE BRONCOS 1.jpg"
+          ]
+        },
+        {
+          "name": "ExtraMile Arena",
+          "city": "Boise",
+          "capacity": "12.644 seats",
+          "residents": "Boise State Broncos (NCAA BAsket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/BOISE STATE - TACO BELL ARENA - BOISE.jpg",
+            "../stadiums-ncaa/arenas/BOISE STATE - TACO BELL ARENA - BOISE BRONCOS.jpg"
+          ]
+        },
+        {
+          "name": "Kibbie Dome",
+          "city": "Moscow",
+          "capacity": "16.000 seats",
+          "residents": "Idaho Vandals (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/IDAHO - IDAHO VANDALS.jpg",
+            "../stadiums-ncaa/stadiums/IDAHO - IDAHO.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Jason Elam",
-          "picture": "../players/HAWAII/ELAM.webp"
+          "name": "Ryan Clady",
+          "picture": "../players/IDAHO/BOISE ST - RYAN CLADY.jpg"
+        },
+        {
+          "name": "Jared Allen",
+          "picture": "../players/IDAHO/IDAHO STATE - JARED ALLEN.jpg"
         }
       ]
     },
-    {
+    { "__comment": "ILLINOIS",
       "id": 14,
-    "nom": "Illinois",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg",
-    "carte": "state-layer/IL.jpg"
+      "nom": "Illinois",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg",
+      "carte": "state-layer/IL.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #2E8B57, #4682B4)",
+      "major_league": [
+        {
+          "name": "San Francisco 49ers",
+          "logo": "../logos/NFL/San-Francisco-49ers-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "San Francisco Giants",
+          "logo": "../logos/MLB/San-Francisco-Giants-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Oakland Athletics",
+          "logo": "../logos/MLB/Oakland-Athletics-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Golden State Warriors",
+          "logo": "../logos/NBA/Golden-State-Warriors-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Sacramento Kings",
+          "logo": "../logos/NBA/Sacramento-Kings-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "San Jose Sharks",
+          "logo": "../logos/NHL/logo-San-Jose-Sharks.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "San Jose Earthquakes",
+          "logo": "../logos/MLS/San Jose Earthquakes.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Golden State Valkyries",
+          "logo": "../logos/WNBA/Golden_State_Valkyries_logo.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Bay FC",
+          "logo": "../logos/NWSL/Bay FC.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Santa Cruz Warriors",
+          "logo": "../logos/NBA GL/Santa_Cruz_Warriors_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Stockton Kings",
+          "logo": "../logos/NBA GL/Stockton_Kings_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "San Jose Barracuda",
+          "logo": "../logos/AHL/San_Jose_Barracuda_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Sacramento River Cats",
+          "logo": "../logos/PCL/Sacramento-River-Cats.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "California Golden Bears",
+          "logo": "../logos/NCAA/California-Golden-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Stanford Cardinal",
+          "logo": "../logos/NCAA/Stanford-Cardinal-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "San Francisco Dons",
+          "logo": "../logos/NCAA/San-Francisco-Dons-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Santa Clara Broncos",
+          "logo": "../logos/NCAA/Santa-Clara-Broncos-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "St. Mary's Gaels",
+          "logo": "../logos/NCAA/St. Mary's Gaels.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "San Jose State Spartans",
+          "logo": "../logos/NCAA/San-Jose-State-Spartans-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Sacramento State Hornets",
+          "logo": "../logos/NCAA/Sacramento-State-Hornets-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Fresno State Bulldogs",
+          "logo": "../logos/NCAA/Fresno-State-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UC-Davis Aggies",
+          "logo": "../logos/NCAA/California-Davis-Aggies-Logo-1.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Levi's Stadium",
+          "city": "Santa Clara",
+          "capacity": "68.500 seats",
+          "residents": "San Francisco 49ers (NFL)",
+          "pictures": [
+            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM.jpg",
+            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM 49ERS.jpg"
+          ]
+        },
+        {
+          "name": "Oracle Park",
+          "city": "San Francisco",
+          "capacity": "42.300 seats",
+          "residents": "San Francisco Giants (MLB)",
+          "pictures": [
+            "../stadiums-pro/SAN FRANCISCO - AT&T PARK.jpg",
+            "../stadiums-pro/SAN FRANCISCO - AT&T PARK GIANTS.jpg"
+          ]
+        },
+        {
+          "name": "Oakland-Alameda County Coliseum",
+          "city": "Oakland",
+          "capacity": "42.300 seats",
+          "residents": "Oakland Athletics (MLB)",
+          "pictures": [
+            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM.jpg",
+            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM ATHLETICS.jpg"
+          ]
+        },
+        {
+          "name": "Chase Center",
+          "city": "San Francisco",
+          "capacity": "19.200 seats",
+          "residents": "Golden State Warriors (NBA) and Golden State Valkyries (WNBA)",
+          "pictures": [
+            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER.jpg",
+            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER WARRIORS.jpg"
+          ]
+        },
+        {
+          "name": "SAP Center",
+          "city": "San Jose",
+          "capacity": "17.562 seats",
+          "residents": "San Jose Sharks (NHL) and San Jose Barracuda (AHL)",
+          "pictures": [
+            "../stadiums-pro/SAN JOSE - SAP CENTER.jpg",
+            "../stadiums-pro/SAN JOSE - SAP CENTER SHARKS.png"
+          ]
+        },
+        {
+          "name": "Golden 1 Center",
+          "city": "Sacramento",
+          "capacity": "17.608 seats",
+          "residents": "Sacramento Kings (NBA)",
+          "pictures": [
+            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER.jpg",
+            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER KINGS.jpg"
+          ]
+        },
+        {
+          "name": "PayPal Park",
+          "city": "San Jose",
+          "capacity": "18.000 seats",
+          "residents": "San Jose Earthquakes (MLS) and Bay FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/SAN JOSE - PAYPAL PARK.png",
+            "../stadiums-pro/SAN JOSE - PAYPAL PARK EARTHQUAKES.jpg"
+          ]
+        },
+        {
+          "name": "California Memorial Stadium",
+          "city": "Berkeley",
+          "capacity": "63.000 seats",
+          "residents": "Cal Golden Bears (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY.jpg",
+            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY GOLDEN BEARS.jpg"
+          ]
+        },        
+        {
+          "name": "Stanford Stadium",
+          "city": "Stanford",
+          "capacity": "50.424 seats",
+          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD.jpg",
+            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD CARDINAL.png"
+          ]
+        },
+        {
+          "name": "Save Mart Center",
+          "city": "Fresno",
+          "capacity": "18.000 seats",
+          "residents": "Fresno State Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO.jpg",
+            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "Haas Pavilion",
+          "city": "Berkeley",
+          "capacity": "11.858 seats",
+          "residents": "Cal Golden Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY.jpg",
+            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY GOLDEN BEARS.jpg"
+          ]
+        },        
+        {
+          "name": "Maples Pavilion",
+          "city": "Stanford",
+          "capacity": "7.233 seats",
+          "residents": "Stanford Cardinal (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD.jpg",
+            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD CARDINAL.jpg"
+          ]
+        },
+        {
+          "name": "Events Center Arena",
+          "city": "San Jose",
+          "capacity": "5.000 seats",
+          "residents": "San Jose State Spartans (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE.jpg",
+            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE SPARTANS.jpg"
+          ]
+        },
+        {
+          "name": "Hornets Nest",
+          "city": "Sacramento",
+          "capacity": "1.012 seats",
+          "residents": "Sacramento State Hornets (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO.jpg",
+            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO HORNETS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Stephen Curry",
+          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Ken Stabler",
+          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+        },
+        {
+          "name": "Mark McGwire",
+          "picture": "../players/CALIFORNIA/A's - MARK MCGWIRE.jpg"
+        },
+        {
+          "name": "Joe Thornton",
+          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+        },
+        {
+          "name": "Rickey Henderson",
+          "picture": "../players/CALIFORNIA/A's - RICKEY HENDERSON 1.jpg"
+        },
+        {
+          "name": "Willie Mays",
+          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+        },
+        {
+          "name": "Rick Barry",
+          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
+        },
+        {
+          "name": "Jerry Rice",
+          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
+        },
+        {
+          "name": "Barry Bonds",
+          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
+        },
+        {
+          "name": "Rich Gannon",
+          "picture": "../players/CALIFORNIA/RAIDERS - RICH GANNON.jpg"
+        },
+        {
+          "name": "Chris Webber",
+          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+        },
+        {
+          "name": "John Elway",
+          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
+        },
+        {
+          "name": "Bill Russell",
+          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg"
+        },
+        {
+          "name": "Aaron Rodgers",
+          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+        },
+        {
+          "name": "Paul George",
+          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg"
+        }
+      ]
     },
-    {
+    { "__comment": "INDIANA",
       "id": 15,
     "nom": "Indiana",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
     "carte": "state-layer/IN.jpg"
     },
-    {
+    { "__comment": "IOWA",
       "id": 16,
     "nom": "Iowa",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
     "carte": "state-layer/IW.jpg"
     },
-    {
+    { "__comment": "KANSAS",
       "id": 17,
     "nom": "Kansas",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
     "carte": "state-layer/KS.jpg"
     },
-    {
+    { "__comment": "KENTUCKY",
       "id": 18,
     "nom": "Kentucky",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
     "carte": "state-layer/KT.jpg"
     },
-    {
+    { "__comment": "LOUISIANA",
       "id": 19,
     "nom": "Louisiana",
     "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
     "carte": "state-layer/LO.jpg"
     },
-    {
+    { "__comment": "MAINE",
       "id": 20,
       "nom": "Maine",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg",
       "carte": "state-layer/MA.jpg"
     },
-    {
+    { "__comment": "MARYLAND",
       "id": 21,
       "nom": "Maryland",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg",
       "carte": "state-layer/MY.jpg"
     },
-    {
+    { "__comment": "MASSACHUSETTS",
       "id": 22,
       "nom": "Massachusetts",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg",
@@ -2671,181 +3063,181 @@
         }
       ]
     },
-    {
+    { "__comment": "MICHIGAN",
       "id": 23,
       "nom": "Michigan",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg",
       "carte": "state-layer/MG.jpg"
     },
-    {
+    { "__comment": "MINNESOTA",
       "id": 24,
       "nom": "Minnesota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg",
       "carte": "state-layer/MN.jpg"
     },
-    {
+    { "__comment": "MISSISSIPPI",
       "id": 25,
       "nom": "Mississippi",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg",
       "carte": "state-layer/MS.jpg"
     },
-    {
+    { "__comment": "MISSOURI",
       "id": 26,
       "nom": "Missouri",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg",
       "carte": "state-layer/MI.jpg"
     },
-    {
+    { "__comment": "MONTANA",
       "id": 27,
       "nom": "Montana",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg",
       "carte": "state-layer/MT.jpg"
     },
-    {
+    { "__comment": "NEBRASKA",
       "id": 28,
       "nom": "Nebraska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
       "carte": "state-layer/NE.jpg"
     },
-    {
+    { "__comment": "NEVADA",
       "id": 29,
       "nom": "Nevada",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg",
       "carte": "state-layer/NV.jpg"
     },
-    {
+    { "__comment": "NEW HAMPSHIRE",
       "id": 30,
       "nom": "New Hampshire",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg",
       "carte": "state-layer/NH.jpg"
     },
-    {
+    { "__comment": "NEW JERSEY",
       "id": 31,
       "nom": "New Jersey",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg",
       "carte": "state-layer/NJ.jpg"
     },
-    {
+    { "__comment": "NEW MEXICO",
       "id": 32,
       "nom": "New Mexico",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg",
       "carte": "state-layer/NM.jpg"
     },
-    {
+    { "__comment": "NEW YORK",
       "id": 33,
       "nom": "New York",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
       "carte": "state-layer/NY.jpg"
     },
-    {
+    { "__comment": "NORTH CAROLINA",
       "id": 34,
       "nom": "North Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg",
       "carte": "state-layer/NC.jpg"
     },
-    {
+    { "__comment": "NORTH DAKOTA",
       "id": 35,
       "nom": "North Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg",
       "carte": "state-layer/ND.jpg"
     },
-    {
+    { "__comment": "OHIO",
       "id": 36,
       "nom": "Ohio",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
       "carte": "state-layer/OH.jpg"
     },
-    {
+    { "__comment": "OKLAHOMA",
       "id": 37,
       "nom": "Oklahoma",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
       "carte": "state-layer/OK.jpg"
     },
-    {
+    { "__comment": "OREGON",
       "id": 38,
       "nom": "Oregon",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
       "carte": "state-layer/OR.jpg"
     },
-    {
+    { "__comment": "PENNSYLVANIA",
       "id": 39,
       "nom": "Pennsylvania",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
       "carte": "state-layer/PN.jpg"
     },
-    {
+    { "__comment": "RHODE ISLAND",
       "id": 40,
       "nom": "Rhode Island",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg",
       "carte": "state-layer/RI.jpg"
     },
-    {
+    { "__comment": "SOUTH CAROLINA",
       "id": 41,
       "nom": "South Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg",
       "carte": "state-layer/SC.jpg"
     },
-    {
+    { "__comment": "SOUTH DAKOTA",
       "id": 42,
       "nom": "South Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg",
       "carte": "state-layer/SD.jpg"
     },
-    {
+    { "__comment": "TENNESSEE",
       "id": 43,
       "nom": "Tennessee",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg",
       "carte": "state-layer/TN.jpg"
     },
-    {
+    { "__comment": "TEXAS",
       "id": 44,
       "nom": "Texas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
       "carte": "state-layer/TX.jpg"
     },
-    {
+    { "__comment": "UTAH",
       "id": 45,
       "nom": "Utah",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg",
       "carte": "state-layer/UT.jpg"
     },
-    {
+    { "__comment": "VERMONT",
       "id": 46,
       "nom": "Vermont",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg",
       "carte": "state-layer/VT.jpg"
     },
-    {
+    { "__comment": "VIRGINIA",
       "id": 47,
       "nom": "Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg",
       "carte": "state-layer/VI.jpg"
     },
-    {
+    { "__comment": "WASHINGTON",
       "id": 48,
       "nom": "Washington",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg",
       "carte": "state-layer/WA.jpg"
     },
-    {
+    { "__comment": "WASH DC",
       "id": 9,
       "nom": "Washington D.C.",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
       "carte": "state-layer/DC.jpg"
     },
-    {
+    { "__comment": "WEST VIRGINIA",
       "id": 49,
       "nom": "West Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg",
       "carte": "state-layer/WV.jpg"
     },
-    {
+    { "__comment": "WISCONSIN",
       "id": 50,
       "nom": "Wisconsin",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
       "carte": "state-layer/WI.jpg"
     },
-    {
+    { "__comment": "WYOMING",
       "id": 51,
       "nom": "Wyoming",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg",
