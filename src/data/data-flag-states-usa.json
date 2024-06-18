@@ -2624,351 +2624,369 @@
       "carte": "state-layer/IL.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #2E8B57, #4682B4)",
+      "backgroundGradient": "linear-gradient(to right, #1E90FF, #A9A9A9)",
       "major_league": [
         {
-          "name": "San Francisco 49ers",
-          "logo": "../logos/NFL/San-Francisco-49ers-Logo.png",
+          "name": "Chicago Bears",
+          "logo": "../logos/NFL/Chicago-Bears-Logo.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
         {
-          "name": "San Francisco Giants",
-          "logo": "../logos/MLB/San-Francisco-Giants-logo.png",
+          "name": "Chicago Cubs",
+          "logo": "../logos/MLB/Chicago-Cubs-logo.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
         {
-          "name": "Oakland Athletics",
-          "logo": "../logos/MLB/Oakland-Athletics-Logo.png",
+          "name": "Chicago White Sox",
+          "logo": "../logos/MLB/Chicago-White-Sox-Logo.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
         {
-          "name": "Golden State Warriors",
-          "logo": "../logos/NBA/Golden-State-Warriors-Logo.png",
+          "name": "Chicago Bulls",
+          "logo": "../logos/NBA/Chicago-Bulls-Logo.png",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
         },
         {
-          "name": "Sacramento Kings",
-          "logo": "../logos/NBA/Sacramento-Kings-Logo.png",
-          "league": "NBA",
-          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
-        },
-        {
-          "name": "San Jose Sharks",
-          "logo": "../logos/NHL/logo-San-Jose-Sharks.png",
+          "name": "Chicago Blackhawks",
+          "logo": "../logos/NHL/Blackhawks-Logo.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
         {
-          "name": "San Jose Earthquakes",
-          "logo": "../logos/MLS/San Jose Earthquakes.png",
+          "name": "Chicago Fire",
+          "logo": "../logos/MLS/Chicago Fire.png",
           "league": "MLS",
           "leagueLogo": "../logos/MLS/MLS.png"
         },
         {
-          "name": "Golden State Valkyries",
-          "logo": "../logos/WNBA/Golden_State_Valkyries_logo.png",
+          "name": "Chicago Sky",
+          "logo": "../logos/WNBA/Chicago_Sky_logo.svg.png",
           "league": "WNBA",
           "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
         },
         {
-          "name": "Bay FC",
-          "logo": "../logos/NWSL/Bay FC.png",
+          "name": "Chicago Red Stars",
+          "logo": "../logos/NWSL/Chicago Red Stars.png",
           "league": "NWSL",
           "leagueLogo": "../logos/NWSL/NWSL.png"
         }
       ],
       "minor_league": [
         {
-          "name": "Santa Cruz Warriors",
-          "logo": "../logos/NBA GL/Santa_Cruz_Warriors_logo.svg.png",
+          "name": "Windy City Bulls",
+          "logo": "../logos/NBA GL/Windy_City_Bulls_logo.svg.png",
           "league": "NBA G-League",
           "leagueLogo": "../logos/NBA GL/NBAGL.png"
         },
         {
-          "name": "Stockton Kings",
-          "logo": "../logos/NBA GL/Stockton_Kings_logo.svg.png",
-          "league": "NBA G-League",
-          "leagueLogo": "../logos/NBA GL/NBAGL.png"
-        },
-        {
-          "name": "San Jose Barracuda",
-          "logo": "../logos/AHL/San_Jose_Barracuda_logo.svg.png",
+          "name": "Chicago Wolves",
+          "logo": "../logos/AHL/Chicago_Wolves_Logo.svg.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
         {
-          "name": "Sacramento River Cats",
-          "logo": "../logos/PCL/Sacramento-River-Cats.png",
-          "league": "PCL",
-          "leagueLogo": "../logos/PCL/Triple-A.png"
+          "name": "Rockford IceHogs",
+          "logo": "../logos/AHL/Rockford-IceHogs-Logo.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
         }
       ],
       "junior_league": [
         {
-          "name": "California Golden Bears",
-          "logo": "../logos/NCAA/California-Golden-Bears-logo.png",
+          "name": "Illinois Fighting Illini",
+          "logo": "../logos/NCAA/Illinois-Fighting-Illini-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Stanford Cardinal",
-          "logo": "../logos/NCAA/Stanford-Cardinal-logo.png",
+          "name": "Illinois State Redbirds",
+          "logo": "../logos/NCAA/Illinois-State-Redbirds-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "San Francisco Dons",
-          "logo": "../logos/NCAA/San-Francisco-Dons-logo.png",
+          "name": "DePaul Blue Demons",
+          "logo": "../logos/NCAA/DePaul-Blue-Demons-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Santa Clara Broncos",
-          "logo": "../logos/NCAA/Santa-Clara-Broncos-logo.png",
+          "name": "Illinois-Chicago Flames",
+          "logo": "../logos/NCAA/Illinois-Chicago-Flames-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "St. Mary's Gaels",
-          "logo": "../logos/NCAA/St. Mary's Gaels.png",
+          "name": "Northwestern Wildcats",
+          "logo": "../logos/NCAA/Northwestern-Wildcats-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "San Jose State Spartans",
-          "logo": "../logos/NCAA/San-Jose-State-Spartans-logo.png",
+          "name": "Loyola Ramblers",
+          "logo": "../logos/NCAA/Loyola-Ramblers-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Sacramento State Hornets",
-          "logo": "../logos/NCAA/Sacramento-State-Hornets-logo.png",
+          "name": "Chicago State Cougars",
+          "logo": "../logos/NCAA/Chicago-State-Cougars-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Fresno State Bulldogs",
-          "logo": "../logos/NCAA/Fresno-State-Bulldogs-logo.png",
+          "name": "Northern Illinois Huskies",
+          "logo": "../logos/NCAA/Northern-Illinois-Huskies-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "UC-Davis Aggies",
-          "logo": "../logos/NCAA/California-Davis-Aggies-Logo-1.png",
+          "name": "Southern Illinois Salukis",
+          "logo": "../logos/NCAA/Southern-Illinois-Salukis-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Western Illinois Leathernecks",
+          "logo": "../logos/NCAA/Western-Illinois-Leathernecks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Chicago Steel",
+          "logo": "../logos/USHL/Chicago_Steel.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Levi's Stadium",
-          "city": "Santa Clara",
-          "capacity": "68.500 seats",
-          "residents": "San Francisco 49ers (NFL)",
+          "name": "Soldier Field",
+          "city": "Chicago",
+          "capacity": "61.500 seats",
+          "residents": "Chicago Bears (NFL) and Chicago Fire (MLS)",
           "pictures": [
-            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM.jpg",
-            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM 49ERS.jpg"
+            "../stadiums-pro/CHICAGO - SOLDIER FIELD.jpg",
+            "../stadiums-pro/CHICAGO - SOLDIER FIELD BEARS.jpg"
           ]
         },
         {
-          "name": "Oracle Park",
-          "city": "San Francisco",
-          "capacity": "42.300 seats",
-          "residents": "San Francisco Giants (MLB)",
+          "name": "Wrigley Field",
+          "city": "Chicago",
+          "capacity": "41.649 seats",
+          "residents": "Chicago Cubs (MLB)",
           "pictures": [
-            "../stadiums-pro/SAN FRANCISCO - AT&T PARK.jpg",
-            "../stadiums-pro/SAN FRANCISCO - AT&T PARK GIANTS.jpg"
+            "../stadiums-pro/CHICAGO - WRIGLEY FIELD.jpg",
+            "../stadiums-pro/CHICAGO - WRIGLEY FIELD CUBS.jpg"
           ]
         },
         {
-          "name": "Oakland-Alameda County Coliseum",
-          "city": "Oakland",
-          "capacity": "42.300 seats",
-          "residents": "Oakland Athletics (MLB)",
+          "name": "Guaranteed Rate Field",
+          "city": "Chicago",
+          "capacity": "40.615 seats",
+          "residents": "Chicago White Sox (MLB)",
           "pictures": [
-            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM.jpg",
-            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM ATHLETICS.jpg"
+            "../stadiums-pro/CHICAGO - GUARANTEED RATE FIELD WHITE.jpg",
+            "../stadiums-pro/CHICAGO - GUARANTEED RATE FIELD WHITE SOX.jpg"
           ]
         },
         {
-          "name": "Chase Center",
-          "city": "San Francisco",
-          "capacity": "19.200 seats",
-          "residents": "Golden State Warriors (NBA) and Golden State Valkyries (WNBA)",
+          "name": "United Center",
+          "city": "Chicago",
+          "capacity": "23.500 seats",
+          "residents": "Chicago Bulls (NBA) and Chicago Blackhawks (NHL)",
           "pictures": [
-            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER.jpg",
-            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER WARRIORS.jpg"
+            "../stadiums-pro/CHICAGO - UNITED CENTER.jpg",
+            "../stadiums-pro/CHICAGO - UNITED CENTER BULLS.jpg"
           ]
         },
         {
-          "name": "SAP Center",
-          "city": "San Jose",
-          "capacity": "17.562 seats",
-          "residents": "San Jose Sharks (NHL) and San Jose Barracuda (AHL)",
+          "name": "Wintrust Arena",
+          "city": "Chicago",
+          "capacity": "10.387 seats",
+          "residents": "Chicago Sky (WNBA) and DePaul Blue Demons (NCAA Basket)",
           "pictures": [
-            "../stadiums-pro/SAN JOSE - SAP CENTER.jpg",
-            "../stadiums-pro/SAN JOSE - SAP CENTER SHARKS.png"
-          ]
-        },
-        {
-          "name": "Golden 1 Center",
-          "city": "Sacramento",
-          "capacity": "17.608 seats",
-          "residents": "Sacramento Kings (NBA)",
-          "pictures": [
-            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER.jpg",
-            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER KINGS.jpg"
-          ]
-        },
-        {
-          "name": "PayPal Park",
-          "city": "San Jose",
-          "capacity": "18.000 seats",
-          "residents": "San Jose Earthquakes (MLS) and Bay FC (NWSL)",
-          "pictures": [
-            "../stadiums-pro/SAN JOSE - PAYPAL PARK.png",
-            "../stadiums-pro/SAN JOSE - PAYPAL PARK EARTHQUAKES.jpg"
-          ]
-        },
-        {
-          "name": "California Memorial Stadium",
-          "city": "Berkeley",
-          "capacity": "63.000 seats",
-          "residents": "Cal Golden Bears (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY.jpg",
-            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY GOLDEN BEARS.jpg"
+            "../stadiums-pro/CHICAGO - WINTRUST ARENA.jpg",
+            "../stadiums-pro/CHICAGO - WINTRUST ARENA SKY.jpg"
           ]
         },        
         {
-          "name": "Stanford Stadium",
-          "city": "Stanford",
-          "capacity": "50.424 seats",
-          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "name": "SeatGeek Stadium",
+          "city": "Bridgeview",
+          "capacity": "28.000 seats",
+          "residents": "Chicago Red Stars (NWSL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD.jpg",
-            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD CARDINAL.png"
+            "../stadiums-pro/CHICAGO - TOYOTA PARK.jpg",
+            "../stadiums-pro/CHICAGO - TOYOTA PARK STARS.jpg"
           ]
         },
         {
-          "name": "Save Mart Center",
-          "city": "Fresno",
-          "capacity": "18.000 seats",
-          "residents": "Fresno State Bulldogs (NCAA Basket)",
+          "name": "Allstate Arena",
+          "city": "Rosemont",
+          "capacity": "18.500 seats",
+          "residents": "Chicago Wolves (AHL)",
           "pictures": [
-            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO.jpg",
-            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO BULLDOGS.jpg"
+            "../stadiums-pro/CHICAGO - ALLSTATE ARENA.jpg",
+            "../stadiums-pro/CHICAGO - ALLSTATE ARENA WOLVES.jpg"
           ]
         },
         {
-          "name": "Haas Pavilion",
-          "city": "Berkeley",
-          "capacity": "11.858 seats",
-          "residents": "Cal Golden Bears (NCAA Basket)",
+          "name": "Now Arena",
+          "city": "Hoffman Estates",
+          "capacity": "10.543 seats",
+          "residents": "Windy City Bulls (NBA G-League)",
           "pictures": [
-            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY.jpg",
-            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY GOLDEN BEARS.jpg"
+            "../stadiums-pro/CHICAGO - HOFFMAN ESTATES.jpg",
+            "../stadiums-pro/CHICAGO - HOFFMAN ESTATES BULLS.webp"
+          ]
+        },
+        {
+          "name": "BMO Harris Bank Center",
+          "city": "Rockford",
+          "capacity": "10.000 seats",
+          "residents": "Rockford IceHogs (AHL)",
+          "pictures": [
+            "../stadiums-pro/ROCKFORD - BMO.jpg",
+            "../stadiums-pro/ROCKFORD - BMO ICEHOGS.jpg"
+          ]
+        },
+        {
+          "name": "Memorial Stadium",
+          "city": "Champaign",
+          "capacity": "60.670 seats",
+          "residents": "Illinois Fihgting Illini (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ILLINOIS - MEMORIAL STADIUM - CHAMPAIGN.jpg",
+            "../stadiums-ncaa/stadiums/ILLINOIS - MEMORIAL STADIUM - CHAMPAIGN FIGHTING ILLINI.jpg"
           ]
         },        
         {
-          "name": "Maples Pavilion",
-          "city": "Stanford",
-          "capacity": "7.233 seats",
-          "residents": "Stanford Cardinal (NCAA Basket)",
+          "name": "Ryan Field",
+          "city": "Evanston",
+          "capacity": "47.130 seats",
+          "residents": "Northwestern Wildcats (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD.jpg",
-            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD CARDINAL.jpg"
+            "../stadiums-ncaa/stadiums/NORTHWESTERN - RYAN FIELD - EVANSTON.jpg",
+            "../stadiums-ncaa/stadiums/NORTHWESTERN - RYAN FIELD - EVANSTON WILDCATS.jpg"
           ]
         },
         {
-          "name": "Events Center Arena",
-          "city": "San Jose",
-          "capacity": "5.000 seats",
-          "residents": "San Jose State Spartans (NCAA Basket)",
+          "name": "Huskie Stadium",
+          "city": "DeKalb",
+          "capacity": "24.000 seats",
+          "residents": "Northern Illinois Huskies (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE.jpg",
-            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE SPARTANS.jpg"
+            "../stadiums-ncaa/stadiums/NORTHERN ILLINOIS - HUSKIE STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/NORTHERN ILLINOIS - HUSKIE STADIUM DEKALB.webp"
           ]
         },
         {
-          "name": "Hornets Nest",
-          "city": "Sacramento",
-          "capacity": "1.012 seats",
-          "residents": "Sacramento State Hornets (NCAA Basket)",
+          "name": "State Farm Center",
+          "city": "Champaign",
+          "capacity": "16.618 seats",
+          "residents": "Illinois Fihgting Illini (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO.jpg",
-            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO HORNETS.jpg"
+            "../stadiums-ncaa/arenas/ILLINOIS - STATE FARM CENTER - CHAMPAIGN.jpg",
+            "../stadiums-ncaa/arenas/ILLINOIS - STATE FARM CENTER - CHAMPAIGN ILLINI.jpg"
+          ]
+        },
+        {
+          "name": "CEFCU Arena",
+          "city": "Normal",
+          "capacity": "10.200 seats",
+          "residents": "Illinois State Redbirds (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CHICAGO - ILLINOIS STATE.jpg",
+            "../stadiums-ncaa/arenas/CHICAGO - ILLINOIS STATE REDBIRDS.webp"
+          ]
+        },
+        {
+          "name": "Welsh-Ryan Arena",
+          "city": "Evanston",
+          "capacity": "8.117 seats",
+          "residents": "Northwestern Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NORTHWESTERN - WELSH-RYAN ARENA - EVANSTON.jpg",
+            "../stadiums-ncaa/arenas/NORTHWESTERN - WELSH-RYAN ARENA - EVANSTON WILDCATS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Stephen Curry",
-          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
+          "name": "Michael Jordan",
+          "picture": "../players/ILLINOIS/BULLS - JORDAN 4.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Sammy Sosa",
+          "picture": "../players/ILLINOIS/CUBS - SAMMY SOSA.jpg"
         },
         {
-          "name": "Ken Stabler",
-          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+          "name": "Stan Mikita",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - STAN MIKITA 1.jpg"
         },
         {
-          "name": "Mark McGwire",
-          "picture": "../players/CALIFORNIA/A's - MARK MCGWIRE.jpg"
+          "name": "Walter Payton",
+          "picture": "../players/ILLINOIS/BEARS - WALTER PAYTON 2.jpg"
         },
         {
-          "name": "Joe Thornton",
-          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+          "name": "Jim Thome",
+          "picture": "../players/ILLINOIS/WHITE SOX - JIM THOME.jpg"
         },
         {
-          "name": "Rickey Henderson",
-          "picture": "../players/CALIFORNIA/A's - RICKEY HENDERSON 1.jpg"
+          "name": "Patrick Kane",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - PATRICK KANE.jpg"
         },
         {
-          "name": "Willie Mays",
-          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+          "name": "Bronko Nagurski",
+          "picture": "../players/ILLINOIS/BEARS - BRONKO NAGURSKI 1.jpg"
         },
         {
-          "name": "Rick Barry",
-          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
+          "name": "Scottie Pippen",
+          "picture": "../players/ILLINOIS/BULLS - PIPPEN.jpg"
         },
         {
-          "name": "Jerry Rice",
-          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
+          "name": "Greg Maddux",
+          "picture": "../players/ILLINOIS/CUBS - GREG MADDUX.jpg"
         },
         {
-          "name": "Barry Bonds",
-          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
+          "name": "Nellie Fox",
+          "picture": "../players/ILLINOIS/WHITE SOX - NELLIE FOX.jpg"
         },
         {
-          "name": "Rich Gannon",
-          "picture": "../players/CALIFORNIA/RAIDERS - RICH GANNON.jpg"
+          "name": "Derrick Rose",
+          "picture": "../players/ILLINOIS/BULLS - ROSE.jpg"
         },
         {
-          "name": "Chris Webber",
-          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+          "name": "Jonathan Toews",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - JONATHAN TOEWS 2.jpg"
         },
         {
-          "name": "John Elway",
-          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
+          "name": "Dick Butkus",
+          "picture": "../players/ILLINOIS/BEARS - DICK BUTKUS 2.jpg"
         },
         {
-          "name": "Bill Russell",
-          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg"
+          "name": "Bobby Hull",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - BOBBY HULL 1.jpg"
         },
         {
-          "name": "Aaron Rodgers",
-          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+          "name": "Dennis Rodman",
+          "picture": "../players/ILLINOIS/BULLS - RODMAN 1.jpg"
         },
         {
-          "name": "Paul George",
-          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg"
+          "name": "Otto Graham",
+          "picture": "../players/ILLINOIS/NORTHWESTERN - OTTO GRAHAM.jpg"
+        },
+        {
+          "name": "George Mikan",
+          "picture": "../players/ILLINOIS/DEPAUL - MIKAN.jpeg"
+        },
+        {
+          "name": "Tony Romo",
+          "picture": "../players/ILLINOIS/EASTERN ILLINOIS - TONY ROMO.jpg"
         }
       ]
     },
