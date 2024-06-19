@@ -2992,15 +2992,496 @@
     },
     { "__comment": "INDIANA",
       "id": 15,
-    "nom": "Indiana",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
-    "carte": "state-layer/IN.jpg"
+      "nom": "Indiana",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
+      "carte": "state-layer/IN.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #32CD32, #FFA500, #8B4513)",
+      "major_league": [
+        {
+          "name": "Indianapolis Colts",
+          "logo": "../logos/NFL/Indianapolis-Colts-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Indiana Pacers",
+          "logo": "../logos/NBA/Indiana-Pacers-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Indiana Fever",
+          "logo": "../logos/WNBA/Indiana Fever.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Indiana Mad Ants",
+          "logo": "../logos/NBA GL/Indiana_Mad_Ants_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Indianapolis Indians",
+          "logo": "../logos/IL/Indianapolis_Indians.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Indy Fuel",
+          "logo": "../logos/ECHL/Indy_Fuel_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        },
+        {
+          "name": "Fort Wayne Komets",
+          "logo": "../logos/ECHL/Fort_Wayne_Komets_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Notre Dame Fighting Irish",
+          "logo": "../logos/NCAA/NOtre Dame Fighting Irish-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Purdue Boilermakers",
+          "logo": "../logos/NCAA/Purdue-Boilermakers-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Butler Bulldogs",
+          "logo": "../logos/NCAA/Butler-Bulldogs-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Indiana Hoosiers",
+          "logo": "../logos/NCAA/Indiana-Hoosiers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Indiana State Sycamores",
+          "logo": "../logos/NCAA/Indiana-State-Sycamores-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Valparaiso Crusaders",
+          "logo": "../logos/NCAA/Valparaiso-Crusaders-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Ball State Cardinals",
+          "logo": "../logos/NCAA/Ball-State-Cardinals-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "IUPUI Jaguars",
+          "logo": "../logos/NCAA/IUPUI-Jaguars-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lucas Oil Stadium",
+          "city": "Indianapolis",
+          "capacity": "67.000 seats",
+          "residents": "Indianapolis Colts (NFL)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - LUCAS OIL STADIUM COLTS.jpg",
+            "../stadiums-pro/INDIANAPOLIS - LUCAS OIL STADIUM.jpg"
+          ]
+        },
+        {
+          "name": "Bankers Life Fieldhouse",
+          "city": "Indianapolis",
+          "capacity": "19.000 seats",
+          "residents": "Indiana Pacers (NBA), Indiana Fever (WNBA) and Indiana Mad Ants (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - BANKERS LIFE FIELDHOUSE.jpg",
+            "../stadiums-pro/INDIANAPOLIS - BANKERS LIFE FIELDHOUSE PACERS.jpg"
+          ]
+        },
+        {
+          "name": "Allen County War Memorial Coliseum",
+          "city": "Fort Wayne",
+          "capacity": "13.000 seats",
+          "residents": "Fort Wayne Komets (ECHL)",
+          "pictures": [
+            "../stadiums-pro/FORT WAYNE - ALLEN COUNTY.jpg",
+            "../stadiums-pro/FORT WAYNE - ALLEN COUNTY KOMETS.jpg"
+          ]
+        },
+        {
+          "name": "Victory Field",
+          "city": "Indianapolis",
+          "capacity": "12.230 seats",
+          "residents": "Indianapolis Indians (IL)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - VICTORY FIELD.jpg",
+            "../stadiums-pro/INDIANAPOLIS - VICTORY FIELD INDIANS.webp"
+          ]
+        },
+        {
+          "name": "Fishers Event Center (under construction)",
+          "city": "Fishers",
+          "capacity": "6.500 seats",
+          "residents": "Indy Fuel (ECHL)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - INDY.jpg",
+            "../stadiums-pro/INDIANAPOLIS - INDY FUEL.jpg"
+          ]
+        },
+        {
+          "name": "Notre Dame Stadium",
+          "city": "Notre Dame",
+          "capacity": "80.795 seats",
+          "residents": "Notre Dame Fighting Irish (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NOTRE DAME - NOTRE DAME STADIUM - NOTRE DAME.jpeg",
+            "../stadiums-ncaa/stadiums/NOTRE DAME - NOTRE DAME STADIUM - NOTRE DAME FIGHTING IRISH.jpg"
+          ]
+        },        
+        {
+          "name": "Ross-Ade Stadium",
+          "city": "West Lafayette",
+          "capacity": "57.236 seats",
+          "residents": "Purdue Boilermakers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/PURDUE - ROSS ADE STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/PURDUE - ROSS ADE STADIUM PURDUE.webp"
+          ]
+        },
+        {
+          "name": "Memorial Stadium",
+          "city": "Bloomington",
+          "capacity": "52.929 seats",
+          "residents": "Indiana Hoosiers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/INDIANA - MEMORIAL STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/INDIANA - MEMORIAL STADIUM HOOSIERS.jpg"
+          ]
+        },
+        {
+          "name": "Simon Skjodt Assembly Hall",
+          "city": "Bloomington",
+          "capacity": "17.472 seats",
+          "residents": "Indiana Hossiers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/INDIANA - SIMON SKJODT ASSEMBLY HALL - BLOOMINGTON.jpg",
+            "../stadiums-ncaa/arenas/INDIANA - SIMON SKJODT ASSEMBLY HALL - BLOOMINGTON HOOSIERS.jpg"
+          ]
+        },
+        {
+          "name": "Mackey Arena",
+          "city": "West Lafayette",
+          "capacity": "14.222 seats",
+          "residents": "Purdue Boilermakers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PURDUE - MACKEY ARENA - WEST LAFAYETTE.jpg",
+            "../stadiums-ncaa/arenas/PURDUE - MACKEY ARENA - WEST LAFAYETTE BOILERMAKERS.jpg"
+          ]
+        },
+        {
+          "name": "Edmund P. Joyce Center",
+          "city": "Notre Dame",
+          "capacity": "11.418 seats",
+          "residents": "Notre Dame Fighting Irish (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NOTRE DAME - EDMUND P. JOYCE CENTER - NOTRE DAME.jpg",
+            "../stadiums-ncaa/arenas/NOTRE DAME - EDMUND P. JOYCE CENTER - NOTRE DAME FIGHTING IRISH.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Peyton Manning",
+          "picture": "../players/INDIANA/COLTS - PEYTON MANNING 1.jpg"
+        },
+        {
+          "name": "Reggie Miller",
+          "picture": "../players/INDIANA/PACERS - MILLER.jpg"
+        },
+        {
+          "name": "Tamika Catchings",
+          "picture": "../players/INDIANA/FEVER - CATCHINGS.webp"
+        },
+        {
+          "name": "Johnny Unitas",
+          "picture": "../players/INDIANA/COLTS - JOHNNY UNITAS.jpg"
+        },
+        {
+          "name": "Paul George",
+          "picture": "../players/INDIANA/PACERS - GEORGE.jpg"
+        },
+        {
+          "name": "Caitlin Clark",
+          "picture": "../players/INDIANA/FEVER - CLARK.jpg"
+        },
+        {
+          "name": "Larry Bird",
+          "picture": "../players/INDIANA/INDIANA STATE - BIRD.jpg"
+        },
+        {
+          "name": "Drew Brees",
+          "picture": "../players/INDIANA/PURDUE - DREW BREES.jpg"
+        },
+        {
+          "name": "Isiah Thomas",
+          "picture": "../players/INDIANA/INDIANA - THOMAS 1.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/INDIANA/NOTRE DAME - MONTANA.jpg"
+        }
+      ]
     },
     { "__comment": "IOWA",
       "id": 16,
-    "nom": "Iowa",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
-    "carte": "state-layer/IW.jpg"
+      "nom": "Iowa",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
+      "carte": "state-layer/IW.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #FFD700, #32CD32, #8B4513)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Iowa Wolves",
+          "logo": "../logos/NBA GL/Iowa_Wolves_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Iowa Cubs",
+          "logo": "../logos/IL/Iowa_Cubs.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Iowa Wild",
+          "logo": "../logos/AHL/Iowa_Wild.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Iowa Hawkeyes",
+          "logo": "../logos/NCAA/Iowa-Hawkeyes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Iowa State Redbirds",
+          "logo": "../logos/NCAA/Iowa-State-Cyclones-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Northern Iowa Panthers",
+          "logo": "../logos/NCAA/Northern-Iowa-Panthers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Dubuque Fighting Saints",
+          "logo": "../logos/USHL/Dubuque_Fighting_Saints.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Des Moines Buccaneers",
+          "logo": "../logos/USHL/Des_Moines_Buccaneers.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Waterloo Black Hawks",
+          "logo": "../logos/USHL/Waterloo_Black_Hawks.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Sioux City Musketeers",
+          "logo": "../logos/USHL/Sioux_City_Musketeers.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Cedar Rapids RoughRiders",
+          "logo": "../logos/USHL/Cedar_Rapids_RoughRiders.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lucas Oil Stadium",
+          "city": "Indianapolis",
+          "capacity": "67.000 seats",
+          "residents": "Indianapolis Colts (NFL)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - LUCAS OIL STADIUM COLTS.jpg",
+            "../stadiums-pro/INDIANAPOLIS - LUCAS OIL STADIUM.jpg"
+          ]
+        },
+        {
+          "name": "Bankers Life Fieldhouse",
+          "city": "Indianapolis",
+          "capacity": "19.000 seats",
+          "residents": "Indiana Pacers (NBA), Indiana Fever (WNBA) and Indiana Mad Ants (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - BANKERS LIFE FIELDHOUSE.jpg",
+            "../stadiums-pro/INDIANAPOLIS - BANKERS LIFE FIELDHOUSE PACERS.jpg"
+          ]
+        },
+        {
+          "name": "Allen County War Memorial Coliseum",
+          "city": "Fort Wayne",
+          "capacity": "13.000 seats",
+          "residents": "Fort Wayne Komets (ECHL)",
+          "pictures": [
+            "../stadiums-pro/FORT WAYNE - ALLEN COUNTY.jpg",
+            "../stadiums-pro/FORT WAYNE - ALLEN COUNTY KOMETS.jpg"
+          ]
+        },
+        {
+          "name": "Victory Field",
+          "city": "Indianapolis",
+          "capacity": "12.230 seats",
+          "residents": "Indianapolis Indians (IL)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - VICTORY FIELD.jpg",
+            "../stadiums-pro/INDIANAPOLIS - VICTORY FIELD INDIANS.webp"
+          ]
+        },
+        {
+          "name": "Fishers Event Center (under construction)",
+          "city": "Fishers",
+          "capacity": "6.500 seats",
+          "residents": "Indy Fuel (ECHL)",
+          "pictures": [
+            "../stadiums-pro/INDIANAPOLIS - INDY.jpg",
+            "../stadiums-pro/INDIANAPOLIS - INDY FUEL.jpg"
+          ]
+        },
+        {
+          "name": "Notre Dame Stadium",
+          "city": "Notre Dame",
+          "capacity": "80.795 seats",
+          "residents": "Notre Dame Fighting Irish (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NOTRE DAME - NOTRE DAME STADIUM - NOTRE DAME.jpeg",
+            "../stadiums-ncaa/stadiums/NOTRE DAME - NOTRE DAME STADIUM - NOTRE DAME FIGHTING IRISH.jpg"
+          ]
+        },        
+        {
+          "name": "Ross-Ade Stadium",
+          "city": "West Lafayette",
+          "capacity": "57.236 seats",
+          "residents": "Purdue Boilermakers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/PURDUE - ROSS ADE STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/PURDUE - ROSS ADE STADIUM PURDUE.webp"
+          ]
+        },
+        {
+          "name": "Memorial Stadium",
+          "city": "Bloomington",
+          "capacity": "52.929 seats",
+          "residents": "Indiana Hoosiers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/INDIANA - MEMORIAL STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/INDIANA - MEMORIAL STADIUM HOOSIERS.jpg"
+          ]
+        },
+        {
+          "name": "Simon Skjodt Assembly Hall",
+          "city": "Bloomington",
+          "capacity": "17.472 seats",
+          "residents": "Indiana Hossiers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/INDIANA - SIMON SKJODT ASSEMBLY HALL - BLOOMINGTON.jpg",
+            "../stadiums-ncaa/arenas/INDIANA - SIMON SKJODT ASSEMBLY HALL - BLOOMINGTON HOOSIERS.jpg"
+          ]
+        },
+        {
+          "name": "Mackey Arena",
+          "city": "West Lafayette",
+          "capacity": "14.222 seats",
+          "residents": "Purdue Boilermakers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PURDUE - MACKEY ARENA - WEST LAFAYETTE.jpg",
+            "../stadiums-ncaa/arenas/PURDUE - MACKEY ARENA - WEST LAFAYETTE BOILERMAKERS.jpg"
+          ]
+        },
+        {
+          "name": "Edmund P. Joyce Center",
+          "city": "Notre Dame",
+          "capacity": "11.418 seats",
+          "residents": "Notre Dame Fighting Irish (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NOTRE DAME - EDMUND P. JOYCE CENTER - NOTRE DAME.jpg",
+            "../stadiums-ncaa/arenas/NOTRE DAME - EDMUND P. JOYCE CENTER - NOTRE DAME FIGHTING IRISH.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Peyton Manning",
+          "picture": "../players/INDIANA/COLTS - PEYTON MANNING 1.jpg"
+        },
+        {
+          "name": "Reggie Miller",
+          "picture": "../players/INDIANA/PACERS - MILLER.jpg"
+        },
+        {
+          "name": "Tamika Catchings",
+          "picture": "../players/INDIANA/FEVER - CATCHINGS.webp"
+        },
+        {
+          "name": "Johnny Unitas",
+          "picture": "../players/INDIANA/COLTS - JOHNNY UNITAS.jpg"
+        },
+        {
+          "name": "Paul George",
+          "picture": "../players/INDIANA/PACERS - GEORGE.jpg"
+        },
+        {
+          "name": "Caitlin Clark",
+          "picture": "../players/INDIANA/FEVER - CLARK.jpg"
+        },
+        {
+          "name": "Larry Bird",
+          "picture": "../players/INDIANA/INDIANA STATE - BIRD.jpg"
+        },
+        {
+          "name": "Drew Brees",
+          "picture": "../players/INDIANA/PURDUE - DREW BREES.jpg"
+        },
+        {
+          "name": "Isiah Thomas",
+          "picture": "../players/INDIANA/INDIANA - THOMAS 1.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/INDIANA/NOTRE DAME - MONTANA.jpg"
+        }
+      ]
     },
     { "__comment": "KANSAS",
       "id": 17,
