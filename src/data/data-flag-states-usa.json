@@ -3330,164 +3330,235 @@
       ],
       "stadiums": [
         {
-          "name": "Lucas Oil Stadium",
-          "city": "Indianapolis",
-          "capacity": "67.000 seats",
-          "residents": "Indianapolis Colts (NFL)",
+          "name": "Wells Fargo Arena",
+          "city": "Des Moines",
+          "capacity": "16.000 seats",
+          "residents": "Iowa Wolves (NBA G-League) and Iowa Wild (AHL)",
           "pictures": [
-            "../stadiums-pro/INDIANAPOLIS - LUCAS OIL STADIUM COLTS.jpg",
-            "../stadiums-pro/INDIANAPOLIS - LUCAS OIL STADIUM.jpg"
+            "../stadiums-pro/DES MOINES - WELLS FARGO ARENA.jpg",
+            "../stadiums-pro/DES MOINES - WELLS FARGO ARENA WOLVES.jpg"
           ]
         },
         {
-          "name": "Bankers Life Fieldhouse",
-          "city": "Indianapolis",
-          "capacity": "19.000 seats",
-          "residents": "Indiana Pacers (NBA), Indiana Fever (WNBA) and Indiana Mad Ants (NBA G-League)",
+          "name": "Principal Park",
+          "city": "Des Moines",
+          "capacity": "11.500 seats",
+          "residents": "Iowa Cubs (IL)",
           "pictures": [
-            "../stadiums-pro/INDIANAPOLIS - BANKERS LIFE FIELDHOUSE.jpg",
-            "../stadiums-pro/INDIANAPOLIS - BANKERS LIFE FIELDHOUSE PACERS.jpg"
+            "../stadiums-pro/DES MOINES - PRINCIPAL PARK.jpg",
+            "../stadiums-pro/DES MOINES - PRINCIPAL PARK CUBS.webp"
           ]
         },
         {
-          "name": "Allen County War Memorial Coliseum",
-          "city": "Fort Wayne",
-          "capacity": "13.000 seats",
-          "residents": "Fort Wayne Komets (ECHL)",
+          "name": "Kinnick Stadium",
+          "city": "Iowa City",
+          "capacity": "70.585 seats",
+          "residents": "Iowa Hawkeyes (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/FORT WAYNE - ALLEN COUNTY.jpg",
-            "../stadiums-pro/FORT WAYNE - ALLEN COUNTY KOMETS.jpg"
-          ]
-        },
-        {
-          "name": "Victory Field",
-          "city": "Indianapolis",
-          "capacity": "12.230 seats",
-          "residents": "Indianapolis Indians (IL)",
-          "pictures": [
-            "../stadiums-pro/INDIANAPOLIS - VICTORY FIELD.jpg",
-            "../stadiums-pro/INDIANAPOLIS - VICTORY FIELD INDIANS.webp"
-          ]
-        },
-        {
-          "name": "Fishers Event Center (under construction)",
-          "city": "Fishers",
-          "capacity": "6.500 seats",
-          "residents": "Indy Fuel (ECHL)",
-          "pictures": [
-            "../stadiums-pro/INDIANAPOLIS - INDY.jpg",
-            "../stadiums-pro/INDIANAPOLIS - INDY FUEL.jpg"
-          ]
-        },
-        {
-          "name": "Notre Dame Stadium",
-          "city": "Notre Dame",
-          "capacity": "80.795 seats",
-          "residents": "Notre Dame Fighting Irish (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/NOTRE DAME - NOTRE DAME STADIUM - NOTRE DAME.jpeg",
-            "../stadiums-ncaa/stadiums/NOTRE DAME - NOTRE DAME STADIUM - NOTRE DAME FIGHTING IRISH.jpg"
+            "../stadiums-ncaa/stadiums/IOWA - KINNICK STADIUM - IOWA CITY.jpg",
+            "../stadiums-ncaa/stadiums/IOWA - KINNICK STADIUM - IOWA CITY HAWKEYES.jpg"
           ]
         },        
         {
-          "name": "Ross-Ade Stadium",
-          "city": "West Lafayette",
-          "capacity": "57.236 seats",
-          "residents": "Purdue Boilermakers (NCAA Football)",
+          "name": "Jack Tryce Stadium",
+          "city": "Ames",
+          "capacity": "61.500 seats",
+          "residents": "Iowa State Cyclones (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/PURDUE - ROSS ADE STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/PURDUE - ROSS ADE STADIUM PURDUE.webp"
+            "../stadiums-ncaa/stadiums/IOWA CITY - JACK TRYCE.jpg",
+            "../stadiums-ncaa/stadiums/IOWA CITY - JACK TRYCE CYCLONES.jpg"
           ]
         },
         {
-          "name": "Memorial Stadium",
-          "city": "Bloomington",
-          "capacity": "52.929 seats",
-          "residents": "Indiana Hoosiers (NCAA Football)",
+          "name": "Carver-Hawkeye Arena",
+          "city": "Iowa City",
+          "capacity": "15.500 seats",
+          "residents": "Iowa Hawkeyes (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/INDIANA - MEMORIAL STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/INDIANA - MEMORIAL STADIUM HOOSIERS.jpg"
+            "../stadiums-ncaa/arenas/IOWA - CARVER-HAWKEYE ARENA - IOWA CITY.jpg",
+            "../stadiums-ncaa/arenas/IOWA - CARVER-HAWKEYE ARENA - IOWA CITY EAGLES.jpg"
           ]
         },
         {
-          "name": "Simon Skjodt Assembly Hall",
-          "city": "Bloomington",
-          "capacity": "17.472 seats",
-          "residents": "Indiana Hossiers (NCAA Basket)",
+          "name": "Hilton Coliseum",
+          "city": "Ames",
+          "capacity": "14.384 seats",
+          "residents": "Iowa State Cyclones (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/INDIANA - SIMON SKJODT ASSEMBLY HALL - BLOOMINGTON.jpg",
-            "../stadiums-ncaa/arenas/INDIANA - SIMON SKJODT ASSEMBLY HALL - BLOOMINGTON HOOSIERS.jpg"
-          ]
-        },
-        {
-          "name": "Mackey Arena",
-          "city": "West Lafayette",
-          "capacity": "14.222 seats",
-          "residents": "Purdue Boilermakers (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/PURDUE - MACKEY ARENA - WEST LAFAYETTE.jpg",
-            "../stadiums-ncaa/arenas/PURDUE - MACKEY ARENA - WEST LAFAYETTE BOILERMAKERS.jpg"
-          ]
-        },
-        {
-          "name": "Edmund P. Joyce Center",
-          "city": "Notre Dame",
-          "capacity": "11.418 seats",
-          "residents": "Notre Dame Fighting Irish (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/NOTRE DAME - EDMUND P. JOYCE CENTER - NOTRE DAME.jpg",
-            "../stadiums-ncaa/arenas/NOTRE DAME - EDMUND P. JOYCE CENTER - NOTRE DAME FIGHTING IRISH.jpg"
+            "../stadiums-ncaa/arenas/IOWA STATE - HILTON COLISEUM - AMES.jpg",
+            "../stadiums-ncaa/arenas/IOWA STATE - HILTON COLISEUM - AMES CYCLONES.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Peyton Manning",
-          "picture": "../players/INDIANA/COLTS - PEYTON MANNING 1.jpg"
-        },
-        {
-          "name": "Reggie Miller",
-          "picture": "../players/INDIANA/PACERS - MILLER.jpg"
-        },
-        {
-          "name": "Tamika Catchings",
-          "picture": "../players/INDIANA/FEVER - CATCHINGS.webp"
-        },
-        {
-          "name": "Johnny Unitas",
-          "picture": "../players/INDIANA/COLTS - JOHNNY UNITAS.jpg"
-        },
-        {
-          "name": "Paul George",
-          "picture": "../players/INDIANA/PACERS - GEORGE.jpg"
-        },
-        {
           "name": "Caitlin Clark",
-          "picture": "../players/INDIANA/FEVER - CLARK.jpg"
+          "picture": "../players/IOWA/IOWA - CLARK.jpg"
         },
         {
-          "name": "Larry Bird",
-          "picture": "../players/INDIANA/INDIANA STATE - BIRD.jpg"
+          "name": "Kurt Warner",
+          "picture": "../players/IOWA/NORTHERN IOWA - KURT WARNER.jpg"
         },
         {
-          "name": "Drew Brees",
-          "picture": "../players/INDIANA/PURDUE - DREW BREES.jpg"
-        },
-        {
-          "name": "Isiah Thomas",
-          "picture": "../players/INDIANA/INDIANA - THOMAS 1.jpg"
-        },
-        {
-          "name": "Joe Montana",
-          "picture": "../players/INDIANA/NOTRE DAME - MONTANA.jpg"
+          "name": "Emlen Tunnell",
+          "picture": "../players/IOWA/IOWA - EMLEN TUNNELL.jpg"
         }
       ]
     },
     { "__comment": "KANSAS",
       "id": 17,
-    "nom": "Kansas",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
-    "carte": "state-layer/KS.jpg"
+      "nom": "Kansas",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
+      "carte": "state-layer/KS.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #FFD700, #1E90FF, #8B4513)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Iowa Wolves",
+          "logo": "../logos/NBA GL/Iowa_Wolves_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Iowa Cubs",
+          "logo": "../logos/IL/Iowa_Cubs.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Iowa Wild",
+          "logo": "../logos/AHL/Iowa_Wild.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Iowa Hawkeyes",
+          "logo": "../logos/NCAA/Iowa-Hawkeyes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Iowa State Redbirds",
+          "logo": "../logos/NCAA/Iowa-State-Cyclones-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Northern Iowa Panthers",
+          "logo": "../logos/NCAA/Northern-Iowa-Panthers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Dubuque Fighting Saints",
+          "logo": "../logos/USHL/Dubuque_Fighting_Saints.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Des Moines Buccaneers",
+          "logo": "../logos/USHL/Des_Moines_Buccaneers.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Waterloo Black Hawks",
+          "logo": "../logos/USHL/Waterloo_Black_Hawks.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Sioux City Musketeers",
+          "logo": "../logos/USHL/Sioux_City_Musketeers.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Cedar Rapids RoughRiders",
+          "logo": "../logos/USHL/Cedar_Rapids_RoughRiders.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Wells Fargo Arena",
+          "city": "Des Moines",
+          "capacity": "16.000 seats",
+          "residents": "Iowa Wolves (NBA G-League) and Iowa Wild (AHL)",
+          "pictures": [
+            "../stadiums-pro/DES MOINES - WELLS FARGO ARENA.jpg",
+            "../stadiums-pro/DES MOINES - WELLS FARGO ARENA WOLVES.jpg"
+          ]
+        },
+        {
+          "name": "Principal Park",
+          "city": "Des Moines",
+          "capacity": "11.500 seats",
+          "residents": "Iowa Cubs (IL)",
+          "pictures": [
+            "../stadiums-pro/DES MOINES - PRINCIPAL PARK.jpg",
+            "../stadiums-pro/DES MOINES - PRINCIPAL PARK CUBS.webp"
+          ]
+        },
+        {
+          "name": "Kinnick Stadium",
+          "city": "Iowa City",
+          "capacity": "70.585 seats",
+          "residents": "Iowa Hawkeyes (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/IOWA - KINNICK STADIUM - IOWA CITY.jpg",
+            "../stadiums-ncaa/stadiums/IOWA - KINNICK STADIUM - IOWA CITY HAWKEYES.jpg"
+          ]
+        },        
+        {
+          "name": "Jack Tryce Stadium",
+          "city": "Ames",
+          "capacity": "61.500 seats",
+          "residents": "Iowa State Cyclones (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/IOWA CITY - JACK TRYCE.jpg",
+            "../stadiums-ncaa/stadiums/IOWA CITY - JACK TRYCE CYCLONES.jpg"
+          ]
+        },
+        {
+          "name": "Carver-Hawkeye Arena",
+          "city": "Iowa City",
+          "capacity": "15.500 seats",
+          "residents": "Iowa Hawkeyes (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/IOWA - CARVER-HAWKEYE ARENA - IOWA CITY.jpg",
+            "../stadiums-ncaa/arenas/IOWA - CARVER-HAWKEYE ARENA - IOWA CITY EAGLES.jpg"
+          ]
+        },
+        {
+          "name": "Hilton Coliseum",
+          "city": "Ames",
+          "capacity": "14.384 seats",
+          "residents": "Iowa State Cyclones (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/IOWA STATE - HILTON COLISEUM - AMES.jpg",
+            "../stadiums-ncaa/arenas/IOWA STATE - HILTON COLISEUM - AMES CYCLONES.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Caitlin Clark",
+          "picture": "../players/IOWA/IOWA - CLARK.jpg"
+        },
+        {
+          "name": "Kurt Warner",
+          "picture": "../players/IOWA/NORTHERN IOWA - KURT WARNER.jpg"
+        },
+        {
+          "name": "Emlen Tunnell",
+          "picture": "../players/IOWA/IOWA - EMLEN TUNNELL.jpg"
+        }
+      ]
     },
     { "__comment": "KENTUCKY",
       "id": 18,
