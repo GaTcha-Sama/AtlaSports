@@ -3410,167 +3410,541 @@
       "nom": "Kansas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
       "carte": "state-layer/KS.jpg",
+      "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
       "backgroundGradient": "linear-gradient(to right, #FFD700, #1E90FF, #8B4513)",
-      "major_league": [],
+      "major_league": [
+        {
+          "name": "Sporting Kansas City",
+          "logo": "../logos/MLS/Sporting Kansas City.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
       "minor_league": [
         {
-          "name": "Iowa Wolves",
-          "logo": "../logos/NBA GL/Iowa_Wolves_logo.svg.png",
-          "league": "NBA G-League",
-          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+          "name": "Wichita Thunder",
+          "logo": "../logos/ECHL/Wichita_Thunder_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Kansas Jayhawks",
+          "logo": "../logos/NCAA/Kansas-Jayhawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Iowa Cubs",
-          "logo": "../logos/IL/Iowa_Cubs.png",
+          "name": "Kansas State Wildcats",
+          "logo": "../logos/NCAA/Kansas-State-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Wichita State Shockers",
+          "logo": "../logos/NCAA/Wichita-State-Shockers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Children's Mercy Park",
+          "city": "Kansas City",
+          "capacity": "18.500 seats",
+          "residents": "Sporting Kansas City (MLS)",
+          "pictures": [
+            "../stadiums-pro/KANSAS CITY - MERCY PARK.jpg",
+            "../stadiums-pro/KANSAS CITY - MERCY PARK KANSAS.png"
+          ]
+        },
+        {
+          "name": "Intrust Bank Arena",
+          "city": "Wichita",
+          "capacity": "15.750 seats",
+          "residents": "Wichita Thunder (ECHL)",
+          "pictures": [
+            "../stadiums-pro/WICHITA - INTRUST BANK ARENA.jpg",
+            "../stadiums-pro/WICHITA - INTRUST BANK ARENA THUNDER.jpg"
+          ]
+        },
+        {
+          "name": "Bill Snyder Family Stadium",
+          "city": "Manhattan",
+          "capacity": "52.200 seats",
+          "residents": "Kansas State Wildcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/KANSAS STATE - BILL SNYDER FAMILY STADIUM - MANHATTAN.jpg",
+            "../stadiums-ncaa/stadiums/KANSAS STATE - BILL SNYDER FAMILY STADIUM - MANHATTAN WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Memorial Stadium",
+          "city": "Lawrence",
+          "capacity": "50.071 seats",
+          "residents": "Kansas Jayhawks (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/KANSAS - MEMORIAL STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/KANSAS - MEMORIAL STADIUM JAYHAWKS.jpg"
+          ]
+        },        
+        {
+          "name": "Allen Fieldhouse",
+          "city": "Lawrence",
+          "capacity": "16.300 seats",
+          "residents": "Kansas Jayhawks (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/KANSAS - ALLEN FIELDHOUSE - LAWRENCE.jpg",
+            "../stadiums-ncaa/arenas/KANSAS - ALLEN FIELDHOUSE - LAWRENCE JAYHAWKS.png"
+          ]
+        },
+        {
+          "name": "Bramlage Coliseum",
+          "city": "Manhattan",
+          "capacity": "12.528 seats",
+          "residents": "Kansas State Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/KANSAS STATE - BRAMLAGE COLISEUM - MANHATTAN.jpg",
+            "../stadiums-ncaa/arenas/KANSAS STATE - BRAMLAGE COLISEUM - MANHATTAN WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Charles Koch Arena",
+          "city": "Wichita",
+          "capacity": "10.506 seats",
+          "residents": "Wichita State Shockers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WICHITA STATE - CHARLES KOCH ARENA - WICHITA.jpg",
+            "../stadiums-ncaa/arenas/WICHITA STATE - CHARLES KOCH ARENA - WICHITA WSU.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Wilt Chamberlain",
+          "picture": "../players/KANSAS/KANSAS - CHAMBERLAIN.jpg"
+        },
+        {
+          "name": "Joel Embiid",
+          "picture": "../players/KANSAS/KANSAS - EMBIID.jpg"
+        },
+        {
+          "name": "Darren Sproles",
+          "picture": "../players/KANSAS/KANSAS STATE - DARREN SPROLES.jpg"
+        },
+        {
+          "name": "Paul Pierce",
+          "picture": "../players/KANSAS/KANSAS - PIERCE.jpg"
+        }
+      ]
+    },
+    { "__comment": "KENTUCKY",
+      "id": 18,
+      "nom": "Kentucky",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
+      "carte": "state-layer/KT.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #0033A0, #FF0000)",
+      "major_league": [
+        {
+          "name": "Racing Louisville FC",
+          "logo": "../logos/NWSL/Racing Louisville FC.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Louisville Bats",
+          "logo": "../logos/IL/Louisville_Bats.png",
           "league": "IL",
           "leagueLogo": "../logos/IL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Kentucky Wildcats",
+          "logo": "../logos/NCAA/Kentucky-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Iowa Wild",
-          "logo": "../logos/AHL/Iowa_Wild.png",
+          "name": "Louisville Cardinals",
+          "logo": "../logos/NCAA/Louisville Cardinals-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Western Kentucky Hilltoppers",
+          "logo": "../logos/NCAA/Western-Kentucky-Hilltoppers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Eastern Kentucky Colonels",
+          "logo": "../logos/NCAA/Eastern-Kentucky-Colonels-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Northern Kentucky Norse",
+          "logo": "../logos/NCAA/Northern-Kentucky-Norse-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lynn Family Stadium",
+          "city": "Louisville",
+          "capacity": "15.304 seats",
+          "residents": "Racing Louisville FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/LOUISVILLE - LYNN FAMILY.jpg",
+            "../stadiums-pro/LOUISVILLE - LYNN FAMILY RACING.jpg"
+          ]
+        },
+        {
+          "name": "Louisville Slugger Field",
+          "city": "Louisville",
+          "capacity": "13.131 seats",
+          "residents": "Louisville Bats (IL)",
+          "pictures": [
+            "../stadiums-pro/LOUISVILLE - SLUGGER FIELD.jpg",
+            "../stadiums-pro/LOUISVILLE - SLUGGER FIELD BATS.jpg"
+          ]
+        },
+        {
+          "name": "Kroger Field",
+          "city": "Lexington",
+          "capacity": "62.093 seats",
+          "residents": "Kentucky Wildcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/KENTUCKY - KROGER FIELD - LEXINGTON.jpg",
+            "../stadiums-ncaa/stadiums/KENTUCKY - KROGER FIELD - LEXINGTON WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Cardinal Stadium",
+          "city": "Louisville",
+          "capacity": "56.000 seats",
+          "residents": "Louisville Cardinals (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/LOUISVILLE - CARDINAL STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/LOUISVILLE - CARDINAL STADIUM CARDINALS.jpg"
+          ]
+        },
+        {
+          "name": "Central Bank Center",
+          "city": "Lexington",
+          "capacity": "23.000 seats",
+          "residents": "Kentucky Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/KENTUCKY - RUPP ARENA - LEXINGTON.jpg",
+            "../stadiums-ncaa/arenas/KENTUCKY - RUPP ARENA - LEXINGTON WILDCATS.jpg"
+          ]
+        },        
+        {
+          "name": "KFC Yum! Center",
+          "city": "Louisville",
+          "capacity": "22.600 seats",
+          "residents": "Louisville Cardinals (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/LOUISVILLE - KFC YUM CENTER - LOUISVILLE.jpg",
+            "../stadiums-ncaa/arenas/LOUISVILLE - KFC YUM CENTER - LOUISVILLE CARDINALS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Anthony Davis",
+          "picture": "../players/KENTUCKY/KENTUCKY - DAVIS.jpg"
+        },
+        {
+          "name": "Wes Unseld",
+          "picture": "../players/KENTUCKY/LOUISVILLE - UNSELD.jpg"
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "picture": "../players/KENTUCKY/KENTUCKY - TOWNS.jpg"
+        },
+        {
+          "name": "George Blanda",
+          "picture": "../players/KENTUCKY/KENTUCKY - GEORGE BLANDA.jpg"
+        },
+        {
+          "name": "Devin Booker",
+          "picture": "../players/KENTUCKY/KENTUCKY - BOOKER.jpg"
+        },
+        {
+          "name": "Johnny Unitas",
+          "picture": "../players/KENTUCKY/LOUISVILLE - JOHN UNITAS.jpg"
+        },
+        {
+          "name": "Rajon Rondo",
+          "picture": "../players/KENTUCKY/KENTUCKY - RONDO.jpg"
+        }
+      ]
+    },
+    { "__comment": "LOUISIANA",
+      "id": 19,
+      "nom": "Louisiana",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
+      "carte": "state-layer/LO.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #1E4363, #6CA3B3)",
+      "major_league": [
+        {
+          "name": "Denver Broncos",
+          "logo": "../logos/NFL/Denver-broncos-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Colorado Rockies",
+          "logo": "../logos/MLB/Colorado-Rockies-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Denver Nuggets",
+          "logo": "../logos/NBA/logo-Denver-Nuggets.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Colorado Avalanche",
+          "logo": "../logos/NHL/Colorado-Avalanche-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Colorado Rapids",
+          "logo": "../logos/MLS/Colorado Rapids.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Colorado Eagles",
+          "logo": "../logos/AHL/Colorado_Eagles_logo.svg.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         }
       ],
       "junior_league": [
         {
-          "name": "Iowa Hawkeyes",
-          "logo": "../logos/NCAA/Iowa-Hawkeyes-logo.png",
+          "name": "Colorado Buffaloes",
+          "logo": "../logos/NCAA/Colorado-Buffaloes-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Iowa State Redbirds",
-          "logo": "../logos/NCAA/Iowa-State-Cyclones-logo.png",
+          "name": "Colorado State Rams",
+          "logo": "../logos/NCAA/Colorado-State-Rams-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Northern Iowa Panthers",
-          "logo": "../logos/NCAA/Northern-Iowa-Panthers-logo.png",
+          "name": "Northern Colorado Bears",
+          "logo": "../logos/NCAA/Northern-Colorado-Bears-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Dubuque Fighting Saints",
-          "logo": "../logos/USHL/Dubuque_Fighting_Saints.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
+          "name": "Denver Pioneers",
+          "logo": "../logos/NCAA/Denver-Pioneers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Des Moines Buccaneers",
-          "logo": "../logos/USHL/Des_Moines_Buccaneers.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
+          "name": "Air Force Falcons",
+          "logo": "../logos/NCAA/Air-Force-Falcons-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Waterloo Black Hawks",
-          "logo": "../logos/USHL/Waterloo_Black_Hawks.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
-        },
-        {
-          "name": "Sioux City Musketeers",
-          "logo": "../logos/USHL/Sioux_City_Musketeers.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
-        },
-        {
-          "name": "Cedar Rapids RoughRiders",
-          "logo": "../logos/USHL/Cedar_Rapids_RoughRiders.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
+          "name": "Colorado College Tigers",
+          "logo": "../logos/NCAA/Colorado-College-Tigers-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Wells Fargo Arena",
-          "city": "Des Moines",
-          "capacity": "16.000 seats",
-          "residents": "Iowa Wolves (NBA G-League) and Iowa Wild (AHL)",
+          "name": "Empower Field at Mile High Stadium",
+          "city": "Denver",
+          "capacity": "76.125 seats",
+          "residents": "Denver Broncos (NFL)",
           "pictures": [
-            "../stadiums-pro/DES MOINES - WELLS FARGO ARENA.jpg",
-            "../stadiums-pro/DES MOINES - WELLS FARGO ARENA WOLVES.jpg"
+            "../stadiums-pro/DENVER - MILE HIGH STADIUM.jpg",
+            "../stadiums-pro/DENVER - MILE HIGH STADIUM BRONCOS.jpg"
           ]
         },
         {
-          "name": "Principal Park",
-          "city": "Des Moines",
-          "capacity": "11.500 seats",
-          "residents": "Iowa Cubs (IL)",
+          "name": "Coors Field",
+          "city": "Denver",
+          "capacity": "50.144 seats",
+          "residents": "Colorado Rockies (MLB)",
           "pictures": [
-            "../stadiums-pro/DES MOINES - PRINCIPAL PARK.jpg",
-            "../stadiums-pro/DES MOINES - PRINCIPAL PARK CUBS.webp"
+            "../stadiums-pro/DENVER - COORS FIELD.jpg",
+            "../stadiums-pro/DENVER - COORS FIELD ROCKIES.jpg"
           ]
         },
         {
-          "name": "Kinnick Stadium",
-          "city": "Iowa City",
-          "capacity": "70.585 seats",
-          "residents": "Iowa Hawkeyes (NCAA Football)",
+          "name": "Ball Arena",
+          "city": "Denver",
+          "capacity": "21.000 seats",
+          "residents": "Denver Nuggets (NBA) and Colorado Avalanche (NHL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/IOWA - KINNICK STADIUM - IOWA CITY.jpg",
-            "../stadiums-ncaa/stadiums/IOWA - KINNICK STADIUM - IOWA CITY HAWKEYES.jpg"
+            "../stadiums-pro/DENVER - PEPSI CENTER.jpg",
+            "../stadiums-pro/DENVER - PEPSI CENTER NUGGETS.jpg"
+          ]
+        },
+        {
+          "name": "Dick's Sporting Good Park",
+          "city": "Denver",
+          "capacity": "18.000 seats",
+          "residents": "Colorado Rapids (MLS)",
+          "pictures": [
+            "../stadiums-pro/DENVER - DICKS SPORTING GOOD PARK.jpg",
+            "../stadiums-pro/DENVER - DICKS SPORTING GOOD PARK RAPIDS.jpg"
+          ]
+        },
+        {
+          "name": "Folsom Field",
+          "city": "Boulder",
+          "capacity": "53.750 seats",
+          "residents": "Colorado Buffaloes (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/COLORADO - FOLSOM FIELD.jpg",
+            "../stadiums-ncaa/stadiums/COLORADO - FOLSOM  FIELD BUFFALOES.jpg"
+          ]
+        },
+        {
+          "name": "Sonny Lubick Field at Canvas Stadium",
+          "city": "Fort Collins",
+          "capacity": "36.500 seats",
+          "residents": "Colorado State Rams (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/COLORADO - CANVAS STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/COLORADO - CANVAS STADIUM RAMS.jpg"
+          ]
+        },
+        {
+          "name": "Falcon Stadium",
+          "city": "Colorado Springs",
+          "capacity": "46.692 seats",
+          "residents": "Air Force Falcons (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/AIR FORCE - FALCON STADIUM FALCONS.jpg",
+            "../stadiums-ncaa/stadiums/AIR FORCE - FALCON STADIUM.jpg"
           ]
         },        
         {
-          "name": "Jack Tryce Stadium",
-          "city": "Ames",
-          "capacity": "61.500 seats",
-          "residents": "Iowa State Cyclones (NCAA Football)",
+          "name": "CU Event Center",
+          "city": "Boulder",
+          "capacity": "11.064 seats",
+          "residents": "Colorado Buffaloes (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/IOWA CITY - JACK TRYCE.jpg",
-            "../stadiums-ncaa/stadiums/IOWA CITY - JACK TRYCE CYCLONES.jpg"
+            "../stadiums-ncaa/arenas/COLORADO - COORS EVENT CENTER - BOULDER.jpg",
+            "../stadiums-ncaa/arenas/COLORADO - COORS EVENT CENTER - BOULDER BUFFALOES.jpg"
           ]
         },
         {
-          "name": "Carver-Hawkeye Arena",
-          "city": "Iowa City",
-          "capacity": "15.500 seats",
-          "residents": "Iowa Hawkeyes (NCAA Basket)",
+          "name": "Moby Arena",
+          "city": "Fort Collins",
+          "capacity": "8.083 seats",
+          "residents": "Colorado State Rams (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/IOWA - CARVER-HAWKEYE ARENA - IOWA CITY.jpg",
-            "../stadiums-ncaa/arenas/IOWA - CARVER-HAWKEYE ARENA - IOWA CITY EAGLES.jpg"
+            "../stadiums-ncaa/arenas/COLORADO STATE - MOBY ARENA - FORT COLLINS.jpg",
+            "../stadiums-ncaa/arenas/COLORADO STATE - MOBY ARENA - FORT COLLINS CSU.jpeg"
           ]
         },
         {
-          "name": "Hilton Coliseum",
-          "city": "Ames",
-          "capacity": "14.384 seats",
-          "residents": "Iowa State Cyclones (NCAA Basket)",
+          "name": "Clune Arena",
+          "city": "Colorado Springs",
+          "capacity": "5.858 seats",
+          "residents": "Air Force Falcons (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/IOWA STATE - HILTON COLISEUM - AMES.jpg",
-            "../stadiums-ncaa/arenas/IOWA STATE - HILTON COLISEUM - AMES CYCLONES.jpg"
+            "../stadiums-ncaa/arenas/AIR FORCE - CLUNE ARENA - COLORADO SPRINGS.jpg",
+            "../stadiums-ncaa/arenas/AIR FORCE - CLUNE ARENA - COLORADO SPRINGS FALCONS.jpg"
+          ]
+        },        
+        {
+          "name": "Bank of Colorado Arena",
+          "city": "Greeley",
+          "capacity": "2.992 seats",
+          "residents": "Northern Colorado Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NORTHERN COLORADO - BANK OF COLORADO ARENA - GREELEY BEARS.jpg",
+            "../stadiums-ncaa/arenas/NORTHERN COLORADO - BANK OF COLORADO ARENA - GREELEY.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Caitlin Clark",
-          "picture": "../players/IOWA/IOWA - CLARK.jpg"
+          "name": "Von Miller",
+          "picture": "../players/COLORADO/BRONCOS - VON MILLER 2.jpg"
         },
         {
-          "name": "Kurt Warner",
-          "picture": "../players/IOWA/NORTHERN IOWA - KURT WARNER.jpg"
+          "name": "Cale Makar",
+          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg"
         },
         {
-          "name": "Emlen Tunnell",
-          "picture": "../players/IOWA/IOWA - EMLEN TUNNELL.jpg"
+          "name": "Nikola Jokic",
+          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg"
+        },
+        {
+          "name": "Patrick Roy",
+          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg"
+        },
+        {
+          "name": "Larry Walker",
+          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg"
+        },
+        {
+          "name": "Joe Sakic",
+          "picture": "../players/COLORADO/AVALANCHE - SAKIC 2.jpg"
+        },
+        {
+          "name": "Carmelo Anthony",
+          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg"
+        },
+        {
+          "name": "John Elway",
+          "picture": "../players/COLORADO/BRONCOS - JOHN ELWAY 2.jpg"
+        },
+        {
+          "name": "Nathan MacKinnon",
+          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.webp"
+        },
+        {
+          "name": "Nolan Arenado",
+          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg"
+        },
+        {
+          "name": "Peyton Manning",
+          "picture": "../players/COLORADO/BRONCOS - MANNING.jpg"
+        },
+        {
+          "name": "Peter Forsberg",
+          "picture": "../players/COLORADO/AVALANCHE - FORSBERG.jpg"
+        },
+        {
+          "name": "Chauncey Billups",
+          "picture": "../players/COLORADO/COLORADO - BILLUPS.jpg"
+        },
+        {
+          "name": "Vincent Jackson",
+          "picture": "../players/COLORADO/NORTHERN COLORADO - VINCENT JACKSON.jpg"
         }
       ]
-    },
-    { "__comment": "KENTUCKY",
-      "id": 18,
-    "nom": "Kentucky",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
-    "carte": "state-layer/KT.jpg"
-    },
-    { "__comment": "LOUISIANA",
-      "id": 19,
-    "nom": "Louisiana",
-    "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
-    "carte": "state-layer/LO.jpg"
     },
     { "__comment": "MAINE",
       "id": 20,
