@@ -3696,253 +3696,210 @@
       "carte": "state-layer/LO.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #1E4363, #6CA3B3)",
+      "backgroundGradient": "linear-gradient(to right, #FFD700, #6A0DAD, #008000)",
       "major_league": [
         {
-          "name": "Denver Broncos",
-          "logo": "../logos/NFL/Denver-broncos-Logo.png",
+          "name": "New Orleans Saints",
+          "logo": "../logos/NFL/New-Orleans-Saints-Logo.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
         {
-          "name": "Colorado Rockies",
-          "logo": "../logos/MLB/Colorado-Rockies-Logo.png",
-          "league": "MLB",
-          "leagueLogo": "../logos/MLB/MLB-Logo.png"
-        },
-        {
-          "name": "Denver Nuggets",
-          "logo": "../logos/NBA/logo-Denver-Nuggets.png",
+          "name": "New Orleans Pelicans",
+          "logo": "../logos/NBA/New-Orleans-Pelicans-Logo.png",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
-        },
-        {
-          "name": "Colorado Avalanche",
-          "logo": "../logos/NHL/Colorado-Avalanche-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Colorado Rapids",
-          "logo": "../logos/MLS/Colorado Rapids.png",
-          "league": "MLS",
-          "leagueLogo": "../logos/MLS/MLS.png"
         }
       ],
-      "minor_league": [
-        {
-          "name": "Colorado Eagles",
-          "logo": "../logos/AHL/Colorado_Eagles_logo.svg.png",
-          "league": "AHL",
-          "leagueLogo": "../logos/AHL/AHL.png"
-        }
-      ],
+      "minor_league": [],
       "junior_league": [
         {
-          "name": "Colorado Buffaloes",
-          "logo": "../logos/NCAA/Colorado-Buffaloes-Logo.png",
+          "name": "Louisiana State Tigers",
+          "logo": "../logos/NCAA/LSU-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Colorado State Rams",
-          "logo": "../logos/NCAA/Colorado-State-Rams-Logo.png",
+          "name": "Louisiana Ragin' Cajuns",
+          "logo": "../logos/NCAA/Louisiana-Ragin-Cajuns-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Northern Colorado Bears",
-          "logo": "../logos/NCAA/Northern-Colorado-Bears-logo.png",
+          "name": "New Orleans Privateers",
+          "logo": "../logos/NCAA/New-Orleans-Privateers-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Denver Pioneers",
-          "logo": "../logos/NCAA/Denver-Pioneers-logo.png",
+          "name": "Tulane Green Wave",
+          "logo": "../logos/NCAA/Tulane-Green-Wave-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Air Force Falcons",
-          "logo": "../logos/NCAA/Air-Force-Falcons-logo.png",
+          "name": "Southern Jaguars",
+          "logo": "../logos/NCAA/Southern-Jaguar-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Colorado College Tigers",
-          "logo": "../logos/NCAA/Colorado-College-Tigers-Logo.png",
+          "name": "Northwestern State Demons",
+          "logo": "../logos/NCAA/Northwestern-State-Demons-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Louisiana Tech Bulldogs",
+          "logo": "../logos/NCAA/Louisiana-Tech-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Louisiana-Monroe Warhawks",
+          "logo": "../logos/NCAA/Louisiana-Monroe Warhawks-Photoroom.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Empower Field at Mile High Stadium",
-          "city": "Denver",
-          "capacity": "76.125 seats",
-          "residents": "Denver Broncos (NFL)",
+          "name": "Caesars Superdome",
+          "city": "New Orleans",
+          "capacity": "73.000 seats",
+          "residents": "New Orleans Saints (NFL)",
           "pictures": [
-            "../stadiums-pro/DENVER - MILE HIGH STADIUM.jpg",
-            "../stadiums-pro/DENVER - MILE HIGH STADIUM BRONCOS.jpg"
+            "../stadiums-pro/NEW ORLEANS - MERCEDES BENZ SUPERDOME.jpg",
+            "../stadiums-pro/NEW ORLEANS - MERCEDES BENZ SUPERDOME SAINTS.jpg"
           ]
         },
         {
-          "name": "Coors Field",
-          "city": "Denver",
-          "capacity": "50.144 seats",
-          "residents": "Colorado Rockies (MLB)",
+          "name": "Smoothie King Center",
+          "city": "New Orleans",
+          "capacity": "18.500 seats",
+          "residents": "New Orleans Pelicans (NBA)",
           "pictures": [
-            "../stadiums-pro/DENVER - COORS FIELD.jpg",
-            "../stadiums-pro/DENVER - COORS FIELD ROCKIES.jpg"
+            "../stadiums-pro/NEW ORLEANS - SMOOTHIE KING CENTER.jpg",
+            "../stadiums-pro/NEW ORLEANS - SMOOTHIE KING CENTER PELICANS.jpg"
           ]
         },
         {
-          "name": "Ball Arena",
-          "city": "Denver",
-          "capacity": "21.000 seats",
-          "residents": "Denver Nuggets (NBA) and Colorado Avalanche (NHL)",
+          "name": "Tiger Stadium",
+          "city": "Baton Rouge",
+          "capacity": "102.321 seats",
+          "residents": "Louisiana State Tigers (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/DENVER - PEPSI CENTER.jpg",
-            "../stadiums-pro/DENVER - PEPSI CENTER NUGGETS.jpg"
+            "../stadiums-ncaa/stadiums/LSU - TIGER STADIUM - BATON ROUGE.jpg",
+            "../stadiums-ncaa/stadiums/LSU - TIGER STADIUM - BATON ROUGE TIGERS.jpg"
           ]
         },
         {
-          "name": "Dick's Sporting Good Park",
-          "city": "Denver",
-          "capacity": "18.000 seats",
-          "residents": "Colorado Rapids (MLS)",
+          "name": "Cajun Field",
+          "city": "Lafayette",
+          "capacity": "31.000 seats",
+          "residents": "Louisiana Ragin' Cajuns (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/DENVER - DICKS SPORTING GOOD PARK.jpg",
-            "../stadiums-pro/DENVER - DICKS SPORTING GOOD PARK RAPIDS.jpg"
+            "../stadiums-ncaa/stadiums/LOUISIANA - CAJUN FIELD.jpg",
+            "../stadiums-ncaa/stadiums/LOUISIANA - CAJUN FIELD CAJUN.jpg"
           ]
         },
         {
-          "name": "Folsom Field",
-          "city": "Boulder",
-          "capacity": "53.750 seats",
-          "residents": "Colorado Buffaloes (NCAA Football)",
+          "name": "Joe Aillet Stadium",
+          "city": "Ruston",
+          "capacity": "30.600 seats",
+          "residents": "Louisiana Tech Bulldogs (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/COLORADO - FOLSOM FIELD.jpg",
-            "../stadiums-ncaa/stadiums/COLORADO - FOLSOM  FIELD BUFFALOES.jpg"
-          ]
-        },
-        {
-          "name": "Sonny Lubick Field at Canvas Stadium",
-          "city": "Fort Collins",
-          "capacity": "36.500 seats",
-          "residents": "Colorado State Rams (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/COLORADO - CANVAS STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/COLORADO - CANVAS STADIUM RAMS.jpg"
-          ]
-        },
-        {
-          "name": "Falcon Stadium",
-          "city": "Colorado Springs",
-          "capacity": "46.692 seats",
-          "residents": "Air Force Falcons (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/AIR FORCE - FALCON STADIUM FALCONS.jpg",
-            "../stadiums-ncaa/stadiums/AIR FORCE - FALCON STADIUM.jpg"
+            "../stadiums-ncaa/stadiums/LOUISIANA TECH - JOE AILLET STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/LOUISIANA TECH - JOE AILLET STADIUM BULLDOGS.jpg"
           ]
         },        
         {
-          "name": "CU Event Center",
-          "city": "Boulder",
-          "capacity": "11.064 seats",
-          "residents": "Colorado Buffaloes (NCAA Basket)",
+          "name": "A. W. Mumford Stadium",
+          "city": "Baton Rouge",
+          "capacity": "29.000 seats",
+          "residents": "Southern Jaguars (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/COLORADO - COORS EVENT CENTER - BOULDER.jpg",
-            "../stadiums-ncaa/arenas/COLORADO - COORS EVENT CENTER - BOULDER BUFFALOES.jpg"
+            "../stadiums-ncaa/stadiums/SOUTHERN - MUMFORD STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/SOUTHERN - MUMFORD STADIUM JAGUARS.jpg"
           ]
         },
         {
-          "name": "Moby Arena",
-          "city": "Fort Collins",
-          "capacity": "8.083 seats",
-          "residents": "Colorado State Rams (NCAA Basket)",
+          "name": "Cajundome & Convention Center",
+          "city": "Lafayette",
+          "capacity": "13.500 seats",
+          "residents": "Louisiana-Lafayette Ragin' Cajuns (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/COLORADO STATE - MOBY ARENA - FORT COLLINS.jpg",
-            "../stadiums-ncaa/arenas/COLORADO STATE - MOBY ARENA - FORT COLLINS CSU.jpeg"
+            "../stadiums-ncaa/arenas/LOUISIANA - CAJUNDOME.jpeg",
+            "../stadiums-ncaa/arenas/LOUISIANA - CAJUNDOME CAJUNS.jpg"
           ]
         },
         {
-          "name": "Clune Arena",
-          "city": "Colorado Springs",
-          "capacity": "5.858 seats",
-          "residents": "Air Force Falcons (NCAA Basket)",
+          "name": "Lakefront Arena",
+          "city": "New Orleans",
+          "capacity": "10.000 seats",
+          "residents": "New Orleans Privateers (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/AIR FORCE - CLUNE ARENA - COLORADO SPRINGS.jpg",
-            "../stadiums-ncaa/arenas/AIR FORCE - CLUNE ARENA - COLORADO SPRINGS FALCONS.jpg"
-          ]
-        },        
-        {
-          "name": "Bank of Colorado Arena",
-          "city": "Greeley",
-          "capacity": "2.992 seats",
-          "residents": "Northern Colorado Bears (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/NORTHERN COLORADO - BANK OF COLORADO ARENA - GREELEY BEARS.jpg",
-            "../stadiums-ncaa/arenas/NORTHERN COLORADO - BANK OF COLORADO ARENA - GREELEY.jpg"
+            "../stadiums-ncaa/arenas/NEW ORLEANS - LAKEFRONT ARENA.jpg",
+            "../stadiums-ncaa/arenas/NEW ORLEANS - LAKEFRONT ARENA PRIVATEERS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Von Miller",
-          "picture": "../players/COLORADO/BRONCOS - VON MILLER 2.jpg"
+          "name": "Anthony Davis",
+          "picture": "../players/LOUISIANA/PELICANS - DAVIS.jpg"
         },
         {
-          "name": "Cale Makar",
-          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg"
+          "name": "Drew Brees",
+          "picture": "../players/LOUISIANA/SAINTS - DREW BREES 1.jpg"
         },
         {
-          "name": "Nikola Jokic",
-          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg"
+          "name": "Chris Paul",
+          "picture": "../players/LOUISIANA/PELICANS - PAUL.jpg"
         },
         {
-          "name": "Patrick Roy",
-          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg"
+          "name": "Rickey Jackson",
+          "picture": "../players/LOUISIANA/SAINTS - RICKEY JACKSON 1.jpg"
         },
         {
-          "name": "Larry Walker",
-          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg"
+          "name": "Zion Williamson",
+          "picture": "../players/LOUISIANA/PELICANS - ZION.jpg"
         },
         {
-          "name": "Joe Sakic",
-          "picture": "../players/COLORADO/AVALANCHE - SAKIC 2.jpg"
+          "name": "Darren Sproles",
+          "picture": "../players/LOUISIANA/SAINTS - DARREN SPROLES 2.jpg"
         },
         {
-          "name": "Carmelo Anthony",
-          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg"
+          "name": "Brandon Ingram",
+          "picture": "../players/LOUISIANA/PELICANS - INGRAM.jpg"
         },
         {
-          "name": "John Elway",
-          "picture": "../players/COLORADO/BRONCOS - JOHN ELWAY 2.jpg"
+          "name": "Willie Roaf",
+          "picture": "../players/LOUISIANA/SAINTS - WILLIE ROAF 1.jpg"
         },
         {
-          "name": "Nathan MacKinnon",
-          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.webp"
+          "name": "Shaquille O'Neal",
+          "picture": "../players/LOUISIANA/LSU - O'NEAL.jpg"
         },
         {
-          "name": "Nolan Arenado",
-          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg"
+          "name": "Odell Beckham Jr",
+          "picture": "../players/LOUISIANA/LSU - BECKHAM JR.jpg"
         },
         {
-          "name": "Peyton Manning",
-          "picture": "../players/COLORADO/BRONCOS - MANNING.jpg"
+          "name": "Bob Pettit",
+          "picture": "../players/LOUISIANA/LSU - PETTIT 1.jpeg"
         },
         {
-          "name": "Peter Forsberg",
-          "picture": "../players/COLORADO/AVALANCHE - FORSBERG.jpg"
+          "name": "Karl Malone",
+          "picture": "../players/LOUISIANA/LOUISIANA TECH - MALONE.jpg"
         },
         {
-          "name": "Chauncey Billups",
-          "picture": "../players/COLORADO/COLORADO - BILLUPS.jpg"
+          "name": "Pete Maravich",
+          "picture": "../players/LOUISIANA/LSU - MARAVICH.jpg"
         },
         {
-          "name": "Vincent Jackson",
-          "picture": "../players/COLORADO/NORTHERN COLORADO - VINCENT JACKSON.jpg"
+          "name": "Brian Mitchell",
+          "picture": "../players/LOUISIANA/LOUISIANA-LAFAYETTE - BRIAN MITCHELL.jpg"
         }
       ]
     },
@@ -3950,13 +3907,334 @@
       "id": 20,
       "nom": "Maine",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg",
-      "carte": "state-layer/MA.jpg"
+      "carte": "state-layer/MA.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #2e8b57, #4682b4)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Maine Celtics",
+          "logo": "../logos/NBA GL/Maine_Celtics_logo.svg.png",
+          "league": "NBA GL",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Maine Mariners",
+          "logo": "../logos/ECHL/Maine_Mariners_(ECHL)_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Maine Black Bears",
+          "logo": "../logos/NCAA/Maine-Black-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Cross Insurance Arena",
+          "city": "Portland",
+          "capacity": "6.200 seats",
+          "residents": "Maine Mariners (ECHL)",
+          "pictures": [
+            "../stadiums-pro/MAINE - CROSS INSURANCE.jpg",
+            "../stadiums-pro/MAINE - CROSS INSURANCE ARENA.jpg"
+          ]
+        },
+        {
+          "name": "James A. Banks Sr Portland Expo",
+          "city": "Portland",
+          "capacity": "3.000 seats",
+          "residents": "Maine Celtics (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/MAINE - PORTLAND EXPO.jpg",
+            "../stadiums-pro/MAINE - PORTLAND EXPO CELTICS.jpg"
+          ]
+        },
+        {
+          "name": "Morse Field at Alfond Sports Stadium",
+          "city": "Orono",
+          "capacity": "10.000 seats",
+          "residents": "Maine Black Bears (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MAINE - ALFOND SPORTS STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/MAINE - ALFOND SPORTS STADIUM BEARS.jpg"
+          ]
+        },
+        {
+          "name": "Cross Insurance Center",
+          "city": "Bangor",
+          "capacity": "8.500 seats",
+          "residents": "Maine Black Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MAINE - CROSS INSURANCE CENTER.webp",
+            "../stadiums-ncaa/arenas/MAINE - CROSS INSURANCE CENTER BEARS.jpg"
+          ]
+        },
+        {
+          "name": "Harold Alfond Sports Arena",
+          "city": "Orono",
+          "capacity": "5.712 seats",
+          "residents": "Maine Black Bears (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MAINE - HAROLD ALFOND ARENA.jpeg",
+            "../stadiums-ncaa/arenas/MAINE - HAROLD ALFOND ARENA BEARS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Paul Kariya",
+          "picture": "../players/MAINE/MAINE - PAUL KARIYA.jpg"
+        },
+        {
+          "name": "Ben Bishop",
+          "picture": "../players/MAINE/MAINE - BISHOP.jpg_large"
+        },
+        {
+          "name": "Jimmy Howard",
+          "picture": "../players/MAINE/MAINE - HOWARD.jpg"
+        }
+      ]
     },
     { "__comment": "MARYLAND",
       "id": 21,
       "nom": "Maryland",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg",
-      "carte": "state-layer/MY.jpg"
+      "carte": "state-layer/MY.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #D0103A, #002B7F)",
+      "major_league": [
+        {
+          "name": "Atlanta Falcons",
+          "logo": "../logos/NFL/Atlanta-Falcons-logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Atlanta Braves",
+          "logo": "../logos/MLB/Atlanta-Braves-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Atlanta Hawks",
+          "logo": "../logos/NBA/Atlanta-HAwks-logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Atlanta Dream",
+          "logo": "../logos/WNBA/Atlanta Dream.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Atlanta United FC",
+          "logo": "../logos/MLS/Atlanta United FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "College Park Skyhawks",
+          "logo": "../logos/NBA GL/College_Park_Skyhawks_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Gwinnett Stripers",
+          "logo": "../logos/IL/Gwinnett_Stripers.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Atlanta Gladiators",
+          "logo": "../logos/ECHL/Atlanta-Gladiators-logo.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Georgia Bulldogs",
+          "logo": "../logos/NCAA/Georgia-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Georgia State Panthers",
+          "logo": "../logos/NCAA/Georgia-State-Panthers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Georgia Tech Yellow Jackets",
+          "logo": "../logos/NCAA/Georgia-Tech-Yellow-Jackets-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Kennesaw State Owls",
+          "logo": "../logos/NCAA/Kennesaw-State-Owls-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Georgia Southern Eagles",
+          "logo": "../logos/NCAA/Georgia-Southern-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Mercedes-Benz Stadium",
+          "city": "Atlanta",
+          "capacity": "71.000 seats",
+          "residents": "Atlanta Falcons (NFL) and Atlanta United FC (MLS)",
+          "pictures": [
+            "../stadiums-pro/ATLANTA - MERCEDES BENZ STADIUM.jpg",
+            "../stadiums-pro/ATLANTA - MERCEDES BENZ STADIUM FALCONS.png"
+          ]
+        },
+        {
+          "name": "Truist Park",
+          "city": "Atlanta",
+          "capacity": "51.084 seats",
+          "residents": "Atlanta Braves (MLB)",
+          "pictures": [
+            "../stadiums-pro/ATLANTA - SUNTRUST PARK.jpg",
+            "../stadiums-pro/ATLANTA - SUNTRUST PARK BRAVES.jpg"
+          ]
+        },
+        {
+          "name": "State Farm Arena",
+          "city": "Atlanta",
+          "capacity": "16.600 seats",
+          "residents": "Atlanta Hawks (NBA)",
+          "pictures": [
+            "../stadiums-pro/ATLANTA - PHILIPS ARENA.jpg",
+            "../stadiums-pro/ATLANTA - PHILIPS ARENA HAWKS.jpg"
+          ]
+        },
+        {
+          "name": "Gateway Center Arena",
+          "city": "College Park",
+          "capacity": "5.000 seats",
+          "residents": "Atlanta Dream (WNBA)",
+          "pictures": [
+            "../stadiums-pro/COLLEGE PARK - GATEWAY CENTER.jpg",
+            "../stadiums-pro/COLLEGE PARK - GATEWAY CENTER DREAM.jpg"
+          ]
+        },
+        {
+          "name": "Sanford Stadium",
+          "city": "Athens",
+          "capacity": "92.746 seats",
+          "residents": "Georgia Bulldogs (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/GEORGIA - SANFORD STADIUM - ATHENS.jpg",
+            "../stadiums-ncaa/stadiums/GEORGIA - SANFORD STADIUM - ATHENS BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "Bobby Dodd Stadium",
+          "city": "Atlanta",
+          "capacity": "55.000 seats",
+          "residents": "Georgia Tech Yellow Jackets (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/GEORGIA TECH - BOBBY DODD STADIUM.webp",
+            "../stadiums-ncaa/stadiums/GEORGIA TECH - BOBBY DODD STADIUM JACKETS.jpg"
+          ]
+        },
+        {
+          "name": "Center Parc Stadium",
+          "city": "Atlanta",
+          "capacity": "24.333 seats",
+          "residents": "Georgia State Panthers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/GEORGIA STATE - CENTER PARC STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/GEORGIA STATE - CENTER PARC STADIUM PANTHERS.jpg"
+          ]
+        },
+        {
+          "name": "Stegeman Coliseum",
+          "city": "Athens",
+          "capacity": "10.523 seats",
+          "residents": "Georgia Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GEORGIA - STEGEMAN COLISEUM - ATHENS.jpg",
+            "../stadiums-ncaa/arenas/GEORGIA - STEGEMAN COLISEUM - ATHENS BULLDOGS.jpg"
+          ]
+        },
+        {
+          "name": "McCamish Pavilion",
+          "city": "Atlanta",
+          "capacity": "8.600 seats",
+          "residents": "Georgia Tech Yellow Jackets (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GEORGIA TECH - HANK MCCAMISH PAVILION - ATLANTA.jpg",
+            "../stadiums-ncaa/arenas/GEORGIA TECH - HANK MCCAMISH PAVILION - ATLANTA YELLOW.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Hank Aaron",
+          "picture": "../players/GEORGIA/BRAVES - HANK AARON.jpg"
+        },
+        {
+          "name": "Deion Sanders",
+          "picture": "../players/GEORGIA/FALCONS - DEION SANDERS 1.jpg"
+        },
+        {
+          "name": "Dominique Wilkins",
+          "picture": "../players/GEORGIA/HAWKS - WILKINS 2.jpg"
+        },
+        {
+          "name": "Ilya Kovalchuk",
+          "picture": "../players/GEORGIA/THRASHERS - KOVALCHUK.jpg"
+        },
+        {
+          "name": "Greg Maddux",
+          "picture": "../players/GEORGIA/BRAVES - GREG MADDUX.jpg"
+        },
+        {
+          "name": "Julio Jones",
+          "picture": "../players/GEORGIA/FALCONS - JULIO JONES 1.jpg"
+        },
+        {
+          "name": "Pete Maravich",
+          "picture": "../players/GEORGIA/HAWKS - MARAVICH.jpg"
+        },
+        {
+          "name": "Vyacheslav Kozlov",
+          "picture": "../players/GEORGIA/THRASHERS - KOZLOV.jpg"
+        },
+        {
+          "name": "Matt Ryan",
+          "picture": "../players/GEORGIA/FALCONS - MATT RYAN 2.jpg"
+        },
+        {
+          "name": "Warren Spahn",
+          "picture": "../players/GEORGIA/BRAVES - WARREN SPAHN.jpg"
+        },
+        {
+          "name": "Chris Bosh",
+          "picture": "../players/GEORGIA/GEORGIA TECH - BOSH.jpg"
+        },
+        {
+          "name": "Shannon Sharpe",
+          "picture": "../players/GEORGIA/SAVANNAH STATE - SHANNON SHARPE.jpg"
+        }
+      ]
     },
     { "__comment": "MASSACHUSETTS",
       "id": 22,
