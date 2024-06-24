@@ -35,7 +35,6 @@ function Home() {
         PS : Thank you guys for all the support, it's awesome ! ​🤩​
       </p>
       <div>
-        <h1>ChatSport</h1>
         <ChatBot />
       </div>
       </section>
