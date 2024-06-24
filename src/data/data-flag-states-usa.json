@@ -4843,378 +4843,268 @@
       "backgroundGradient": "linear-gradient(to right, #4a90e2, #50c878)",
       "major_league": [
         {
-          "name": "Detroit Lions",
-          "logo": "../logos/NFL/Detroit-Lions-Logo.png",
+          "name": "Minnesota Vikings",
+          "logo": "../logos/NFL/Minnesota-Vikings-Logo.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
         {
-          "name": "Detroit Tigers",
-          "logo": "../logos/MLB/Detroit-Tigers-Logo.png",
+          "name": "Minnesota Twins",
+          "logo": "../logos/MLB/Minnesota-Twins-Logo.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
         {
-          "name": "Detroit Pistons",
-          "logo": "../logos/NBA/Detroit-Pistons-logo.png",
+          "name": "Minnesota Timberwolves",
+          "logo": "../logos/NBA/Minnesota-Timberwolves-Logo.png",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
         },
         {
-          "name": "Detroit Red Wings",
-          "logo": "../logos/NHL/Detroit Red Wings.png",
+          "name": "Minnesota Wild",
+          "logo": "../logos/NHL/Minnesota-Wild-logo.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Minnesota United",
+          "logo": "../logos/MLS/Minnesota United.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Minnesota Lynx",
+          "logo": "../logos/WNBA/Minnesota Lynx.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
         }
       ],
       "minor_league": [
         {
-          "name": "Grand Rapids Gold",
-          "logo": "../logos/NBA GL/Grand_Rapids_Gold_logo.svg.png",
-          "league": "NBA GL",
-          "leagueLogo": "../logos/NBA GL/NBAGL.png"
-        },
-        {
-          "name": "Grand Rapids Griffins",
-          "logo": "../logos/AHL/Grand_Rapids_Griffins_logo.svg.png",
-          "league": "AHL",
-          "leagueLogo": "../logos/AHL/AHL.png"
-        },
-        {
-          "name": "Kalamazoo Wings",
-          "logo": "../logos/ECHL/Kalamazoo_Wings_Logo.svg.png",
-          "league": "ECHL",
-          "leagueLogo": "../logos/ECHL/ECHL.png"
+          "name": "St. Paul Saints",
+          "logo": "../logos/IL/St._Paul_Saints.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
         }
       ],
       "junior_league": [
         {
-          "name": "Michigan Wolverines",
-          "logo": "../logos/NCAA/Michigan-Wolverines-logo.png",
+          "name": "Minnesota Golden Gophers",
+          "logo": "../logos/NCAA/Minnesota-Golden-Gophers-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Michigan State Spartans",
-          "logo": "../logos/NCAA/Michigan-State-Spartans-logo.png",
+          "name": "Minnesota State Mavericks",
+          "logo": "../logos/NCAA/Minnesota-State-Mavericks-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Central Michigan Chippewas",
-          "logo": "../logos/NCAA/Central-Michigan-Chippewas-Logo.png",
+          "name": "St. Cloud State Huskies",
+          "logo": "../logos/NCAA/St.-Cloud-State-Huskies-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Western Michigan Broncos",
-          "logo": "../logos/NCAA/Western-Michigan-Broncos-logo.png",
+          "name": "Minnesota-Duluth Bulldogs",
+          "logo": "../logos/NCAA/Minnesota-Duluth-Bulldogs-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Eastern Michigan Eagles",
-          "logo": "../logos/NCAA/Eastern-Michigan-Eagles-logo.png",
+          "name": "Bemidji State Beavers",
+          "logo": "../logos/NCAA/Bemidji-State-Beavers-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Michigan Tech Huskies",
-          "logo": "../logos/NCAA/Michigan-Tech-Huskies-logo.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Lake Superior State Lakers",
-          "logo": "../logos/NCAA/Lake-Superior-State-Lakers-logo.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Ferris State Bulldogs",
-          "logo": "../logos/NCAA/Ferris-State-Bulldogs-logo.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Northern Michigan Wildcats",
-          "logo": "../logos/NCAA/Northern-Michigan-Wildcats-Logo.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Detroit Titans",
-          "logo": "../logos/NCAA/Detroit-Titans-logo.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Oakland Golden Grizzlies",
-          "logo": "../logos/NCAA/Oakland-GOlden-Grizzlies-Logo.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        },
-        {
-          "name": "Saginaw Spirit",
-          "logo": "../logos/OHL/Saginaw_Spirit.png",
-          "league": "OHL",
-          "leagueLogo": "../logos/OHL/OHL.png"
-        },
-        {
-          "name": "Flint Firebirds",
-          "logo": "../logos/OHL/Flint_Firebirds.png",
-          "league": "OHL",
-          "leagueLogo": "../logos/OHL/OHL.png"
-        },
-        {
-          "name": "USA Hockey NTDP",
-          "logo": "../logos/USHL/USA_Hockey_NTDP.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
-        },
-        {
-          "name": "Muskegon Lumberjacks",
-          "logo": "../logos/USHL/Muskegon_Lumberjacks.png",
-          "league": "USHL",
-          "leagueLogo": "../logos/USHL/USHL.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Ford Field",
-          "city": "Detroit",
-          "capacity": "65.000 seats",
-          "residents": "Detroit Lions (NFL)",
+          "name": "U.S. Bank Stadium",
+          "city": "Minneapolis",
+          "capacity": "73.000 seats",
+          "residents": "Minnesota Vikings (NFL)",
           "pictures": [
-            "../stadiums-pro/DETROIT - FORD FIELD.jpg",
-            "../stadiums-pro/DETROIT - FORD FIELD LIONS.jpg"
+            "../stadiums-pro/MINNEAPOLIS - U.S. BANK STADIUM.jpg",
+            "../stadiums-pro/MINNEAPOLIS - U.S. BANK STADIUM VIKINGS.jpg"
           ]
         },
         {
-          "name": "Comerica Park",
-          "city": "Detroit",
-          "capacity": "41.574 seats",
-          "residents": "Detroit Tigers (MLB)",
+          "name": "Target Field",
+          "city": "Minneapolis",
+          "capacity": "39.504 seats",
+          "residents": "Minnesota Twins (MLB)",
           "pictures": [
-            "../stadiums-pro/DETROIT - COMERICA PARK.jpg",
-            "../stadiums-pro/DETROIT - COMERICA PARK TIGERS.jpg"
+            "../stadiums-pro/MINNEAPOLIS - TARGET FIELD.jpg",
+            "../stadiums-pro/MINNEAPOLIS - TARGET FIELD TWINS.jpg"
           ]
         },
         {
-          "name": "Little Caesars Arena",
-          "city": "Detroit",
-          "capacity": "20.332 seats",
-          "residents": "Detroit Pistons (NBA) and Detroit Red Wings (NHL)",
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "capacity": "20.500 seats",
+          "residents": "Minnesota Timberwolves (NBA) and Minnesota Lynx (WNBA)",
           "pictures": [
-            "../stadiums-pro/DETROIT - LITTLE CAESARS ARENA.jpg",
-            "../stadiums-pro/DETROIT - LITTLE CAESARS ARENA RED WINGS.jpeg"
+            "../stadiums-pro/MINNEAPOLIS - TARGET CENTER.jpg",
+            "../stadiums-pro/MINNEAPOLIS - TARGET CENTER TIMBERWOLVES.jpg"
           ]
         },
         {
-          "name": "Van Andel Arena",
-          "city": "Grand Rapids",
-          "capacity": "13.184 seats",
-          "residents": "Grand Rapids Griffins (AHL) and Grand Rapids Gold (NBA G-League)",
+          "name": "Xcel Energy Center",
+          "city": "St. Paul",
+          "capacity": "18.064 seats",
+          "residents": "Minnesota Wild (NHL)",
           "pictures": [
-            "../stadiums-pro/GRAND RAPIDS - VAN ANDEL ARENA.jpg",
-            "../stadiums-pro/GRAND RAPIDS - VAN ANDEL ARENA GRIFFINS.jpg"
+            "../stadiums-pro/SAINT PAUL - XCEL ENERGY CENTER.jpg",
+            "../stadiums-pro/SAINT PAUL - XCEL ENERGY CENTER WILD.jpg"
           ]
         },
         {
-          "name": "Wings Event Center",
-          "city": "Kalamazoo",
-          "capacity": "8.023 seats",
-          "residents": "Kalamazoo Wings (ECHL)",
+          "name": "Allianz Field",
+          "city": "St. Paul",
+          "capacity": "19.400 seats",
+          "residents": "Minnesota United (ECHL)",
           "pictures": [
-            "../stadiums-pro/KALAMAZOO - WINGS EVENT CENTER.jpg",
-            "../stadiums-pro/KALAMAZOO - WINGS EVENT CENTER ECHL.jpg"
+            "../stadiums-pro/MINNEAPOLIS - ALLIANZ FIELD.jpg",
+            "../stadiums-pro/MINNEAPOLIS - ALLIANZ FIELD UNITED.webp"
           ]
         },
         {
-          "name": "Michigan Stadium",
-          "city": "Ann Arbor",
-          "capacity": "107.601 seats",
-          "residents": "Michigan Wolverines (NCAA Football)",
+          "name": "CHS Field",
+          "city": "St. Paul",
+          "capacity": "7.210 seats",
+          "residents": "St. Paul Saints (IL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/MICHIGAN - MICHIGAN STADIUM - ANN ARBOR.jpeg",
-            "../stadiums-ncaa/stadiums/MICHIGAN - MICHIGAN STADIUM - ANN ARBOR.jpg"
+            "../stadiums-pro/SAINT PAUL - CHS FIELD.jpg",
+            "../stadiums-pro/SAINT PAUL - CHS FIELD SiaNTS.jpg"
           ]
         },
         {
-          "name": "Spartan Stadium",
-          "city": "East Lansing",
-          "capacity": "75.025 seats",
-          "residents": "Michigan State Spartans (NCAA Football)",
+          "name": "Huntington Bank Stadium",
+          "city": "Minneapolis",
+          "capacity": "50.805 seats",
+          "residents": "Minnesota Golden Gophers (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/MICHIGAN STATE - SPARTAN STADIUM - EAST LANSING.jpg",
-            "../stadiums-ncaa/stadiums/MICHIGAN STATE - SPARTAN STADIUM - EAST LANSING SPARTANS.jpg"
+            "../stadiums-ncaa/stadiums/MINNESOTA - TCF BANK STADIUM - MINNEAPOLIS.jpg",
+            "../stadiums-ncaa/stadiums/MINNESOTA - TCF BANK STADIUM - MINNEAPOLIS WOLVES.jpg"
           ]
         },
         {
-          "name": "Kelly/Shorts Stadium",
-          "city": "Mount Pleasant",
-          "capacity": "45.000 seats",
-          "residents": "Central Michigan Chippewas (NCAA Football)",
+          "name": "Williams Arena",
+          "city": "Minneapolis",
+          "capacity": "14.625 seats",
+          "residents": "Minnesota Golden Gophers (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/CENTRAL MICHIGAN - KELLY SHORTS STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/CENTRAL MICHIGAN - KELLY SHORTS STADIUM CHIPPEWAS.jpg"
+            "../stadiums-ncaa/arenas/MINNESOTA - WILLIAMS ARENA - MINNEAPOLIS.jpg",
+            "../stadiums-ncaa/arenas/MINNESOTA - WILLIAMS ARENA - MINNEAPOLIS GOLDEN GOPHERS.jpg"
           ]
         },
         {
-          "name": "Waldo Stadium",
-          "city": "Kalamazoo",
-          "capacity": "30.200 seats",
-          "residents": "Western Michigan Broncos (NCAA Football)",
+          "name": "3M Arena at Mariucci",
+          "city": "Minneapolis",
+          "capacity": "10.000 seats",
+          "residents": "Minnesota Golden Gophers (NCAA Hockey)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/WESTERN MICHIGAN - WALDO STADIUM.jpeg",
-            "../stadiums-ncaa/stadiums/WESTERN MICHIGAN - WALDO STADIUM BRONCOS.jpg"
+            "../stadiums-ncaa/arenas/MINNESOTA - WILLIAMS ARENA - MINNEAPOLIS.jpg",
+            "../stadiums-ncaa/arenas/MINNESOTA - MARIUCCI ARENA - MINNEAPOLIS.jpg"
           ]
         },
         {
-          "name": "Rynearson Stadium",
-          "city": "Ypsilanti",
-          "capacity": "30.200 seats",
-          "residents": "Eastern Michigan Eagles (NCAA Football)",
+          "name": "Mayo Clinic Health System Event Center",
+          "city": "Mankato",
+          "capacity": "8.200 seats",
+          "residents": "Minnesota State Mavericks (NCAA Hockey)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/EASTERN MICHIGAN - RYNEARSON STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/EASTERN MICHIGAN - RYNEARSON STADIUM EAGLES.jpg"
+            "../stadiums-ncaa/arenas/MINNESOTA STATE - MAYO CLINIC CENTER.webp",
+            "../stadiums-ncaa/arenas/MINNESOTA STATE - MAYO CLINIC MAVS.jpg"
           ]
         },
         {
-          "name": "Breslin Center",
-          "city": "East Lansing",
-          "capacity": "15.138 seats",
-          "residents": "Michigan State Spartans (NCAA Basket)",
+          "name": "AMSOIL Arena",
+          "city": "Duluth",
+          "capacity": "6.818 seats",
+          "residents": "Minnesota-Duluth Bulldogs (NCAA Hockey)",
           "pictures": [
-            "../stadiums-ncaa/arenas/MICHIGAN STATE - BRESLIN STUDENT EVENTS CENTER - EAST LANSING.jpg",
-            "../stadiums-ncaa/arenas/MICHIGAN STATE - BRESLIN STUDENT EVENTS CENTER - EAST LANSING SPARTANS.jpg"
+            "../stadiums-ncaa/arenas/MINNESOTA-DULUTH - AMSOIL ARENA.jpg",
+            "../stadiums-ncaa/arenas/MINNESOTA-DULUTH - AMSOIL ARENA BULLDOGS.png"
           ]
         },
         {
-          "name": "Crisler Arena",
-          "city": "Ann Arbor",
-          "capacity": "12.721 seats",
-          "residents": "Michigan Wolverines (NCAA Basket)",
+          "name": "Herb Brooks National Hockey Center",
+          "city": "St. Cloud",
+          "capacity": "6.000 seats",
+          "residents": "St. Cloud State Huskies (NCAA Hockey)",
           "pictures": [
-            "../stadiums-ncaa/arenas/MICHIGAN - CRISLER CENTER - ANN ARBOR.jpg",
-            "../stadiums-ncaa/arenas/MICHIGAN - CRISLER CENTER - ANN ARBOR WOLVERINES.jpg"
-          ]
-        },
-        {
-          "name": "Eastern Michigan University Convocation Center",
-          "city": "Ypsilanti",
-          "capacity": "8.824 seats",
-          "residents": "Eastern Michigan Eagles (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/EASTERN MICHIGAN - CONVOCATION CENTER.jpg",
-            "../stadiums-ncaa/arenas/EASTERN MICHIGAN - CONVOCATION CENTER EAGLES.jpg"
-          ]
-        },
-        {
-          "name": "Yost Ice Arena",
-          "city": "Ann Arbor",
-          "capacity": "6.637 seats",
-          "residents": "Michigan Wolverines (NCAA Hockey)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/MICHIGAN - YOST ICE ARENA.jpg",
-            "../stadiums-ncaa/arenas/MICHIGAN - YOST ICE ARENA WOLVERINES.jpg"
-          ]
-        },
-        {
-          "name": "Munn Ice Arena",
-          "city": "East Lansing",
-          "capacity": "6.470 seats",
-          "residents": "Michigan State Spartans (NCAA Hockey)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/MICHIGAN STATE - MUNN ICE ARENA.jpg",
-            "../stadiums-ncaa/arenas/MICHIGAN STATE - MUNN ICE ARENA SPARTANS.jpg"
+            "../stadiums-ncaa/arenas/ST CLOUD - HERB BROOKS.jpg",
+            "../stadiums-ncaa/arenas/ST CLOUD - HERB BROOKS HUSKIES.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Nicklas Lidström",
-          "picture": "../players/MICHIGAN/RED WINGS - NICKLAS LIDSTROM.jpg"
+          "name": "Kevin Garnett",
+          "picture": "../players/MINNESOTA/WOLVES - GARNETT.jpg"
         },
         {
-          "name": "Isiah Thomas",
-          "picture": "../players/MICHIGAN/PISTONS - THOMAS 2.jpg"
+          "name": "Randy Moss",
+          "picture": "../players/MINNESOTA/VIKINGS - RANDy MOSS.jpg"
         },
         {
-          "name": "Barry Sanders",
-          "picture": "../players/MICHIGAN/LIONS - BARRY SANDERS.jpg"
+          "name": "Harmon Killebrew",
+          "picture": "../players/MINNESOTA/TWINS - HARMON KILLEBREW.jpg"
         },
         {
-          "name": "Ty Cobb",
-          "picture": "../players/MICHIGAN/TIGERS - TY COBB 1.jpg"
+          "name": "Kirill Kaprizov",
+          "picture": "../players/MINNESOTA/WILD - KAPRIZOV.jpg"
         },
         {
-          "name": "Matthew Stafford",
-          "picture": "../players/MICHIGAN/LIONS - MATTHEW STAFFORD 2.jpg"
+          "name": "Fran Tarkenton",
+          "picture": "../players/MINNESOTA/VIKINGS - FRAN TARKENTON.jpg"
         },
         {
-          "name": "Gordie Howe",
-          "picture": "../players/MICHIGAN/RED WINGS - GORDIE HOWE 2.jpg"
+          "name": "Anthony Edwards",
+          "picture": "../players/MINNESOTA/WOLVES - EDWARDS.webp"
         },
         {
-          "name": "Miguel Cabrera",
-          "picture": "../players/MICHIGAN/TIGERS - MIGUEL CABRERA.jpg"
+          "name": "Mikko Koivu",
+          "picture": "../players/MINNESOTA/WILD - MIKKO KOIVU 2.jpg"
         },
         {
-          "name": "Chauncey Billups",
-          "picture": "../players/MICHIGAN/PISTONS - BILLUPS 1.jpg"
+          "name": "Rod Carew",
+          "picture": "../players/MINNESOTA/TWINS - ROD CAREW.jpg"
         },
         {
-          "name": "Justin Verlander",
-          "picture": "../players/MICHIGAN/TIGERS - VERLANDER.jpg"
+          "name": "Karl-Anthony Towns",
+          "picture": "../players/MINNESOTA/WOLVES - TOWNS 4.jpg"
         },
         {
-          "name": "Steve Yzerman",
-          "picture": "../players/MICHIGAN/RED WINGS - STEVE YZERMAN 2.jpg"
+          "name": "John Randle",
+          "picture": "../players/MINNESOTA/VIKINGS - JOHN RANDLE 2.jpg"
         },
         {
-          "name": "Joe Dumars",
-          "picture": "../players/MICHIGAN/PISTONS - DUMARS.jpg"
+          "name": "Bert Blyleven",
+          "picture": "../players/MINNESOTA/TWINS - BERT BLYLEVEN.jpg"
         },
         {
-          "name": "Dick Lebeau",
-          "picture": "../players/MICHIGAN/LIONS - DICK LEBEAU.jpg"
+          "name": "Adrian Peterson",
+          "picture": "../players/MINNESOTA/VIKINGS - ADRIAN PETERSON 2.jpg"
         },        
         {
-          "name": "Ben Wallace",
-          "picture": "../players/MICHIGAN/PISTONS - BEN WALLACE 1.jpg"
+          "name": "Paul Molitor",
+          "picture": "../players/MINNESOTA/TWINS - PAUL MOLITOR.jpg"
         },
         {
-          "name": "Al Kaline",
-          "picture": "../players/MICHIGAN/TIGERS - AL KALINE.jpg"
+          "name": "Marian Gaborik",
+          "picture": "../players/MINNESOTA/WILD - MARIAN GABORIK 2.jpg"
         },
         {
-          "name": "Lem Barney",
-          "picture": "../players/MICHIGAN/LIONS - LEM BARNEY.jpg"
+          "name": "Kevin McHale",
+          "picture": "../players/MINNESOTA/MINNESOTA - MCHALE.jpg"
         },
         {
-          "name": "Terry Sawchuk",
-          "picture": "../players/MICHIGAN/RED WINGS - TERRY SAWCHUK 1.jpeg"
-        },
-        {
-          "name": "Earvin 'Magic' Johnson",
-          "picture": "../players/MICHIGAN/MICHIGAN STATE - MAGIC.jpg"
-        },
-        {
-          "name": "Tom Brady",
-          "picture": "../players/MICHIGAN/MICHIGAN - BRADY.jpg"
-        },
-        {
-          "name": "Antonio Brown",
-          "picture": "../players/MICHIGAN/CENTRAL MICHIGAN - ANTONIO BROWN.jpg"
-        },
-        {
-          "name": "Auston Matthews",
-          "picture": "../players/MICHIGAN/TEAM USA ANN ARBOR - AUSTON MATTHEWS.jpeg"
-        },
-        {
-          "name": "George Gervin",
-          "picture": "../players/MICHIGAN/EASTERN MICHIGAN - GERVIN.jpg"
+          "name": "Brett Hull",
+          "picture": "../players/MINNESOTA/MINNESOTA-DULUTH - BRETT HULL.jpg"
         }
       ]
     },
@@ -5222,7 +5112,142 @@
       "id": 25,
       "nom": "Mississippi",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg",
-      "carte": "state-layer/MS.jpg"
+      "carte": "state-layer/MS.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #99CCFF, #6699CC, #336699, #003366)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Ole Miss Rebels",
+          "logo": "../logos/NCAA/Mississippi-Rebels-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Mississippi State Bulldogs",
+          "logo": "../logos/NCAA/Mississippi-State-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Jackson State Tigers",
+          "logo": "../logos/NCAA/Jackson-State-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Southern Miss Golden Eagles",
+          "logo": "../logos/NCAA/Southern-Miss-Golden-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Alcorn State Braves",
+          "logo": "../logos/NCAA/Alcorn-State-Braves-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },        
+        {
+          "name": "Mississippi Valley State Delta Devils",
+          "logo": "../logos/NCAA/MVSU-Delta-Devils-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lynn Family Stadium",
+          "city": "Louisville",
+          "capacity": "15.304 seats",
+          "residents": "Racing Louisville FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/LOUISVILLE - LYNN FAMILY.jpg",
+            "../stadiums-pro/LOUISVILLE - LYNN FAMILY RACING.jpg"
+          ]
+        },
+        {
+          "name": "Louisville Slugger Field",
+          "city": "Louisville",
+          "capacity": "13.131 seats",
+          "residents": "Louisville Bats (IL)",
+          "pictures": [
+            "../stadiums-pro/LOUISVILLE - SLUGGER FIELD.jpg",
+            "../stadiums-pro/LOUISVILLE - SLUGGER FIELD BATS.jpg"
+          ]
+        },
+        {
+          "name": "Kroger Field",
+          "city": "Lexington",
+          "capacity": "62.093 seats",
+          "residents": "Kentucky Wildcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/KENTUCKY - KROGER FIELD - LEXINGTON.jpg",
+            "../stadiums-ncaa/stadiums/KENTUCKY - KROGER FIELD - LEXINGTON WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Cardinal Stadium",
+          "city": "Louisville",
+          "capacity": "56.000 seats",
+          "residents": "Louisville Cardinals (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/LOUISVILLE - CARDINAL STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/LOUISVILLE - CARDINAL STADIUM CARDINALS.jpg"
+          ]
+        },
+        {
+          "name": "Central Bank Center",
+          "city": "Lexington",
+          "capacity": "23.000 seats",
+          "residents": "Kentucky Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/KENTUCKY - RUPP ARENA - LEXINGTON.jpg",
+            "../stadiums-ncaa/arenas/KENTUCKY - RUPP ARENA - LEXINGTON WILDCATS.jpg"
+          ]
+        },        
+        {
+          "name": "KFC Yum! Center",
+          "city": "Louisville",
+          "capacity": "22.600 seats",
+          "residents": "Louisville Cardinals (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/LOUISVILLE - KFC YUM CENTER - LOUISVILLE.jpg",
+            "../stadiums-ncaa/arenas/LOUISVILLE - KFC YUM CENTER - LOUISVILLE CARDINALS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Anthony Davis",
+          "picture": "../players/KENTUCKY/KENTUCKY - DAVIS.jpg"
+        },
+        {
+          "name": "Wes Unseld",
+          "picture": "../players/KENTUCKY/LOUISVILLE - UNSELD.jpg"
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "picture": "../players/KENTUCKY/KENTUCKY - TOWNS.jpg"
+        },
+        {
+          "name": "George Blanda",
+          "picture": "../players/KENTUCKY/KENTUCKY - GEORGE BLANDA.jpg"
+        },
+        {
+          "name": "Devin Booker",
+          "picture": "../players/KENTUCKY/KENTUCKY - BOOKER.jpg"
+        },
+        {
+          "name": "Johnny Unitas",
+          "picture": "../players/KENTUCKY/LOUISVILLE - JOHN UNITAS.jpg"
+        },
+        {
+          "name": "Rajon Rondo",
+          "picture": "../players/KENTUCKY/KENTUCKY - RONDO.jpg"
+        }
+      ]
     },
     { "__comment": "MISSOURI",
       "id": 26,

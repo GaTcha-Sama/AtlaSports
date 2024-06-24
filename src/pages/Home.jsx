@@ -1,4 +1,5 @@
 import React from 'react'
+import ChatBot from 'react-chatbotify'
 import '../styles/Home.scss'
 import {useNavigate} from 'react-router-dom'
 import DataCountries from '../data/data-flag-countries.json'
@@ -33,6 +34,10 @@ function Home() {
         Right now, just choose the country you want and I wish you a nice journey on this website ! Have fun, peace ! ​✌️​ <br />
         PS : Thank you guys for all the support, it's awesome ! ​🤩​
       </p>
+      <div>
+        <h1>ChatSport</h1>
+        <ChatBot />
+      </div>
       </section>
       <section className='home__gallery'>
       {DataCountries.map((item) => (
