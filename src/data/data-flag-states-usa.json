@@ -5158,94 +5158,100 @@
       ],
       "stadiums": [
         {
-          "name": "Lynn Family Stadium",
-          "city": "Louisville",
-          "capacity": "15.304 seats",
-          "residents": "Racing Louisville FC (NWSL)",
+          "name": "Davis Wade Stadium",
+          "city": "Starkville",
+          "capacity": "61.337 seats",
+          "residents": "Mississippi State Bulldogs (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/LOUISVILLE - LYNN FAMILY.jpg",
-            "../stadiums-pro/LOUISVILLE - LYNN FAMILY RACING.jpg"
+            "../stadiums-ncaa/stadiums/MISSISSIPPI STATE - DAVIS WADE STADIUM - STARKVILLE.jpg",
+            "../stadiums-ncaa/stadiums/MISSISSIPPI STATE - DAVIS WADE STADIUM - STARKVILLE HAIL STATE.jpg"
           ]
         },
         {
-          "name": "Louisville Slugger Field",
-          "city": "Louisville",
-          "capacity": "13.131 seats",
-          "residents": "Louisville Bats (IL)",
+          "name": "Vaught-Hemingway Stadium",
+          "city": "Oxford",
+          "capacity": "60.580 seats",
+          "residents": "Ole Miss Rebels (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/LOUISVILLE - SLUGGER FIELD.jpg",
-            "../stadiums-pro/LOUISVILLE - SLUGGER FIELD BATS.jpg"
+            "../stadiums-ncaa/stadiums/OLE MISS - VAUGHT-HEMINGWAY STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/OLE MISS - VAUGHT-HEMINGWAY STADIUM REBELS.jpg"
           ]
         },
         {
-          "name": "Kroger Field",
-          "city": "Lexington",
-          "capacity": "62.093 seats",
-          "residents": "Kentucky Wildcats (NCAA Football)",
+          "name": "Mississippi Veterans Memorial Stadium",
+          "city": "Jackson",
+          "capacity": "60.492 seats",
+          "residents": "Jackson State Tigers (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/KENTUCKY - KROGER FIELD - LEXINGTON.jpg",
-            "../stadiums-ncaa/stadiums/KENTUCKY - KROGER FIELD - LEXINGTON WILDCATS.jpg"
+            "../stadiums-ncaa/stadiums/JACKSON STATE - VETERANS STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/JACKSON STATE - VETERANS STADIUM TIGERS.jpg"
+          ]
+        },  
+        {
+          "name": "M. M. Roberts Stadium",
+          "city": "Hattiesburg",
+          "capacity": "36.000 seats",
+          "residents": "Southern Miss Golden Eagles (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/SOUTHERN MISS - MM ROBERTS STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/SOUTHERN MISS - MM ROBERTS STADIUM EAGLES.webp"
+          ]
+        },      
+        {
+          "name": "Humphrey Coliseum",
+          "city": "Starkville",
+          "capacity": "10.575 seats",
+          "residents": "Mississippi State Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MISSISSIPPI STATE - HUMPHREY COLISEUM - STARKVILLE.jpg",
+            "../stadiums-ncaa/arenas/MISSISSIPPI STATE - HUMPHREY COLISEUM - STARKVILLE MSU.jpg"
           ]
         },
         {
-          "name": "Cardinal Stadium",
-          "city": "Louisville",
-          "capacity": "56.000 seats",
-          "residents": "Louisville Cardinals (NCAA Football)",
+          "name": "The Pavilion at Ole Miss",
+          "city": "Oxford",
+          "capacity": "9.500 seats",
+          "residents": "Ole Miss Rebels (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/LOUISVILLE - CARDINAL STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/LOUISVILLE - CARDINAL STADIUM CARDINALS.jpg"
+            "../stadiums-ncaa/arenas/MISSISSIPPI - THE PAVILION AT OLE MISS - OXFORD.jpg",
+            "../stadiums-ncaa/arenas/MISSISSIPPI - THE PAVILION AT OLE MISS - OXFORD OLE MISS.jpg"
           ]
         },
         {
-          "name": "Central Bank Center",
-          "city": "Lexington",
-          "capacity": "23.000 seats",
-          "residents": "Kentucky Wildcats (NCAA Basket)",
+          "name": "Reed Green Coliseum",
+          "city": "Hattiesburg",
+          "capacity": "8.095 seats",
+          "residents": "Southern Miss Golden Eagles (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/KENTUCKY - RUPP ARENA - LEXINGTON.jpg",
-            "../stadiums-ncaa/arenas/KENTUCKY - RUPP ARENA - LEXINGTON WILDCATS.jpg"
-          ]
-        },        
-        {
-          "name": "KFC Yum! Center",
-          "city": "Louisville",
-          "capacity": "22.600 seats",
-          "residents": "Louisville Cardinals (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/LOUISVILLE - KFC YUM CENTER - LOUISVILLE.jpg",
-            "../stadiums-ncaa/arenas/LOUISVILLE - KFC YUM CENTER - LOUISVILLE CARDINALS.jpg"
+            "../stadiums-ncaa/arenas/SOUTHERN MISS - REED GREEN COLISEUM.jpg",
+            "../stadiums-ncaa/arenas/SOUTHERN MISS - REED GREEN COLISEUM EAGLES.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Anthony Davis",
-          "picture": "../players/KENTUCKY/KENTUCKY - DAVIS.jpg"
+          "name": "Brett Favre",
+          "picture": "../players/MISSISSIPPI/SOUTHERN MISSISSIPPI - BRETT FAVRE.jpg"
         },
         {
-          "name": "Wes Unseld",
-          "picture": "../players/KENTUCKY/LOUISVILLE - UNSELD.jpg"
+          "name": "Walter Payton",
+          "picture": "../players/MISSISSIPPI/JACKSON STATE - WALTER PAYTON.jpeg"
         },
         {
-          "name": "Karl-Anthony Towns",
-          "picture": "../players/KENTUCKY/KENTUCKY - TOWNS.jpg"
+          "name": "Jerry Rice",
+          "picture": "../players/MISSISSIPPI/MISSISSIPPI VALLEY STATE - JERRY RICE.jpg"
         },
         {
-          "name": "George Blanda",
-          "picture": "../players/KENTUCKY/KENTUCKY - GEORGE BLANDA.jpg"
+          "name": "Steve McNair",
+          "picture": "../players/MISSISSIPPI/ALCORN STATE - STEVE MCNAIR.jpg"
         },
         {
-          "name": "Devin Booker",
-          "picture": "../players/KENTUCKY/KENTUCKY - BOOKER.jpg"
+          "name": "Eli Manning",
+          "picture": "../players/MISSISSIPPI/OLE MISS - ELI MANNING.jpg"
         },
         {
-          "name": "Johnny Unitas",
-          "picture": "../players/KENTUCKY/LOUISVILLE - JOHN UNITAS.jpg"
-        },
-        {
-          "name": "Rajon Rondo",
-          "picture": "../players/KENTUCKY/KENTUCKY - RONDO.jpg"
+          "name": "Dak Prescott",
+          "picture": "../players/MISSISSIPPI/MISSISSIPPI STATE - DAC PRESCOTT.jpg"
         }
       ]
     },
@@ -5253,13 +5259,309 @@
       "id": 26,
       "nom": "Missouri",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg",
-      "carte": "state-layer/MI.jpg"
+      "carte": "state-layer/MI.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #1E3C72, #4CAF50, #FFD700)",
+      "major_league": [
+        {
+          "name": "Kansas City Chiefs",
+          "logo": "../logos/NFL/Kansas-City-chiefs-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "St. Louis Cardinals",
+          "logo": "../logos/MLB/St.-Louis-Cardinals-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Kansas City Royals",
+          "logo": "../logos/MLB/Kansas-City-Royals-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "St. Louis Blues",
+          "logo": "../logos/NHL/Saint Louis Blues.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "St. Louis City SC",
+          "logo": "../logos/MLS/St. Louis City SC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Kansas City Current",
+          "logo": "../logos/NWSL/Kansas City Current.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Kansas City Mavericks",
+          "logo": "../logos/ECHL/Kansas_City_Mavericks_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Missouri Tigers",
+          "logo": "../logos/NCAA/Missouri-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Missouri State Bears",
+          "logo": "../logos/NCAA/Missouri-State-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "St. Louis Billikens",
+          "logo": "../logos/NCAA/Saint-Louis-Billikens-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UMKC - Missouri-Kansas City - Kangaroos",
+          "logo": "../logos/NCAA/UMKC-Kangaroos-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Arrowhead Stadium",
+          "city": "Kansas City",
+          "capacity": "79.101 seats",
+          "residents": "Kansas City Chiefs (NFL)",
+          "pictures": [
+            "../stadiums-pro/KANSAS CITY - ARROWHEAD STADIUM.jpg",
+            "../stadiums-pro/KANSAS CITY - ARROWHEAD STADIUM CHIEFS.jpg"
+          ]
+        },
+        {
+          "name": "Busch Stadium",
+          "city": "St. Louis",
+          "capacity": "46.861 seats",
+          "residents": "St. Louis Cardinals (MLB)",
+          "pictures": [
+            "../stadiums-pro/ST. LOUIS - BUSCH STADIUM.jpg",
+            "../stadiums-pro/ST. LOUIS - BUSCH STADIUM CARDINALS.jpg"
+          ]
+        },
+        {
+          "name": "Kauffman Stadium",
+          "city": "Kansas City",
+          "capacity": "39.000 seats",
+          "residents": "Kansas City Royals (MLB)",
+          "pictures": [
+            "../stadiums-pro/KANSAS CITY - KAUFFMAN STADIUM.jpg",
+            "../stadiums-pro/KANSAS CITY - KAUFFMAN STADIUM ROYALS.jpg"
+          ]
+        },
+        {
+          "name": "Enterprise Center",
+          "city": "St. Louis",
+          "capacity": "22.000 seats",
+          "residents": "St. Louis Blues (NHL)",
+          "pictures": [
+            "../stadiums-pro/ST. LOUIS - ENTERPRISE CENTER.jpg",
+            "../stadiums-pro/ST. LOUIS - ENTERPRISE CENTER BLUES.jpg"
+          ]
+        },
+        {
+          "name": "CityPark",
+          "city": "St. Louis",
+          "capacity": "25.000 seats",
+          "residents": "St. Louis City SC (MLS)",
+          "pictures": [
+            "../stadiums-pro/ST LOUIS - CITYPARK.jpg",
+            "../stadiums-pro/ST LOUIS - CITYPARK STC.jpg"
+          ]
+        },
+        {
+          "name": "CPKC Stadium",
+          "city": "Kansas City",
+          "capacity": "7.210 seats",
+          "residents": "Kansas City Current (NWSL)",
+          "pictures": [
+            "../stadiums-pro/KANSAS CITY - CPKC STADIUM.png",
+            "../stadiums-pro/KANSAS CITY - CPKC STADIUM CURRENT.jpg"
+          ]
+        },
+        {
+          "name": "Faurot Field",
+          "city": "Columbia",
+          "capacity": "71.004 seats",
+          "residents": "Missouri Tigers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MISSOURI - FAUROT FIELD - COLUMBIA.jpg",
+            "../stadiums-ncaa/stadiums/MISSOURI - FAUROT FIELD - COLUMBIA MIZZOU.jpeg"
+          ]
+        },
+        {
+          "name": "Mizzou Arena",
+          "city": "Columbia",
+          "capacity": "15.061 seats",
+          "residents": "Missouri Tigers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MISSOURI - MIZZOU ARENA - COLUMBIA.jpg",
+            "../stadiums-ncaa/arenas/MISSOURI - MIZZOU ARENA - COLUMBIA TIGERS.jpg"
+          ]
+        },
+        {
+          "name": "Great Southern Bank Arena",
+          "city": "Springfield",
+          "capacity": "11.000 seats",
+          "residents": "Missouri State Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MISSOURI STATE - GREAT SOUTHERN BANK ARENA.webp",
+            "../stadiums-ncaa/arenas/MISSOURI STATE - GREAT SOUTHERN BANK ARENA BEARS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Patrick Mahomes",
+          "picture": "../players/MISSOURI/CHIEFS - MAHOMES.webp"
+        },
+        {
+          "name": "Chris Pronger",
+          "picture": "../players/MISSOURI/BLUES - CHRIS PRONGER.jpg"
+        },
+        {
+          "name": "George Brett",
+          "picture": "../players/MISSOURI/ROYALS - GEORGE BRETT.jpg"
+        },
+        {
+          "name": "Stan Musial",
+          "picture": "../players/MISSOURI/CARDINALS - STAN MUSIAL.jpg"
+        },
+        {
+          "name": "Len Dawson",
+          "picture": "../players/MISSOURI/CHIEFS - LEN DAWSON.jpg"
+        },
+        {
+          "name": "Brett Hull",
+          "picture": "../players/MISSOURI/BLUES - BRETT HULL.jpg"
+        },
+        {
+          "name": "Albert Pujols",
+          "picture": "../players/MISSOURI/CARDINALS - ALBERT PUJOLS.jpg"
+        },
+        {
+          "name": "Amos Otis",
+          "picture": "../players/MISSOURI/ROYALS - AMOS OTIS.jpeg"
+        },
+        {
+          "name": "Al MacInnis",
+          "picture": "../players/MISSOURI/BLUES - AL MACINNIS.jpg"
+        },
+        {
+          "name": "Rogers Hornsby",
+          "picture": "../players/MISSOURI/CARDINALS - ROGERS HORNSBY.jpg"
+        },
+        {
+          "name": "Travis Kelce",
+          "picture": "../players/MISSOURI/CHIEFS - TRAVIS KELCE 1.jpg"
+        },
+        {
+          "name": "Kevin Appier",
+          "picture": "../players/MISSOURI/ROYALS - KEVIN APPIER.jpg"
+        },        
+        {
+          "name": "Derrick Thomas",
+          "picture": "../players/MISSOURI/CHIEFS - DERRICK THOMAS 2.jpg"
+        },
+        {
+          "name": "Mark McGwire",
+          "picture": "../players/MISSOURI/CARDINALS - MARK MCGWIRE.jpg"
+        },
+        {
+          "name": "Bernie Federko",
+          "picture": "../players/MISSOURI/BLUES - BERNIE FEDERKO.jpg"
+        }
+      ]
     },
     { "__comment": "MONTANA",
       "id": 27,
       "nom": "Montana",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg",
-      "carte": "state-layer/MT.jpg"
+      "carte": "state-layer/MT.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #98FB98, #4682B4)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Montana Grizzlies",
+          "logo": "../logos/NCAA/Montana-Grizzlies-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Montana State Bobcats",
+          "logo": "../logos/NCAA/Montana-State-Bobcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Washington-Grizzly Stadium",
+          "city": "Missoula",
+          "capacity": "25.217 seats",
+          "residents": "Montana Grizzlies (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MONTANA - GRIZZLY STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/MONTANA - GRIZZLY STADIUM GRIZZLIES.jpg"
+          ]
+        },
+        {
+          "name": "Bobcat Stadium",
+          "city": "Bozeman",
+          "capacity": "17.000 seats",
+          "residents": "Montana State Bobcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MONTANA STATE - BOBCAT STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/MONTANA STATE - BOBCAT STADIUM BOBCATS.webp"
+          ]
+        },
+        {
+          "name": "Dahlberg Arena",
+          "city": "Missoula",
+          "capacity": "7.321 seats",
+          "residents": "Montana Grizzlies (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MONTANA - DAHLBERG ARENA - MISSOULA.jpg",
+            "../stadiums-ncaa/arenas/MONTANA - DAHLBERG ARENA - MISSOULA GRIZZLIES.png"
+          ]
+        },
+        {
+          "name": "Worthington Arena",
+          "city": "Bozeman",
+          "capacity": "6.772 seats",
+          "residents": "Montana State Bobcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MONTANA STATE - BRICK BREEDEN FIELDHOUSE - BOZEMAN.jpg",
+            "../stadiums-ncaa/arenas/MONTANA STATE - BRICK BREEDEN FIELDHOUSE - BOZEMAN BOBCATS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Dave Dickenson",
+          "picture": "../players/MONTANA/MONTANA - DAVE DICKENSON.jpg"
+        }
+      ]
     },
     { "__comment": "NEBRASKA",
       "id": 28,
