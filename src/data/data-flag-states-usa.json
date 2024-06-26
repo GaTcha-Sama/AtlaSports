@@ -5567,7 +5567,165 @@
       "id": 28,
       "nom": "Nebraska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
-      "carte": "state-layer/NE.jpg"
+      "carte": "state-layer/NE.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #FFD700, #6B8E23, #8B4513)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Omaha Storm Chasers",
+          "logo": "../logos/IL/Omaha_Storm_CHasers.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Nebraska Cornhuskers",
+          "logo": "../logos/NCAA/nebraska-cornhuskers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Nebraska-Omaha Mavericks",
+          "logo": "../logos/NCAA/nebraska-omaha-mavericks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Creighton Bluejays",
+          "logo": "../logos/NCAA/creighton-bluejays-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Lincoln Stars",
+          "logo": "../logos/USHL/lincoln_stars.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Tri-City Storm",
+          "logo": "../logos/USHL/tri-city_storm.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Omaha Lancers",
+          "logo": "../logos/USHL/omaha_lancers.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Werner Park",
+          "city": "Papillion",
+          "capacity": "9.023 seats",
+          "residents": "Omaha Storm Chasers (IL)",
+          "pictures": [
+            "../stadiums-pro/OMAHA - WERNER PARK.jpg",
+            "../stadiums-pro/OMAHA - WERNER PARK CHASERS.jpg"
+          ]
+        },
+        {
+          "name": "Tom Osborne Field",
+          "city": "Lincoln",
+          "capacity": "86.304 seats",
+          "residents": "Nebraska Cornhuskers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NEBRASKA - MEMORIAL STADIUM-TOM OSBORNE FIELD - LINCOLN.jpg",
+            "../stadiums-ncaa/stadiums/NEBRASKA - MEMORIAL STADIUM-TOM OSBORNE FIELD - LINCOLN CORNHUSKERS.jpg"
+          ]
+        },
+        {
+          "name": "CHI Health Center Omaha",
+          "city": "Omaha",
+          "capacity": "18.300 seats",
+          "residents": "Creighton Bluejays (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CREIGHTON - CENTURYLINK CENTER OMAHA - OMAHA.jpg",
+            "../stadiums-ncaa/arenas/CREIGHTON - CENTURYLINK CENTER OMAHA - OMAHA BLUE JAYS.jpg"
+          ]
+        },
+        {
+          "name": "Pinnacle Bank Arena",
+          "city": "Lincoln",
+          "capacity": "15.500 seats",
+          "residents": "Nebraska Cornhuskers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NEBRASKA - PINNACLE BANK ARENA - LINCOLN.jpg",
+            "../stadiums-ncaa/arenas/NEBRASKA - PINNACLE BANK ARENA - LINCOLN CORNHUSKERS.jpg"
+          ]
+        },
+        {
+          "name": "Baxter Arena",
+          "city": "Omaha",
+          "capacity": "7.898 seats",
+          "residents": "Nebraska-Omaha Mavericks (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NEBRASKA-OMAHA - BAXTER ARENA - OMAHA.jpg",
+            "../stadiums-ncaa/arenas/NEBRASKA-OMAHA - BAXTER ARENA - OMAHA NOU.jpg"
+          ]
+        },
+        {
+          "name": "Viaero Center",
+          "city": "Kearney",
+          "capacity": "5.500 seats",
+          "residents": "Tri-City Storm (USHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/TRI-CITY - VIAERO CENTER.webp",
+            "../stadiums-ncaa/arenas/TRI-CITY - VIAERO CENTER STORM.webp"
+          ]
+        },
+        {
+          "name": "Liberty First Union Arena",
+          "city": "Omaha",
+          "capacity": "4.600 seats",
+          "residents": "Nebraska-Omaha Mavericks (NCAA Basket) and Omaha Lancers (USHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OMAHA - LIBERTY FIRST CREDIT ARENA.jpg",
+            "../stadiums-ncaa/arenas/OMAHA - LIBERTY FIRST CREDIT ARENA LANCERS.jpg"
+          ]
+        },
+        {
+          "name": "Ice Box",
+          "city": "Lincoln",
+          "capacity": "4.300 seats",
+          "residents": "Lincoln Stars (USHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/LINCOLN - ICE BOX.jpg",
+            "../stadiums-ncaa/arenas/LINCOLN - ICE BOX STARS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Johnny Rodgers",
+          "picture": "../players/NEBRASKA/NEBRASKA - JOHNNY RODGERS.jpg"
+        },
+        {
+          "name": "Tommie Frazier",
+          "picture": "../players/NEBRASKA/NEBRASKA - TOMMIE FRAZIER.jpg"
+        },
+        {
+          "name": "Thatcher Demko",
+          "picture": "../players/NEBRASKA/OMAHA - THATCHER DEMKO.webp"
+        },
+        {
+          "name": "Ndamukong Suh",
+          "picture": "../players/NEBRASKA/NEBRASKA - ndamukong suh.jpg"
+        },
+        {
+          "name": "Paul Stastny",
+          "picture": "../players/NEBRASKA/OMAHA - PAUL STASTNY.webp"
+        },
+        {
+          "name": "Irving Fryar",
+          "picture": "../players/NEBRASKA/NEBRASKA - IRVING FYAR 1.jpg"
+        }
+      ]
     },
     { "__comment": "NEVADA",
       "id": 29,
