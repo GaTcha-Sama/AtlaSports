@@ -5731,19 +5731,411 @@
       "id": 29,
       "nom": "Nevada",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg",
-      "carte": "state-layer/NV.jpg"
+      "carte": "state-layer/NV.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #FF7F50, #FF4500, #A0522D, #8B4513)",
+      "major_league": [
+        {
+          "name": "Las Vegas Raiders",
+          "logo": "../logos/NFL/Las-Vegas-Raiders-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Vegas Golden Knights",
+          "logo": "../logos/NHL/Vegas-Golden-Knights-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Las Vegas Aces",
+          "logo": "../logos/WNBA/Las Vegas Aces.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Henderson Silver Knights",
+          "logo": "../logos/AHL/Henderson_Silver_Knights_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Las Vegas Aviators",
+          "logo": "../logos/PCL/Las_Vegas_Aviators.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Reno Aces",
+          "logo": "../logos/PCL/Reno-Aces.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Nevada Wolf Pack",
+          "logo": "../logos/NCAA/Nevada-Wolf-Pack-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UNLV - Nevada-Las Vegas - Rebels",
+          "logo": "../logos/NCAA/UNLV-Rebels-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Allegiant Stadium",
+          "city": "Paradise",
+          "capacity": "65.000 seats",
+          "residents": "Las Vegas Raiders (NFL) and UNLV Rebels (NCAA Football)",
+          "pictures": [
+            "../stadiums-pro/LAS VEGAS - ALLEGIANT STADIUM.jpg",
+            "../stadiums-pro/LAS VEGAS - ALLEGIANT STADIUM RAIDERS.jpg"
+          ]
+        },
+        {
+          "name": "T-Mobile Arena",
+          "city": "Paradise",
+          "capacity": "20.000 seats",
+          "residents": "Vegas Golden Knights (NHL)",
+          "pictures": [
+            "../stadiums-pro/LAS VEGAS - T-MOBILE ARENA.jpg",
+            "../stadiums-pro/LAS VEGAS - T-MOBILE ARENA GOLDEN KNIGHTS.jpg"
+          ]
+        },
+        {
+          "name": "Michelob Ultra Arena",
+          "city": "Paradise",
+          "capacity": "12.000 seats",
+          "residents": "Las Vegas Aces (WNBA)",
+          "pictures": [
+            "../stadiums-pro/LAS VEGAS - MICHELOB ULTRA ARENA.webp",
+            "../stadiums-pro/LAS VEGAS - MICHELOB ULTRA ARENA ACES.jpg_large"
+          ]
+        },
+        {
+          "name": "Las Vegas Ballpark",
+          "city": "Summerlin South",
+          "capacity": "10.000 seats",
+          "residents": "Las Vegas Aviators (PCL)",
+          "pictures": [
+            "../stadiums-pro/LAS VEGAS - LAS VEGAS BALLPARK.webp",
+            "../stadiums-pro/LAS VEGAS - LAS VEGAS BALLPARK AVIATORS.jpg"
+          ]
+        },
+        {
+          "name": "Greater Nevada Field",
+          "city": "Reno",
+          "capacity": "9.100 seats",
+          "residents": "Reno Aces (PCL)",
+          "pictures": [
+            "../stadiums-pro/RENO - GREATER NEVADA FIELD.jpg",
+            "../stadiums-pro/RENO - GREATER NEVADA FIELD ACES.jpg"
+          ]
+        },
+        {
+          "name": "Dollar Loan Center",
+          "city": "Henderson",
+          "capacity": "5.567 seats",
+          "residents": "Henderson Silver Knights (AHL)",
+          "pictures": [
+            "../stadiums-pro/HENDERSON - DOLLAR LOAN CENTER.jpg",
+            "../stadiums-pro/HENDERSON - DOLLAR LOAN CENTER KNIGHTS.jpg"
+          ]
+        },
+        {
+          "name": "Mackay Stadium",
+          "city": "Reno",
+          "capacity": "29.993 seats",
+          "residents": "Nevada Wolf Pack (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NEVADA - MACKAY STADIUM.webp",
+            "../stadiums-ncaa/stadiums/NEVADA - MACKAY STADIUM PACK.webp"
+          ]
+        },
+        {
+          "name": "Thomas & Mack Center",
+          "city": "Paradise",
+          "capacity": "18.000 seats",
+          "residents": "UNLV Rebels (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/UNLV - THOMAS & MACK CENTER - LAS VEGAS.jpg",
+            "../stadiums-ncaa/arenas/UNLV - THOMAS & MACK CENTER - LAS VEGAS REBELS.jpg"
+          ]
+        },
+        {
+          "name": "Lawlor Events Center",
+          "city": "Reno",
+          "capacity": "11.536 seats",
+          "residents": "Nevada Wolf Pack (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NEVADA - LAWLOR EVENTS CENTER - RENO.jpg",
+            "../stadiums-ncaa/arenas/NEVADA - LAWLOR EVENTS CENTER - RENO WOLF PACK.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "A'ja Wilson",
+          "picture": "../players/NEVADA/ACES - AJA WILSON.jpg"
+        },
+        {
+          "name": "Jack Eichel",
+          "picture": "../players/NEVADA/GOLDEN KNIGHTS - EICHEL.jpg"
+        },
+        {
+          "name": "Maxx Crosby",
+          "picture": "../players/NEVADA/RAIDERS - MAXX CROSBY.jpg"
+        },
+        {
+          "name": "Kelsey Plum",
+          "picture": "../players/NEVADA/ACES - KELSEY PLUM.jpg"
+        },
+        {
+          "name": "Marc-Andre Fleury",
+          "picture": "../players/NEVADA/GOLDEN KNIGHTS - MARC-ANDRE FLEURY 2.jpg"
+        },
+        {
+          "name": "Derek Carr",
+          "picture": "../players/NEVADA/RAIDERS - DEREK CARR.webp"
+        },
+        {
+          "name": "Mark Stone",
+          "picture": "../players/NEVADA/GOLDEN KNIGHTS - STONE.jpg"
+        },
+        {
+          "name": "Chelsea Gray",
+          "picture": "../players/NEVADA/ACES - CHELSEA GRAY.jpg"
+        },
+        {
+          "name": "Jonathan Marchessault",
+          "picture": "../players/NEVADA/GOLDEN KNIGHTS - MARCHESSAULT.jpg"
+        },
+        {
+          "name": "Larry Johnson",
+          "picture": "../players/NEVADA/UNLV - LARRY JOHNSON.jpg"
+        },
+        {
+          "name": "Shawn Marion",
+          "picture": "../players/NEVADA/UNLV - MARION.jpg"
+        },
+        {
+          "name": "Isaiah Rider",
+          "picture": "../players/NEVADA/UNLV - ISAIAH RIDER.jpg"
+        }
+      ]
     },
     { "__comment": "NEW HAMPSHIRE",
       "id": 30,
       "nom": "New Hampshire",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg",
-      "carte": "state-layer/NH.jpg"
+      "carte": "state-layer/NH.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #ffcc00, #002868)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "New Hampshire Wildcats",
+          "logo": "../logos/NCAA/New-Hampshire-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Dartmouth Big Green",
+          "logo": "../logos/NCAA/Dartmouth-Big-Green-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Wildcat Stadium",
+          "city": "Durham",
+          "capacity": "11.015 seats",
+          "residents": "New Hampshire Wildcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NEW HAMPSHIRE - WILDCAT STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/NEW HAMPSHIRE - WILDCAT STADIUM WILDCATS.webp"
+          ]
+        },
+        {
+          "name": "Whittemore Center Arena",
+          "city": "Durham",
+          "capacity": "7.500 seats",
+          "residents": "New Hampshire Wildcats (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NEW HAMPSHIRE - WHITTEMORE ARENA.jpg",
+            "../stadiums-ncaa/arenas/NEW HAMPSHIRE - WHITTEMORE ARENA WILDCATS.jpg"
+          ]
+        },
+        {
+          "name": "Thompson Arena",
+          "city": "Hanover",
+          "capacity": "3.500 seats",
+          "residents": "Dartmouth Big Green (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/DARTMOUTH - THOMPSON ARENA.jpg",
+            "../stadiums-ncaa/arenas/DARTMOUTH - THOMPSON ARENA GREEN.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Rod Langway",
+          "picture": "../players/NEW HAMPSHIRE/UNH - LANGWAY.webp"
+        },
+        {
+          "name": "Rudy Larusso",
+          "picture": "../players/NEW HAMPSHIRE/DARTMOUTH - RUDY LARUSSO.jpg"
+        }
+      ]
     },
     { "__comment": "NEW JERSEY",
       "id": 31,
       "nom": "New Jersey",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg",
-      "carte": "state-layer/NJ.jpg"
+      "carte": "state-layer/NJ.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #006400, #32CD32, #FFD700)",
+      "major_league": [
+        {
+          "name": "New Jersey Devils",
+          "logo": "../logos/NHL/New Jersey Devils.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Rutgers Scarlet Knights",
+          "logo": "../logos/NCAA/Rutgers-Scarlet-Knights-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Princeton Tigers",
+          "logo": "../logos/NCAA/Princeton-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "St. Peters Peacocks",
+          "logo": "../logos/NCAA/Saint-Peters-Peacocks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Monmouth Hawks",
+          "logo": "../logos/NCAA/Monmouth-Hawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "NJIT - New Jersey Institue Technology - Highlanders",
+          "logo": "../logos/NCAA/NJIT-Highlanders-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Seton Hall Pirates",
+          "logo": "../logos/NCAA/Seton-Hall-Pirates-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Prudential Center",
+          "city": "Newark",
+          "capacity": "19.000 seats",
+          "residents": "New Jersey Devils (NHL)",
+          "pictures": [
+            "../stadiums-pro/NEWARK - PRUDENTIAL CENTER.jpg",
+            "../stadiums-pro/NEWARK - PRUDENTIAL CENTER DEVILS.jpg"
+          ]
+        },
+        {
+          "name": "SHI Stadium",
+          "city": "Piscataway",
+          "capacity": "52.454 seats",
+          "residents": "Rutgers Scarlet Knights (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/RUTGERS - SHI STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/RUTGERS - SHI STADIUM KNIGHTS.webp"
+          ]
+        },
+        {
+          "name": "Princeton Stadium",
+          "city": "Princeton",
+          "capacity": "27.773 seats",
+          "residents": "Princeton Tigers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/PRINCETON - PRINCETON STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/PRINCETON - PRINCETON STADIUM TIGERS.jpg"
+          ]
+        },
+        {
+          "name": "Jersey Mike's Arena",
+          "city": "Piscataway",
+          "capacity": "8.000 seats",
+          "residents": "Rutgers Scarlet Knights (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/RUTGERS - MIKES ARENA.webp",
+            "../stadiums-ncaa/arenas/RUTGERS - MIKES ARENA KNIGHTS.webp"
+          ]
+        },
+        {
+          "name": "Jadwin Gymnasium",
+          "city": "Princeton",
+          "capacity": "6.854 seats",
+          "residents": "Princeton Tigers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PRINCETON - JADWIN GYMNASIUM.jpg",
+            "../stadiums-ncaa/arenas/PRINCETON - JADWIN GYMNASIUM TIGERS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Martin Brodeur",
+          "picture": "../players/NEW JERSEY/DEVILS - MARTIN BRODEUR 2.jpg"
+        },
+        {
+          "name": "Scott Stevens",
+          "picture": "../players/NEW JERSEY/DEVILS - SCOTT STEVENS 1.jpg"
+        },
+        {
+          "name": "Scott Niedermayer",
+          "picture": "../players/NEW JERSEY/DEVILS - SCOTT NIEDERMAYER.jpg"
+        },
+        {
+          "name": "Patrik Elias",
+          "picture": "../players/NEW JERSEY/DEVILS - PATRICK ELIAS 1.jpg"
+        },
+        {
+          "name": "Jack Hughes",
+          "picture": "../players/NEW JERSEY/DEVILS - JACK HUGHES.jpg"
+        },
+        {
+          "name": "Hobey Baker",
+          "picture": "../players/NEW JERSEY/PRINCETON - HOBEY BAKER.jpg"
+        },
+        {
+          "name": "Bill Bradley",
+          "picture": "../players/NEW JERSEY/PRINCETON - BILL BRADLEY.jpg"
+        }
+      ]
     },
     { "__comment": "NEW MEXICO",
       "id": 32,
