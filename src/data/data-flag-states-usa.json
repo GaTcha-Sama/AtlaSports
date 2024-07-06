@@ -700,7 +700,7 @@
           "name": "Stanford Stadium",
           "city": "Stanford",
           "capacity": "50.424 seats",
-          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "residents": "Stanford Cardinal (NCAA Football)",
           "pictures": [
             "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD.jpg",
             "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD CARDINAL.png"
@@ -6495,143 +6495,193 @@
       ],
       "stadiums": [
         {
-          "name": "Levi's Stadium",
-          "city": "Santa Clara",
-          "capacity": "68.500 seats",
-          "residents": "San Francisco 49ers (NFL)",
+          "name": "MetLife Stadium",
+          "city": "East Rutherford (New Jersey)",
+          "capacity": "82.500 seats",
+          "residents": "New York Giants and New York Jets (NFL)",
           "pictures": [
-            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM.jpg",
-            "../stadiums-pro/SAN FRANCISCO - LEVI'S STADIUM 49ERS.jpg"
+            "../stadiums-pro/NEW YORK CITY - METLIFE STADIUM.jpg",
+            "../stadiums-pro/NEW YORK CITY - METLIFE STADIUM GIANTS.jpg"
           ]
         },
         {
-          "name": "Oracle Park",
-          "city": "San Francisco",
-          "capacity": "42.300 seats",
-          "residents": "San Francisco Giants (MLB)",
+          "name": "Highmark Stadium",
+          "city": "Orchard Park",
+          "capacity": "73.079 seats",
+          "residents": "Buffalo Bills (NFL)",
           "pictures": [
-            "../stadiums-pro/SAN FRANCISCO - AT&T PARK.jpg",
-            "../stadiums-pro/SAN FRANCISCO - AT&T PARK GIANTS.jpg"
+            "../stadiums-pro/BUFFALO - NEW ERA FIELD.jpg",
+            "../stadiums-pro/BUFFALO - NEW ERA FIELD BILLS.jpg"
           ]
         },
         {
-          "name": "Oakland-Alameda County Coliseum",
-          "city": "Oakland",
-          "capacity": "42.300 seats",
-          "residents": "Oakland Athletics (MLB)",
+          "name": "Yankee Stadium",
+          "city": "New York City - Bronx",
+          "capacity": "50.287 seats",
+          "residents": "New York Yankees (MLB) and New York City FC (MLS)",
           "pictures": [
-            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM.jpg",
-            "../stadiums-pro/OAKLAND - OAKLAND-ALAMEDA COUNTY COLISEUM ATHLETICS.jpg"
+            "../stadiums-pro/NEW YORK CITY - YANKEE STADIUM.jpg",
+            "../stadiums-pro/NEW YORK CITY - YANKEE STADIUM YANKEES.jpg"
           ]
         },
         {
-          "name": "Chase Center",
-          "city": "San Francisco",
-          "capacity": "19.200 seats",
-          "residents": "Golden State Warriors (NBA) and Golden State Valkyries (WNBA)",
+          "name": "Citi Field",
+          "city": "New York City - Queens",
+          "capacity": "41.800 seats",
+          "residents": "New York Mets (MLB)",
           "pictures": [
-            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER.jpg",
-            "../stadiums-pro/SAN FRANCISCO - CHASE CENTER WARRIORS.jpg"
+            "../stadiums-pro/NEW YORK CITY - CITI FIELD.jpg",
+            "../stadiums-pro/NEW YORK CITY - CITI FIELD METS.jpg"
           ]
         },
         {
-          "name": "SAP Center",
-          "city": "San Jose",
-          "capacity": "17.562 seats",
-          "residents": "San Jose Sharks (NHL) and San Jose Barracuda (AHL)",
+          "name": "Madison Square Garden",
+          "city": "New York City - Manhattan",
+          "capacity": "20.000 seats",
+          "residents": "New York Knicks (NBA) and New York Rangers (NHL)",
           "pictures": [
-            "../stadiums-pro/SAN JOSE - SAP CENTER.jpg",
-            "../stadiums-pro/SAN JOSE - SAP CENTER SHARKS.png"
+            "../stadiums-pro/NEW YORK CITY - MADISON SQUARE GARDEN.jpg",
+            "../stadiums-pro/NEW YORK CITY - MADISON SQUARE GARDEN KNICKS.jpg"
           ]
         },
         {
-          "name": "Golden 1 Center",
-          "city": "Sacramento",
-          "capacity": "17.608 seats",
-          "residents": "Sacramento Kings (NBA)",
+          "name": "Barclays Center",
+          "city": "New York City - Brooklyn",
+          "capacity": "20.000 seats",
+          "residents": "Brooklyn Nets (NBA) and New York Liberty (WNBA)",
           "pictures": [
-            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER.jpg",
-            "../stadiums-pro/SACRAMENTO - GOLDEN 1 CENTER KINGS.jpg"
+            "../stadiums-pro/BROOKLYN - BARCLAYS CENTER.jpg",
+            "../stadiums-pro/BROOKLYN - BARCLAYS CENTER NETS.jpg"
           ]
         },
         {
-          "name": "PayPal Park",
-          "city": "San Jose",
-          "capacity": "18.000 seats",
-          "residents": "San Jose Earthquakes (MLS) and Bay FC (NWSL)",
+          "name": "KeyBank Center",
+          "city": "Buffalo",
+          "capacity": "18.595 seats",
+          "residents": "Buffalo Sabres (NHL)",
           "pictures": [
-            "../stadiums-pro/SAN JOSE - PAYPAL PARK.png",
-            "../stadiums-pro/SAN JOSE - PAYPAL PARK EARTHQUAKES.jpg"
+            "../stadiums-pro/BUFFALO - KEYBANK CENTER.jpg",
+            "../stadiums-pro/BUFFALO - KEYBANK CENTER SABRES.jpg"
           ]
         },
         {
-          "name": "California Memorial Stadium",
-          "city": "Berkeley",
-          "capacity": "63.000 seats",
-          "residents": "Cal Golden Bears (NCAA Football)",
+          "name": "UBS Arena",
+          "city": "Elmont",
+          "capacity": "18.500 seats",
+          "residents": "New York Islanders (NHL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY.jpg",
-            "../stadiums-ncaa/stadiums/CALIFORNIA - CALIFORNIA MEMORIAL STADIUM - BERKELEY GOLDEN BEARS.jpg"
+            "../stadiums-pro/NYC - UBS ARENA.jpg",
+            "../stadiums-pro/NYC - UBS ARENA ISLANDERS.jpg"
+          ]
+        },
+        {
+          "name": "Red Bull Arena",
+          "city": "Harrison (New Jersey)",
+          "capacity": "26.189 seats",
+          "residents": "New York Red Bulls (MLS) and Gotham FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/NYC - RED BULL ARENA.jpg",
+            "../stadiums-pro/NYC - RED BULL ARENA RED BULLS.jpg"
+          ]
+        },
+        {
+          "name": "Sahlen Field",
+          "city": "Buffalo",
+          "capacity": "16.600 seats",
+          "residents": "Buffalo Bisons (IL)",
+          "pictures": [
+            "../stadiums-pro/BUFFALO - SAHLEN FIELD.jpg",
+            "../stadiums-pro/BUFFALO - SAHLEN FIELD BISONS.jpg"
+          ]
+        },
+        {
+          "name": "Nassau Veterans Memorial Arena",
+          "city": "Uniondale",
+          "capacity": "16.000 seats",
+          "residents": "Long Island Nets (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/LONG ISLAND - NASSAU ARENA.jpg",
+            "../stadiums-pro/LONG ISLAND - NASSAU ARENA NETS.jpg"
+          ]
+        },
+        {
+          "name": "Blue Cross Arena",
+          "city": "Rochester",
+          "capacity": "13.000 seats",
+          "residents": "Rochester Americans (AHL)",
+          "pictures": [
+            "../stadiums-pro/ROCHESTER - BLUE CROSS ARENA.webp",
+            "../stadiums-pro/ROCHESTER - BLUE CROSS ARENA AMERICANS.jpg"
+          ]
+        },
+        {
+          "name": "NBT Bank Stadium",
+          "city": "Syracuse",
+          "capacity": "11.117 seats",
+          "residents": "Syracuse Mets (IL)",
+          "pictures": [
+            "../stadiums-pro/SYRACUSE - NBT BANK STADIUM.png",
+            "../stadiums-pro/SYRACUSE - NBT BANK STADIUM METS.jpg"
+          ]
+        },
+        {
+          "name": "Innovative Field",
+          "city": "Rochester",
+          "capacity": "10.868 seats",
+          "residents": "Rochester Red Wings (IL)",
+          "pictures": [
+            "../stadiums-pro/ROCHESTER - INNOVATIVE FIELD.jpg",
+            "../stadiums-pro/ROCHESTER - INNOVATIVE FIELD RED WINGS.jpg"
+          ]
+        },
+        {
+          "name": "Upstate Medical Arena",
+          "city": "Syracuse",
+          "capacity": "7.000 seats",
+          "residents": "Syracuse Crunch (AHL)",
+          "pictures": [
+            "../stadiums-pro/SYRACUSE - UPSTATE MEDICAL ARENA.webp",
+            "../stadiums-pro/SYRACUSE - UPSTATE MEDICAL ARENA CRUNCH.png"
+          ]
+        },
+        {
+          "name": "JMA Wireless Dome",
+          "city": "Syracuse",
+          "capacity": "49.262 seats",
+          "residents": "Syracuse Orange (NCAA Football & Basket)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/SYRACUSE - DOME.jpg",
+            "../stadiums-ncaa/stadiums/SYRACUSE - DOME ORANGE.jpg"
           ]
         },        
         {
-          "name": "Stanford Stadium",
-          "city": "Stanford",
-          "capacity": "50.424 seats",
-          "residents": "Northern Arizona Lumberjacks (NCAA Football & Basket)",
+          "name": "Michie Stadium",
+          "city": "West Point",
+          "capacity": "40.000 seats",
+          "residents": "Army Black Knights (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD.jpg",
-            "../stadiums-ncaa/stadiums/STANFORD - STANFORD STADIUM - STANFORD CARDINAL.png"
+            "../stadiums-ncaa/stadiums/ARMY - MICHIE STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/ARMY - MICHIE STADIUM KNIGHTS.jpg"
           ]
         },
         {
-          "name": "Save Mart Center",
-          "city": "Fresno",
-          "capacity": "18.000 seats",
-          "residents": "Fresno State Bulldogs (NCAA Basket)",
+          "name": "Tom & Mary Casey Stadium",
+          "city": "Albany",
+          "capacity": "24.000 seats",
+          "residents": "Albany Great Danes (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO.jpg",
-            "../stadiums-ncaa/arenas/FRESNO STATE - SAVE MART CENTER - FRESNO BULLDOGS.jpg"
+            "../stadiums-ncaa/stadiums/ALBANY - STADIUM.webp",
+            "../stadiums-ncaa/stadiums/ALBANY - STADIUM DANES.webp"
           ]
         },
         {
-          "name": "Haas Pavilion",
-          "city": "Berkeley",
-          "capacity": "11.858 seats",
-          "residents": "Cal Golden Bears (NCAA Basket)",
+          "name": "Binghamton University Events Center",
+          "city": "Vestal",
+          "capacity": "7.753 seats",
+          "residents": "Binghamton Bearcats (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY.jpg",
-            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY GOLDEN BEARS.jpg"
-          ]
-        },        
-        {
-          "name": "Maples Pavilion",
-          "city": "Stanford",
-          "capacity": "7.233 seats",
-          "residents": "Stanford Cardinal (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD.jpg",
-            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD CARDINAL.jpg"
-          ]
-        },
-        {
-          "name": "Events Center Arena",
-          "city": "San Jose",
-          "capacity": "5.000 seats",
-          "residents": "San Jose State Spartans (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE.jpg",
-            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE SPARTANS.jpg"
-          ]
-        },
-        {
-          "name": "Hornets Nest",
-          "city": "Sacramento",
-          "capacity": "1.012 seats",
-          "residents": "Sacramento State Hornets (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO.jpg",
-            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO HORNETS.jpg"
+            "../stadiums-ncaa/arenas/BINGHAMTON - EVENTS.webp",
+            "../stadiums-ncaa/arenas/BINGHAMTON - EVENTS CENTER.webp"
           ]
         }
       ],
