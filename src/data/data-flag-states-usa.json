@@ -6687,68 +6687,148 @@
       ],
       "players": [
         {
-          "name": "Stephen Curry",
-          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
+          "name": "Babe Ruth",
+          "picture": "../players/NEW YORK/YANKEES - BABE RUTH.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Lawrence Taylor",
+          "picture": "../players/NEW YORK/GIANTS - LAWRENCE TAYLOR 2.jpg"
         },
         {
-          "name": "Ken Stabler",
-          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+          "name": "Julius Erving",
+          "picture": "../players/NEW YORK/NETS - ERVING.jpg"
         },
         {
-          "name": "Mark McGwire",
-          "picture": "../players/CALIFORNIA/A's - MARK MCGWIRE.jpg"
+          "name": "Mark Messier",
+          "picture": "../players/NEW YORK/RANGERS - MARK MESSIER.jpg"
         },
         {
-          "name": "Joe Thornton",
-          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+          "name": "Jacob DeGrom",
+          "picture": "../players/NEW YORK/METS - JACOB DEGROM.webp"
         },
         {
-          "name": "Rickey Henderson",
-          "picture": "../players/CALIFORNIA/A's - RICKEY HENDERSON 1.jpg"
+          "name": "Joe Namath",
+          "picture": "../players/NEW YORK/JETS - JOE NAMATH 2.jpg"
         },
         {
-          "name": "Willie Mays",
-          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+          "name": "Willis Reed",
+          "picture": "../players/NEW YORK/KNICKS - REED.jpg"
         },
         {
-          "name": "Rick Barry",
-          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
+          "name": "Mike Bossy",
+          "picture": "../players/NEW YORK/ISLANDERS - MIKE BOSSY.jpg"
         },
         {
-          "name": "Jerry Rice",
-          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
+          "name": "Dominik Hasek",
+          "picture": "../players/NEW YORK/SABRES - DOMINIK HASEK 2.jpg"
         },
         {
-          "name": "Barry Bonds",
-          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
+          "name": "Bruce Smith",
+          "picture": "../players/NEW YORK/BILLS - BRUCE SMITH.jpeg"
         },
         {
-          "name": "Rich Gannon",
-          "picture": "../players/CALIFORNIA/RAIDERS - RICH GANNON.jpg"
+          "name": "Jackie Robinson",
+          "picture": "../players/NEW YORK/JACKIE ROBINSON.jpg"
         },
         {
-          "name": "Chris Webber",
-          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+          "name": "Derek Jeter",
+          "picture": "../players/NEW YORK/YANKEES - DEREK JETER.jpg"
         },
         {
-          "name": "John Elway",
-          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
+          "name": "Eli Manning",
+          "picture": "../players/NEW YORK/GIANTS - ELI MANNING 2.jpg"
         },
         {
-          "name": "Bill Russell",
-          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg"
+          "name": "Jason Kidd",
+          "picture": "../players/NEW YORK/NETS - KIDD 1.jpg"
         },
         {
-          "name": "Aaron Rodgers",
-          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+          "name": "Henrik Lundqvist",
+          "picture": "../players/NEW YORK/RANGERS - HENRIK LUNDQVIST.jpeg"
         },
         {
-          "name": "Paul George",
-          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg"
+          "name": "Tom Seaver",
+          "picture": "../players/NEW YORK/METS - TOM SEAVER.jpg"
+        },
+        {
+          "name": "Curtis Martin",
+          "picture": "../players/NEW YORK/JETS - CURTIS MARTIN 1.jpg"
+        },
+        {
+          "name": "Patrick Ewing",
+          "picture": "../players/NEW YORK/KNICKS - EWING 2.jpg"
+        },
+        {
+          "name": "Bryan Trottier",
+          "picture": "../players/NEW YORK/ISLANDERS - BRYAN TROTTIER.jpg"
+        },
+        {
+          "name": "Gilbert Perreault",
+          "picture": "../players/NEW YORK/SABRES - GILBERT PERREAULT 2.jpg"
+        },
+        {
+          "name": "Jim Kelly",
+          "picture": "../players/NEW YORK/BILLS - JIM KELLY.jpg"
+        },
+        {
+          "name": "Roy Campanella",
+          "picture": "../players/NEW YORK/ROY CAMPANELLA.jpg"
+        },
+        {
+          "name": "Joe DiMaggio",
+          "picture": "../players/NEW YORK/YANKEES - JOE DIMAGGIO.jpg"
+        },
+        {
+          "name": "Michael Strahan",
+          "picture": "../players/NEW YORK/GIANTS - MICHAEL STRAHAN 2.jpg"
+        },
+        {
+          "name": "Yogi Berra",
+          "picture": "../players/NEW YORK/YANKEES - YOGI BERRA.jpg"
+        },
+        {
+          "name": "Brian Leetch",
+          "picture": "../players/NEW YORK/RANGERS - BRIAN LEETCH 2.jpg"
+        },
+        {
+          "name": "Mike Piazza",
+          "picture": "../players/NEW YORK/METS - MIKE PIAZZA.jpg"
+        },
+        {
+          "name": "Don Maynard",
+          "picture": "../players/NEW YORK/JETS - DON MAYNARD 1.jpg"
+        },
+        {
+          "name": "Joe Frazier",
+          "picture": "../players/NEW YORK/KNICKS - FRAZIER.jpg"
+        },
+        {
+          "name": "Denis Potvin",
+          "picture": "../players/NEW YORK/ISLANDERS - DENIS POTVIN 2.jpg"
+        },
+        {
+          "name": "Aaron Judge",
+          "picture": "../players/NEW YORK/YANKEES - AARON JUDGE 1.jpg"
+        },
+        {
+          "name": "Andre Reed",
+          "picture": "../players/NEW YORK/BILLS - ANDRE REED.jpg"
+        },
+        {
+          "name": "Lou Gehrig",
+          "picture": "../players/NEW YORK/YANKEES - LOU GEHRIG.jpeg"
+        },
+        {
+          "name": "Carmelo Anthony",
+          "picture": "../players/NEW YORK/SYRACUSE - ANTHONY.jpg"
+        },
+        {
+          "name": "Donovan McNabb",
+          "picture": "../players/NEW YORK/SYRACUSE - DONOVAN MCNABB.jpg"
+        },
+        {
+          "name": "Chris Mullin",
+          "picture": "../players/NEW YORK/ST JOHN'S - MULLIN.jpg"
         }
       ]
     },
