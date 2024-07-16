@@ -7283,7 +7283,96 @@
       "id": 35,
       "nom": "North Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg",
-      "carte": "state-layer/ND.jpg"
+      "carte": "state-layer/ND.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #1E90FF, #32CD32, #FFD700)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "North Dakota Fighting Hawks",
+          "logo": "../logos/NCAA/North-Dakota-Fighting-Hawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "North Dakota State Bison",
+          "logo": "../logos/NCAA/North-Dakota-State-Bison-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Fargo Force",
+          "logo": "../logos/USHL/Fargo_Force.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Alerus Center",
+          "city": "Grand Forks",
+          "capacity": "22.000 seats",
+          "residents": "North Dakota Fighting Hawks (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA - ALERUS CENTER.jpg",
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA - ALERUS CENTER HAWKS.jpg"
+          ]
+        },
+        {
+          "name": "Fargodome",
+          "city": "Fargo",
+          "capacity": "18.700 seats",
+          "residents": "North Dakota State Bison (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA STATE - FARGODOME.jpg",
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA STATE - FARGODOME BISON.jpg"
+          ]
+        },
+        {
+          "name": "Ralph Engelstad Arena",
+          "city": "Grand Forks",
+          "capacity": "11.640 seats",
+          "residents": "North Dakota Fighting Hawks (NCAA Hockey & Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NORTH DAKOTA - ENGELSTAD ARENA.jpg",
+            "../stadiums-ncaa/arenas/NORTH DAKOTA - ENGELSTAD ARENA HAWKS.jpg"
+          ]
+        },
+        {
+          "name": "Scheels Arena",
+          "city": "Fargo",
+          "capacity": "5.000 seats",
+          "residents": "Fargo Force (USHL) and North Dakota State Bison (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FARGO - SCHEELS ARENA.webp",
+            "../stadiums-ncaa/arenas/FARGO - SCHEELS ARENA FORCE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Ed Belfour",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - ED BELFOUR.jpg"
+        },
+        {
+          "name": "Jonathan Toews",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - TOEWS.jpg"
+        },
+        {
+          "name": "Carson Wentz",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA STATE - CARSON WENTZ.jpg"
+        },
+        {
+          "name": "Zach Parise",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - PARISE.webp"
+        },
+        {
+          "name": "T.J. Oshie",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - OSHIE.webp"
+        }
+      ]
     },
     { "__comment": "OHIO",
       "id": 36,
