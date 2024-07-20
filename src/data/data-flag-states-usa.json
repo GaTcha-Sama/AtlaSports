@@ -7378,19 +7378,908 @@
       "id": 36,
       "nom": "Ohio",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
-      "carte": "state-layer/OH.jpg"
+      "carte": "state-layer/OH.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #228B22, #A9A9A9, #1E90FF)",
+      "major_league": [
+        {
+          "name": "Cleveland Browns",
+          "logo": "../logos/NFL/Cleveland-Browns-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Cincinnati Bengals",
+          "logo": "../logos/NFL/Cincinnati-Bengals-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Cleveland Guardians",
+          "logo": "../logos/MLB/Cleveland-Guardians-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Cincinnati Reds",
+          "logo": "../logos/MLB/Cincinnati-Reds-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Cleveland Cavaliers",
+          "logo": "../logos/NBA/CAVS-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Columbus Blue Jackets",
+          "logo": "../logos/NHL/Columbus Blue Jackets.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "FC Cincinnati",
+          "logo": "../logos/MLS/FC Cincinnati.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Columbus Crew SC",
+          "logo": "../logos/MLS/Columbus Crew.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Cleveland Charge",
+          "logo": "../logos/NBA GL/Cleveland_Charge_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Columbus Clippers",
+          "logo": "../logos/IL/Columbus-Clippers.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Toledo Mud Hens",
+          "logo": "../logos/IL/Toledo_Mud_Hens.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Cleveland Monsters",
+          "logo": "../logos/AHL/Cleveland_Monsters_Logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Cincinnati Cyclones",
+          "logo": "../logos/ECHL/Cincinnati_Cyclones_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        },
+        {
+          "name": "Toledo Walleye",
+          "logo": "../logos/ECHL/Toledo_Walleye_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Ohio State Buckeyes",
+          "logo": "../logos/NCAA/Ohio state Buckeyes.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Ohio Bobcats",
+          "logo": "../logos/NCAA/Ohio-Bobcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Cincinnati Bearcats",
+          "logo": "../logos/NCAA/Cincinnati-Bearcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Kent State Golden Flashes",
+          "logo": "../logos/NCAA/Kent-State-Golden-Flashes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Akron Zips",
+          "logo": "../logos/NCAA/Akron-Zips-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Xavier Musketeers",
+          "logo": "../logos/NCAA/Xavier-Musketeers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Cleveland State Vikings",
+          "logo": "../logos/NCAA/Cleveland-State-Vikings-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Dayton Flyers",
+          "logo": "../logos/NCAA/Dayton-Flyers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Toledo Rockets",
+          "logo": "../logos/NCAA/Toledo-Rockets-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Bowling Green Falcons",
+          "logo": "../logos/NCAA/Bowling-Green-Falcons-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Miami-Ohio Redhawks",
+          "logo": "../logos/NCAA/Miami-Ohio-Redhawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Erie Otters",
+          "logo": "../logos/OHL/Erie_Otters.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Youngstown Phantoms",
+          "logo": "../logos/USHL/Youngstown_Phantoms.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Cleveland Browns Stadium",
+          "city": "Cleveland",
+          "capacity": "67.895 seats",
+          "residents": "Cleveland Browns (NFL)",
+          "pictures": [
+            "../stadiums-pro/CLEVELAND - FIRST ENERGY STADIUM.jpg",
+            "../stadiums-pro/CLEVELAND - FIRST ENERGY STADIUM BROWNS.jpg"
+          ]
+        },
+        {
+          "name": "Paycor Stadium",
+          "city": "Cincinnati",
+          "capacity": "65.515 seats",
+          "residents": "Cincinnati Bengals (NFL)",
+          "pictures": [
+            "../stadiums-pro/CINCINNATI - PAUL BROWN STADIUM.jpg",
+            "../stadiums-pro/CINCINNATI - PAUL BROWN STADIUM BENGALS.jpg"
+          ]
+        },
+        {
+          "name": "Great American Ball Park",
+          "city": "Cincinnati",
+          "capacity": "42.271 seats",
+          "residents": "Cincinnati Reds (MLB)",
+          "pictures": [
+            "../stadiums-pro/CINCINNATI - GREAT AMERICAN BALL PARK.jpg",
+            "../stadiums-pro/CINCINNATI - GREAT AMERICAN BALL PARK REDS.jpg"
+          ]
+        },
+        {
+          "name": "Progressive Field",
+          "city": "Cleveland",
+          "capacity": "35.225 seats",
+          "residents": "Cleveland Guardians (MLB)",
+          "pictures": [
+            "../stadiums-pro/CLEVELAND - PROGRESSIVE FIELD.jpg",
+            "../stadiums-pro/CLEVELAND - PROGRESSIVE FIELD GUARDIANS.jpg"
+          ]
+        },
+        {
+          "name": "Rocket Mortgage Fieldhouse",
+          "city": "Cleveland",
+          "capacity": "21.200 seats",
+          "residents": "Cleveland Cavaliers (NBA) and Cleveland Monsters (AHL)",
+          "pictures": [
+            "../stadiums-pro/CLEVELAND - QUICKEN LOANS ARENA.jpg",
+            "../stadiums-pro/CLEVELAND - QUICKEN LOANS ARENA CAVALIERS.jpg"
+          ]
+        },        
+        {
+          "name": "Nationwide Arena",
+          "city": "Columbus",
+          "capacity": "18.500 seats",
+          "residents": "Columbus Blue Jackets (NHL)",
+          "pictures": [
+            "../stadiums-pro/COLUMBUS - NATIONWIDE ARENA.jpg",
+            "../stadiums-pro/COLUMBUS - NATIONWIDE ARENA BLUE JACKETS.jpg"
+          ]
+        },
+        {
+          "name": "TQL Stadium",
+          "city": "Hoffman Estates",
+          "capacity": "26.000 seats",
+          "residents": "FC Cincinnati (MLS)",
+          "pictures": [
+            "../stadiums-pro/CINCINNATI - TQL STADIUM.jpg",
+            "../stadiums-pro/CINCINNATI - TQL STADIUM FC.jpg"
+          ]
+        },
+        {
+          "name": "Historic Crew Stadium",
+          "city": "Columbus",
+          "capacity": "20.455 seats",
+          "residents": "Columbus Crew SC (MLS)",
+          "pictures": [
+            "../stadiums-pro/COLUMBUS - HISTORIC CREW STADIUM.jpg",
+            "../stadiums-pro/COLUMBUS - HISTORIC CREW STADIUM CREW.jpg"
+          ]
+        },
+        {
+          "name": "Heritage Bank Center",
+          "city": "Cincinnati",
+          "capacity": "12.823 seats",
+          "residents": "Cincinnati Cyclones (ECHL)",
+          "pictures": [
+            "../stadiums-pro/CINCINNATI - HERITAGE BANK CENTER.jpg",
+            "../stadiums-pro/CINCINNATI - HERITAGE BANK CENTER CYCLONES.jpg"
+          ]
+        },
+        {
+          "name": "Huntington Park",
+          "city": "Columbus",
+          "capacity": "10.000 seats",
+          "residents": "Columbus Clippers (IL)",
+          "pictures": [
+            "../stadiums-pro/COLUMBUS - HUNTINGTON PARK.jpg",
+            "../stadiums-pro/COLUMBUS - HUNTINGTON PARK CLIPPERS.jpg"
+          ]
+        },        
+        {
+          "name": "Fifth Third Field",
+          "city": "Toledo",
+          "capacity": "8.943 seats",
+          "residents": "Toledo Mud Hens (IL)",
+          "pictures": [
+            "../stadiums-pro/TOLEDO - FIFTH THIRD FIELD.jpg",
+            "../stadiums-pro/TOLEDO - FIFTH THIRD FIELD MUD HENS.jpg"
+          ]
+        },
+        {
+          "name": "Huntington Center",
+          "city": "Toledo",
+          "capacity": "8.000 seats",
+          "residents": "Toledo Walleye (ECHL)",
+          "pictures": [
+            "../stadiums-pro/TOLEDO - HUNTINGTON CENTER.jpg",
+            "../stadiums-pro/TOLEDO - HUNTINGTON CENTER WALLEYE.jpg"
+          ]
+        },
+        {
+          "name": "Ohio Stadium",
+          "city": "Columbus",
+          "capacity": "102.780 seats",
+          "residents": "Ohio State Buckeyes (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OHIO STATE - OHIO STADIUM - COLUMBUS.jpg",
+            "../stadiums-ncaa/stadiums/OHIO STATE - OHIO STADIUM - COLUMBUS BUCKEYES.jpg"
+          ]
+        },
+        {
+          "name": "Nippert Stadium",
+          "city": "Cincinnati",
+          "capacity": "35.000 seats",
+          "residents": "Cincinnati Bearcats (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/CINCINNATI - NIPPERT STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/CINCINNATI - NIPPERT STADIUM BEARCATS.webp"
+          ]
+        },
+        {
+          "name": "Dix Stadium",
+          "city": "Kent",
+          "capacity": "30.520 seats",
+          "residents": "Kent State Golden Flashes (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/KENT STATE - DIX STADIUM.webp",
+            "../stadiums-ncaa/stadiums/KENT STATE - DIX STADIUM FLASHES.jpg"
+          ]
+        },
+        {
+          "name": "InfoCision Stadium",
+          "city": "Akron",
+          "capacity": "30.000 seats",
+          "residents": "Akron Zips (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/AKRON - INFOCISION STADIUM.webp",
+            "../stadiums-ncaa/stadiums/AKRON - INFOCISION STADIUM ZIPS.jpg"
+          ]
+        },
+        {
+          "name": "Value City Arena",
+          "city": "Columbus",
+          "capacity": "21.000 seats",
+          "residents": "Ohio State Buckeyes (NCAA Basket & Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OHIO STATE - VALUE CITY ARENA - COLUMBUS.jpg",
+            "../stadiums-ncaa/arenas/OHIO STATE - VALUE CITY ARENA - COLUMBUS BUCKEYES.jpg"
+          ]
+        },
+        {
+          "name": "Cintas Center",
+          "city": "Cincinnati",
+          "capacity": "17.556 seats",
+          "residents": "Xavier Musketeers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/XAVIER - CINTAS CENTER - CINCINNATI.jpg",
+            "../stadiums-ncaa/arenas/XAVIER - CINTAS CENTER - CINCINNATI XAVIER.jpg"
+          ]
+        },
+        {
+          "name": "Wolstein Center",
+          "city": "Cleveland",
+          "capacity": "13.610 seats",
+          "residents": "Cleveland State Vikings (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CLEVELAND STATE - WOLSTEIN CENTER.jpg",
+            "../stadiums-ncaa/arenas/CLEVELAND STATE - WOLSTEIN CENTER VIKINGS.jpg"
+          ]
+        },
+        {
+          "name": "Fifth Third Arena",
+          "city": "Cincinnati",
+          "capacity": "13.176 seats",
+          "residents": "Cincinnati Bearcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CINCINNATI - FIFTH THIRD ARENA - CINCINNATI.jpg",
+            "../stadiums-ncaa/arenas/CINCINNATI - FIFTH THIRD ARENA - CINCINNATI BEARCATS.jpg"
+          ]
+        },
+        {
+          "name": "UD Arena",
+          "city": "Dayton",
+          "capacity": "13.176 seats",
+          "residents": "Dayton Flyers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/DAYTON - UD ARENA.jpg",
+            "../stadiums-ncaa/arenas/DAYTON - UD ARENA FLYERS.jpg"
+          ]
+        },
+        {
+          "name": "Ohio University Convocation Center",
+          "city": "Athens",
+          "capacity": "13.080 seats",
+          "residents": "Ohio Bobcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OHIO - CONVOCATION CENTER.jpg",
+            "../stadiums-ncaa/arenas/OHIO - CONVOCATION CENTER BOBCATS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "LeBron James",
+          "picture": "../players/OHIO/CAVS - JAMES 1.jpg"
+        },
+        {
+          "name": "Bob Feller",
+          "picture": "../players/OHIO/GUARDIANS - BOB FELLER.jpg"
+        },
+        {
+          "name": "Jim Brown",
+          "picture": "../players/OHIO/BROWNS - JIM BROWN 2.jpg"
+        },
+        {
+          "name": "Joe Morgan",
+          "picture": "../players/OHIO/REDS - JOE MORGAN.jpg"
+        },
+        {
+          "name": "Chad Johnson",
+          "picture": "../players/OHIO/BENGALS - CHAD JOHNSON.jpg"
+        },
+        {
+          "name": "Rick Nash",
+          "picture": "../players/OHIO/BLUE JACKETS - RICK NASH.jpeg"
+        },
+        {
+          "name": "Kyrie Irving",
+          "picture": "../players/OHIO/CAVS - IRVING 1.jpg"
+        },
+        {
+          "name": "Nap Lajoie",
+          "picture": "../players/OHIO/GUARDIANS - NAP LAJOIE.jpg"
+        },
+        {
+          "name": "Otto Graham",
+          "picture": "../players/OHIO/BROWNS - OTTO GRAHAM.jpg"
+        },
+        {
+          "name": "Frank Robinson",
+          "picture": "../players/OHIO/REDS - FRANK ROBINSON.jpg"
+        },
+        {
+          "name": "Anthony Munoz",
+          "picture": "../players/OHIO/BENGALS - ANTHONY MUNOZ.jpg"
+        },
+        {
+          "name": "Sergei Bobrovsky",
+          "picture": "../players/OHIO/BLUE JACKETS - SERGEI BOBROVSKY 1.jpg"
+        },
+        {
+          "name": "Mark Price",
+          "picture": "../players/OHIO/CAVS - PRICE 2.jpg"
+        },
+        {
+          "name": "Jim Thome",
+          "picture": "../players/OHIO/GUARDIANS - JIM THOME.jpg"
+        },
+        {
+          "name": "Lou Groza",
+          "picture": "../players/OHIO/BROWNS - LOU GROZA 1.jpg"
+        },
+        {
+          "name": "Pete Rose",
+          "picture": "../players/OHIO/REDS - PETE ROSE.jpg"
+        },
+        {
+          "name": "Ken Anderson",
+          "picture": "../players/OHIO/BENGALS - KEN ANDERSON 1.jpg"
+        },
+        {
+          "name": "Zydrunas Ilgauskas",
+          "picture": "../players/OHIO/CAVS - ILGAUSKAS 1.jpg"
+        },
+        {
+          "name": "Lou Boudreau",
+          "picture": "../players/OHIO/GUARDIANS - LOU BOUDREAU.jpg"
+        },
+        {
+          "name": "Ozzie Newsome",
+          "picture": "../players/OHIO/BROWNS - OZZIE NEWSOME.jpg"
+        },
+        {
+          "name": "Johnny Bench",
+          "picture": "../players/OHIO/REDS - JOHNNY BENCH.jpg"
+        },
+        {
+          "name": "Ken Riley",
+          "picture": "../players/OHIO/BENGALS - KEN RILEY.jpg"
+        },
+        {
+          "name": "Jason Taylor",
+          "picture": "../players/OHIO/AKRON - JASON TAYLOR.jpg"
+        },
+        {
+          "name": "Nate Thurmond",
+          "picture": "../players/OHIO/BOWLING GREEN - THURMOND.jpg"
+        },
+        {
+          "name": "Oscar Robertson",
+          "picture": "../players/OHIO/CINCINNATI - ROBERTSON.jpg"
+        },
+        {
+          "name": "Ben Roethlisberger",
+          "picture": "../players/OHIO/MIAMI-OHIO - BEN ROETHLISBERGER.jpg"
+        },
+        {
+          "name": "John Havlicek",
+          "picture": "../players/OHIO/OHIO STATE - HAVLICEK.jpg"
+        }
+      ]
     },
     { "__comment": "OKLAHOMA",
       "id": 37,
       "nom": "Oklahoma",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
-      "carte": "state-layer/OK.jpg"
+      "carte": "state-layer/OK.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #A0522D, #D2B48C, #DAA520)",
+      "major_league": [
+        {
+          "name": "Oklahoma City Thunder",
+          "logo": "../logos/NBA/Oklahoma-City-Thunder-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Oklahoma City Blue",
+          "logo": "../logos/NBA GL/Oklahoma_City_Blue_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Oklahoma City Baseball Club",
+          "logo": "../logos/PCL/Oklahoma_City_Baseball_Club.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Tulsa Oilers",
+          "logo": "../logos/ECHL/Tulsa_Oilers_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Oklahoma Sooners",
+          "logo": "../logos/NCAA/Oklahoma-Sooners-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Oklahoma State Cowboys",
+          "logo": "../logos/NCAA/Oklahoma-State-Cowboys-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Tulsa Golden Hurricane",
+          "logo": "../logos/NCAA/Tulsa-Golden-Hurricane-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Oral Roberts Golden Eagles",
+          "logo": "../logos/NCAA/Oral-Roberts-Golden-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Paycom Center",
+          "city": "Oklahoma City",
+          "capacity": "20.817 seats",
+          "residents": "Oklahoma City Thunder (NBA) and Oklahoma City Blue (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/OKLAHOMA CITY - CHESAPEAKE ENERGY ARENA.webp",
+            "../stadiums-pro/OKLAHOMA CITY - CHESAPEAKE ENERGY ARENA THUNDER.jpg"
+          ]
+        },        
+        {
+          "name": "BOK Center",
+          "city": "Tulsa",
+          "capacity": "19.199 seats",
+          "residents": "Tulsa Oilers (ECHL)",
+          "pictures": [
+            "../stadiums-pro/TULSA - BOK CENTER.jpg",
+            "../stadiums-pro/TULSA - BOK CENTER OILERS.jpg"
+          ]
+        },
+        {
+          "name": "Chickasaw Bricktown Ballpark",
+          "city": "Oklahoma City",
+          "capacity": "13.066 seats",
+          "residents": "Oklahoma City Baseball Club (PCL)",
+          "pictures": [
+            "../stadiums-pro/OKLAHOMA CITY - CHICKASAW BRICKTOWN BALLPARK.avif",
+            "../stadiums-pro/OKLAHOMA CITY - CHICKASAW BRICKTOWN BALLPARK DODGERS.jpg"
+          ]
+        },
+        {
+          "name": "Gaylord Family Oklahoma Memorial Stadium",
+          "city": "Norman",
+          "capacity": "86.112 seats",
+          "residents": "Oklahoma Sooners (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OKLAHOMA - GAYLORD FAMILY OKLAHOMA MEMORIAL STADIUM - NORMAN.jpg",
+            "../stadiums-ncaa/stadiums/OKLAHOMA - GAYLORD FAMILY OKLAHOMA MEMORIAL STADIUM - NORMAN SOONERS.jpg"
+          ]
+        },
+        {
+          "name": "Boone Pickens Stadium",
+          "city": "Stillwater",
+          "capacity": "60.218 seats",
+          "residents": "Oklahoma State Cowboys (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OKLAHOMA STATE - BOONE PICKENS STADIUM - STILLWATER.jpg",
+            "../stadiums-ncaa/stadiums/OKLAHOMA STATE - BOONE PICKENS STADIUM - STILLWATER OSU.jpg"
+          ]
+        },
+        {
+          "name": "Chapman Stadium",
+          "city": "Tulsa",
+          "capacity": "35.542 seats",
+          "residents": "Tulsa Golden Hurricane (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TULSA - CHAPMAN STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/TULSA - CHAPMAN STADIUM HURRICANE.webp"
+          ]
+        },
+        {
+          "name": "Gallagher-Iba Arena",
+          "city": "Stillwater",
+          "capacity": "13.611 seats",
+          "residents": "Oklahoma State Cowboys (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OKLAHOMA STATE - GALLAGHER IBA ARENA - STILLWATER.png",
+            "../stadiums-ncaa/arenas/OKLAHOMA STATE - GALLAGHER IBA ARENA - STILLWATER OSU.jpg"
+          ]
+        },
+        {
+          "name": "Lloyd Noble Center",
+          "city": "Norman",
+          "capacity": "11.528 seats",
+          "residents": "Oklahoma Sooners (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OKLAHOMA - LLOYD NOBLE CENTER - NORMAN.jpg",
+            "../stadiums-ncaa/arenas/OKLAHOMA - LLOYD NOBLE CENTER - NORMAN SOONERS.jpg"
+          ]
+        },
+        {
+          "name": "Mabee Center",
+          "city": "Tulsa",
+          "capacity": "11.300 seats",
+          "residents": "Oral Roberts Golden Eagles (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ORAL ROBERTS - MABEE CENTER.webp",
+            "../stadiums-ncaa/arenas/ORAL ROBERTS - MABEE CENTER EAGLES.jpg_large"
+          ]
+        },
+        {
+          "name": "Reynolds Center",
+          "city": "Tulsa",
+          "capacity": "8.355 seats",
+          "residents": "Tulsa Golden Hurricane (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/TULSA - REYNOLDS CENTER - TULSA.JPG",
+            "../stadiums-ncaa/arenas/TULSA - REYNOLDS CENTER - TULSA TU.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "picture": "../players/OKLAHOMA/THUNDER - DURANT.jpg"
+        },
+        {
+          "name": "Russell Westbrook",
+          "picture": "../players/OKLAHOMA/THUNDER - WESTBROOK.jpg"
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "picture": "../players/OKLAHOMA/THUNDER - SGA.jpg"
+        },
+        {
+          "name": "Adrian Peterson",
+          "picture": "../players/OKLAHOMA/OKLAHOMA - PETERSON.jpg"
+        },
+        {
+          "name": "Blake Griffin",
+          "picture": "../players/OKLAHOMA/OKLAHOMA - GRIFFIN.jpg"
+        },
+        {
+          "name": "Barry Sanders",
+          "picture": "../players/OKLAHOMA/OKLAHOMA STATE - BARRY SANDERS.jpg"
+        },
+        {
+          "name": "Dennis Rodman",
+          "picture": "../players/OKLAHOMA/SOUTHEASTERN OKLAHOMA - RODMAN.jpg"
+        },
+        {
+          "name": "Steve Largent",
+          "picture": "../players/OKLAHOMA/TULSA - STEVE LARGENT.jpg"
+        }
+      ]
     },
     { "__comment": "OREGON",
       "id": 38,
       "nom": "Oregon",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
-      "carte": "state-layer/OR.jpg"
+      "carte": "state-layer/OR.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #A0522D, #D2B48C, #DAA520)",
+      "major_league": [
+        {
+          "name": "Oklahoma City Thunder",
+          "logo": "../logos/NBA/Oklahoma-City-Thunder-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Oklahoma City Blue",
+          "logo": "../logos/NBA GL/Oklahoma_City_Blue_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Oklahoma City Baseball Club",
+          "logo": "../logos/PCL/Oklahoma_City_Baseball_Club.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Tulsa Oilers",
+          "logo": "../logos/ECHL/Tulsa_Oilers_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Oklahoma Sooners",
+          "logo": "../logos/NCAA/Oklahoma-Sooners-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Oklahoma State Cowboys",
+          "logo": "../logos/NCAA/Oklahoma-State-Cowboys-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Tulsa Golden Hurricane",
+          "logo": "../logos/NCAA/Tulsa-Golden-Hurricane-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Oral Roberts Golden Eagles",
+          "logo": "../logos/NCAA/Oral-Roberts-Golden-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Paycom Center",
+          "city": "Oklahoma City",
+          "capacity": "20.817 seats",
+          "residents": "Oklahoma City Thunder (NBA) and Oklahoma City Blue (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/OKLAHOMA CITY - CHESAPEAKE ENERGY ARENA.webp",
+            "../stadiums-pro/OKLAHOMA CITY - CHESAPEAKE ENERGY ARENA THUNDER.jpg"
+          ]
+        },        
+        {
+          "name": "BOK Center",
+          "city": "Tulsa",
+          "capacity": "19.199 seats",
+          "residents": "Tulsa Oilers (ECHL)",
+          "pictures": [
+            "../stadiums-pro/TULSA - BOK CENTER.jpg",
+            "../stadiums-pro/TULSA - BOK CENTER OILERS.jpg"
+          ]
+        },
+        {
+          "name": "Chickasaw Bricktown Ballpark",
+          "city": "Oklahoma City",
+          "capacity": "13.066 seats",
+          "residents": "Oklahoma City Baseball Club (PCL)",
+          "pictures": [
+            "../stadiums-pro/OKLAHOMA CITY - CHICKASAW BRICKTOWN BALLPARK.avif",
+            "../stadiums-pro/OKLAHOMA CITY - CHICKASAW BRICKTOWN BALLPARK DODGERS.jpg"
+          ]
+        },
+        {
+          "name": "Gaylord Family Oklahoma Memorial Stadium",
+          "city": "Norman",
+          "capacity": "86.112 seats",
+          "residents": "Oklahoma Sooners (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OKLAHOMA - GAYLORD FAMILY OKLAHOMA MEMORIAL STADIUM - NORMAN.jpg",
+            "../stadiums-ncaa/stadiums/OKLAHOMA - GAYLORD FAMILY OKLAHOMA MEMORIAL STADIUM - NORMAN SOONERS.jpg"
+          ]
+        },
+        {
+          "name": "Boone Pickens Stadium",
+          "city": "Stillwater",
+          "capacity": "60.218 seats",
+          "residents": "Oklahoma State Cowboys (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OKLAHOMA STATE - BOONE PICKENS STADIUM - STILLWATER.jpg",
+            "../stadiums-ncaa/stadiums/OKLAHOMA STATE - BOONE PICKENS STADIUM - STILLWATER OSU.jpg"
+          ]
+        },
+        {
+          "name": "Chapman Stadium",
+          "city": "Tulsa",
+          "capacity": "35.542 seats",
+          "residents": "Tulsa Golden Hurricane (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TULSA - CHAPMAN STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/TULSA - CHAPMAN STADIUM HURRICANE.webp"
+          ]
+        },
+        {
+          "name": "Gallagher-Iba Arena",
+          "city": "Stillwater",
+          "capacity": "13.611 seats",
+          "residents": "Oklahoma State Cowboys (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OKLAHOMA STATE - GALLAGHER IBA ARENA - STILLWATER.png",
+            "../stadiums-ncaa/arenas/OKLAHOMA STATE - GALLAGHER IBA ARENA - STILLWATER OSU.jpg"
+          ]
+        },
+        {
+          "name": "Lloyd Noble Center",
+          "city": "Norman",
+          "capacity": "11.528 seats",
+          "residents": "Oklahoma Sooners (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OKLAHOMA - LLOYD NOBLE CENTER - NORMAN.jpg",
+            "../stadiums-ncaa/arenas/OKLAHOMA - LLOYD NOBLE CENTER - NORMAN SOONERS.jpg"
+          ]
+        },
+        {
+          "name": "Mabee Center",
+          "city": "Tulsa",
+          "capacity": "11.300 seats",
+          "residents": "Oral Roberts Golden Eagles (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ORAL ROBERTS - MABEE CENTER.webp",
+            "../stadiums-ncaa/arenas/ORAL ROBERTS - MABEE CENTER EAGLES.jpg_large"
+          ]
+        },
+        {
+          "name": "Reynolds Center",
+          "city": "Tulsa",
+          "capacity": "8.355 seats",
+          "residents": "Tulsa Golden Hurricane (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/TULSA - REYNOLDS CENTER - TULSA.JPG",
+            "../stadiums-ncaa/arenas/TULSA - REYNOLDS CENTER - TULSA TU.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "picture": "../players/OKLAHOMA/THUNDER - DURANT.jpg"
+        },
+        {
+          "name": "Russell Westbrook",
+          "picture": "../players/OKLAHOMA/THUNDER - WESTBROOK.jpg"
+        },
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "picture": "../players/OKLAHOMA/THUNDER - SGA.jpg"
+        },
+        {
+          "name": "Adrian Peterson",
+          "picture": "../players/OKLAHOMA/OKLAHOMA - PETERSON.jpg"
+        },
+        {
+          "name": "Blake Griffin",
+          "picture": "../players/OKLAHOMA/OKLAHOMA - GRIFFIN.jpg"
+        },
+        {
+          "name": "Barry Sanders",
+          "picture": "../players/OKLAHOMA/OKLAHOMA STATE - BARRY SANDERS.jpg"
+        },
+        {
+          "name": "Dennis Rodman",
+          "picture": "../players/OKLAHOMA/SOUTHEASTERN OKLAHOMA - RODMAN.jpg"
+        },
+        {
+          "name": "Steve Largent",
+          "picture": "../players/OKLAHOMA/TULSA - STEVE LARGENT.jpg"
+        }
+      ]
     },
     { "__comment": "PENNSYLVANIA",
       "id": 39,
