@@ -7538,12 +7538,6 @@
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Erie Otters",
-          "logo": "../logos/OHL/Erie_Otters.png",
-          "league": "OHL",
-          "leagueLogo": "../logos/OHL/OHL.png"
-        },
-        {
           "name": "Youngstown Phantoms",
           "logo": "../logos/USHL/Youngstown_Phantoms.png",
           "league": "USHL",
@@ -8089,195 +8083,170 @@
       "carte": "state-layer/OR.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #A0522D, #D2B48C, #DAA520)",
+      "backgroundGradient": "linear-gradient(to right, #2E8B57, #3CB371, #4682B4, #8B4513)",
       "major_league": [
         {
-          "name": "Oklahoma City Thunder",
-          "logo": "../logos/NBA/Oklahoma-City-Thunder-Logo.png",
+          "name": "Portland Trail Blazers",
+          "logo": "../logos/NBA/Portland-Trail-Blazers-Logo.png",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
-        }
-      ],
-      "minor_league": [
-        {
-          "name": "Oklahoma City Blue",
-          "logo": "../logos/NBA GL/Oklahoma_City_Blue_logo.svg.png",
-          "league": "NBA G-League",
-          "leagueLogo": "../logos/NBA GL/NBAGL.png"
         },
         {
-          "name": "Oklahoma City Baseball Club",
-          "logo": "../logos/PCL/Oklahoma_City_Baseball_Club.png",
-          "league": "PCL",
-          "leagueLogo": "../logos/PCL/Triple-A.png"
+          "name": "Portland Timbers",
+          "logo": "../logos/MLS/Portland Timbers.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
         },
         {
-          "name": "Tulsa Oilers",
-          "logo": "../logos/ECHL/Tulsa_Oilers_logo.svg.png",
-          "league": "ECHL",
-          "leagueLogo": "../logos/ECHL/ECHL.png"
+          "name": "Portland Thorns FC",
+          "logo": "../logos/NWSL/Portland Thorns FC.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
         }
       ],
+      "minor_league": [],
       "junior_league": [
         {
-          "name": "Oklahoma Sooners",
-          "logo": "../logos/NCAA/Oklahoma-Sooners-logo.png",
+          "name": "Oregon Ducks",
+          "logo": "../logos/NCAA/Oregon-Ducks-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Oklahoma State Cowboys",
-          "logo": "../logos/NCAA/Oklahoma-State-Cowboys-logo.png",
+          "name": "Oregon State Beavers",
+          "logo": "../logos/NCAA/Oregon-State-Beavers-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Tulsa Golden Hurricane",
-          "logo": "../logos/NCAA/Tulsa-Golden-Hurricane-logo.png",
+          "name": "Portland Pilots",
+          "logo": "../logos/NCAA/Portland-Pilots-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Oral Roberts Golden Eagles",
-          "logo": "../logos/NCAA/Oral-Roberts-Golden-Eagles-logo.png",
+          "name": "Portland State Vikings",
+          "logo": "../logos/NCAA/Portland-State-Vikings-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Portland Winterhawks",
+          "logo": "../logos/WHL/Portland_Winterhawks.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Paycom Center",
-          "city": "Oklahoma City",
-          "capacity": "20.817 seats",
-          "residents": "Oklahoma City Thunder (NBA) and Oklahoma City Blue (NBA G-League)",
+          "name": "Moda Center",
+          "city": "Portland",
+          "capacity": "19.980 seats",
+          "residents": "Portland Trail Blazers (NBA) and Portland Winterhawks (WHL)",
           "pictures": [
-            "../stadiums-pro/OKLAHOMA CITY - CHESAPEAKE ENERGY ARENA.webp",
-            "../stadiums-pro/OKLAHOMA CITY - CHESAPEAKE ENERGY ARENA THUNDER.jpg"
+            "../stadiums-pro/PORTLAND - MODA CENTER.jpg",
+            "../stadiums-pro/PORTLAND - MODA CENTER TRAILBLAZERS.jpg"
           ]
-        },        
+        }, 
         {
-          "name": "BOK Center",
-          "city": "Tulsa",
-          "capacity": "19.199 seats",
-          "residents": "Tulsa Oilers (ECHL)",
+          "name": "Providence Park",
+          "city": "Portland",
+          "capacity": "18.627 seats",
+          "residents": "Portland Timbers (MLS) and Portland Thorns FC (NWSL)",
           "pictures": [
-            "../stadiums-pro/TULSA - BOK CENTER.jpg",
-            "../stadiums-pro/TULSA - BOK CENTER OILERS.jpg"
+            "../stadiums-pro/PORTLAND - PROVIDENCE PARK.jpg",
+            "../stadiums-pro/PORTLAND - PROVIDENCE PARK TIMBERS.jpg"
           ]
-        },
+        },      
         {
-          "name": "Chickasaw Bricktown Ballpark",
-          "city": "Oklahoma City",
-          "capacity": "13.066 seats",
-          "residents": "Oklahoma City Baseball Club (PCL)",
+          "name": "Autzen Stadium",
+          "city": "Eugene",
+          "capacity": "53.800 seats",
+          "residents": "Oregon Ducks (NCAA Football)",
           "pictures": [
-            "../stadiums-pro/OKLAHOMA CITY - CHICKASAW BRICKTOWN BALLPARK.avif",
-            "../stadiums-pro/OKLAHOMA CITY - CHICKASAW BRICKTOWN BALLPARK DODGERS.jpg"
-          ]
-        },
-        {
-          "name": "Gaylord Family Oklahoma Memorial Stadium",
-          "city": "Norman",
-          "capacity": "86.112 seats",
-          "residents": "Oklahoma Sooners (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/OKLAHOMA - GAYLORD FAMILY OKLAHOMA MEMORIAL STADIUM - NORMAN.jpg",
-            "../stadiums-ncaa/stadiums/OKLAHOMA - GAYLORD FAMILY OKLAHOMA MEMORIAL STADIUM - NORMAN SOONERS.jpg"
+            "../stadiums-ncaa/stadiums/OREGON - AUTZEN STADIUM - EUGENE.jpg",
+            "../stadiums-ncaa/stadiums/OREGON - AUTZEN STADIUM - EUGENE DUCKS.jpg"
           ]
         },
         {
-          "name": "Boone Pickens Stadium",
-          "city": "Stillwater",
-          "capacity": "60.218 seats",
-          "residents": "Oklahoma State Cowboys (NCAA Football)",
+          "name": "Reser Stadium",
+          "city": "Corvallis",
+          "capacity": "45.674 seats",
+          "residents": "Oregon State Beavers (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/OKLAHOMA STATE - BOONE PICKENS STADIUM - STILLWATER.jpg",
-            "../stadiums-ncaa/stadiums/OKLAHOMA STATE - BOONE PICKENS STADIUM - STILLWATER OSU.jpg"
+            "../stadiums-ncaa/stadiums/OREGON STATE - RESER STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/OREGON STATE - RESER STADIUM BEAVERS.jpg"
           ]
         },
         {
-          "name": "Chapman Stadium",
-          "city": "Tulsa",
-          "capacity": "35.542 seats",
-          "residents": "Tulsa Golden Hurricane (NCAA Football)",
+          "name": "Matthew Knight Arena",
+          "city": "Eugene",
+          "capacity": "12.369 seats",
+          "residents": "Oregon Ducks (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/TULSA - CHAPMAN STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/TULSA - CHAPMAN STADIUM HURRICANE.webp"
+            "../stadiums-ncaa/arenas/OREGON - MATTHEW KNIGHT ARENA - EUGENE.jpg",
+            "../stadiums-ncaa/arenas/OREGON - MATTHEW KNIGHT ARENA - EUGENE DUCKS.jpg"
           ]
         },
         {
-          "name": "Gallagher-Iba Arena",
-          "city": "Stillwater",
-          "capacity": "13.611 seats",
-          "residents": "Oklahoma State Cowboys (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/OKLAHOMA STATE - GALLAGHER IBA ARENA - STILLWATER.png",
-            "../stadiums-ncaa/arenas/OKLAHOMA STATE - GALLAGHER IBA ARENA - STILLWATER OSU.jpg"
-          ]
-        },
-        {
-          "name": "Lloyd Noble Center",
-          "city": "Norman",
+          "name": "Gill Coliseum",
+          "city": "Corvallis",
           "capacity": "11.528 seats",
-          "residents": "Oklahoma Sooners (NCAA Basket)",
+          "residents": "Oregon State Beavers (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/OKLAHOMA - LLOYD NOBLE CENTER - NORMAN.jpg",
-            "../stadiums-ncaa/arenas/OKLAHOMA - LLOYD NOBLE CENTER - NORMAN SOONERS.jpg"
+            "../stadiums-ncaa/arenas/OREGON STATE - GILL COLISEUM - CORVALLIS.jpg",
+            "../stadiums-ncaa/arenas/OREGON STATE - GILL COLISEUM - CORVALLIS BEAVERS.jpg"
           ]
         },
         {
-          "name": "Mabee Center",
-          "city": "Tulsa",
-          "capacity": "11.300 seats",
-          "residents": "Oral Roberts Golden Eagles (NCAA Basket)",
+          "name": "Chiles Center",
+          "city": "Portland",
+          "capacity": "5.000 seats",
+          "residents": "Portland Pilots (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/ORAL ROBERTS - MABEE CENTER.webp",
-            "../stadiums-ncaa/arenas/ORAL ROBERTS - MABEE CENTER EAGLES.jpg_large"
+            "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER.avif",
+            "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER PILOTS.jpg"
           ]
         },
         {
-          "name": "Reynolds Center",
-          "city": "Tulsa",
-          "capacity": "8.355 seats",
-          "residents": "Tulsa Golden Hurricane (NCAA Basket)",
+          "name": "Peter Stott Center",
+          "city": "Portland",
+          "capacity": "3.094 seats",
+          "residents": "Portland State Vikings (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/TULSA - REYNOLDS CENTER - TULSA.JPG",
-            "../stadiums-ncaa/arenas/TULSA - REYNOLDS CENTER - TULSA TU.jpg"
+            "../stadiums-ncaa/arenas/PORTLAND STATE - PETER STOTT CENTER - PORTLAND.jpg",
+            "../stadiums-ncaa/arenas/PORTLAND STATE - PETER STOTT CENTER - PORTLAND VIKINGS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Kevin Durant",
-          "picture": "../players/OKLAHOMA/THUNDER - DURANT.jpg"
+          "name": "Bill Walton",
+          "picture": "../players/OREGON/BLAZERS - WALTON.jpg"
         },
         {
-          "name": "Russell Westbrook",
-          "picture": "../players/OKLAHOMA/THUNDER - WESTBROOK.jpg"
+          "name": "Clyde Drexler",
+          "picture": "../players/OREGON/BLAZERS - DREXLER.jpg"
         },
         {
-          "name": "Shai Gilgeous-Alexander",
-          "picture": "../players/OKLAHOMA/THUNDER - SGA.jpg"
+          "name": "Damian Lillard",
+          "picture": "../players/OREGON/BLAZERS - LILLARD.jpg"
         },
         {
-          "name": "Adrian Peterson",
-          "picture": "../players/OKLAHOMA/OKLAHOMA - PETERSON.jpg"
+          "name": "LaMarcus Aldridge",
+          "picture": "../players/OREGON/BLAZERS - ALDRIDGE.jpg"
         },
         {
-          "name": "Blake Griffin",
-          "picture": "../players/OKLAHOMA/OKLAHOMA - GRIFFIN.jpg"
+          "name": "Gary Payton",
+          "picture": "../players/OREGON/OREGON STATE - PAYTON.jpg"
         },
         {
-          "name": "Barry Sanders",
-          "picture": "../players/OKLAHOMA/OKLAHOMA STATE - BARRY SANDERS.jpg"
+          "name": "Steven Jackson",
+          "picture": "../players/OREGON/OREGON STATE - STEVEN JACKSON.jpg"
         },
         {
-          "name": "Dennis Rodman",
-          "picture": "../players/OKLAHOMA/SOUTHEASTERN OKLAHOMA - RODMAN.jpg"
-        },
-        {
-          "name": "Steve Largent",
-          "picture": "../players/OKLAHOMA/TULSA - STEVE LARGENT.jpg"
+          "name": "Dan Fouts",
+          "picture": "../players/OREGON/OREGON - DAN FOUTS.jpg"
         }
       ]
     },
@@ -8285,13 +8254,606 @@
       "id": 39,
       "nom": "Pennsylvania",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
-      "carte": "state-layer/PN.jpg"
+      "carte": "state-layer/PN.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #2e8b57, #4682b4, #708090)",
+      "major_league": [
+        {
+          "name": "Philadelphia Eagles",
+          "logo": "../logos/NFL/Philadelphia-Eagles-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Pittsburgh Steelers",
+          "logo": "../logos/NFL/Pittsburgh-Steelers-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Philadelphia Phillies",
+          "logo": "../logos/MLB/Philadelphia-Phillies-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Pittsburgh Pirates",
+          "logo": "../logos/MLB/Pittsburgh-Pirates-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Philadelphia 76ers",
+          "logo": "../logos/NBA/Philadelphia-76ers-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Philadelphia Flyers",
+          "logo": "../logos/NHL/Philadelphia Flyers.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Pittsburgh Penguins",
+          "logo": "../logos/NHL/Pittsburgh-Penguins-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Philadelphia Union",
+          "logo": "../logos/MLS/Philadelphia Union.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Lehigh Valley IronPigs",
+          "logo": "../logos/IL/LehighValleyIronPigs.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Scranton/Wilkes-Barre RailRiders",
+          "logo": "../logos/IL/SWB_RailRiders.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Hershey Bears",
+          "logo": "../logos/AHL/Hershey_Bears_Logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Lehigh Valley Phantoms",
+          "logo": "../logos/AHL/Lehigh_Valley_Phantoms_Logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Wilkes-Barre/Scranton Penguins",
+          "logo": "../logos/AHL/Wilkes-Barre_Scranton_Penguins_Logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Reading Royals",
+          "logo": "../logos/ECHL/Reading_Royals_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Penn State Nittany Lions",
+          "logo": "../logos/NCAA/Penn-State-Nittany-Lions-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Penn Quakers",
+          "logo": "../logos/NCAA/Penn-Quakers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Pittsburgh Panthers",
+          "logo": "../logos/NCAA/Pittsburgh-Panthers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Lafayette Leopards",
+          "logo": "../logos/NCAA/Lafayette-Leopards-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Bucknell Bison",
+          "logo": "../logos/NCAA/Bucknell-Bison-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Villanova Wildcats",
+          "logo": "../logos/NCAA/Villanova-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Temple Owls",
+          "logo": "../logos/NCAA/Temple-Owls-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Duquesne Dukes",
+          "logo": "../logos/NCAA/Duquesne-Dukes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "La Salle Explorers",
+          "logo": "../logos/NCAA/La-Salle-Explorers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Lehigh Mountain Hawks",
+          "logo": "../logos/NCAA/Lehigh-Mountain-Hawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Erie Otters",
+          "logo": "../logos/OHL/Erie_Otters.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lincoln Financial Field",
+          "city": "Philadelphia",
+          "capacity": "69.176 seats",
+          "residents": "Philadelphia Eagles (NFL) and Temple Owls (NCAA Football)",
+          "pictures": [
+            "../stadiums-pro/PHILADELPHIA - LINCOLN FINANCIAL FIELD.jpg",
+            "../stadiums-pro/PHILADELPHIA - LINCOLN FINANCIAL FIELD EAGLES.jpg"
+          ]
+        },
+        {
+          "name": "Acrisure Stadium",
+          "city": "Pittsburgh",
+          "capacity": "65.500 seats",
+          "residents": "Pittsburgh Steelers (NFL) and Pittsburgh Panthers (NCAA Football)",
+          "pictures": [
+            "../stadiums-pro/PITTSBURGH - HEINZ FIELD.jpg",
+            "../stadiums-pro/PITTSBURGH - HEINZ FIELD STEELERS.jpg"
+          ]
+        },
+        {
+          "name": "Citizens Bank Park",
+          "city": "Philadelphia",
+          "capacity": "43.647 seats",
+          "residents": "Philadelphia Phillies (MLB)",
+          "pictures": [
+            "../stadiums-pro/PHILADELPHIA - CITIZENS BANK PARK.jpg",
+            "../stadiums-pro/PHILADELPHIA - CITIZENS BANK PARK PHILLIES.jpg"
+          ]
+        },
+        {
+          "name": "PNC Park",
+          "city": "Pittsburgh",
+          "capacity": "38.362 seats",
+          "residents": "Pittsburgh Pirates (MLB)",
+          "pictures": [
+            "../stadiums-pro/PITTSBURGH - PNC PARK.jpg",
+            "../stadiums-pro/PITTSBURGH - PNC PARK PIRATES.jpg"
+          ]
+        },
+        {
+          "name": "Wells Fargo Center",
+          "city": "Philadelphia",
+          "capacity": "21.600 seats",
+          "residents": "Philadelphia 76ers (NBA) and Philadelphia Flyers (NHL)",
+          "pictures": [
+            "../stadiums-pro/PHILADELPHIA - WELLS FARGO CENTER.jpg",
+            "../stadiums-pro/PHILADELPHIA - WELLS FARGO CENTER SIXERS.jpg"
+          ]
+        },        
+        {
+          "name": "PPG Paints Arena",
+          "city": "Pittsburgh",
+          "capacity": "19.000 seats",
+          "residents": "Pittsburgh Penguins (NHL)",
+          "pictures": [
+            "../stadiums-pro/PITTSBURGH - PPG PAINTS ARENA.jpg",
+            "../stadiums-pro/PITTSBURGH - PPG PAINTS ARENA PENGUINS.jpg"
+          ]
+        },
+        {
+          "name": "Subaru Park",
+          "city": "Chester",
+          "capacity": "18.500 seats",
+          "residents": "Philadelphia Union (MLS)",
+          "pictures": [
+            "../stadiums-pro/PHILADELPHIA - SUBARU PARK.jpg",
+            "../stadiums-pro/PHILADELPHIA - SUBARU PARK UNION.jpg"
+          ]
+        },
+        {
+          "name": "Giant Center",
+          "city": "Hershey",
+          "capacity": "12.500 seats",
+          "residents": "Hershey Bears (AHL)",
+          "pictures": [
+            "../stadiums-pro/HERSHEY - GIANT CENTER.jpg",
+            "../stadiums-pro/HERSHEY - GIANT CENTER BEARS.jpg"
+          ]
+        },
+        {
+          "name": "PNC Field",
+          "city": "Moosic",
+          "capacity": "10.982 seats",
+          "residents": "Scranton/Wilkes-Barre RailRiders (IL)",
+          "pictures": [
+            "../stadiums-pro/SWB - PNC FIELD.jpg",
+            "../stadiums-pro/SWB - PNC FIELD RAILRIDERS.jpg"
+          ]
+        },
+        {
+          "name": "PPL Center",
+          "city": "Allentown",
+          "capacity": "10.000 seats",
+          "residents": "Lehigh Valley Phantoms (AHL)",
+          "pictures": [
+            "../stadiums-pro/LEHIGH VALLEY - PPL CENTER.jpg",
+            "../stadiums-pro/LEHIGH VALLEY - PPL CENTER PHANTOMS.avif"
+          ]
+        },        
+        {
+          "name": "Mohegan Sun Arena",
+          "city": "Wilkes-Barre",
+          "capacity": "10.000 seats",
+          "residents": "Wilkes-Barre/Scranton Penguins (AHL)",
+          "pictures": [
+            "../stadiums-pro/SWB - MOHEGAN SUN ARENA.jpg",
+            "../stadiums-pro/SWB - MOHEGAN SUN ARENA PENGUINS.jpg"
+          ]
+        },
+        {
+          "name": "Coca-Cola Park",
+          "city": "Allentown",
+          "capacity": "8.100 seats",
+          "residents": "Lehigh Valley IronPigs (IL)",
+          "pictures": [
+            "../stadiums-pro/LEHIGH VALLEY - COCA COLA PARK.jpg",
+            "../stadiums-pro/LEHIGH VALLEY - COCA COLA PARK IRONPIGS.jpg"
+          ]
+        },
+        {
+          "name": "Beaver Stadium",
+          "city": "University Park",
+          "capacity": "106.572 seats",
+          "residents": "Penn State Nittany Lions (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/PENN STATE - BEAVER STADIUM - UNIVERSITY PARK.jpg",
+            "../stadiums-ncaa/stadiums/PENN STATE - BEAVER STADIUM - UNIVERSITY PARK BEAVERS.jpg"
+          ]
+        },
+        {
+          "name": "Franklin Field",
+          "city": "Philadelphia",
+          "capacity": "52.593 seats",
+          "residents": "Penn Quakers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/PENN - FRANKLIN FIELD.jpg",
+            "../stadiums-ncaa/stadiums/PENN - FRANKLIN FIELD QUAKERS.jpg"
+          ]
+        },
+        {
+          "name": "Bryce Jordan Center",
+          "city": "University Park",
+          "capacity": "15.261 seats",
+          "residents": "Penn State Nittany Lions (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PENN STATE - BRYCE JORDAN CENTER - UNIVERSITY PARK.jpg",
+            "../stadiums-ncaa/arenas/PENN STATE - BRYCE JORDAN CENTER - UNIVERSITY PARK PSU.jpg"
+          ]
+        },
+        {
+          "name": "Petersen Events Center",
+          "city": "Pittsburgh",
+          "capacity": "14.763 seats",
+          "residents": "Pittsburgh Panthers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PITTSBURGH - PETERSEN EVENTS CENTER - PITTSBURGH.jpg",
+            "../stadiums-ncaa/arenas/PITTSBURGH - PETERSEN EVENTS CENTER - PITTSBURGH PANTHERS.webp"
+          ]
+        },
+        {
+          "name": "Liacouras Center",
+          "city": "Philadelphia",
+          "capacity": "10.206 seats",
+          "residents": "Temple Owls (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/TEMPLE - LIACOURAS CENTER - PHILADELPHIA.jpg",
+            "../stadiums-ncaa/arenas/TEMPLE - LIACOURAS CENTER - PHILADELPHIA OWLS.jpg"
+          ]
+        },
+        {
+          "name": "Erie Insurance Arena",
+          "city": "Erie",
+          "capacity": "9.000 seats",
+          "residents": "Erie Otters (OHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ERIE - INSURANCE ARENA.jpg",
+            "../stadiums-ncaa/arenas/ERIE - INSURANCE ARENA OTTERS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Wilt Chamberlain",
+          "picture": "../players/PENNSYLVANIA/SIXERS - CHAMBERLAIN 2.jpg"
+        },
+        {
+          "name": "Reggie White",
+          "picture": "../players/PENNSYLVANIA/EAGLES - REGGIE WHITE 2.jpg"
+        },
+        {
+          "name": "Mike Schmidt",
+          "picture": "../players/PENNSYLVANIA/PHILLIES - MIKE SCHMIDT.png"
+        },
+        {
+          "name": "Bobby Clarke",
+          "picture": "../players/PENNSYLVANIA/FLYERS - BOBBY CLARKE.jpg"
+        },
+        {
+          "name": "Jack Lambert",
+          "picture": "../players/PENNSYLVANIA/STEELERS - JACK LAMBERT 2.jpg"
+        },
+        {
+          "name": "Barry Bonds",
+          "picture": "../players/PENNSYLVANIA/PIRATES - BARRY BONDS.jpg"
+        },
+        {
+          "name": "Mario Lemieux",
+          "picture": "../players/PENNSYLVANIA/PENGUINS - MARIO LEMIEUX 1.jpg"
+        },
+        {
+          "name": "Julius Erving",
+          "picture": "../players/PENNSYLVANIA/SIXERS - ERVING 1.jpg"
+        },
+        {
+          "name": "Donovan McNabb",
+          "picture": "../players/PENNSYLVANIA/EAGLES - DONOVAN MCNABB 2.jpg"
+        },
+        {
+          "name": "Steve Carlton",
+          "picture": "../players/PENNSYLVANIA/PHILLIES - STEVE CARLTON.jpg"
+        },
+        {
+          "name": "Eric Lindros",
+          "picture": "../players/PENNSYLVANIA/FLYERS - ERIC LINDROS 2.jpg"
+        },
+        {
+          "name": "Joe Greene",
+          "picture": "../players/PENNSYLVANIA/STEELERS - JOE GREENE.jpg"
+        },
+        {
+          "name": "Roberto Clemente",
+          "picture": "../players/PENNSYLVANIA/PIRATES - ROBERTO CLEMENTE.jpg"
+        },
+        {
+          "name": "Sidney Crosby",
+          "picture": "../players/PENNSYLVANIA/PENGUINS - SIDNEY CROSBY 1.jpg"
+        },
+        {
+          "name": "Allen Iverson",
+          "picture": "../players/PENNSYLVANIA/SIXERS - IVERSON 1.jpg"
+        },
+        {
+          "name": "Brian Dawkins",
+          "picture": "../players/PENNSYLVANIA/EAGLES - BRIAN DAWKINS.jpg"
+        },
+        {
+          "name": "Grover Cleveland Alexander",
+          "picture": "../players/PENNSYLVANIA/PHILLIES - GROVER CLEVELAND ALEXANDER.jpeg"
+        },
+        {
+          "name": "Bernie Parent",
+          "picture": "../players/PENNSYLVANIA/FLYERS - BERNIE PARENT 1.jpg"
+        },
+        {
+          "name": "Ben Roethlisberger",
+          "picture": "../players/PENNSYLVANIA/STEELERS - BEN ROETHLISBERGER.jpg"
+        },
+        {
+          "name": "Andrew McCutchen",
+          "picture": "../players/PENNSYLVANIA/PIRATES - ANDREW MCCUTCHEN.jpg"
+        },
+        {
+          "name": "Evgeni Malkin",
+          "picture": "../players/PENNSYLVANIA/PENGUINS - EVGENI MALKIN 2.jpg"
+        },
+        {
+          "name": "Dan Marino",
+          "picture": "../players/PENNSYLVANIA/PITTSBURGH - DAN MARINO.jpg"
+        },
+        {
+          "name": "Paul Arizin",
+          "picture": "../players/PENNSYLVANIA/VILLANOVA - ARIZIN.jpg"
+        },
+        {
+          "name": "Connor McDavid",
+          "picture": "../players/PENNSYLVANIA/ERIE OTTERS - CONNOR MCDAVID.jpg"
+        },
+        {
+          "name": "Franco Harris",
+          "picture": "../players/PENNSYLVANIA/PENN STATE - FRANCO HARRIS.jpg"
+        },
+        {
+          "name": "CJ McCollum",
+          "picture": "../players/PENNSYLVANIA/LEHIGH - MCCOLLUM.jpg"
+        },
+        {
+          "name": "Larry Fitzgerald",
+          "picture": "../players/PENNSYLVANIA/PITTSBURGH - LARRY FITZGERALD.jpg"
+        },
+        {
+          "name": "Kyle Lowry",
+          "picture": "../players/PENNSYLVANIA/VILLANOVA - LOWRY.jpg"
+        }
+      ]
     },
     { "__comment": "RHODE ISLAND",
       "id": 40,
       "nom": "Rhode Island",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg",
-      "carte": "state-layer/RI.jpg"
+      "carte": "state-layer/RI.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #006994, #4caf50, #f4a460)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Providence Bruins",
+          "logo": "../logos/AHL/Providence_Bruins_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Rhode Island Rams",
+          "logo": "../logos/NCAA/Rhode-Island-Rams-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Providence Friars",
+          "logo": "../logos/NCAA/Providence-Friars-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Moda Center",
+          "city": "Portland",
+          "capacity": "19.980 seats",
+          "residents": "Portland Trail Blazers (NBA) and Portland Winterhawks (WHL)",
+          "pictures": [
+            "../stadiums-pro/PORTLAND - MODA CENTER.jpg",
+            "../stadiums-pro/PORTLAND - MODA CENTER TRAILBLAZERS.jpg"
+          ]
+        }, 
+        {
+          "name": "Providence Park",
+          "city": "Portland",
+          "capacity": "18.627 seats",
+          "residents": "Portland Timbers (MLS) and Portland Thorns FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/PORTLAND - PROVIDENCE PARK.jpg",
+            "../stadiums-pro/PORTLAND - PROVIDENCE PARK TIMBERS.jpg"
+          ]
+        },      
+        {
+          "name": "Autzen Stadium",
+          "city": "Eugene",
+          "capacity": "53.800 seats",
+          "residents": "Oregon Ducks (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OREGON - AUTZEN STADIUM - EUGENE.jpg",
+            "../stadiums-ncaa/stadiums/OREGON - AUTZEN STADIUM - EUGENE DUCKS.jpg"
+          ]
+        },
+        {
+          "name": "Reser Stadium",
+          "city": "Corvallis",
+          "capacity": "45.674 seats",
+          "residents": "Oregon State Beavers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/OREGON STATE - RESER STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/OREGON STATE - RESER STADIUM BEAVERS.jpg"
+          ]
+        },
+        {
+          "name": "Matthew Knight Arena",
+          "city": "Eugene",
+          "capacity": "12.369 seats",
+          "residents": "Oregon Ducks (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OREGON - MATTHEW KNIGHT ARENA - EUGENE.jpg",
+            "../stadiums-ncaa/arenas/OREGON - MATTHEW KNIGHT ARENA - EUGENE DUCKS.jpg"
+          ]
+        },
+        {
+          "name": "Gill Coliseum",
+          "city": "Corvallis",
+          "capacity": "11.528 seats",
+          "residents": "Oregon State Beavers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OREGON STATE - GILL COLISEUM - CORVALLIS.jpg",
+            "../stadiums-ncaa/arenas/OREGON STATE - GILL COLISEUM - CORVALLIS BEAVERS.jpg"
+          ]
+        },
+        {
+          "name": "Chiles Center",
+          "city": "Portland",
+          "capacity": "5.000 seats",
+          "residents": "Portland Pilots (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER.avif",
+            "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER PILOTS.jpg"
+          ]
+        },
+        {
+          "name": "Peter Stott Center",
+          "city": "Portland",
+          "capacity": "3.094 seats",
+          "residents": "Portland State Vikings (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/PORTLAND STATE - PETER STOTT CENTER - PORTLAND.jpg",
+            "../stadiums-ncaa/arenas/PORTLAND STATE - PETER STOTT CENTER - PORTLAND VIKINGS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Bill Walton",
+          "picture": "../players/OREGON/BLAZERS - WALTON.jpg"
+        },
+        {
+          "name": "Clyde Drexler",
+          "picture": "../players/OREGON/BLAZERS - DREXLER.jpg"
+        },
+        {
+          "name": "Damian Lillard",
+          "picture": "../players/OREGON/BLAZERS - LILLARD.jpg"
+        },
+        {
+          "name": "LaMarcus Aldridge",
+          "picture": "../players/OREGON/BLAZERS - ALDRIDGE.jpg"
+        },
+        {
+          "name": "Gary Payton",
+          "picture": "../players/OREGON/OREGON STATE - PAYTON.jpg"
+        },
+        {
+          "name": "Steven Jackson",
+          "picture": "../players/OREGON/OREGON STATE - STEVEN JACKSON.jpg"
+        },
+        {
+          "name": "Dan Fouts",
+          "picture": "../players/OREGON/OREGON - DAN FOUTS.jpg"
+        }
+      ]
     },
     { "__comment": "SOUTH CAROLINA",
       "id": 41,
