@@ -8736,6 +8736,12 @@
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
+          "name": "Brown Bears",
+          "logo": "../logos/NCAA/Brown-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
           "name": "Providence Friars",
           "logo": "../logos/NCAA/Providence-Friars-logo.png",
           "league": "NCAA",
@@ -8744,114 +8750,50 @@
       ],
       "stadiums": [
         {
-          "name": "Moda Center",
-          "city": "Portland",
-          "capacity": "19.980 seats",
-          "residents": "Portland Trail Blazers (NBA) and Portland Winterhawks (WHL)",
+          "name": "Amica Mutual Pavilion",
+          "city": "Providence",
+          "capacity": "14.000 seats",
+          "residents": "Providence Bruins (AHL) and Providence Friars (NCAA Basket)",
           "pictures": [
-            "../stadiums-pro/PORTLAND - MODA CENTER.jpg",
-            "../stadiums-pro/PORTLAND - MODA CENTER TRAILBLAZERS.jpg"
-          ]
-        }, 
-        {
-          "name": "Providence Park",
-          "city": "Portland",
-          "capacity": "18.627 seats",
-          "residents": "Portland Timbers (MLS) and Portland Thorns FC (NWSL)",
-          "pictures": [
-            "../stadiums-pro/PORTLAND - PROVIDENCE PARK.jpg",
-            "../stadiums-pro/PORTLAND - PROVIDENCE PARK TIMBERS.jpg"
+            "../stadiums-pro/PROVIDENCE - AMICA MUTUAL PAVILION.jpg",
+            "../stadiums-pro/PROVIDENCE - AMICA MUTUAL PAVILION BRUINS.webp"
           ]
         },      
         {
-          "name": "Autzen Stadium",
-          "city": "Eugene",
-          "capacity": "53.800 seats",
-          "residents": "Oregon Ducks (NCAA Football)",
+          "name": "Brown Stadium",
+          "city": "Providence",
+          "capacity": "20.000 seats",
+          "residents": "Brown Bears (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/OREGON - AUTZEN STADIUM - EUGENE.jpg",
-            "../stadiums-ncaa/stadiums/OREGON - AUTZEN STADIUM - EUGENE DUCKS.jpg"
+            "../stadiums-ncaa/stadiums/BROWN - BROWN STADIUM.png",
+            "../stadiums-ncaa/stadiums/BROWN - BROWN STADIUM BEARS.jpeg"
           ]
         },
         {
-          "name": "Reser Stadium",
-          "city": "Corvallis",
-          "capacity": "45.674 seats",
-          "residents": "Oregon State Beavers (NCAA Football)",
+          "name": "Ryan Center",
+          "city": "Kingston",
+          "capacity": "8.000 seats",
+          "residents": "Rhode Island Rams (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/OREGON STATE - RESER STADIUM.jpg",
-            "../stadiums-ncaa/stadiums/OREGON STATE - RESER STADIUM BEAVERS.jpg"
+            "../stadiums-ncaa/arenas/RHODE ISLAND - RYAN CENTER.jpg",
+            "../stadiums-ncaa/arenas/RHODE ISLAND - RYAN CENTER RAMS.jpg"
           ]
         },
         {
-          "name": "Matthew Knight Arena",
-          "city": "Eugene",
-          "capacity": "12.369 seats",
-          "residents": "Oregon Ducks (NCAA Basket)",
+          "name": "Meehan Auditorium",
+          "city": "Providence",
+          "capacity": "3.100 seats",
+          "residents": "Brown Bears (NCAA Hockey)",
           "pictures": [
-            "../stadiums-ncaa/arenas/OREGON - MATTHEW KNIGHT ARENA - EUGENE.jpg",
-            "../stadiums-ncaa/arenas/OREGON - MATTHEW KNIGHT ARENA - EUGENE DUCKS.jpg"
-          ]
-        },
-        {
-          "name": "Gill Coliseum",
-          "city": "Corvallis",
-          "capacity": "11.528 seats",
-          "residents": "Oregon State Beavers (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/OREGON STATE - GILL COLISEUM - CORVALLIS.jpg",
-            "../stadiums-ncaa/arenas/OREGON STATE - GILL COLISEUM - CORVALLIS BEAVERS.jpg"
-          ]
-        },
-        {
-          "name": "Chiles Center",
-          "city": "Portland",
-          "capacity": "5.000 seats",
-          "residents": "Portland Pilots (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER.avif",
-            "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER PILOTS.jpg"
-          ]
-        },
-        {
-          "name": "Peter Stott Center",
-          "city": "Portland",
-          "capacity": "3.094 seats",
-          "residents": "Portland State Vikings (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/PORTLAND STATE - PETER STOTT CENTER - PORTLAND.jpg",
-            "../stadiums-ncaa/arenas/PORTLAND STATE - PETER STOTT CENTER - PORTLAND VIKINGS.jpg"
+            "../stadiums-ncaa/arenas/BROWN - MEEHAN AUDITORIUM.webp",
+            "../stadiums-ncaa/arenas/BROWN - MEEHAN AUDITORIUM BEARS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Bill Walton",
-          "picture": "../players/OREGON/BLAZERS - WALTON.jpg"
-        },
-        {
-          "name": "Clyde Drexler",
-          "picture": "../players/OREGON/BLAZERS - DREXLER.jpg"
-        },
-        {
-          "name": "Damian Lillard",
-          "picture": "../players/OREGON/BLAZERS - LILLARD.jpg"
-        },
-        {
-          "name": "LaMarcus Aldridge",
-          "picture": "../players/OREGON/BLAZERS - ALDRIDGE.jpg"
-        },
-        {
-          "name": "Gary Payton",
-          "picture": "../players/OREGON/OREGON STATE - PAYTON.jpg"
-        },
-        {
-          "name": "Steven Jackson",
-          "picture": "../players/OREGON/OREGON STATE - STEVEN JACKSON.jpg"
-        },
-        {
-          "name": "Dan Fouts",
-          "picture": "../players/OREGON/OREGON - DAN FOUTS.jpg"
+          "name": "Lamar Odom",
+          "picture": "../players/RHODE ISLAND/RHODE ISLAND - ODOM.jpg"
         }
       ]
     },
@@ -8859,13 +8801,254 @@
       "id": 41,
       "nom": "South Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg",
-      "carte": "state-layer/SC.jpg"
+      "carte": "state-layer/SC.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #8B4513, #228B22, #1E90FF)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "South Carolina Stingrays",
+          "logo": "../logos/ECHL/South_Carolina_Stingrays_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        },
+        {
+          "name": "Greenville Swamp Rabbits",
+          "logo": "../logos/ECHL/Greenville_Swamp_Rabbits_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Clemson Tigers",
+          "logo": "../logos/NCAA/Clemson-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "South Carolina Gamecocks",
+          "logo": "../logos/NCAA/South-Carolina-Gamecocks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "South Carolina State Bulldogs",
+          "logo": "../logos/NCAA/South-Carolina-State-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Coastal Carolina Chanticleers",
+          "logo": "../logos/NCAA/Coastal-Carolina-Chanticleers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Presbyterian Blue Hose",
+          "logo": "../logos/NCAA/Presbyterian-Blue-Hose-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "South Carolina Upstate Spartans",
+          "logo": "../logos/NCAA/South Carolina Upstate Spartans-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Furman Paladins",
+          "logo": "../logos/NCAA/Furman-Paladins-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Winthrop Eagles",
+          "logo": "../logos/NCAA/Winthrop-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bon Secours Wellness Arena",
+          "city": "Greenville",
+          "capacity": "15.000 seats",
+          "residents": "Greenville Swamp Rabbits (ECHL)",
+          "pictures": [
+            "../stadiums-pro/GREENVILLE - BON SECOURS WELLNESS ARENA.jpg",
+            "../stadiums-pro/GREENVILLE - BON SECOURS WELLNESS ARENA RABBITS.jpg"
+          ]
+        },      
+        {
+          "name": "North Charleston Coliseum",
+          "city": "North Charleston",
+          "capacity": "13.295 seats",
+          "residents": "South Carolina Stingrays (ECHL)",
+          "pictures": [
+            "../stadiums-pro/NORTH CHARLESTON - COLISEUM.jpeg",
+            "../stadiums-pro/NORTH CHARLESTON - COLISEUM STINGRAYS.jpg"
+          ]
+        },
+        {
+          "name": "Memorial Stadium",
+          "city": "Clemson",
+          "capacity": "81.500 seats",
+          "residents": "Clemson Tigers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/CLEMSON - FRANK HOWARD FIELD - CLEMSON.jpg",
+            "../stadiums-ncaa/stadiums/CLEMSON - FRANK HOWARD FIELD - CLEMSON TIGERS.jpg"
+          ]
+        },
+        {
+          "name": "Williams-Brice Stadium",
+          "city": "Columbia",
+          "capacity": "80.250 seats",
+          "residents": "South Carolina Gamecocks (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/SOUTH CAROLINA - WILLIAMS-BRICE STADIUM - COLUMBIA.jpg",
+            "../stadiums-ncaa/stadiums/SOUTH CAROLINA - WILLIAMS-BRICE STADIUM - COLUMBIA GAMECOCKS.webp"
+          ]
+        },
+        {
+          "name": "Colonial Life Arena",
+          "city": "Columbia",
+          "capacity": "18.000 seats",
+          "residents": "South Carolina Gamecocks (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SOUTH CAROLINA - COLONIAL LIFE ARENA - COLUMBIA.jpg",
+            "../stadiums-ncaa/arenas/SOUTH CAROLINA - COLONIAL LIFE ARENA - COLUMBIA GAMECOCKS.jpg"
+          ]
+        },
+        {
+          "name": "Littlejohn Coliseum",
+          "city": "Clemson",
+          "capacity": "10.325 seats",
+          "residents": "Clemson Tigers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CLEMSON - LITTLEJOHN COLISEUM - CLEMSON.jpg",
+            "../stadiums-ncaa/arenas/CLEMSON - LITTLEJOHN COLISEUM - CLEMSON CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Braden Holtby",
+          "picture": "../players/SOUTH CAROLINA/STINGRAYS - HOLTBY.jpg"
+        },
+        {
+          "name": "Brian Dawkins",
+          "picture": "../players/SOUTH CAROLINA/CLEMSON - BRIAN DAWKINS.avif"
+        },
+        {
+          "name": "Alex English",
+          "picture": "../players/SOUTH CAROLINA/SOUTH CAROLINA - ENGLISH.jpg"
+        },
+        {
+          "name": "Chris Johnson",
+          "picture": "../players/SOUTH CAROLINA/EAST CAROLINA - CHRIS JOHNSON.jpg"
+        },
+        {
+          "name": "Horace Grant",
+          "picture": "../players/SOUTH CAROLINA/CLEMSON - GRANT.jpg"
+        }
+      ]
     },
     { "__comment": "SOUTH DAKOTA",
       "id": 42,
       "nom": "South Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg",
-      "carte": "state-layer/SD.jpg"
+      "carte": "state-layer/SD.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #1E90FF, #32CD32, #FFD700)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "North Dakota Fighting Hawks",
+          "logo": "../logos/NCAA/North-Dakota-Fighting-Hawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "North Dakota State Bison",
+          "logo": "../logos/NCAA/North-Dakota-State-Bison-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Fargo Force",
+          "logo": "../logos/USHL/Fargo_Force.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Alerus Center",
+          "city": "Grand Forks",
+          "capacity": "22.000 seats",
+          "residents": "North Dakota Fighting Hawks (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA - ALERUS CENTER.jpg",
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA - ALERUS CENTER HAWKS.jpg"
+          ]
+        },
+        {
+          "name": "Fargodome",
+          "city": "Fargo",
+          "capacity": "18.700 seats",
+          "residents": "North Dakota State Bison (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA STATE - FARGODOME.jpg",
+            "../stadiums-ncaa/stadiums/NORTH DAKOTA STATE - FARGODOME BISON.jpg"
+          ]
+        },
+        {
+          "name": "Ralph Engelstad Arena",
+          "city": "Grand Forks",
+          "capacity": "11.640 seats",
+          "residents": "North Dakota Fighting Hawks (NCAA Hockey & Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/NORTH DAKOTA - ENGELSTAD ARENA.jpg",
+            "../stadiums-ncaa/arenas/NORTH DAKOTA - ENGELSTAD ARENA HAWKS.jpg"
+          ]
+        },
+        {
+          "name": "Scheels Arena",
+          "city": "Fargo",
+          "capacity": "5.000 seats",
+          "residents": "Fargo Force (USHL) and North Dakota State Bison (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/FARGO - SCHEELS ARENA.webp",
+            "../stadiums-ncaa/arenas/FARGO - SCHEELS ARENA FORCE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Ed Belfour",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - ED BELFOUR.jpg"
+        },
+        {
+          "name": "Jonathan Toews",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - TOEWS.jpg"
+        },
+        {
+          "name": "Carson Wentz",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA STATE - CARSON WENTZ.jpg"
+        },
+        {
+          "name": "Zach Parise",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - PARISE.webp"
+        },
+        {
+          "name": "T.J. Oshie",
+          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - OSHIE.webp"
+        }
+      ]
     },
     { "__comment": "TENNESSEE",
       "id": 43,
