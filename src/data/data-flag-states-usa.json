@@ -8964,89 +8964,100 @@
       "city": "../map/phoenix-test.jpg",
       "backgroundGradient": "linear-gradient(to right, #1E90FF, #32CD32, #FFD700)",
       "major_league": [],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Sioux Falls Skyforce",
+          "logo": "../logos/NBA GL/Sioux_Falls_Skyforce_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Rapid City Rush",
+          "logo": "../logos/ECHL/Rapid_City_Rush_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "North Dakota Fighting Hawks",
-          "logo": "../logos/NCAA/North-Dakota-Fighting-Hawks-logo.png",
+          "name": "South Dakota Coyotes",
+          "logo": "../logos/NCAA/South Dakota Coyotes-Photoroom.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "North Dakota State Bison",
-          "logo": "../logos/NCAA/North-Dakota-State-Bison-logo.png",
+          "name": "South Dakota State Jackrabbits",
+          "logo": "../logos/NCAA/South-Dakota-State-Jackrabbits_logo_PNG3.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
-          "name": "Fargo Force",
-          "logo": "../logos/USHL/Fargo_Force.png",
+          "name": "Sioux Falls Stampede",
+          "logo": "../logos/USHL/Sioux_Falls_Stampede.png",
           "league": "USHL",
           "leagueLogo": "../logos/USHL/USHL.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Alerus Center",
-          "city": "Grand Forks",
-          "capacity": "22.000 seats",
-          "residents": "North Dakota Fighting Hawks (NCAA Football)",
+          "name": "The Monument",
+          "city": "Rapid City",
+          "capacity": "10.000 seats",
+          "residents": "Rapid City Rush (ECHL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/NORTH DAKOTA - ALERUS CENTER.jpg",
-            "../stadiums-ncaa/stadiums/NORTH DAKOTA - ALERUS CENTER HAWKS.jpg"
+            "../stadiums-pro/RAPID CITY - THE MONUMENT.webp",
+            "../stadiums-pro/RAPID CITY - THE MONUMENT RUSH.webp"
           ]
         },
         {
-          "name": "Fargodome",
-          "city": "Fargo",
-          "capacity": "18.700 seats",
-          "residents": "North Dakota State Bison (NCAA Football)",
+          "name": "Sanford Sports Complex",
+          "city": "Sioux Falls",
+          "capacity": "3.250 seats",
+          "residents": "Sioux Falls Skyforce (NBA G-League)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/NORTH DAKOTA STATE - FARGODOME.jpg",
-            "../stadiums-ncaa/stadiums/NORTH DAKOTA STATE - FARGODOME BISON.jpg"
+            "../stadiums-pro/SIOUX FALLS - SANFORD COMPLEX.png",
+            "../stadiums-pro/SIOUX FALLS - SANFORD COMPLEX SKYFORCE.jpg"
           ]
         },
         {
-          "name": "Ralph Engelstad Arena",
-          "city": "Grand Forks",
-          "capacity": "11.640 seats",
-          "residents": "North Dakota Fighting Hawks (NCAA Hockey & Basket)",
+          "name": "Denny Sanford Premier Center",
+          "city": "Sioux Falls",
+          "capacity": "12.000 seats",
+          "residents": "Sioux Falls Stampede (USHL)",
           "pictures": [
-            "../stadiums-ncaa/arenas/NORTH DAKOTA - ENGELSTAD ARENA.jpg",
-            "../stadiums-ncaa/arenas/NORTH DAKOTA - ENGELSTAD ARENA HAWKS.jpg"
+            "../stadiums-ncaa/arenas/SIOUX FALLS - DENNY SANFORD CENTER.jpg",
+            "../stadiums-ncaa/arenas/SIOUX FALLS - DENNY SANFORD CENTER STAMPEDE.jpg"
           ]
         },
         {
-          "name": "Scheels Arena",
-          "city": "Fargo",
-          "capacity": "5.000 seats",
-          "residents": "Fargo Force (USHL) and North Dakota State Bison (NCAA Basket)",
+          "name": "DakotaDome",
+          "city": "Vermillion",
+          "capacity": "10.000 seats",
+          "residents": "South Dakota Coyotes (NCAA Football)",
           "pictures": [
-            "../stadiums-ncaa/arenas/FARGO - SCHEELS ARENA.webp",
-            "../stadiums-ncaa/arenas/FARGO - SCHEELS ARENA FORCE.jpg"
+            "../stadiums-ncaa/stadiums/SOUTH DAKOTA - DAKOTADOME.jpg",
+            "../stadiums-ncaa/stadiums/SOUTH DAKOTA - DAKOTADOME COYOTES.webp"
+          ]
+        },
+        {
+          "name": "Frost Arena",
+          "city": "Brookings",
+          "capacity": "6.500 seats",
+          "residents": "South Dakota State Jackrabbits (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SOUTH DAKOTA STATE - FROST ARENA.webp",
+            "../stadiums-ncaa/arenas/SOUTH DAKOTA STATE - FROST ARENA JACKRABBITS.webp"
           ]
         }
       ],
       "players": [
         {
-          "name": "Ed Belfour",
-          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - ED BELFOUR.jpg"
+          "name": "Clarence 'Pug' Manders",
+          "picture": "../players/SOUTH DAKOTA/SD - PUG MANDERS.jfif"
         },
         {
-          "name": "Jonathan Toews",
-          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - TOEWS.jpg"
-        },
-        {
-          "name": "Carson Wentz",
-          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA STATE - CARSON WENTZ.jpg"
-        },
-        {
-          "name": "Zach Parise",
-          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - PARISE.webp"
-        },
-        {
-          "name": "T.J. Oshie",
-          "picture": "../players/NORTH DAKOTA/NORTH DAKOTA - OSHIE.webp"
+          "name": "Adam Vinatieri",
+          "picture": "../players/SOUTH DAKOTA/SDSU - ADAM VINATIERI.webp"
         }
       ]
     },
@@ -9054,9 +9065,348 @@
       "id": 43,
       "nom": "Tennessee",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg",
-      "carte": "state-layer/TN.jpg"
+      "carte": "state-layer/TN.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #228B22, #8B4513, #FFD700)",
+      "major_league": [
+        {
+          "name": "Tennessee Titans",
+          "logo": "../logos/NFL/Tennessee-Titans-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Memphis Grizzlies",
+          "logo": "../logos/NBA/Memphis-Grizzlies-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Nashville Predators",
+          "logo": "../logos/NHL/Nashville Predators.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Nashville SC",
+          "logo": "../logos/MLS/Nashville SC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Memphis Hustle",
+          "logo": "../logos/NBA GL/Memphis_Hustle_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Nashville Sounds",
+          "logo": "../logos/IL/Nashville_Sounds.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Memphis Redbirds",
+          "logo": "../logos/IL/Memphis_Redbirds.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Tennessee Volunteers",
+          "logo": "../logos/NCAA/Tennessee-Volunteers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Tennessee State Tigers",
+          "logo": "../logos/NCAA/Tennessee-State-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Memphis Tigers",
+          "logo": "../logos/NCAA/Memphis-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Vanderbilt Commodores",
+          "logo": "../logos/NCAA/Vanderbilt-Commodores-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Middle Tennessee Blue Raiders",
+          "logo": "../logos/NCAA/Middle-Tennessee-Blue-Raiders-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Chattanooga Mocs",
+          "logo": "../logos/NCAA/Chattanooga-Mocs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Tennessee Tech Golden Eagles",
+          "logo": "../logos/NCAA/Tennessee-Tech-Golden-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Tennessee-Martin Skyhawks",
+          "logo": "../logos/NCAA/Tennessee-Martin-Skyhawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Belmont Bruins",
+          "logo": "../logos/NCAA/Belmont-Bruins-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Eastern Tennessee State Buccaneers",
+          "logo": "../logos/NCAA/East Tennessee State Buccaneers-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Nissan Stadium",
+          "city": "Nashville",
+          "capacity": "69.143 seats",
+          "residents": "Tennessee Titans (NFL) and Tennessee State Tigers (NCAA Football)",
+          "pictures": [
+            "../stadiums-pro/NASHVILLE - NISSAN STADIUM.jpg",
+            "../stadiums-pro/NASHVILLE - NISSAN STADIUM TITANS.jpg"
+          ]
+        },
+        {
+          "name": "FedEx Forum",
+          "city": "Memphis",
+          "capacity": "21.165 seats",
+          "residents": "Memphis Grizzlies (NBA) and Memphis Tigers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-pro/MEMPHIS - FEDEXFORUM.jpg",
+            "../stadiums-pro/MEMPHIS - FEDEXFORUM GRIZZLIES.jpg"
+          ]
+        },
+        {
+          "name": "Bridgestone Arena",
+          "city": "Nashville",
+          "capacity": "20.000 seats",
+          "residents": "Nashville Predators (NHL)",
+          "pictures": [
+            "../stadiums-pro/NASHVILLE - BRIDGESTONE ARENA.jpg",
+            "../stadiums-pro/NASHVILLE - BRIDGESTONE ARENA PREDATORS.jpg"
+          ]
+        },
+        {
+          "name": "Geodis Park",
+          "city": "Nashville",
+          "capacity": "30.109 seats",
+          "residents": "Nashville SC (MLS)",
+          "pictures": [
+            "../stadiums-pro/NASHVILLE - GEODIS PARK.webp",
+            "../stadiums-pro/NASHVILLE - GEODIS PARK SC.jpg"
+          ]
+        },
+        {
+          "name": "AutoZone Park",
+          "city": "Memphis",
+          "capacity": "12.512 seats",
+          "residents": "Memphis Redbirds (IL)",
+          "pictures": [
+            "../stadiums-pro/MEMPHIS - AUTOZONE PARK.webp",
+            "../stadiums-pro/MEMPHIS - AUTOZONE PARK REDBIRDS.jpg"
+          ]
+        },
+        {
+          "name": "First Horizon Park",
+          "city": "Nashville",
+          "capacity": "10.000 seats",
+          "residents": "Nashville Sounds (IL)",
+          "pictures": [
+            "../stadiums-pro/NASHVILLE - FIRST HORIZON PARK.jpeg",
+            "../stadiums-pro/NASHVILLE - FIRST HORIZON PARK SOUNDS.jpg"
+          ]
+        },
+        {
+          "name": "Landers Center",
+          "city": "Memphis",
+          "capacity": "8.400 seats",
+          "residents": "Memphis Hustle (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/MEMPHIS - LANDERS CENTER.png",
+            "../stadiums-pro/MEMPHIS - LANDERS CENTER HUSTLE.webp"
+          ]
+        },
+        {
+          "name": "Neyland Stadium",
+          "city": "Knoxville",
+          "capacity": "102.038 seats",
+          "residents": "Tennessee Volunteers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TENNESSEE - NEYLAND STADIUM - KNOXVILLE 1.jpg",
+            "../stadiums-ncaa/stadiums/TENNESSEE - NEYLAND STADIUM - KNOXVILLE.jpg"
+          ]
+        },
+        {
+          "name": "Simmons Bank Liberty Stadium",
+          "city": "Memphis",
+          "capacity": "62.380 seats",
+          "residents": "Memphis Tigers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MEMPHIS - SIMMONS STADIUM.webp",
+            "../stadiums-ncaa/stadiums/MEMPHIS - SIMMONS STADIUM TIGERS.jpg"
+          ]
+        },
+        {
+          "name": "Vanderbilt Stadium",
+          "city": "Nashville",
+          "capacity": "40.550 seats",
+          "residents": "Vanderbilt Commodores (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/VANDERBILT - STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/VANDERBILT - STADIUM COMMODORES.jpeg"
+          ]
+        },
+        {
+          "name": "Johnny 'Red' Floyd Stadium",
+          "city": "Murfreesboro",
+          "capacity": "31.000 seats",
+          "residents": "Middle Tennessee State Blue Raiders (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MIDDLE TENNESSEE - FLOYD STADIUM.webp",
+            "../stadiums-ncaa/stadiums/MIDDLE TENNESSEE - FLOYD STADIUM RAIDERS.webp"
+          ]
+        },
+        {
+          "name": "Thompson-Boling Arena",
+          "city": "Knoxville",
+          "capacity": "21.678 seats",
+          "residents": "Tennessee Volunteers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/TENNESSEE - THOMPSON-BOLING ARENA - KNOXVILLE.jpg",
+            "../stadiums-ncaa/arenas/TENNESSEE - THOMPSON-BOLING ARENA - KNOXVILLE VOLUNTEERS.jpeg"
+          ]
+        },
+        {
+          "name": "Historic Memorial Gymnasium",
+          "city": "Nashville",
+          "capacity": "14.316 seats",
+          "residents": "Vanderbilt Commodores (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/VANDERBILT - MEMORIAL GYMNASIUM - NASHVILLE.jpg",
+            "../stadiums-ncaa/arenas/VANDERBILT - MEMORIAL GYMNASIUM - NASHVILLE COMMODORES.jpg"
+          ]
+        },
+        {
+          "name": "McKenzie Arena",
+          "city": "Chattanooga",
+          "capacity": "12.000 seats",
+          "residents": "Chattanooga Mocs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CHATTANOOGA - MCKENZIE ARENA.jpg",
+            "../stadiums-ncaa/arenas/CHATTANOOGA - MCKENZIE ARENA MOCS.webp"
+          ]
+        },
+        {
+          "name": "Murphy Center",
+          "city": "Murfreesboro",
+          "capacity": "11.520 seats",
+          "residents": "Middle Tennessee State Blue Raiders (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/MIDDLE TENNESSEE - MURPHY CENTER.jpg",
+            "../stadiums-ncaa/arenas/MIDDLE TENNESSEE - MURPHY CENTER RAIDERS.jpg"
+          ]
+        },
+        {
+          "name": "Gentry Center",
+          "city": "Nashville",
+          "capacity": "10.500 seats",
+          "residents": "Tennessee State Tigers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/TENNESSEE STATE - GENDRY CENTER.jpg",
+            "../stadiums-ncaa/arenas/TENNESSEE STATE - GENDRY CENTER TIGERS.webp"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Marc Gasol",
+          "picture": "../players/TENNESSEE/GRIZZLIES - MARC GASOL.jpg"
+        },
+        {
+          "name": "Steve McNair",
+          "picture": "../players/TENNESSEE/TITANS - STEVE MCNAIR 1.jpg"
+        },
+        {
+          "name": "Pekka Rinne",
+          "picture": "../players/TENNESSEE/PREDATORS - PEKKA RINNE.jpg"
+        },
+        {
+          "name": "Zach Randolph",
+          "picture": "../players/TENNESSEE/GRIZZLIES - RANDOLPH 2.jpg"
+        },
+        {
+          "name": "Bruce Matthews",
+          "picture": "../players/TENNESSEE/TITANS - BRUCE MATTHEWS.jpg"
+        },
+        {
+          "name": "Roman Josi",
+          "picture": "../players/TENNESSEE/PREDATORS - JOSI.jpg"
+        },
+        {
+          "name": "Pau Gasol",
+          "picture": "../players/TENNESSEE/GRIZZLIES - PAU GASOL.jpg"
+        },
+        {
+          "name": "Eddie George",
+          "picture": "../players/TENNESSEE/TITANS - EDDIE GEORGE 1.jpg"
+        },
+        {
+          "name": "Shea Weber",
+          "picture": "../players/TENNESSEE/PREDATORS - WEBER.jpg"
+        },
+        {
+          "name": "Ja Morant",
+          "picture": "../players/TENNESSEE/GRIZZLIES - MORANT.jfif"
+        },
+        {
+          "name": "Peyton Manning",
+          "picture": "../players/TENNESSEE/TENNESSEE - PEYTON MANNING.jpg"
+        },
+        {
+          "name": "Derrick Rose",
+          "picture": "../players/TENNESSEE/MEMPHIS - ROSE.jpg"
+        },
+        {
+          "name": "Terrell Owens",
+          "picture": "../players/TENNESSEE/CHATTANOOGA - TERRELL OWENS.jpg"
+        },
+        {
+          "name": "Reggie White",
+          "picture": "../players/TENNESSEE/TENNESSEE - REGGIE WHITE.jpg"
+        },
+        {
+          "name": "Bernard King",
+          "picture": "../players/TENNESSEE/TENNESSEE - KING 1.jpg"
+        },
+        {
+          "name": "Anfernee 'Penny' Hardaway",
+          "picture": "../players/TENNESSEE/MEMPHIS - HARDAWAY 1.jpg"
+        }
+      ]
     },
-    { "__comment": "TEXAS",
+    { "__comment": "TEXAS - A FAIRE EN DERNIER",
       "id": 44,
       "nom": "Texas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
@@ -9066,7 +9416,226 @@
       "id": 45,
       "nom": "Utah",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg",
-      "carte": "state-layer/UT.jpg"
+      "carte": "state-layer/UT.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #bf1e2e, #6CA3B3)",
+      "major_league": [
+        {
+          "name": "Utah Jazz",
+          "logo": "../logos/NBA/Utah-Jazz-Logo-1.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Utah Hockey Club",
+          "logo": "../logos/NHL/Utah HC.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Real Salt Lake",
+          "logo": "../logos/MLS/Real Salt Lake.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Utah Royals FC",
+          "logo": "../logos/NWSL/Utah Royals FC.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Salt Lake City Stars",
+          "logo": "../logos/NBA GL/Salt_Lake_City_Stars_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Salt Lake Bees",
+          "logo": "../logos/PCL/Salt_Lake_Bees.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Utah Grizzlies",
+          "logo": "../logos/ECHL/Utah_Grizzlies_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Brigham Young - BYU - Cougars",
+          "logo": "../logos/NCAA/BYU Cougars-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Utah Utes",
+          "logo": "../logos/NCAA/Utah-Utes-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Weber State Wildcats",
+          "logo": "../logos/NCAA/Weber-State-Wildcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Utah State Aggies",
+          "logo": "../logos/NCAA/Utah-State-Aggies-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Southern Utah Thunderbirds",
+          "logo": "../logos/NCAA/Southern-Utah-Thunderbirds-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Utah Valley Wolverines",
+          "logo": "../logos/NCAA/Utah-Valley-Wolverines-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Delta Center",
+          "city": "Salt Lake City",
+          "capacity": "22.000 seats",
+          "residents": "Utah Jazz (NBA) and Utah Hockey Club (NHL)",
+          "pictures": [
+            "../stadiums-pro/SALT LAKE CITY - VIVINT SMART HOME ARENA.jpg",
+            "../stadiums-pro/SALT LAKE CITY - VIVINT SMART HOME ARENA JAZZ.jpg"
+          ]
+        }, 
+        {
+          "name": "America First Field",
+          "city": "Salt Lake City",
+          "capacity": "20.213 seats",
+          "residents": "Real Salt Lake (MLS) and Utah Royals FC (NWSL)",
+          "pictures": [
+            "../stadiums-pro/SALT LAKE CITY - AMERICA FIRST FIELD.jfif",
+            "../stadiums-pro/SALT LAKE CITY - AMERICA FIRST FIELD REAL.jpg"
+          ]
+        }, 
+        {
+          "name": "Smith's Ballpark",
+          "city": "Salt Lake City",
+          "capacity": "15.500 seats",
+          "residents": "Salt Lake Bees (PCL) and Utah Utes (NCAA Baseball)",
+          "pictures": [
+            "../stadiums-pro/SALT LAKE CITY - SMITHS BALLPARK.jpeg",
+            "../stadiums-pro/SALT LAKE CITY - SMITHS BALLPARK BEES.jpg"
+          ]
+        },  
+        {
+          "name": "Maverick Center",
+          "city": "West Valley City",
+          "capacity": "12.600 seats",
+          "residents": "Salt Lake City Stars (NBA G-League) and Utah Grizzlies (ECHL)",
+          "pictures": [
+            "../stadiums-pro/SALT LAKE CITY - MAVERICK CENTER.jpg",
+            "../stadiums-pro/SALT LAKE CITY - MAVERICK CENTER GRIZZLIES.jpg"
+          ]
+        },  
+        {
+          "name": "LaVell Edwards Stadium",
+          "city": "Provo",
+          "capacity": "63.725 seats",
+          "residents": "BYU Cougars (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/BYU - LAVELL EDWARDS STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/BYU - LAVELL EDWARDS STADIUM COUGARS.jfif"
+          ]
+        },
+        {
+          "name": "Rice-Eccles Stadium",
+          "city": "Salt Lake City",
+          "capacity": "45.634 seats",
+          "residents": "Utah Utes (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/UTAH - RICE-ECCLES STADIUM - SALT LAKE CITY.jpg",
+            "../stadiums-ncaa/stadiums/UTAH - RICE-ECCLES STADIUM - SALT LAKE CITY UTES.jpg"
+          ]
+        },
+        {
+          "name": "Marriott Center",
+          "city": "Provo",
+          "capacity": "22.700 seats",
+          "residents": "BYU Cougars (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/BYU - MARRIOTT CENTER - PROVO.jpg",
+            "../stadiums-ncaa/arenas/BYU - MARRIOTT CENTER - PROVO COUGARS.jpg"
+          ]
+        },
+        {
+          "name": "Jon Huntsman Center",
+          "city": "Salt Lake City",
+          "capacity": "15.000 seats",
+          "residents": "Utah Utes (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/UTAH - JON M. HUNTSMAN CENTER - SALT LAKE CITY.jpg",
+            "../stadiums-ncaa/arenas/UTAH - JON M. HUNTSMAN CENTER - SALT LAKE CITY UTES.jpg"
+          ]
+        },
+        {
+          "name": "Dee Events Center",
+          "city": "Ogden",
+          "capacity": "12.2222 seats",
+          "residents": "Weber State Wildcats (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WEBER STATE - DEE EVENTS CENTER - OGDEN.jpg",
+            "../stadiums-ncaa/arenas/WEBER STATE - DEE EVENTS CENTER - OGDEN CATS.jpg"
+          ]
+        },
+        {
+          "name": "Dee Glen Smith Spectrum",
+          "city": "Logan",
+          "capacity": "10.270 seats",
+          "residents": "Utah State Aggies (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/UTAH STATE - SMITH SPECTRUM - LOGAN.jpg",
+            "../stadiums-ncaa/arenas/UTAH STATE - SMITH SPECTRUM - LOGAN USU.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Karl Malone",
+          "picture": "../players/UTAH/JAZZ - MALONE 1.jpg"
+        },
+        {
+          "name": "John Stockton",
+          "picture": "../players/UTAH/JAZZ - STOCKTON.jpg"
+        },
+        {
+          "name": "Pete Maravich",
+          "picture": "../players/UTAH/JAZZ - MARAVICH 1.jpg"
+        },
+        {
+          "name": "Deron Williams",
+          "picture": "../players/UTAH/JAZZ - WILLIAMS 1.jpg"
+        },
+        {
+          "name": "Steve Young",
+          "picture": "../players/UTAH/BYU - STEVE YOUNG.jpg"
+        },
+        {
+          "name": "Damian Lillard",
+          "picture": "../players/UTAH/WEBER STATE - LILLARD.jpg"
+        },
+        {
+          "name": "Steve Smith Jr",
+          "picture": "../players/UTAH/UTAH - STEVE SMITH JR.jpg"
+        }
+      ]
     },
     { "__comment": "VERMONT",
       "id": 46,
