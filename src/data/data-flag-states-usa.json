@@ -9641,13 +9641,234 @@
       "id": 46,
       "nom": "Vermont",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg",
-      "carte": "state-layer/VT.jpg"
+      "carte": "state-layer/VT.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(135deg, #004d00, #7CFC00, #87CEEB)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Vermont Catamounts",
+          "logo": "../logos/NCAA/Vermont-Catamounts-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Gutterson Fieldhouse",
+          "city": "Burlington",
+          "capacity": "4.007 seats",
+          "residents": "Vermont Catamounts (NCAA Hockey and Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/VERMONT - GUTTERSON FIELDHOUSE.avif",
+            "../stadiums-ncaa/arenas/VERMONT - GUTTERSON FIELDHOUSE CATAMOUNTS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Martin St. Louis",
+          "picture": "../players/VERMONT/VERMONT - MARTIN ST. LOUIS.jpg"
+        },
+        {
+          "name": "Tim Thomas",
+          "picture": "../players/VERMONT/VERMONT - TIM THOMAS.jpg"
+        }
+      ]
     },
     { "__comment": "VIRGINIA",
       "id": 47,
       "nom": "Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg",
-      "carte": "state-layer/VI.jpg"
+      "carte": "state-layer/VI.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #4A7023, #3CB371, #87CEEB, #FFD700)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Norfolk Tides",
+          "logo": "../logos/IL/Norfolk-Tides.png",
+          "league": "IL",
+          "leagueLogo": "../logos/IL/Triple-A.png"
+        },
+        {
+          "name": "Norfolk Admirals",
+          "logo": "../logos/ECHL/Norfolk Admirals.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Virginia Cavaliers",
+          "logo": "../logos/NCAA/Virginia-Cavaliers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Virginia Tech Hokies",
+          "logo": "../logos/NCAA/Virginia-Tech-Hokies-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Norfolk State Spartans",
+          "logo": "../logos/NCAA/Norfolk-State-Spartans-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Virginia Commonwealth Rams",
+          "logo": "../logos/NCAA/Virginia-Commonwealth-Rams-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Radford Highlanders",
+          "logo": "../logos/NCAA/Radford-Highlanders-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Liberty Flames",
+          "logo": "../logos/NCAA/Liberty-Flames-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Hampton Pirates",
+          "logo": "../logos/NCAA/Hampton-Pirates-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Old Dominion Monarchs",
+          "logo": "../logos/NCAA/Old-Dominion-Monarchs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Scope Arena",
+          "city": "Norfolk",
+          "capacity": "13.800 seats",
+          "residents": "Norfolk Admirals (AHL)",
+          "pictures": [
+            "../stadiums-pro/NORFOLK - SCOPE ARENA.jpg",
+            "../stadiums-pro/NORFOLK - SCOPE ARENA ADMIRALS.avif"
+          ]
+        },      
+        {
+          "name": "Harbor Park",
+          "city": "Norfolk",
+          "capacity": "12.067 seats",
+          "residents": "Norfolk Tides (IL)",
+          "pictures": [
+            "../stadiums-pro/NORFOLK - HARBOR PARK.webp",
+            "../stadiums-pro/NORFOLK - HARBOR PARK TIDES.jpg"
+          ]
+        },
+        {
+          "name": "Lane Stadium",
+          "city": "Blacksburg",
+          "capacity": "66.233 seats",
+          "residents": "Virginia Tech Hokies (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/VIRGINIA TECH - LANE STADIUM - BLACKSBURG.jpg",
+            "../stadiums-ncaa/stadiums/VIRGINIA TECH - LANE STADIUM - BLACKSBURG HOKIES.jpg"
+          ]
+        },
+        {
+          "name": "Scott Stadium",
+          "city": "Charlottesville",
+          "capacity": "61.500 seats",
+          "residents": "Virginia Cavaliers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/VIRGINIA - SCOTT STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/VIRGINIA - SCOTT STADIUM CAVALIERS.jpg"
+          ]
+        },
+        {
+          "name": "William 'Dick' Price Stadium",
+          "city": "Norfolk",
+          "capacity": "30.000 seats",
+          "residents": "Norfolk State Spartans (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/NORFOLK STATE - PRICE STADIUM.avif",
+            "../stadiums-ncaa/stadiums/NORFOLK STATE - PRICE STADIUM SPARTANS.avif"
+          ]
+        },        
+        {
+          "name": "John Paul Jones Arena",
+          "city": "Charlottesville",
+          "capacity": "14.593 seats",
+          "residents": "Virginia Cavaliers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/VIRGINIA - JOHN PAUL JONES - CHARLOTTESVILLE.jpg",
+            "../stadiums-ncaa/arenas/VIRGINIA - JOHN PAUL JONES - CHARLOTTESVILLE CAVS.jpg"
+          ]
+        },
+        {
+          "name": "Cassell Coliseum",
+          "city": "Blacksburg",
+          "capacity": "9.847 seats",
+          "residents": "Virginia Tech Hokies (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/VIRGINIA TECH - CASSELL COLISEUM - BLACKSBURG.jpg",
+            "../stadiums-ncaa/arenas/VIRGINIA TECH - CASSELL COLISEUM - BLACKSBURG HOKIES.jpg"
+          ]
+        },
+        {
+          "name": "Chartway Arena",
+          "city": "Norfolk",
+          "capacity": "9.520 seats",
+          "residents": "Old Dominion Monarchs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/OLD DOMINION - CHARTWAY ARENA.jpg",
+            "../stadiums-ncaa/arenas/OLD DOMINION - CHARTWAY ARENA MONARCHS.webp"
+          ]
+        },
+        {
+          "name": "Siegel Center",
+          "city": "Richmond",
+          "capacity": "8.000 seats",
+          "residents": "VCU Rams (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/VCU - SIEGEL CENTER.jpg",
+            "../stadiums-ncaa/arenas/VCU - SIEGEL CENTER RAMS.webp"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Bruce Smith",
+          "picture": "../players/VIRGINIA/VIRGINIA TECH - BRUCE SMITH.jpg"
+        },
+        {
+          "name": "Ralph Sampson",
+          "picture": "../players/VIRGINIA/VIRGINIA - RALPH SAMPSON.jpg"
+        },
+        {
+          "name": "Tiki Barber",
+          "picture": "../players/VIRGINIA/VIRGINIA - TIKI BARBER.jpg"
+        },
+        {
+          "name": "Bob Dandridge",
+          "picture": "../players/VIRGINIA/NORFOLK STATE - BOB DANDRIDGE.webp"
+        },
+        {
+          "name": "Michael Vick",
+          "picture": "../players/VIRGINIA/VIRGINIA TECH - MICHAEL VICK.jpg"
+        },
+        {
+          "name": "Malcolm Brogdon",
+          "picture": "../players/VIRGINIA/VIRGINIA - MALCOLM BROGDON.jpg"
+        }
+      ]
     },
     { "__comment": "WASHINGTON",
       "id": 48,
