@@ -4199,6 +4199,12 @@
           "logo": "../logos/MLS/New England Revolution.png",
           "league": "MLS",
           "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Boston",
+          "logo": "../logos/PWHL/Boston_PWHL.jpg",
+          "league": "PWHL",
+          "leagueLogo": "../logos/PWHL/PWHL.png"
         }
       ],
       "minor_league": [
@@ -4308,6 +4314,16 @@
           "pictures": [
             "../stadiums-pro/SPRINGFIELD - MASSMUTUAL CENTER.jpg",
             "../stadiums-pro/SPRINGFIELD - MASSMUTUAL CENTER THUNDERBIRDS.jpg"
+          ]
+        },
+        {
+          "name": "Tsongas Center",
+          "city": "Lowell",
+          "capacity": "6.496 seats",
+          "residents": "Boston (PWHL) and UMass-Lowell River Hawks (NCAA Hockey)",
+          "pictures": [
+            "../stadiums-pro/BOSTON - TSONGAS CENTER.jpg",
+            "../stadiums-pro/BOSTON - TSONGAS CENTER PWHL.jpg"
           ]
         },
         {
@@ -4885,6 +4901,12 @@
           "logo": "../logos/WNBA/Minnesota Lynx.png",
           "league": "WNBA",
           "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Minnesota",
+          "logo": "../logos/PWHL/Minnesota_PWHL.jpg",
+          "league": "PWHL",
+          "leagueLogo": "../logos/PWHL/PWHL.png"
         }
       ],
       "minor_league": [
@@ -4962,7 +4984,7 @@
           "name": "Xcel Energy Center",
           "city": "St. Paul",
           "capacity": "18.064 seats",
-          "residents": "Minnesota Wild (NHL)",
+          "residents": "Minnesota Wild (NHL) and Minnesota (PWHL)",
           "pictures": [
             "../stadiums-pro/SAINT PAUL - XCEL ENERGY CENTER.jpg",
             "../stadiums-pro/SAINT PAUL - XCEL ENERGY CENTER WILD.jpg"
@@ -6337,6 +6359,12 @@
           "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
         },
         {
+          "name": "New York",
+          "logo": "../logos/PWHL/New_York_PWHL.jpg",
+          "league": "PWHL",
+          "leagueLogo": "../logos/PWHL/PWHL.png"
+        },
+        {
           "name": "Gotham FC",
           "logo": "../logos/NWSL/Gotham FC.png",
           "league": "NWSL",
@@ -6572,7 +6600,7 @@
           "name": "UBS Arena",
           "city": "Elmont",
           "capacity": "18.500 seats",
-          "residents": "New York Islanders (NHL)",
+          "residents": "New York Islanders (NHL) and New York (PWHL)",
           "pictures": [
             "../stadiums-pro/NYC - UBS ARENA.jpg",
             "../stadiums-pro/NYC - UBS ARENA ISLANDERS.jpg"
@@ -8104,7 +8132,14 @@
           "leagueLogo": "../logos/NWSL/NWSL.png"
         }
       ],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Rip City Remix",
+          "logo": "../logos/NBA GL/Rip_City_Remix_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        }
+      ],
       "junior_league": [
         {
           "name": "Oregon Ducks",
@@ -8201,8 +8236,8 @@
         {
           "name": "Chiles Center",
           "city": "Portland",
-          "capacity": "5.000 seats",
-          "residents": "Portland Pilots (NCAA Basket)",
+          "capacity": "4.852 seats",
+          "residents": "Rip City Remix (NBA G-League) and Portland Pilots (NCAA Basket)",
           "pictures": [
             "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER.avif",
             "../stadiums-ncaa/arenas/PORTLAND - CHILES CENTER PILOTS.jpg"
@@ -9796,7 +9831,7 @@
           "name": "William 'Dick' Price Stadium",
           "city": "Norfolk",
           "capacity": "30.000 seats",
-          "residents": "Norfolk State Spartans (NCAA Basket)",
+          "residents": "Norfolk State Spartans (NCAA Football)",
           "pictures": [
             "../stadiums-ncaa/stadiums/NORFOLK STATE - PRICE STADIUM.avif",
             "../stadiums-ncaa/stadiums/NORFOLK STATE - PRICE STADIUM SPARTANS.avif"
@@ -9874,13 +9909,576 @@
       "id": 48,
       "nom": "Washington",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg",
-      "carte": "state-layer/WA.jpg"
+      "carte": "state-layer/WA.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(135deg, #2E8B57, #1E3A5F, #D3D3D3)",
+      "major_league": [
+        {
+          "name": "Seattle Seahawks",
+          "logo": "../logos/NFL/Seattle-Seahawks-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Seattle Mariners",
+          "logo": "../logos/MLB/Seattle-Mariners-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Seattle Kraken",
+          "logo": "../logos/NHL/Seattle-Kraken-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Seattle Sounders",
+          "logo": "../logos/MLS/Seattle Sounders.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Seattle Storm",
+          "logo": "../logos/WNBA/Seattle Storm.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Seattle Reign",
+          "logo": "../logos/NWSL/Seattle Reign.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Tacoma Rainiers",
+          "logo": "../logos/PCL/Tacoma_Rainiers.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Washington Huskies",
+          "logo": "../logos/NCAA/Washington-Huskies-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Washington State Cougars",
+          "logo": "../logos/NCAA/Washington-State-Cougars-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Gonzaga Bulldogs",
+          "logo": "../logos/NCAA/Gonzaga-Bulldogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Seattle Redhawks",
+          "logo": "../logos/NCAA/Seattle-Redhawks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Eastern Washington Eagles",
+          "logo": "../logos/NCAA/Eastern-Washington-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Everett Silvertips",
+          "logo": "../logos/WHL/Everett_Silvertips.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Seattle Thunderbirds",
+          "logo": "../logos/WHL/Seattle_Thunderbirds.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Wenatchee Wild",
+          "logo": "../logos/WHL/Wenatchee_Wild.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Spokane Chiefs",
+          "logo": "../logos/WHL/Spokane_Chiefs.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Tri-City Americans",
+          "logo": "../logos/WHL/Tri-City_Americans.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lumen Field",
+          "city": "Seattle",
+          "capacity": "68.000 seats",
+          "residents": "Seattle Seahawks (NFL), Seattle Sounders (MLS) and Seattle Reign (NWSL)",
+          "pictures": [
+            "../stadiums-pro/SEATTLE - LUMEN FIELD.jfif",
+            "../stadiums-pro/SEATTLE - LUMEN FIELD SEAHAWKS.jpg"
+          ]
+        },
+        {
+          "name": "T-Mobile Park",
+          "city": "Seattle",
+          "capacity": "47.574 seats",
+          "residents": "Seattle Mariners (MLB)",
+          "pictures": [
+            "../stadiums-pro/SEATTLE - SAFECO FIELD.jpg",
+            "../stadiums-pro/SEATTLE - SAFECO FIELD MARINERS.jpg"
+          ]
+        },
+        {
+          "name": "Climate Pledge Arena",
+          "city": "Seattle",
+          "capacity": "17.495 seats",
+          "residents": "Seattle Kraken (NHL), Seattle Storm (WNBA) and Seattle Redhawks (NCAA Basket)",
+          "pictures": [
+            "../stadiums-pro/SEATTLE - CLIMATE PLEDGE ARENA.webp",
+            "../stadiums-pro/SEATTLE - CLIMATE PLEDGE ARENA KRAKEN.jpg"
+          ]
+        },
+        {
+          "name": "Cheney Stadium",
+          "city": "Tacoma",
+          "capacity": "6.500 seats",
+          "residents": "Tacoma Rainiers (PCL)",
+          "pictures": [
+            "../stadiums-pro/TACOMA - CHENEY STADIUM.jpg",
+            "../stadiums-pro/TACOMA - CHENEY STADIUM RAINIERS.jpg"
+          ]
+        },
+        {
+          "name": "Husky Stadium",
+          "city": "Seattle",
+          "capacity": "70.138 seats",
+          "residents": "Washington Huskies (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WASHINGTON - ALASKA AIRLINES FIELD AT HUSKY STADIUM - SEATTLE.jpg",
+            "../stadiums-ncaa/stadiums/WASHINGTON - ALASKA AIRLINES FIELD AT HUSKY STADIUM - SEATTLE HUSKIES.jpg"
+          ]
+        },
+        {
+          "name": "Gesa Field",
+          "city": "Pullman",
+          "capacity": "35.117 seats",
+          "residents": "Washington State Cougars (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WASHINGTON STATE - GESA FIELD.jpg",
+            "../stadiums-ncaa/stadiums/WASHINGTON STATE - GESA FIELD COUGARS.webp"
+          ]
+        },        
+        {
+          "name": "Spokane Arena",
+          "city": "Spokane",
+          "capacity": "12.638 seats",
+          "residents": "Spokane Chiefs (WHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SPOKANE - ARENA.webp",
+            "../stadiums-ncaa/arenas/SPOKANE - ARENA CHIEFS.jpg"
+          ]
+        },
+        {
+          "name": "Beasley Coliseum",
+          "city": "Pullman",
+          "capacity": "11.671 seats",
+          "residents": "Washington State Cougars (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WASHINGTON STATE - BEASLEY COLISEUM - PULLMAN.jpg",
+            "../stadiums-ncaa/arenas/WASHINGTON STATE - BEASLEY COLISEUM - PULLMAN COUGARS.jpg"
+          ]
+        },
+        {
+          "name": "Angel of the Winds Arena",
+          "city": "Everett",
+          "capacity": "10.000 seats",
+          "residents": "Everett Silvertips (WHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/EVERETT - ANGELS ARENA.jpg",
+            "../stadiums-ncaa/arenas/EVERETT - ANGELS ARENA SILVERTIPS.jfif"
+          ]
+        },        
+        {
+          "name": "Hec Edmundson Pavilion",
+          "city": "Seattle",
+          "capacity": "10.000 seats",
+          "residents": "Washington Huskies (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA AT HEC EDMUNDSON PAVILION - SEATTLE.jpg",
+            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA - SEATTLE HUSKIES.jpg"
+          ]
+        },
+        {
+          "name": "McCarthey Athletic Center",
+          "city": "Spokane",
+          "capacity": "6.000 seats",
+          "residents": "Gonzaga Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GONZAGA - MCCARTHEY ATHLETIC CENTER - SPOKANE.jpg",
+            "../stadiums-ncaa/arenas/GONZAGA - MCCARTHEY ATHLETIC CENTER - SPOKANE BULLDOGS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Marshawn Lynch",
+          "picture": "../players/WASHINGTON/SEAHAWKS - LYNCH.jpg"
+        },
+        {
+          "name": "Randy Johnson",
+          "picture": "../players/WASHINGTON/MARINERS - RANDY JOHNSON.jpg"
+        },
+        {
+          "name": "Gary Payton",
+          "picture": "../players/WASHINGTON/SONICS - PAYTON 1.jpg"
+        },
+        {
+          "name": "Russell Wilson",
+          "picture": "../players/WASHINGTON/SEAHAWKS - WILSON.jpg"
+        },
+        {
+          "name": "Ichiro Suzuki",
+          "picture": "../players/WASHINGTON/MARINERS - ICHIRO SUZUKI.jpg"
+        },
+        {
+          "name": "Dennis Johnson",
+          "picture": "../players/WASHINGTON/SONICS - JOHNSON.jpg"
+        },
+        {
+          "name": "Shaun Alexander",
+          "picture": "../players/WASHINGTON/SEAHAWKS - SHAUN ALEXANDER.jpg"
+        },
+        {
+          "name": "Alex Rodriguez",
+          "picture": "../players/WASHINGTON/MARINERS - ALEX RODRIGUEZ.jpg"
+        },
+        {
+          "name": "Brendan Haywood",
+          "picture": "../players/WASHINGTON/SONICS - HAYWOOD.jpg"
+        },
+        {
+          "name": "Ken Griffey Jr",
+          "picture": "../players/WASHINGTON/MARINERS - KEN GRIFFEY JR.jpg"
+        },
+        {
+          "name": "Steve Largent",
+          "picture": "../players/WASHINGTON/SEAHAWKS - STEVE LARGENT 1.jpg"
+        },
+        {
+          "name": "Ray Allen",
+          "picture": "../players/WASHINGTON/SONICS - ALLEN.jpg"
+        },
+        {
+          "name": "Felix Hernandez",
+          "picture": "../players/WASHINGTON/MARINERS - FELIX HERNANDEZ.jpg"
+        },
+        {
+          "name": "Matt Hasselbeck",
+          "picture": "../players/WASHINGTON/SEAHAWKS - MATT HASSELBECK 1.jpg"
+        },
+        {
+          "name": "Shawn Kemp",
+          "picture": "../players/WASHINGTON/SONICS - KEMP.jpg"
+        },
+        {
+          "name": "John Stockton",
+          "picture": "../players/WASHINGTON/GONZAGA - STOCKTON.jpg"
+        },
+        {
+          "name": "Elgin Baylor",
+          "picture": "../players/WASHINGTON/SEATTLE - BAYLOR.jpg"
+        },
+        {
+          "name": "Klay Thompson",
+          "picture": "../players/WASHINGTON/WASHINGTON STATE - THOMPSON 1.jpg"
+        },
+        {
+          "name": "Drew Bledsoe",
+          "picture": "../players/WASHINGTON/WASHINGTON STATE - DREW BLEDSOE.jpg"
+        },
+        {
+          "name": "Detlef Schrempf",
+          "picture": "../players/WASHINGTON/WASHINGTON - SCHREMPF.jpg"
+        },
+        {
+          "name": "Warren Moon",
+          "picture": "../players/WASHINGTON/WASHINGTON - WARREN MOON.jpg"
+        }
+      ]
     },
     { "__comment": "WASH DC",
       "id": 9,
       "nom": "Washington D.C.",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
-      "carte": "state-layer/DC.jpg"
+      "carte": "state-layer/DC.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #ffb7c5, #6B8E23, #003366)",
+      "major_league": [
+        {
+          "name": "Washington Commanders",
+          "logo": "../logos/NFL/Washington-Commanders-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Washington Nationals",
+          "logo": "../logos/MLB/Washington-Nationals-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Washington Wizards",
+          "logo": "../logos/NBA/Washington_Wizards_Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Washington Capitals",
+          "logo": "../logos/NHL/Washington Capitals.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "DC United",
+          "logo": "../logos/MLS/DC United.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Washington Mystics",
+          "logo": "../logos/WNBA/Washington Mystics.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Washington Spirit",
+          "logo": "../logos/NWSL/Washington Spirit.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Georgetown Hoyas",
+          "logo": "../logos/NCAA/Georgetown-Hoyas-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lumen Field",
+          "city": "Seattle",
+          "capacity": "68.000 seats",
+          "residents": "Seattle Seahawks (NFL), Seattle Sounders (MLS) and Seattle Reign (NWSL)",
+          "pictures": [
+            "../stadiums-pro/SEATTLE - LUMEN FIELD.jfif",
+            "../stadiums-pro/SEATTLE - LUMEN FIELD SEAHAWKS.jpg"
+          ]
+        },
+        {
+          "name": "T-Mobile Park",
+          "city": "Seattle",
+          "capacity": "47.574 seats",
+          "residents": "Seattle Mariners (MLB)",
+          "pictures": [
+            "../stadiums-pro/SEATTLE - SAFECO FIELD.jpg",
+            "../stadiums-pro/SEATTLE - SAFECO FIELD MARINERS.jpg"
+          ]
+        },
+        {
+          "name": "Climate Pledge Arena",
+          "city": "Seattle",
+          "capacity": "17.495 seats",
+          "residents": "Seattle Kraken (NHL), Seattle Storm (WNBA) and Seattle Redhawks (NCAA Basket)",
+          "pictures": [
+            "../stadiums-pro/SEATTLE - CLIMATE PLEDGE ARENA.webp",
+            "../stadiums-pro/SEATTLE - CLIMATE PLEDGE ARENA KRAKEN.jpg"
+          ]
+        },
+        {
+          "name": "Cheney Stadium",
+          "city": "Tacoma",
+          "capacity": "6.500 seats",
+          "residents": "Tacoma Rainiers (PCL)",
+          "pictures": [
+            "../stadiums-pro/TACOMA - CHENEY STADIUM.jpg",
+            "../stadiums-pro/TACOMA - CHENEY STADIUM RAINIERS.jpg"
+          ]
+        },
+        {
+          "name": "Husky Stadium",
+          "city": "Seattle",
+          "capacity": "70.138 seats",
+          "residents": "Washington Huskies (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WASHINGTON - ALASKA AIRLINES FIELD AT HUSKY STADIUM - SEATTLE.jpg",
+            "../stadiums-ncaa/stadiums/WASHINGTON - ALASKA AIRLINES FIELD AT HUSKY STADIUM - SEATTLE HUSKIES.jpg"
+          ]
+        },
+        {
+          "name": "Gesa Field",
+          "city": "Pullman",
+          "capacity": "35.117 seats",
+          "residents": "Washington State Cougars (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WASHINGTON STATE - GESA FIELD.jpg",
+            "../stadiums-ncaa/stadiums/WASHINGTON STATE - GESA FIELD COUGARS.webp"
+          ]
+        },        
+        {
+          "name": "Spokane Arena",
+          "city": "Spokane",
+          "capacity": "12.638 seats",
+          "residents": "Spokane Chiefs (WHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SPOKANE - ARENA.webp",
+            "../stadiums-ncaa/arenas/SPOKANE - ARENA CHIEFS.jpg"
+          ]
+        },
+        {
+          "name": "Beasley Coliseum",
+          "city": "Pullman",
+          "capacity": "11.671 seats",
+          "residents": "Washington State Cougars (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WASHINGTON STATE - BEASLEY COLISEUM - PULLMAN.jpg",
+            "../stadiums-ncaa/arenas/WASHINGTON STATE - BEASLEY COLISEUM - PULLMAN COUGARS.jpg"
+          ]
+        },
+        {
+          "name": "Angel of the Winds Arena",
+          "city": "Everett",
+          "capacity": "10.000 seats",
+          "residents": "Everett Silvertips (WHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/EVERETT - ANGELS ARENA.jpg",
+            "../stadiums-ncaa/arenas/EVERETT - ANGELS ARENA SILVERTIPS.jfif"
+          ]
+        },        
+        {
+          "name": "Hec Edmundson Pavilion",
+          "city": "Seattle",
+          "capacity": "10.000 seats",
+          "residents": "Washington Huskies (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA AT HEC EDMUNDSON PAVILION - SEATTLE.jpg",
+            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA - SEATTLE HUSKIES.jpg"
+          ]
+        },
+        {
+          "name": "McCarthey Athletic Center",
+          "city": "Spokane",
+          "capacity": "6.000 seats",
+          "residents": "Gonzaga Bulldogs (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GONZAGA - MCCARTHEY ATHLETIC CENTER - SPOKANE.jpg",
+            "../stadiums-ncaa/arenas/GONZAGA - MCCARTHEY ATHLETIC CENTER - SPOKANE BULLDOGS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Marshawn Lynch",
+          "picture": "../players/WASHINGTON/SEAHAWKS - LYNCH.jpg"
+        },
+        {
+          "name": "Randy Johnson",
+          "picture": "../players/WASHINGTON/MARINERS - RANDY JOHNSON.jpg"
+        },
+        {
+          "name": "Gary Payton",
+          "picture": "../players/WASHINGTON/SONICS - PAYTON 1.jpg"
+        },
+        {
+          "name": "Russell Wilson",
+          "picture": "../players/WASHINGTON/SEAHAWKS - WILSON.jpg"
+        },
+        {
+          "name": "Ichiro Suzuki",
+          "picture": "../players/WASHINGTON/MARINERS - ICHIRO SUZUKI.jpg"
+        },
+        {
+          "name": "Dennis Johnson",
+          "picture": "../players/WASHINGTON/SONICS - JOHNSON.jpg"
+        },
+        {
+          "name": "Shaun Alexander",
+          "picture": "../players/WASHINGTON/SEAHAWKS - SHAUN ALEXANDER.jpg"
+        },
+        {
+          "name": "Alex Rodriguez",
+          "picture": "../players/WASHINGTON/MARINERS - ALEX RODRIGUEZ.jpg"
+        },
+        {
+          "name": "Brendan Haywood",
+          "picture": "../players/WASHINGTON/SONICS - HAYWOOD.jpg"
+        },
+        {
+          "name": "Ken Griffey Jr",
+          "picture": "../players/WASHINGTON/MARINERS - KEN GRIFFEY JR.jpg"
+        },
+        {
+          "name": "Steve Largent",
+          "picture": "../players/WASHINGTON/SEAHAWKS - STEVE LARGENT 1.jpg"
+        },
+        {
+          "name": "Ray Allen",
+          "picture": "../players/WASHINGTON/SONICS - ALLEN.jpg"
+        },
+        {
+          "name": "Felix Hernandez",
+          "picture": "../players/WASHINGTON/MARINERS - FELIX HERNANDEZ.jpg"
+        },
+        {
+          "name": "Matt Hasselbeck",
+          "picture": "../players/WASHINGTON/SEAHAWKS - MATT HASSELBECK 1.jpg"
+        },
+        {
+          "name": "Shawn Kemp",
+          "picture": "../players/WASHINGTON/SONICS - KEMP.jpg"
+        },
+        {
+          "name": "John Stockton",
+          "picture": "../players/WASHINGTON/GONZAGA - STOCKTON.jpg"
+        },
+        {
+          "name": "Elgin Baylor",
+          "picture": "../players/WASHINGTON/SEATTLE - BAYLOR.jpg"
+        },
+        {
+          "name": "Klay Thompson",
+          "picture": "../players/WASHINGTON/WASHINGTON STATE - THOMPSON 1.jpg"
+        },
+        {
+          "name": "Drew Bledsoe",
+          "picture": "../players/WASHINGTON/WASHINGTON STATE - DREW BLEDSOE.jpg"
+        },
+        {
+          "name": "Detlef Schrempf",
+          "picture": "../players/WASHINGTON/WASHINGTON - SCHREMPF.jpg"
+        },
+        {
+          "name": "Warren Moon",
+          "picture": "../players/WASHINGTON/WASHINGTON - WARREN MOON.jpg"
+        }
+      ]
     },
     { "__comment": "WEST VIRGINIA",
       "id": 49,
