@@ -10279,204 +10279,156 @@
           "logo": "../logos/NCAA/Georgetown-Hoyas-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Howard Bison",
+          "logo": "../logos/NCAA/Howard-Bison-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "American Eagles",
+          "logo": "../logos/NCAA/American-Eagles-Logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Lumen Field",
-          "city": "Seattle",
-          "capacity": "68.000 seats",
-          "residents": "Seattle Seahawks (NFL), Seattle Sounders (MLS) and Seattle Reign (NWSL)",
+          "name": "FedEx Field",
+          "city": "Landover (Maryland)",
+          "capacity": "82.000 seats",
+          "residents": "Washington Commanders (NFL)",
           "pictures": [
-            "../stadiums-pro/SEATTLE - LUMEN FIELD.jfif",
-            "../stadiums-pro/SEATTLE - LUMEN FIELD SEAHAWKS.jpg"
+            "../stadiums-pro/WASHINGTON - FEDEX FIELD.jpg",
+            "../stadiums-pro/WASHINGTON - FEDEX FIELD COMMANDERS.webp"
           ]
         },
         {
-          "name": "T-Mobile Park",
-          "city": "Seattle",
-          "capacity": "47.574 seats",
-          "residents": "Seattle Mariners (MLB)",
+          "name": "Nationals Park",
+          "city": "Washington D.C.",
+          "capacity": "41.546 seats",
+          "residents": "Washington Nationals (MLB)",
           "pictures": [
-            "../stadiums-pro/SEATTLE - SAFECO FIELD.jpg",
-            "../stadiums-pro/SEATTLE - SAFECO FIELD MARINERS.jpg"
+            "../stadiums-pro/WASHINGTON - NATIONALS PARK.jpg",
+            "../stadiums-pro/WASHINGTON - NATIONALS PARK NATIONALS.jpg"
           ]
         },
         {
-          "name": "Climate Pledge Arena",
-          "city": "Seattle",
-          "capacity": "17.495 seats",
-          "residents": "Seattle Kraken (NHL), Seattle Storm (WNBA) and Seattle Redhawks (NCAA Basket)",
+          "name": "Capital One Arena",
+          "city": "Washington D.C.",
+          "capacity": "20.674 seats",
+          "residents": "Washington Wizards (NBA), Washington Capitals (NHL), Georgetown Hoyas (NCAA Basket)",
           "pictures": [
-            "../stadiums-pro/SEATTLE - CLIMATE PLEDGE ARENA.webp",
-            "../stadiums-pro/SEATTLE - CLIMATE PLEDGE ARENA KRAKEN.jpg"
+            "../stadiums-pro/WASHINGTON - CAPITAL ONE ARENA.png",
+            "../stadiums-pro/WASHINGTON - CAPITAL ONE ARENA WIZARDS.webp"
           ]
         },
         {
-          "name": "Cheney Stadium",
-          "city": "Tacoma",
-          "capacity": "6.500 seats",
-          "residents": "Tacoma Rainiers (PCL)",
+          "name": "Audi Field",
+          "city": "Washington D.C.",
+          "capacity": "20.000 seats",
+          "residents": "DC United (MLS) and Washington Spirit (NWSL)",
           "pictures": [
-            "../stadiums-pro/TACOMA - CHENEY STADIUM.jpg",
-            "../stadiums-pro/TACOMA - CHENEY STADIUM RAINIERS.jpg"
+            "../stadiums-pro/WASHINGTON - AUDI FIELD.jpg",
+            "../stadiums-pro/WASHINGTON - AUDI FIELD DC.jpg"
           ]
         },
         {
-          "name": "Husky Stadium",
-          "city": "Seattle",
-          "capacity": "70.138 seats",
-          "residents": "Washington Huskies (NCAA Football)",
+          "name": "Entertainment & Sports Arena",
+          "city": "Washington D.C.",
+          "capacity": "4.200 seats",
+          "residents": "Washington Mystics (WNBA)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/WASHINGTON - ALASKA AIRLINES FIELD AT HUSKY STADIUM - SEATTLE.jpg",
-            "../stadiums-ncaa/stadiums/WASHINGTON - ALASKA AIRLINES FIELD AT HUSKY STADIUM - SEATTLE HUSKIES.jpg"
-          ]
-        },
-        {
-          "name": "Gesa Field",
-          "city": "Pullman",
-          "capacity": "35.117 seats",
-          "residents": "Washington State Cougars (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/WASHINGTON STATE - GESA FIELD.jpg",
-            "../stadiums-ncaa/stadiums/WASHINGTON STATE - GESA FIELD COUGARS.webp"
-          ]
-        },        
-        {
-          "name": "Spokane Arena",
-          "city": "Spokane",
-          "capacity": "12.638 seats",
-          "residents": "Spokane Chiefs (WHL)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/SPOKANE - ARENA.webp",
-            "../stadiums-ncaa/arenas/SPOKANE - ARENA CHIEFS.jpg"
-          ]
-        },
-        {
-          "name": "Beasley Coliseum",
-          "city": "Pullman",
-          "capacity": "11.671 seats",
-          "residents": "Washington State Cougars (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/WASHINGTON STATE - BEASLEY COLISEUM - PULLMAN.jpg",
-            "../stadiums-ncaa/arenas/WASHINGTON STATE - BEASLEY COLISEUM - PULLMAN COUGARS.jpg"
-          ]
-        },
-        {
-          "name": "Angel of the Winds Arena",
-          "city": "Everett",
-          "capacity": "10.000 seats",
-          "residents": "Everett Silvertips (WHL)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/EVERETT - ANGELS ARENA.jpg",
-            "../stadiums-ncaa/arenas/EVERETT - ANGELS ARENA SILVERTIPS.jfif"
-          ]
-        },        
-        {
-          "name": "Hec Edmundson Pavilion",
-          "city": "Seattle",
-          "capacity": "10.000 seats",
-          "residents": "Washington Huskies (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA AT HEC EDMUNDSON PAVILION - SEATTLE.jpg",
-            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA - SEATTLE HUSKIES.jpg"
-          ]
-        },
-        {
-          "name": "McCarthey Athletic Center",
-          "city": "Spokane",
-          "capacity": "6.000 seats",
-          "residents": "Gonzaga Bulldogs (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/GONZAGA - MCCARTHEY ATHLETIC CENTER - SPOKANE.jpg",
-            "../stadiums-ncaa/arenas/GONZAGA - MCCARTHEY ATHLETIC CENTER - SPOKANE BULLDOGS.jpg"
+            "../stadiums-pro/WASHINGTON - ARENA.jpg",
+            "../stadiums-pro/WASHINGTON - ARENA MYSTICS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Marshawn Lynch",
-          "picture": "../players/WASHINGTON/SEAHAWKS - LYNCH.jpg"
+          "name": "Max Scherzer",
+          "picture": "../players/WASHINGTON D.C/NATIONALS - MAX SCHERZER.jpeg"
         },
         {
-          "name": "Randy Johnson",
-          "picture": "../players/WASHINGTON/MARINERS - RANDY JOHNSON.jpg"
+          "name": "Elvin Hayes",
+          "picture": "../players/WASHINGTON D.C/WIZARDS - HAYES.jpg"
         },
         {
-          "name": "Gary Payton",
-          "picture": "../players/WASHINGTON/SONICS - PAYTON 1.jpg"
+          "name": "Alexander Ovechkin",
+          "picture": "../players/WASHINGTON D.C/CAPITALS - ALEXANDER OVECHKIN 2.jpg"
         },
         {
-          "name": "Russell Wilson",
-          "picture": "../players/WASHINGTON/SEAHAWKS - WILSON.jpg"
+          "name": "Art Monk",
+          "picture": "../players/WASHINGTON D.C/REDSKINS - ART MONK 1.jpg"
         },
         {
-          "name": "Ichiro Suzuki",
-          "picture": "../players/WASHINGTON/MARINERS - ICHIRO SUZUKI.jpg"
+          "name": "Wes Unseld",
+          "picture": "../players/WASHINGTON D.C/WIZARDS - UNSELD.jpg"
         },
         {
-          "name": "Dennis Johnson",
-          "picture": "../players/WASHINGTON/SONICS - JOHNSON.jpg"
+          "name": "Ryan Zimmerman",
+          "picture": "../players/WASHINGTON D.C/NATIONALS - RYAN ZIMMERMAN.jpg"
+        },        
+        {
+          "name": "Mike Gartner",
+          "picture": "../players/WASHINGTON D.C/CAPITALS - MIKE GARTNER 1.jpg"
         },
         {
-          "name": "Shaun Alexander",
-          "picture": "../players/WASHINGTON/SEAHAWKS - SHAUN ALEXANDER.jpg"
+          "name": "Darrell Green",
+          "picture": "../players/WASHINGTON D.C/REDSKINS - DARRELL GREEN 1.jpg"
         },
         {
-          "name": "Alex Rodriguez",
-          "picture": "../players/WASHINGTON/MARINERS - ALEX RODRIGUEZ.jpg"
+          "name": "Nicklas Bäckström",
+          "picture": "../players/WASHINGTON D.C/CAPITALS - NICKLAS BACKSTROM.jpg"
         },
         {
-          "name": "Brendan Haywood",
-          "picture": "../players/WASHINGTON/SONICS - HAYWOOD.jpg"
+          "name": "Sammy Baugh",
+          "picture": "../players/WASHINGTON D.C/REDSKINS - SAMMY BAUGH 2.jpg"
         },
         {
-          "name": "Ken Griffey Jr",
-          "picture": "../players/WASHINGTON/MARINERS - KEN GRIFFEY JR.jpg"
+          "name": "Stephen Strasburg",
+          "picture": "../players/WASHINGTON D.C/NATIONALS - STEPHEN STRASBURG.jpg"
         },
         {
-          "name": "Steve Largent",
-          "picture": "../players/WASHINGTON/SEAHAWKS - STEVE LARGENT 1.jpg"
+          "name": "John Wall",
+          "picture": "../players/WASHINGTON D.C/WIZARDS - WALL 1.jpg"
         },
         {
-          "name": "Ray Allen",
-          "picture": "../players/WASHINGTON/SONICS - ALLEN.jpg"
+          "name": "Bryce Harper",
+          "picture": "../players/WASHINGTON D.C/NATIONALS - BRYCE HARPER.jpg"
         },
         {
-          "name": "Felix Hernandez",
-          "picture": "../players/WASHINGTON/MARINERS - FELIX HERNANDEZ.jpg"
+          "name": "Earl Monroe",
+          "picture": "../players/WASHINGTON D.C/WIZARDS - MONROE.jpg"
         },
         {
-          "name": "Matt Hasselbeck",
-          "picture": "../players/WASHINGTON/SEAHAWKS - MATT HASSELBECK 1.jpg"
+          "name": "Rod Langway",
+          "picture": "../players/WASHINGTON D.C/CAPITALS - ROD LANGWAY 2.jpg"
         },
         {
-          "name": "Shawn Kemp",
-          "picture": "../players/WASHINGTON/SONICS - KEMP.jpg"
+          "name": "John Riggins",
+          "picture": "../players/WASHINGTON D.C/REDSKINS - JOHN RIGGINS.jpg"
         },
         {
-          "name": "John Stockton",
-          "picture": "../players/WASHINGTON/GONZAGA - STOCKTON.jpg"
+          "name": "Walter Johnson",
+          "picture": "../players/WASHINGTON D.C/WALTER JOHNSON.jpg"
         },
         {
-          "name": "Elgin Baylor",
-          "picture": "../players/WASHINGTON/SEATTLE - BAYLOR.jpg"
+          "name": "Patrick Ewing",
+          "picture": "../players/WASHINGTON D.C/GEORGETOWN - EWING.jpg"
         },
         {
-          "name": "Klay Thompson",
-          "picture": "../players/WASHINGTON/WASHINGTON STATE - THOMPSON 1.jpg"
+          "name": "Allen Iverson",
+          "picture": "../players/WASHINGTON D.C/GEORGETOWN - IVERSON.jpg"
         },
         {
-          "name": "Drew Bledsoe",
-          "picture": "../players/WASHINGTON/WASHINGTON STATE - DREW BLEDSOE.jpg"
+          "name": "Alonzo Mourning",
+          "picture": "../players/WASHINGTON D.C/GEORGETOWN - MOURNING.jpg"
         },
         {
-          "name": "Detlef Schrempf",
-          "picture": "../players/WASHINGTON/WASHINGTON - SCHREMPF.jpg"
-        },
-        {
-          "name": "Warren Moon",
-          "picture": "../players/WASHINGTON/WASHINGTON - WARREN MOON.jpg"
+          "name": "Dikembe Mutombo",
+          "picture": "../players/WASHINGTON D.C/GEORGETOWN - MUTOMBO 1.jpg"
         }
       ]
     },
