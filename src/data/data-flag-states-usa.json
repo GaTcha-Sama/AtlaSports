@@ -10436,13 +10436,336 @@
       "id": 49,
       "nom": "West Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg",
-      "carte": "state-layer/WV.jpg"
+      "carte": "state-layer/WV.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #006994, #4caf50)",
+      "major_league": [],
+      "minor_league": [
+        {
+          "name": "Wheeling Nailers",
+          "logo": "../logos/ECHL/Wheeling_Nailers_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "West Virginia Mountaineers",
+          "logo": "../logos/NCAA/West Virginia Mountaineers-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Charleston Golden Eagles",
+          "logo": "../logos/NCAA/Charleston Golden Eagles-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Marshall Thundering Herd",
+          "logo": "../logos/NCAA/Marshall-Thundering-Herd-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "WesBanco Arena",
+          "city": "Wheeling",
+          "capacity": "7.800 seats",
+          "residents": "Wheeling Nailers (ECHL)",
+          "pictures": [
+            "../stadiums-pro/WHEELING - WESBANCO ARENA.jpg",
+            "../stadiums-pro/WHEELING - WESBANCO ARENA NAILERS.webp"
+          ]
+        },      
+        {
+          "name": "Milan Puskar Stadium",
+          "city": "Morgantown",
+          "capacity": "60.540 seats",
+          "residents": "West Virginia Mountaineers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WEST VIRGINIA - MOUNTAINEER FIELD - MORGANTOWN.jpg",
+            "../stadiums-ncaa/stadiums/WEST VIRGINIA - MOUNTAINEER FIELD - MORGANTOWN MOUNTAINEERS.jpg"
+          ]
+        },
+        {
+          "name": "Joan C. Edwards Stadium",
+          "city": "Huntington",
+          "capacity": "38.227 seats",
+          "residents": "Marshall Thundering Herd (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/MARSHALL - EDWARDS STADIUM.webp",
+            "../stadiums-ncaa/stadiums/MARSHALL - EDWARDS STADIUM HERD.jpg"
+          ]
+        },
+        {
+          "name": "WVU Coliseum",
+          "city": "Morgantown",
+          "capacity": "14.000 seats",
+          "residents": "West Virginia Mountaineers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WVU - WVU COLISEUM - MORGANTOWN.jpg",
+            "../stadiums-ncaa/arenas/WVU - WVU COLISEUM - MORGANTOWN BLUES.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Jerry West",
+          "picture": "../players/WEST VIRGINIA/WEST VIRGINIA - WEST.jpg"
+        },
+        {
+          "name": "Randy Moss",
+          "picture": "../players/WEST VIRGINIA/MARSHALL - RANDY MOSS.jpg"
+        },
+        {
+          "name": "Hal Greer",
+          "picture": "../players/WEST VIRGINIA/MARSHALL - GREER.jpg"
+        }
+      ]
     },
     { "__comment": "WISCONSIN",
       "id": 50,
       "nom": "Wisconsin",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
-      "carte": "state-layer/WI.jpg"
+      "carte": "state-layer/WI.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #4a90e2, #50c878, #b86422, #6f3605)",
+      "major_league": [
+        {
+          "name": "Green Bay Packers",
+          "logo": "../logos/NFL/Green-Bay-Packers-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Milwaukee Brewers",
+          "logo": "../logos/MLB/Milwaukee-Brewers-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Milwaukee Bucks",
+          "logo": "../logos/NBA/Milwaukee-Bucks-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Wisconsin Herd",
+          "logo": "../logos/NBA GL/Wisconsin_Herd_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Milwaukee Admirals",
+          "logo": "../logos/AHL/Milwaukee_Admirals_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Wisconsin Badgers",
+          "logo": "../logos/NCAA/Wisconsin-BAdgers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Marquette Golden Eagles",
+          "logo": "../logos/NCAA/Marquette-Golden-Eagles-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Milwaukee Panthers",
+          "logo": "../logos/NCAA/Milwaukee Panthers.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Green Bay Phoenix",
+          "logo": "../logos/NCAA/Green Bay Phoenix.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Madison Capitals",
+          "logo": "../logos/USHL/Madison_Capitols.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        },
+        {
+          "name": "Green Bay Gamblers",
+          "logo": "../logos/USHL/Green_Bay_Gamblers.png",
+          "league": "USHL",
+          "leagueLogo": "../logos/USHL/USHL.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Lambeau Field",
+          "city": "Green Bay",
+          "capacity": "81.441 seats",
+          "residents": "Green Bay Packers (NFL)",
+          "pictures": [
+            "../stadiums-pro/GREEN BAY - LAMBEAU FIELD.jpg",
+            "../stadiums-pro/GREEN BAY - LAMBEAU FIELD PACKERS.jpg"
+          ]
+        },
+        {
+          "name": "American Family Field",
+          "city": "Milwaukee",
+          "capacity": "41.900 seats",
+          "residents": "Milwaukee Brewers (MLB)",
+          "pictures": [
+            "../stadiums-pro/MILWAUKEE - MILLER PARK.jpg",
+            "../stadiums-pro/MILWAUKEE - MILLER PARK BREWERS.jpg"
+          ]
+        },
+        {
+          "name": "Fiserv Forum",
+          "city": "Milwaukee",
+          "capacity": "18.000 seats",
+          "residents": "Milwaukee Bucks (NBA) and Marquette Golden Eagles (NCAA Basket)",
+          "pictures": [
+            "../stadiums-pro/MILWAUKEE - FISERV FORUM.avif",
+            "../stadiums-pro/MILWAUKEE - FISERV FORUM BUCKS.jpg"
+          ]
+        },
+        {
+          "name": "UW-Milwaukee Panther Arena",
+          "city": "Milwaukee",
+          "capacity": "12.700 seats",
+          "residents": "Milwaukee Admirals (AHL) and Milwaukee Panthers (NCAA Basket)",
+          "pictures": [
+            "../stadiums-pro/MILWAUKEE - PANTHER ARENA.jpg",
+            "../stadiums-pro/MILWAUKEE - PANTHER ARENA PANTHERS.avif"
+          ]
+        },
+        {
+          "name": "Oshkosh Arena",
+          "city": "Oshkosh",
+          "capacity": "3.500 seats",
+          "residents": "Wisconsin Herd (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/WISCONSIN - OSHKOSH ARENA.jpg",
+            "../stadiums-pro/WISCONSIN - OSHKOSH ARENA HERD.webp"
+          ]
+        },
+        {
+          "name": "Camp Randall Stadium",
+          "city": "Madison",
+          "capacity": "80.321 seats",
+          "residents": "Wisconsin Badgers (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WISCONSIN - CAMP RANDALL STADIUM - MADISON.jpg",
+            "../stadiums-ncaa/stadiums/WISCONSIN - CAMP RANDALL STADIUM - MADISON BADGERS.jpg"
+          ]
+        },
+        {
+          "name": "Kohl Center",
+          "city": "Madison",
+          "capacity": "17.142 seats",
+          "residents": "Wisconsin Badgers (NCAA Basket & Hockey)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WISCONSIN - KOHL CENTER - MADISON.jpg",
+            "../stadiums-ncaa/arenas/WISCONSIN - KOHL CENTER - MADISON BADGERS ICE.jpg"
+          ]
+        },
+        {
+          "name": "Resch Center",
+          "city": "Green Bay",
+          "capacity": "10.500 seats",
+          "residents": "Green Bay Phoenix (NCAA Basket) and Green Bay Gamblers (USHL)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/GREEN BAY - RESCH CENTER.jpg",
+            "../stadiums-ncaa/arenas/GREEN BAY - RESCH CENTER GAMBLERS.webp"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Aaron Rodgers",
+          "picture": "../players/WISCONSIN/PACKERS - AARON RODGERS 1.jpg"
+        },
+        {
+          "name": "Kareem Abdul-Jabbar",
+          "picture": "../players/WISCONSIN/BUCKS - ABDUL-JABBAR 3.jpg"
+        },
+        {
+          "name": "Ryan Braun",
+          "picture": "../players/WISCONSIN/BREWERS - RYAN BRAUN.jpg"
+        },
+        {
+          "name": "Brett Favre",
+          "picture": "../players/WISCONSIN/PACKERS - BRETT FAVRE.jpg"
+        },
+        {
+          "name": "Giannis Antetokounmpo",
+          "picture": "../players/WISCONSIN/BUCKS - GIANNIS.webp"
+        },
+        {
+          "name": "Robin Yount",
+          "picture": "../players/WISCONSIN/BREWERS - ROBIN YOUNT.jpg"
+        },
+        {
+          "name": "Reggie White",
+          "picture": "../players/WISCONSIN/PACKERS - REGGIE WHITE 1.jpg"
+        },
+        {
+          "name": "Oscar Robertson",
+          "picture": "../players/WISCONSIN/BUCKS - ROBERTSON.jpg"
+        },
+        {
+          "name": "Paul Molitor",
+          "picture": "../players/WISCONSIN/BREWERS - PAUL MOLITOR.jpg"
+        },
+        {
+          "name": "Don Hutson",
+          "picture": "../players/WISCONSIN/PACKERS - DON HUTSON.jpg"
+        },
+        {
+          "name": "Sidney Moncrief",
+          "picture": "../players/WISCONSIN/BUCKS - MONCRIEF.jpg"
+        },
+        {
+          "name": "Bart Starr",
+          "picture": "../players/WISCONSIN/PACKERS - BART STARR 2.jpg"
+        },
+        {
+          "name": "Ray Allen",
+          "picture": "../players/WISCONSIN/BUCKS - ALLEN 3.jpg"
+        },
+        {
+          "name": "J.J. Watt",
+          "picture": "../players/WISCONSIN/WISCONSIN - JJ WATT.jpg"
+        },
+        {
+          "name": "Dwyane Wade",
+          "picture": "../players/WISCONSIN/MARQUETTE - WADE.jpg"
+        },
+        {
+          "name": "Joe Pavelski",
+          "picture": "../players/WISCONSIN/WISCONSIN - JOE PAVELSKI.jpg"
+        },
+        {
+          "name": "Russell Wilson",
+          "picture": "../players/WISCONSIN/WISCONSIN - RUSSELL WILSON.jpg"
+        },
+        {
+          "name": "Jimmy Butler",
+          "picture": "../players/WISCONSIN/MARQUETTE - BUTLER.jpg"
+        },
+        {
+          "name": "Jim Carey",
+          "picture": "../players/WISCONSIN/WISCONSIN - JIM CAREY.jpg"
+        }
+      ]
     },
     { "__comment": "WYOMING",
       "id": 51,
