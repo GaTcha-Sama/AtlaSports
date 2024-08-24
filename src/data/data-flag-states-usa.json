@@ -10771,6 +10771,47 @@
       "id": 51,
       "nom": "Wyoming",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg",
-      "carte": "state-layer/WY.jpg"
+      "carte": "state-layer/WY.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #2c5364, #f7b733, #fc4a1a)",
+      "major_league": [],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Wyoming Cowboys",
+          "logo": "../logos/NCAA/Wyoming-Cowboys-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Jonah Field",
+          "city": "Laramie",
+          "capacity": "29.181 seats",
+          "residents": "Wyoming Cowboys (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/WYOMING - LARAMIE COWBOYS.jpg",
+            "../stadiums-ncaa/stadiums/WYOMING - JONAH FIELD AT WAR MEMORIAL STADIUM - LARAMIE COWBOYS.jpg"
+          ]
+        },
+        {
+          "name": "Arena Auditorium",
+          "city": "Laramie",
+          "capacity": "15.028 seats",
+          "residents": "Wyoming Cowboys (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/WYOMING - ARENA AUDITORIUM - LARAMIE.jpg",
+            "../stadiums-ncaa/arenas/WYOMING - ARENA AUDITORIUM - LARAMIE COWBOYS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Josh Allen",
+          "picture": "../players/WYOMING/JOSH ALLEN.webp"
+        }
+      ]
     }
   ]
