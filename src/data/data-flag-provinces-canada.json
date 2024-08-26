@@ -1,145 +1,761 @@
 [
-      {
-        "nom": "Alberta",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": ["Edmonton Oilers"],
-          "NFL": []
+  { "__comment": "ALBERTA",
+      "id": 111,
+      "nom": "Alberta",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg",
+      "carte": "state-layer/Canada/AL.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Edmonton Elks",
+          "logo": "../logos/CFL/Edmonton_Elks_logo.svg.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
+        },
+        {
+          "name": "Calgary Stampeders",
+          "logo": "../logos/CFL/Calgary Stampeders.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
         }
-      },
-      {
-        "nom": "British Colombia",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": ["Vancouver Whitecaps FC"],
-          "NHL": ["Vancouver Canucks"],
-          "NFL": []
+      ],
+      "minor_league": [
+        {
+          "name": "Calgary Wranglers",
+          "logo": "../logos/AHL/Calgary Wranglers.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
         }
-      },
-      {
-        "nom": "Manitoba",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": ["Winnipeg Jets"],
-          "NFL": []
+      ],
+      "junior_league": [
+        {
+          "name": "Edmonton Oil Kings",
+          "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Calgary Hitmen",
+          "logo": "../logos/WHL/Calgary_Hitmen.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Red Deer Rebels",
+          "logo": "../logos/WHL/Red_Deer_Rebels.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Medicine Hat Tigers",
+          "logo": "../logos/WHL/Medicine_Hat_Tigers.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Lethbridge Hurricanes",
+          "logo": "../logos/WHL/Lethbridge_Hurricanes.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
         }
-      },
-      {
-        "nom": "New Brunswick",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ],
+      "stadiums": [
+        {
+          "name": "Commonwealth Stadium",
+          "city": "Edmonton",
+          "capacity": "60.081 seats",
+          "residents": "Edmonton Elks (CFL)",
+          "pictures": [
+            "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+            "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+          ]
+        },
+        {
+          "name": "McMahon Stadium",
+          "city": "Calgary",
+          "capacity": "40.000 seats",
+          "residents": "Calgary Stampeders (CFL)",
+          "pictures": [
+            "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+            "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+          ]
+        },
+        {
+          "name": "Scotiabank Saddledome",
+          "city": "Calgary",
+          "capacity": "19.289 seats",
+          "residents": "Calgary Flames (NHL) and Calgary Hitmen (WHL)",
+          "pictures": [
+            "../stadiums-pro/CALGARY - SCOTIABANK SADDLEDOME.jpg",
+            "../stadiums-pro/CALGARY - SCOTIABANK SADDLEDOME FLAMES.jpg"
+          ]
+        },
+        {
+          "name": "Rogers Place",
+          "city": "Edmonton",
+          "capacity": "18.347 seats",
+          "residents": "Edmonton Oilers (NHL) and Edmonton Oil Kings (WHL)",
+          "pictures": [
+            "../stadiums-pro/EDMONTON - ROGERS PLACE.png",
+            "../stadiums-pro/EDMONTON - ROGERS PLACE OILERS.jpg"
+          ]
         }
-      },
-      {
-        "nom": "Newfoundland and Labrador",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ],
+      "players": [
+        {
+          "name": "Wayne Gretzky",
+          "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg"
+        },
+        {
+          "name": "Connor McDavid",
+          "picture": "../players/CANADA/ALBERTA/OILERS - CONNOR MCDAVID 1.jpg"
+        },
+        {
+          "name": "Mark Messier",
+          "picture": "../players/CANADA/ALBERTA/OILERS - MARK MESSIER 1.jpg"
+        },
+        {
+          "name": "Al McInnis",
+          "picture": "../players/CANADA/ALBERTA/FLAMES - AL MACINNIS 1.jpg"
+        },
+        {
+          "name": "Leon Draisaitl",
+          "picture": "../players/CANADA/ALBERTA/OILERS - DRAISAITL.jpg"
+        },
+        {
+          "name": "Paul Coffey",
+          "picture": "../players/CANADA/ALBERTA/OILERS - PAUL COFFEY 1.jpg"
+        },
+        {
+          "name": "Joe Nieuwendyk",
+          "picture": "../players/CANADA/ALBERTA/FLAMES - JOE NIEUWENDYK.jpg"
+        },
+        {
+          "name": "Jari Kurri",
+          "picture": "../players/CANADA/ALBERTA/OILERS - JARI KURRI.jpg"
+        },
+        {
+          "name": "Lanny McDonald",
+          "picture": "../players/CANADA/ALBERTA/FLAMES - LANNY MCDONALD.jpg"
+        },
+        {
+          "name": "Jarome Iginla",
+          "picture": "../players/CANADA/ALBERTA/FLAMES - JAROME IGINLA 1.jpg"
         }
-      },
-      {
-        "nom": "Northwest Territories",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ]
+    },
+    { "__comment": "BRITISH COLUMBIA",
+      "id": 112,
+      "nom": "British Columbia",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg",
+      "carte": "state-layer/Canada/BC.avif",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
         }
-      },
-      {
-        "nom": "Nova Scotia",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         }
-      },
-      {
-        "nom": "Nunavut",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
         }
-      },
-      {
-        "nom": "Ontario",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg",
-        "equipes": {
-          "NBA": ["Toronto Raptors"],
-          "MLB": ["Toronto Blue Jays"],
-          "MLS": ["Toronto FC"],
-          "NHL": ["Ottawa Senators", "Toronto Maple Leafs"],
-          "NFL": []
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
         }
-      },
-      {
-        "nom": "Prince Edward Island",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ]
+    },
+    { "__comment": "MANITOBA",
+      "id": 113,
+      "nom": "Manitoba",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg",
+      "carte": "state-layer/Canada/MB.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
         }
-      },
-      {
-        "nom": "Québec",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": ["CF Montréal"],
-          "NHL": ["Montréal Canadiens"],
-          "NFL": []
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
         }
-      },
-      {
-        "nom": "Saskatchewan",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
         }
-      },
-      {
-        "nom":"Yukon",
-        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg",
-        "equipes": {
-          "NBA": [],
-          "MLB": [],
-          "MLS": [],
-          "NHL": [],
-          "NFL": []
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
         }
-      }
-    ]
+      ]
+    },
+    { "__comment": "NEW BRUNSWICK",
+      "id": 114,
+      "nom": "New Brunswick",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg",
+      "carte": "state-layer/Canada/NB.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "NEWFOUNDLAND AND LABRADOR",
+      "id": 115,
+      "nom": "Newfoundland and Labrador",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg",
+      "carte": "state-layer/Canada/TN.avif",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "NOVA SCOTIA",
+      "id": 116,
+      "nom": "Nova Scotia",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg",
+      "carte": "state-layer/Canada/NE.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "ONTARIO",
+      "id": 117,
+      "nom": "Ontario",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg",
+      "carte": "state-layer/Canada/ON.avif",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "PRINCE EDWARD ISLAND",
+      "id": 112,
+      "nom": "Prince Edward Island",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg",
+      "carte": "state-layer/Canada/PE.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "QUEBEC",
+      "id": 118,
+      "nom": "Quebec",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg",
+      "carte": "state-layer/Canada/QC.avif",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "SASKATCHEWAN",
+      "id": 119,
+      "nom": "Saskatchewan",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg",
+      "carte": "state-layer/Canada/SW.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "NORTHWEST TERRITORIES",
+      "id": 120,
+      "nom": "Northwest Territories",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg",
+      "carte": "state-layer/Canada/TN.avif",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "YUKON",
+      "id": 121,
+      "nom": "Yukon",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg",
+      "carte": "state-layer/Canada/YK.avif",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    },
+    { "__comment": "NUNAVUT",
+      "id": 122,
+      "nom": "Nunavut",
+      "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg",
+      "carte": "state-layer/Canada/NU.jpg",  
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "major_league": [
+        {
+          "name": "Edmonton Oilers",
+          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Calgary Flames",
+          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        }
+      ],
+      "minor_league": [],
+      "junior_league": [
+        {
+          "name": "Alabama Crimson Tide",
+          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "Bryant-Denny Stadium",
+          "city": "Tuscaloosa",
+          "capacity": "100.077 seats",
+          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
+            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Julio Jones",
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+        }
+      ]
+    }
+]

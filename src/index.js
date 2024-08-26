@@ -5,6 +5,7 @@ import ScrollToTop from './components/ScrollToTop';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './pages/Home';
 import State from './pages/State';
+import Province from './pages/Province';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Error from './pages/Error';
@@ -23,6 +24,7 @@ ReactDOM.render(
         <Route path="/gallery-can" element={<GalleryCAN />} />
         <Route path="/gallery-usa" element={<GalleryUSA />} />
         <Route path="/state/:id" element={<State />} />
+        <Route path="/province/:id" element={<Province />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Error />} />
