@@ -31,6 +31,12 @@
           "logo": "../logos/CFL/Calgary Stampeders.png",
           "league": "CFL",
           "leagueLogo": "../logos/CFL/CFL.png"
+        },
+        {
+          "name": "Cavalry FC",
+          "logo": "../logos/CPL/Cavalry FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
         }
       ],
       "minor_league": [
@@ -77,7 +83,7 @@
         {
           "name": "Commonwealth Stadium",
           "city": "Edmonton",
-          "capacity": "60.081 seats",
+          "capacity": "56.302 seats",
           "residents": "Edmonton Elks (CFL)",
           "pictures": [
             "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
@@ -87,7 +93,7 @@
         {
           "name": "McMahon Stadium",
           "city": "Calgary",
-          "capacity": "40.000 seats",
+          "capacity": "35.400 seats",
           "residents": "Calgary Stampeders (CFL)",
           "pictures": [
             "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
@@ -98,7 +104,7 @@
           "name": "Scotiabank Saddledome",
           "city": "Calgary",
           "capacity": "19.289 seats",
-          "residents": "Calgary Flames (NHL) and Calgary Hitmen (WHL)",
+          "residents": "Calgary Flames (NHL), Calgary Wranglers (AHL) and Calgary Hitmen (WHL)",
           "pictures": [
             "../stadiums-pro/CALGARY - SCOTIABANK SADDLEDOME.jpg",
             "../stadiums-pro/CALGARY - SCOTIABANK SADDLEDOME FLAMES.jpg"
@@ -112,6 +118,16 @@
           "pictures": [
             "../stadiums-pro/EDMONTON - ROGERS PLACE.png",
             "../stadiums-pro/EDMONTON - ROGERS PLACE OILERS.jpg"
+          ]
+        },
+        {
+          "name": "ATCO Field",
+          "city": "Calgary",
+          "capacity": "6.000 seats",
+          "residents": "Cavalry FC (CPL)",
+          "pictures": [
+            "../stadiums-pro/CALGARY - ATCO FIELD.jpg",
+            "../stadiums-pro/CALGARY - ATCO FIELD FC.jpg"
           ]
         }
       ],
@@ -165,46 +181,137 @@
       "carte": "state-layer/Canada/BC.avif",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "backgroundGradient": "linear-gradient(to right, #1E3D59, #4A90E2, #4CAF50, #8B4513)",
       "major_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "name": "Vancouver Canucks",
+          "logo": "../logos/NHL/Vancouver Canucks.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
         {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          "name": "BC Lions",
+          "logo": "../logos/CFL/BC Lions.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
+        },
+        {
+          "name": "Vancouver Whitecaps",
+          "logo": "../logos/MLS/Vancouver Whitecaps.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Vancouver FC",
+          "logo": "../logos/CPL/Vancouver FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
+        },
+        {
+          "name": "Pacific FC",
+          "logo": "../logos/CPL/Pacific FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
         }
       ],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Abbotsford Canucks",
+          "logo": "../logos/AHL/Abbotsford_Canucks_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Vancouver Giants",
+          "logo": "../logos/WHL/Vancouver_Giants.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Victoria Royals",
+          "logo": "../logos/WHL/Victoria_Royals.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Kelowna Rockets",
+          "logo": "../logos/WHL/Kelowna_Rockets.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Kamloops Blazers",
+          "logo": "../logos/WHL/Kamloops_Blazers.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Prince George Cougars",
+          "logo": "../logos/WHL/Prince_George_Cougars.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "BC Place",
+          "city": "Vancouver",
+          "capacity": "54.500 seats",
+          "residents": "BC Lions (CFL) and Vancouver Whitecaps (MLS)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/VANCOUVER - BC PLACE.jpg",
+            "../stadiums-pro/VANCOUVER - BC PLACE LIONS.jpg"
+          ]
+        },
+        {
+          "name": "Rogers Arena",
+          "city": "Vancouver",
+          "capacity": "19.700 seats",
+          "residents": "Vancouver Canucks (NHL)",
+          "pictures": [
+            "../stadiums-pro/VANCOUVER - ROGERS ARENA.webp",
+            "../stadiums-pro/VANCOUVER - ROGERS ARENA CANUCKS.jpg"
+          ]
+        },
+        {
+          "name": "Willoughby Community Park Stadium",
+          "city": "Langley",
+          "capacity": "6.560 seats",
+          "residents": "Vancouver FC (CPL)",
+          "pictures": [
+            "../stadiums-pro/VANCOUVER - WILLOUGHBY STADIUM.jpg",
+            "../stadiums-pro/VANCOUVER - WILLOUGHBY STADIUM FC.jpg"
+          ]
+        },
+        {
+          "name": "Starlight Stadium",
+          "city": "Langley",
+          "capacity": "6.000 seats",
+          "residents": "Pacific FC (CPL)",
+          "pictures": [
+            "../stadiums-pro/PACIFIC - STARLIGHT STADIUM.jpg",
+            "../stadiums-pro/PACIFIC - STARLIGHT STADIUM FC.png"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Henrik Sedin",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - HENRIK SEDIN 1.jpg"
+        },
+        {
+          "name": "Daniel Sedin",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - DANIEL SEDIN 1.jpg"
+        },
+        {
+          "name": "Pavel Bure",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - PAVEL BURE.jpeg"
+        },
+        {
+          "name": "Markus Näslund",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - MARKUS NASLUND.jpg"
         }
       ]
     },
