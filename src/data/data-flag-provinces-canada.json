@@ -31,12 +31,6 @@
           "logo": "../logos/CFL/Calgary Stampeders.png",
           "league": "CFL",
           "leagueLogo": "../logos/CFL/CFL.png"
-        },
-        {
-          "name": "Cavalry FC",
-          "logo": "../logos/CPL/Cavalry FC.png",
-          "league": "CPL",
-          "leagueLogo": "../logos/CPL/CPL.png"
         }
       ],
       "minor_league": [
@@ -45,6 +39,24 @@
           "logo": "../logos/AHL/Calgary Wranglers.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Edmonton Stingers",
+          "logo": "../logos/CEBL/Edmonton Stingers.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Calgary Surge",
+          "logo": "../logos/CEBL/Calgary Surge.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Cavalry FC",
+          "logo": "../logos/CPL/Cavalry FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
         }
       ],
       "junior_league": [
@@ -104,7 +116,7 @@
           "name": "Scotiabank Saddledome",
           "city": "Calgary",
           "capacity": "19.289 seats",
-          "residents": "Calgary Flames (NHL), Calgary Wranglers (AHL) and Calgary Hitmen (WHL)",
+          "residents": "Calgary Flames (NHL), Calgary Wranglers (AHL), Calgary Hitmen (WHL) and Calgary Surge (CEBL)",
           "pictures": [
             "../stadiums-pro/CALGARY - SCOTIABANK SADDLEDOME.jpg",
             "../stadiums-pro/CALGARY - SCOTIABANK SADDLEDOME FLAMES.jpg"
@@ -128,6 +140,16 @@
           "pictures": [
             "../stadiums-pro/CALGARY - ATCO FIELD.jpg",
             "../stadiums-pro/CALGARY - ATCO FIELD FC.jpg"
+          ]
+        },
+        {
+          "name": "Edmonton EXPO Centre",
+          "city": "Edmonton",
+          "capacity": "4.000 seats",
+          "residents": "Edmonton Stingers (CEBL)",
+          "pictures": [
+            "../stadiums-pro/EDMONTON - EXPO CENTRE.jpg",
+            "../stadiums-pro/EDMONTON - EXPO CENTRE STINGERS.webp"
           ]
         }
       ],
@@ -200,6 +222,20 @@
           "logo": "../logos/MLS/Vancouver Whitecaps.png",
           "league": "MLS",
           "leagueLogo": "../logos/MLS/MLS.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Abbotsford Canucks",
+          "logo": "../logos/AHL/Abbotsford_Canucks_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Vancouver Bandits",
+          "logo": "../logos/CEBL/Vancouver Bandits.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
         },
         {
           "name": "Vancouver FC",
@@ -212,14 +248,6 @@
           "logo": "../logos/CPL/Pacific FC.png",
           "league": "CPL",
           "leagueLogo": "../logos/CPL/CPL.png"
-        }
-      ],
-      "minor_league": [
-        {
-          "name": "Abbotsford Canucks",
-          "logo": "../logos/AHL/Abbotsford_Canucks_logo.svg.png",
-          "league": "AHL",
-          "leagueLogo": "../logos/AHL/AHL.png"
         }
       ],
       "junior_league": [
@@ -294,6 +322,16 @@
             "../stadiums-pro/PACIFIC - STARLIGHT STADIUM.jpg",
             "../stadiums-pro/PACIFIC - STARLIGHT STADIUM FC.png"
           ]
+        },
+        {
+          "name": "Langley Events Centre",
+          "city": "Langley",
+          "capacity": "5.276 seats",
+          "residents": "Vancouver Bandits (CEBL) and Vancouver Giants (WHL)",
+          "pictures": [
+            "../stadiums-pro/VANCOUVER - LANGLEY EVENTS CENTRE.webp",
+            "../stadiums-pro/VANCOUVER - LANGLEY EVENTS CENTRE BANDITS.webp"
+          ]
         }
       ],
       "players": [
@@ -325,43 +363,116 @@
       "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
       "major_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "name": "Winnipeg Jets",
+          "logo": "../logos/NHL/Winnipeg-Jets-Logo.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
         {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          "name": "Winnipeg Blue Bombers",
+          "logo": "../logos/CFL/Winnipeg Blue Bombers.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
         }
       ],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Manitoba Moose",
+          "logo": "../logos/AHL/Manitoba_Moose_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Winnipeg Sea Bears",
+          "logo": "../logos/CEBL/Winnipeg Sea Bears.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Valour FC",
+          "logo": "../logos/CPL/Valour FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Prince Albert Raiders",
+          "logo": "../logos/WHL/Prince_Albert_Raiders.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Saskatoon Blades",
+          "logo": "../logos/WHL/Saskatoon_Blades.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Swift Current Broncos",
+          "logo": "../logos/WHL/Swift_Current_Broncos.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Moose Jaw Warriors",
+          "logo": "../logos/WHL/Moose_Jaw_Warriors.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Regina Pats",
+          "logo": "../logos/WHL/Regina_Pats.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Princess Auto Stadium",
+          "city": "Winnipeg",
+          "capacity": "40.000 seats",
+          "residents": "Winnipeg Blue Bombers (CFL) and Valour FC (CPL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/WINNIPEG - PRINCESS AUTO STADIUM.jpg",
+            "../stadiums-pro/WINNIPEG - PRINCESS AUTO STADIUM BOMBERS.webp"
+          ]
+        },
+        {
+          "name": "Canadian Life Centre",
+          "city": "Winnipeg",
+          "capacity": "15.294 seats",
+          "residents": "Winnipeg Jets (NHL), Manitoba Moose (AHL) and Winnipeg Sea Bears (CEBL)",
+          "pictures": [
+            "../stadiums-pro/WINNIPEG - BELL MTS PLACE.jpg",
+            "../stadiums-pro/WINNIPEG - BELL MTS PLACE JETS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Dale Hawerchuk",
+          "picture": "../players/CANADA/MANITOBA/JETS - HAWERCHUK.jpg"
+        },
+        {
+          "name": "Connor Hellebuyck",
+          "picture": "../players/CANADA/MANITOBA/JETS - HELLEBUYCK.webp"
+        },
+        {
+          "name": "Bobby Hull",
+          "picture": "../players/CANADA/MANITOBA/JETS - BOBBY HULL.webp"
+        },
+        {
+          "name": "Teemu Selänne",
+          "picture": "../players/CANADA/MANITOBA/JETS - SELANNE.webp"
+        },
+        {
+          "name": "Dustin Byfuglien",
+          "picture": "../players/CANADA/MANITOBA/JETS - DUSTIN BYFUGLIEN 2.jpg"
+        },
+        {
+          "name": "Blake Wheeler",
+          "picture": "../players/CANADA/MANITOBA/JETS - WHEELER.jpg"
         }
       ]
     },
