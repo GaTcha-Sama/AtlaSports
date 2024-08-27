@@ -483,46 +483,83 @@
       "carte": "state-layer/Canada/NB.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
-        {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        }
+      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32C177)",
+      "major_league": [],
+      "minor_league": [
+        
       ],
-      "minor_league": [],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Acadie-Bathurst Titan",
+          "logo": "../logos/LHJMQ/Acadie_Bathurst_Titan.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Moncton Wildcats",
+          "logo": "../logos/LHJMQ/Moncton_Wildcats.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Saint John Sea Dogs",
+          "logo": "../logos/LHJMQ/Saint_John_Sea_Dogs.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Avenir Centre",
+          "city": "Moncton",
+          "capacity": "8.800 seats",
+          "residents": "Moncton Wildcats (LHJMQ)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-ncaa/arenas/MONCTON - AVENIR CENTRE.jpg",
+            "../stadiums-ncaa/arenas/MONCTON - AVENIR CENTRE WILDCATS.avif"
+          ]
+        },
+        {
+          "name": "TD Station",
+          "city": "Saint John",
+          "capacity": "7.205 seats",
+          "residents": "Saint John Sea Dogs (LHJMQ)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SAINT JOHN - TD STATION.jpg",
+            "../stadiums-ncaa/arenas/SAINT JOHN - TD STATION DOGS.jpg"
+          ]
+        },
+        {
+          "name": "K.C. Irving Regional Centre",
+          "city": "Bathurst",
+          "capacity": "4.400 seats",
+          "residents": "Acadie-Bathurst Titan (LHJMQ)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/ACADIE - KC IRVING.jpg",
+            "../stadiums-ncaa/arenas/ACADIE - KC IRVING TITAN.jfif"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Patrice Bergeron",
+          "picture": "../players/CANADA/NEW BRUNSWICK/ACADIE - BERGERON.jpg"
+        },
+        {
+          "name": "Jonathan Huberdeau",
+          "picture": "../players/CANADA/NEW BRUNSWICK/ST JOHN - HUBERDEAU.jpg"
+        },
+        {
+          "name": "Roberto Luongo",
+          "picture": "../players/CANADA/NEW BRUNSWICK/ACADIE - LUONGO.jpg"
+        },
+        {
+          "name": "Conor Garland",
+          "picture": "../players/CANADA/NEW BRUNSWICK/MONCTON - CONOR GARLAND.jpg"
+        },
+        {
+          "name": "Thomas Chabot",
+          "picture": "../players/CANADA/NEW BRUNSWICK/ST JOHN - THOMAS CHABOT.jpg"
         }
       ]
     },
