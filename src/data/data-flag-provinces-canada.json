@@ -89,6 +89,36 @@
           "logo": "../logos/WHL/Lethbridge_Hurricanes.png",
           "league": "WHL",
           "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Alberta Golden Bears",
+          "logo": "../logos/USPORTS/Alberta Golden Bears.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Calgary Dinos",
+          "logo": "../logos/USPORTS/Calgary Dinos.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "MacEwan Griffins",
+          "logo": "../logos/USPORTS/Macewan Griffins.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Mount Royal Cougars",
+          "logo": "../logos/USPORTS/Mount Royal Cougars.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Lethbridge Pronghorns",
+          "logo": "../logos/USPORTS/Lethbridge Pronghorns.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
@@ -280,6 +310,48 @@
           "logo": "../logos/WHL/Prince_George_Cougars.png",
           "league": "WHL",
           "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "British Columbia Thunderbirds",
+          "logo": "../logos/USPORTS/BC Thunderbirds.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Trinity Western Spartans",
+          "logo": "../logos/USPORTS/Trinity Western Spartans.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Victoria Vikes",
+          "logo": "../logos/USPORTS/Victoria Vikes.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Fraser Valley Cascades",
+          "logo": "../logos/USPORTS/Fraser Valley Cascades.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Northern British Columbia Timberwolves",
+          "logo": "../logos/USPORTS/Northern BC Timberwolves.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Thompson Rivers WolfPack",
+          "logo": "../logos/USPORTS/Thompson Rivers WolfPack.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "BC-Okanagan Heat",
+          "logo": "../logos/USPORTS/BC-Okanagan Heat.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
@@ -425,6 +497,24 @@
           "logo": "../logos/WHL/Regina_Pats.png",
           "league": "WHL",
           "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Brandon Bobcats",
+          "logo": "../logos/USPORTS/Brandon Bobcats.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Winnipeg Wesmen",
+          "logo": "../logos/USPORTS/Winnipeg Wesmen.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Manitoba Bisons",
+          "logo": "../logos/USPORTS/Manitoba Bisons.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
@@ -485,9 +575,7 @@
       "city": "../map/phoenix-test.jpg",
       "backgroundGradient": "linear-gradient(to right, #87CEEB, #32C177)",
       "major_league": [],
-      "minor_league": [
-        
-      ],
+      "minor_league": [],
       "junior_league": [
         {
           "name": "Acadie-Bathurst Titan",
@@ -506,6 +594,30 @@
           "logo": "../logos/LHJMQ/Saint_John_Sea_Dogs.png",
           "league": "LHJMQ",
           "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Mount Allison Mounties",
+          "logo": "../logos/USPORTS/Mount Allison Mounties.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Moncton Aigles Bleu(e)s",
+          "logo": "../logos/USPORTS/Moncton Aigles Bleu(e)s.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "New Brunswick Reds",
+          "logo": "../logos/USPORTS/New Brunswick Reds.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "St. Thomas Tommies",
+          "logo": "../logos/USPORTS/St. Thomas Tommies.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
@@ -571,45 +683,39 @@
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
       "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
+      "major_league": [],
+      "minor_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          "name": "Newfoundland Rogues",
+          "logo": "../logos/BSL/Newfoundland Rogues.png",
+          "league": "BSL",
+          "leagueLogo": "../logos/BSL/BSL.png"
         }
       ],
-      "minor_league": [],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Newfoundland Seahawks",
+          "logo": "../logos/USPORTS/Newfoundland Seahawks.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Mary Brown's Centre",
+          "city": "St. John's",
+          "capacity": "6.750 seats",
+          "residents": "Newfoundland Rogues (BSL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/NEWFOUNDLAND - MARYS BROWN CENTRE.jpg",
+            "../stadiums-pro/NEWFOUNDLAND - MARYS BROWN CENTRE ROGUES.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Zach O'Brien",
+          "picture": "../players/CANADA/NEWFOUNDLAND/ZACH OBRIEN.avif"
         }
       ]
     },
