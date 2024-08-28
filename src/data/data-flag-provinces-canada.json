@@ -432,7 +432,7 @@
       "carte": "state-layer/Canada/MB.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "backgroundGradient": "linear-gradient(to right, #7CB342, #2E7D32, #64B5F6, #FFD54F)",
       "major_league": [
         {
           "name": "Winnipeg Jets",
@@ -573,7 +573,7 @@
       "carte": "state-layer/Canada/NB.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32C177)",
+      "backgroundGradient": "linear-gradient(135deg, #2E8B57, #4682B4, #DAA520)",
       "major_league": [],
       "minor_league": [],
       "junior_league": [
@@ -682,7 +682,7 @@
       "carte": "state-layer/Canada/TN.avif",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "backgroundGradient": "linear-gradient(65deg, #1E90FF, #2E8B57, #708090, #8B4513)",
       "major_league": [],
       "minor_league": [
         {
@@ -726,46 +726,118 @@
       "carte": "state-layer/Canada/NE.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
+      "backgroundGradient": "linear-gradient(to right, #005f73, #0a9396, #94a3b8)",
+      "major_league": [],
+      "minor_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          "name": "Halifax Wanderers FC",
+          "logo": "../logos/CPL/HFX Wanderers FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
         }
       ],
-      "minor_league": [],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Halifax Mooseheads",
+          "logo": "../logos/LHJMQ/Halifax_Mooseheads.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Cape Breton Eagles",
+          "logo": "../logos/LHJMQ/Cape_Breton_Eagles.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Acadia Axemen",
+          "logo": "../logos/USPORTS/Acadia Axemen.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Cape Breton Capers",
+          "logo": "../logos/USPORTS/Cape Breton Capers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Dalhousie Tigers",
+          "logo": "../logos/USPORTS/Dalhousie Tigers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "St. Mary's Huskies",
+          "logo": "../logos/USPORTS/Saint Mary's Huskies.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "St. Francis Xavier X-Men",
+          "logo": "../logos/USPORTS/St. Francis Xavier X-Men.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Scotiabank Centre",
+          "city": "Halifax",
+          "capacity": "11.593 seats",
+          "residents": "Halifax Mooseheads (LHJMQ)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-ncaa/arenas/HALIFAX - SCOTIABANK CENTRE.jpg",
+            "../stadiums-ncaa/arenas/HALIFAX - SCOTIABANK CENTRE MOOSEHEADS.jpg"
+          ]
+        },
+        {
+          "name": "Halifax Forum",
+          "city": "Halifax",
+          "capacity": "8.600 seats",
+          "residents": "Dalhousie Tigers (U Sports)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/HALIFAX - FORUM.jpg",
+            "../stadiums-ncaa/arenas/HALIFAX - FORUM TIGERS.jpg"
+          ]
+        }, 
+        {
+          "name": "Centre 200",
+          "city": "Sydney",
+          "capacity": "6.500 seats",
+          "residents": "Cape Breton Eagles (LHJMQ)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CAPE BRETON - CENTRE 200.jpg",
+            "../stadiums-ncaa/arenas/CAPE BRETON - CENTRE 200 EAGLES.avif"
+          ]
+        },     
+        {
+          "name": "Wanderers Ground",
+          "city": "Halifax",
+          "capacity": "6.500 seats",
+          "residents": "Halifax Wanderers FC (CPL)",
+          "pictures": [
+            "../stadiums-pro/HALIFAX - WANDERERS GROUND.png",
+            "../stadiums-pro/HALIFAX - WANDERERS GROUND FC.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Nathan MacKinnon",
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - MACKINNON.jpg"
+        },
+        {
+          "name": "Jean-Sébastien Giguère",
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - GIGUERE.jpeg"
+        },
+        {
+          "name": "Alex Tanguay",
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - TANGUAY.jfif"
+        },
+        {
+          "name": "Jonathan Drouin",
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - DROUIN.jpg"
         }
       ]
     },
