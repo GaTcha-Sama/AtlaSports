@@ -469,32 +469,8 @@
       ],
       "junior_league": [
         {
-          "name": "Prince Albert Raiders",
-          "logo": "../logos/WHL/Prince_Albert_Raiders.png",
-          "league": "WHL",
-          "leagueLogo": "../logos/WHL/WHL.png"
-        },
-        {
-          "name": "Saskatoon Blades",
-          "logo": "../logos/WHL/Saskatoon_Blades.png",
-          "league": "WHL",
-          "leagueLogo": "../logos/WHL/WHL.png"
-        },
-        {
-          "name": "Swift Current Broncos",
-          "logo": "../logos/WHL/Swift_Current_Broncos.png",
-          "league": "WHL",
-          "leagueLogo": "../logos/WHL/WHL.png"
-        },
-        {
-          "name": "Moose Jaw Warriors",
-          "logo": "../logos/WHL/Moose_Jaw_Warriors.png",
-          "league": "WHL",
-          "leagueLogo": "../logos/WHL/WHL.png"
-        },
-        {
-          "name": "Regina Pats",
-          "logo": "../logos/WHL/Regina_Pats.png",
+          "name": "Brandon Wheat Kings",
+          "logo": "../logos/WHL/Brandon_Wheat_Kings.png",
           "league": "WHL",
           "leagueLogo": "../logos/WHL/WHL.png"
         },
@@ -991,46 +967,141 @@
       "carte": "state-layer/Canada/SW.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "backgroundGradient": "linear-gradient(135deg, #e3cd56, #4a7c59, #8b5e34)",
       "major_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          "name": "Saskatchewan Roughriders",
+          "logo": "../logos/CFL/Saskatchewan Roughriders.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
         }
       ],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Saskatchewan Rattlers",
+          "logo": "../logos/CEBL/Saskatchewan Rattlers.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Saskatoon Blades",
+          "logo": "../logos/WHL/Saskatoon_Blades.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Swift Current Broncos",
+          "logo": "../logos/WHL/Swift_Current_Broncos.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Moose Jaw Warriors",
+          "logo": "../logos/WHL/Moose_Jaw_Warriors.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Regina Pats",
+          "logo": "../logos/WHL/Regina_Pats.png",
+          "league": "WHL",
+          "leagueLogo": "../logos/WHL/WHL.png"
+        },
+        {
+          "name": "Saskatchewan Huskies",
+          "logo": "../logos/USPORTS/Saskatchewan Huskies.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Regina Rams",
+          "logo": "../logos/USPORTS/Regina Rams.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Regina Cougars",
+          "logo": "../logos/USPORTS/Regina Cougars.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Mosaic Stadium",
+          "city": "Regina",
+          "capacity": "33.350 seats",
+          "residents": "Saskatchewan Roughriders (CFL)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/SASKATCHEWAN - MOSAIC STADIUM.webp",
+            "../stadiums-pro/SASKATCHEWAN - MOSAIC STADIUM ROUGHRIDERS.jpg"
+          ]
+        },
+        {
+          "name": "SaskTel Centre",
+          "city": "Saskatoon",
+          "capacity": "15.195 seats",
+          "residents": "Saskatoon Rattlers (CEBL) and Saskatoon Blades (WHL)",
+          "pictures": [
+            "../stadiums-pro/SASKATOON - SASKTEL CENTRE.jpg",
+            "../stadiums-pro/SASKATOON - SASKTEL CENTRE RATTLERS.jfif"
+          ]
+        },
+        {
+          "name": "Brandt Centre",
+          "city": "Regina",
+          "capacity": "7.129 seats",
+          "residents": "Brandt Centre (WHL)",
+          "pictures": [
+            "../stadiums-pro/REGINA - BRANDT CENTRE.jpg",
+            "../stadiums-pro/REGINA - BRANDT CENTRE PATS.webp"
+          ]
+        },
+        {
+          "name": "Mosaic Place",
+          "city": "Moose Jaw",
+          "capacity": "5.000 seats",
+          "residents": "Moose Jaw Warriors (WHL)",
+          "pictures": [
+            "../stadiums-pro/MOOSE JAW - MOSAIC PLACE.png",
+            "../stadiums-pro/MOOSE JAW - MOSAIC PLACE WARRIORS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Connor Bedard",
+          "picture": "../players/CANADA/SASKATCHEWAN/PATS - BEDARD.jpg"
+        },
+        {
+          "name": "Brayden Point",
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - POINT.jpg"
+        },
+        {
+          "name": "Bernie Federko",
+          "picture": "../players/CANADA/SASKATCHEWAN/BLADES - FEDERKO.jpg"
+        },
+        {
+          "name": "Clark Gillies",
+          "picture": "../players/CANADA/SASKATCHEWAN/PATS - GILLIES.jpg"
+        },
+        {
+          "name": "Morgan Rielly",
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - RIELLY.jpg"
+        },
+        {
+          "name": "Braden Holtby",
+          "picture": "../players/CANADA/SASKATCHEWAN/BLADES - HOLTBY.jfif"
+        },
+        {
+          "name": "Theoren Fleury",
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - FLEURY.jpg"
+        },
+        {
+          "name": "Ed Litzenberger",
+          "picture": "../players/CANADA/SASKATCHEWAN/PATS - ED LITZENBERGER.jpg"
         }
       ]
     },
