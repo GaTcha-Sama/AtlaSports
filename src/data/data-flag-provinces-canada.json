@@ -1112,48 +1112,12 @@
       "carte": "state-layer/Canada/TN.avif",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
-        {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        }
-      ],
+      "backgroundGradient": "linear-gradient(to right, #004c6d, #248f8f, #a1c4fd, #ffffff)",
+      "major_league": [],
       "minor_league": [],
-      "junior_league": [
-        {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        }
-      ],
-      "stadiums": [
-        {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
-          ]
-        }
-      ],
-      "players": [
-        {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
-        }
-      ]
+      "junior_league": [],
+      "stadiums": [],
+      "players": []
     },
     { "__comment": "YUKON",
       "id": 122,
@@ -1162,48 +1126,12 @@
       "carte": "state-layer/Canada/YK.avif",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
-        {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        }
-      ],
+      "backgroundGradient": "linear-gradient(to right, #004c6d, #248f8f, #a1c4fd, #ffffff)",
+      "major_league": [],
       "minor_league": [],
-      "junior_league": [
-        {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        }
-      ],
-      "stadiums": [
-        {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
-          ]
-        }
-      ],
-      "players": [
-        {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
-        }
-      ]
+      "junior_league": [],
+      "stadiums": [],
+      "players": []
     },
     { "__comment": "NUNAVUT",
       "id": 123,
@@ -1212,47 +1140,11 @@
       "carte": "state-layer/Canada/NU.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
-        {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        }
-      ],
+      "backgroundGradient": "linear-gradient(to right, #004c6d, #248f8f, #a1c4fd, #ffffff)",
+      "major_league": [],
       "minor_league": [],
-      "junior_league": [
-        {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
-        }
-      ],
-      "stadiums": [
-        {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
-          "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
-          ]
-        }
-      ],
-      "players": [
-        {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
-        }
-      ]
+      "junior_league": [],
+      "stadiums": [],
+      "players": []
     }
 ]
