@@ -892,57 +892,50 @@
       ]
     },
     { "__comment": "PRINCE EDWARD ISLAND",
-      "id": 112,
+      "id": 118,
       "nom": "Prince Edward Island",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg",
       "carte": "state-layer/Canada/PE.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
-      "major_league": [
-        {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        },
-        {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
-        }
-      ],
+      "backgroundGradient": "linear-gradient(to right, #005f73, #0a9396, #94a3b8)",
+      "major_league": [],
       "minor_league": [],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Charlottetown Islanders",
+          "logo": "../logos/LHJMQ/Charlottetown_Islanders.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "UPEI Panthers",
+          "logo": "../logos/USPORTS/UPEI Panthers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Eastlink Centre",
+          "city": "Charlottetown",
+          "capacity": "3.717 seats",
+          "residents": "Charlottetown Islanders (LHJMQ)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-ncaa/arenas/CHARLOTTETOWN - EASTLINK CENTRE.jpg",
+            "../stadiums-ncaa/arenas/CHARLOTTETOWN - EASTLINK CENTRE ISLANDERS.jpg"
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Pierre-Olivier Joseph",
+          "picture": "../players/CANADA/PEI/POJ.jpg"
         }
       ]
     },
     { "__comment": "QUEBEC",
-      "id": 118,
+      "id": 119,
       "nom": "Quebec",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg",
       "carte": "state-layer/Canada/QC.avif",  
@@ -992,7 +985,7 @@
       ]
     },
     { "__comment": "SASKATCHEWAN",
-      "id": 119,
+      "id": 120,
       "nom": "Saskatchewan",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg",
       "carte": "state-layer/Canada/SW.jpg",  
@@ -1042,7 +1035,7 @@
       ]
     },
     { "__comment": "NORTHWEST TERRITORIES",
-      "id": 120,
+      "id": 121,
       "nom": "Northwest Territories",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg",
       "carte": "state-layer/Canada/TN.avif",  
@@ -1092,7 +1085,7 @@
       ]
     },
     { "__comment": "YUKON",
-      "id": 121,
+      "id": 122,
       "nom": "Yukon",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg",
       "carte": "state-layer/Canada/YK.avif",  
@@ -1142,7 +1135,7 @@
       ]
     },
     { "__comment": "NUNAVUT",
-      "id": 122,
+      "id": 123,
       "nom": "Nunavut",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg",
       "carte": "state-layer/Canada/NU.jpg",  
