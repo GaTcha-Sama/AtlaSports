@@ -1311,6 +1311,10 @@
           "picture": "../players/CANADA/ONTARIO/PWHL - NATALIE SPOONER.jpg"
         },
         {
+          "name": "Sebastian Giovinco",
+          "picture": "../players/CANADA/ONTARIO/FC - GIOVINCO.jpg"
+        },
+        {
           "name": "Mats Sundin",
           "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATS SUNDIN.jpg"
         },
@@ -1329,6 +1333,10 @@
         {
           "name": "Sarah Nurse",
           "picture": "../players/CANADA/ONTARIO/PWHL - SARAH NURSE.jpg"
+        },
+        {
+          "name": "Jermain Defoe",
+          "picture": "../players/CANADA/ONTARIO/FC - DEFOE.jpg"
         },
         {
           "name": "Dave Keon",
@@ -1433,51 +1441,354 @@
     },
     { "__comment": "QUEBEC",
       "id": 119,
-      "nom": "Quebec",
+      "nom": "Québec",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg",
       "carte": "state-layer/Canada/QC.avif",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "backgroundGradient": "linear-gradient(to right, #336699, #ff6600)",
       "major_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "name": "Montréal Canadiens",
+          "logo": "../logos/NHL/Montreal Canadiens.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
         {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
-          "league": "NHL",
-          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          "name": "Montréal Alouettes",
+          "logo": "../logos/CFL/Montreal Alouettes.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
+        },
+        {
+          "name": "CF Montréal",
+          "logo": "../logos/MLS/CF Montreal.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Montréal",
+          "logo": "../logos/PWHL/Montreal_PWHL.jpg",
+          "league": "PWHL",
+          "leagueLogo": "../logos/PWHL/PWHL.png"
         }
       ],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Laval Rocket",
+          "logo": "../logos/AHL/Laval_Rocket_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Trois-Rivières Lions",
+          "logo": "../logos/ECHL/Trois-Rivieres_Lions_logo.svg.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        },
+        {
+          "name": "Montréal Alliance",
+          "logo": "../logos/CEBL/Montreal Alliance.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Montréal Tundra",
+          "logo": "../logos/BSL/Montreal Tundra.png",
+          "league": "BSL",
+          "leagueLogo": "../logos/BSL/BSL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Rouyn-Noranda Huskies",
+          "logo": "../logos/LHJMQ/Rouyn-Noranda_Huskies.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Val d'Or Foreurs",
+          "logo": "../logos/LHJMQ/Val-d'Or_Foreurs.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Baie-Comeau Drakkar",
+          "logo": "../logos/LHJMQ/Baie-Comeau_Drakkar.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Rimouski Oceanic",
+          "logo": "../logos/LHJMQ/Rimouski_Oceanic.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Chicoutimi Saguenéens",
+          "logo": "../logos/LHJMQ/Chicoutimi_Sagueneens.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Québec Remparts",
+          "logo": "../logos/LHJMQ/Quebec_Remparts.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Shawinigan Cataractes",
+          "logo": "../logos/LHJMQ/Shawinigan_Cataractes.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Victoriaville Tigres",
+          "logo": "../logos/LHJMQ/Victoriaville_Tigres.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Drummondville Voltigeurs",
+          "logo": "../logos/LHJMQ/Drummondville_Voltigeurs.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Blainville-Boisbriand Armada",
+          "logo": "../logos/LHJMQ/Blainville-Boisbriand_Armada.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Gatineau Olympiques",
+          "logo": "../logos/LHJMQ/Gatineau_Olympiques.png",
+          "league": "LHJMQ",
+          "leagueLogo": "../logos/LHJMQ/LHJMQ.png"
+        },
+        {
+          "name": "Concordia Stingers",
+          "logo": "../logos/USPORTS/Concordia Stingers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Laval Rouge et Or",
+          "logo": "../logos/USPORTS/Laval Rouge et Or.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "UQAM Citadins",
+          "logo": "../logos/USPORTS/UQAM Citadins.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "McGill Redbirds",
+          "logo": "../logos/USPORTS/McGill Redbirds.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Bishop Gaiters",
+          "logo": "../logos/USPORTS/Bishop Gaiters.jpg",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "ETS Piranhas",
+          "logo": "../logos/USPORTS/ETS Piranhas.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Montréal Carabins",
+          "logo": "../logos/USPORTS/Montreal Carabins.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Trois-Rivières Patriotes",
+          "logo": "../logos/USPORTS/UQTR Patriotes.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Sherbrooke Vert et Or",
+          "logo": "../logos/USPORTS/Sherbrooke Vert et Or.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Chicoutimi Inuk",
+          "logo": "../logos/USPORTS/Chicoutimi Inuk.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Stade Olympique",
+          "city": "Montréal",
+          "capacity": "56.040 seats",
+          "residents": "Montréal Alouettes (CFL) and CF Montréal (MLS)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/MONTREAL - STADE OLYMPIQUE.jpg",
+            "../stadiums-pro/MONTREAL - STADE OLYMPIQUE CF.jpg"
+          ]
+        },
+        {
+          "name": "Stade Percival-Molson",
+          "city": "Montréal",
+          "capacity": "20.025 seats",
+          "residents": "Montréal Alouettes (CFL) and McGill Redbirds (U Sports Football)",
+          "pictures": [
+            "../stadiums-pro/MONTREAL - STADE PERCIVAL-MOLSON.jpg",
+            "../stadiums-pro/MONTREAL - STADE PERCIVAL-MOLSON ALOUETTES.jpg" 
+          ]
+        },
+        {
+          "name": "Stade Saputo",
+          "city": "Montréal",
+          "capacity": "19.619 seats",
+          "residents": "CF Montréal (MLS)",
+          "pictures": [
+            "../stadiums-pro/MONTREAL - STADE SAPUTO.jpg",
+            "../stadiums-pro/MONTREAL - STADE SAPUTO CF.jpg" 
+          ]
+        },
+        {
+          "name": "Centre Bell",
+          "city": "Montréal",
+          "capacity": "21.700 seats",
+          "residents": "Montréal Canadiens (NHL)",
+          "pictures": [
+            "../stadiums-pro/MONTREAL - CENTRE BELL.jpg",
+            "../stadiums-pro/MONTREAL - CENTRE BELL CANADIENS.jpg" 
+          ]
+        },
+        {
+          "name": "Auditorium de Verdun",
+          "city": "Verdun",
+          "capacity": "5.212 seats",
+          "residents": "Montréal (PWHL)",
+          "pictures": [
+            "../stadiums-pro/MONTREAL - VERDUN AUDITORIUM.png",
+            "../stadiums-pro/MONTREAL - VERDUN AUDITORIUM PWHL.jpg" 
+          ]
+        },
+        {
+          "name": "Centre Vidéotron",
+          "city": "Québec",
+          "capacity": "20.396 seats",
+          "residents": "Québec Remparts (LHJMQ)",
+          "pictures": [
+            "../stadiums-pro/QUEBEC - CENTRE VIDEOTRON.jpg",
+            "../stadiums-pro/QUEBEC - CENTRE VIDEOTRON REMPARTS.jpg"
+          ]
+        },
+        {
+          "name": "Place Bell",
+          "city": "Laval",
+          "capacity": "10.000 seats",
+          "residents": "Laval Rocket (AHL)",
+          "pictures": [
+            "../stadiums-pro/LAVAL - PLACE BELL.jpg",
+            "../stadiums-pro/LAVAL - PLACE BELL ROCKET.jpg"  
+          ]
+        },
+        {
+          "name": "Colisée Vidéotron",
+          "city": "Trois-Rivières",
+          "capacity": "4.390 seats",
+          "residents": "Trois-Rivières Lions (ECHL)",
+          "pictures": [
+            "../stadiums-pro/TROIS-RIVIERES - COLISEE VIDEOTRON.jpg",
+            "../stadiums-pro/TROIS-RIVIERES - COLISEE VIDEOTRON LIONS.jpg"  
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Maurice Richard",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - MAURICE RICHARD 1.jpg"
+        },
+        {
+          "name": "Patrick Roy",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - ROY.jpg"
+        },
+        {
+          "name": "Guy Lafleur",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - LAFLEUR 1.jpg"
+        },
+        {
+          "name": "Howie Morenz",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - HOWIE MORENZ 1.jpg"
+        },
+        {
+          "name": "Jean Béliveau",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - BELIVEAU.jpg"
+        },
+        {
+          "name": "Larry Robinson",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - LARRY ROBINSON 1.jpg"
+        },
+        {
+          "name": "George Vézina",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - GEORGE VEZINA.jpeg"
+        },
+        {
+          "name": "Carey Price",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - PRICE.jpg"
+        },
+        {
+          "name": "Henri Richard",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - HENRI RICHARD.jpg"
+        },
+        {
+          "name": "Jacques Plante",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - JACQUES PLANTE 2.jpg"
+        },
+        {
+          "name": "Ken Dryden",
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - KEN DRYDEN 1.jpg"
+        },
+        {
+          "name": "Marie-Philip Poulin",
+          "picture": "../players/CANADA/QUEBEC/PWHL - MARIE-PHILIP POULIN.jpg"
+        },
+        {
+          "name": "Didier Drogba",
+          "picture": "../players/CANADA/QUEBEC/CF - DROGBA.jpg"
+        },
+        {
+          "name": "Alessandro Nesta",
+          "picture": "../players/CANADA/QUEBEC/CF - NESTA.webp"
+        },
+        {
+          "name": "Marco Di Vaio",
+          "picture": "../players/CANADA/QUEBEC/CF - DI VAIO.jpg"
+        },
+        {
+          "name": "Sidney Crosby",
+          "picture": "../players/CANADA/QUEBEC/OCEANIC - CROSBY.png"
+        },
+        {
+          "name": "Mario Lemieux",
+          "picture": "../players/CANADA/QUEBEC/LAVAL - LEMIEUX.jpg"
+        },
+        {
+          "name": "Mike Bossy",
+          "picture": "../players/CANADA/QUEBEC/LAVAL - BOSSY.jpg"
+        },
+        {
+          "name": "Martin Brodeur",
+          "picture": "../players/CANADA/QUEBEC/LASERS - BRODEUR.jpg"
+        },
+        {
+          "name": "Ray Bourque",
+          "picture": "../players/CANADA/QUEBEC/HAWKS - BOURQUE.jpg"
         }
       ]
     },
