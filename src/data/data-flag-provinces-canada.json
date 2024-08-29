@@ -422,6 +422,18 @@
         {
           "name": "Markus Näslund",
           "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - MARKUS NASLUND.jpg"
+        },
+        {
+          "name": "Scott Niedermayer",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/BLAZERS - NIEDERMAYER.jpg"
+        },
+        {
+          "name": "Duncan Keith",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/ROCKETS - KEITH.webp"
+        },
+        {
+          "name": "Grant Fuhr",
+          "picture": "../players/CANADA/BRITISH COLUMBIA/VICTORIA - FUHR.jpeg"
         }
       ]
     },
@@ -539,6 +551,10 @@
         {
           "name": "Blake Wheeler",
           "picture": "../players/CANADA/MANITOBA/JETS - WHEELER.jpg"
+        },
+        {
+          "name": "Bobby Clarke",
+          "picture": "../players/CANADA/MANITOBA/BOMBERS - CLARKE.png"
         }
       ]
     },
@@ -824,46 +840,551 @@
       "carte": "state-layer/Canada/ON.avif",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
-      "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+      "backgroundGradient": "linear-gradient(to right, #005493, #228B22)",
       "major_league": [
         {
-          "name": "Edmonton Oilers",
-          "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+          "name": "Toronto Maple Leafs",
+          "logo": "../logos/NHL/Toronto-Maple-Leafs-Logo.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
         {
-          "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "name": "Ottawa Senators",
+          "logo": "../logos/NHL/Ottawa-Senators-Logo.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Toronto Raptors",
+          "logo": "../logos/NBA/Toronto_Raptors_logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Toronto Blue Jays",
+          "logo": "../logos/MLB/Toronto-Blue-Jays-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Toronto Argonauts",
+          "logo": "../logos/CFL/Toronto Argonauts.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
+        },
+        {
+          "name": "Hamilton Tiger-Cats",
+          "logo": "../logos/CFL/Hamilton Tiger-Cats.png",
+          "league": "CFL",
+          "leagueLogo": "../logos/CFL/CFL.png"
+        },
+        {
+          "name": "Toronto FC",
+          "logo": "../logos/MLS/Toronto FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Toronto",
+          "logo": "../logos/PWHL/Toronto_PWHL.jpg",
+          "league": "PWHL",
+          "leagueLogo": "../logos/PWHL/PWHL.png"
+        },
+        {
+          "name": "Ottawa",
+          "logo": "../logos/PWHL/Ottawa_PWHL.jpg",
+          "league": "PWHL",
+          "leagueLogo": "../logos/PWHL/PWHL.png"
         }
       ],
-      "minor_league": [],
+      "minor_league": [
+        {
+          "name": "Toronto Marlies",
+          "logo": "../logos/AHL/Toronto_Marlies_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Belleville Senators",
+          "logo": "../logos/AHL/Belleville_Senators_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "Raptors 905",
+          "logo": "../logos/NBA GL/Raptors_905_logo.svg.png",
+          "league": "NBA GL",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Ottawa Blackjacks",
+          "logo": "../logos/CEBL/Ottawa Blackjacks.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Hamilton Honey Badgers",
+          "logo": "../logos/CEBL/Hamilton Honey Badgers.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Scarborough Shooting Stars",
+          "logo": "../logos/CEBL/Scarborough Shooting Stars.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Niagara River Lions",
+          "logo": "../logos/CEBL/Niagara River Lions.png",
+          "league": "CEBL",
+          "leagueLogo": "../logos/CEBL/CEBL.png"
+        },
+        {
+          "name": "Atletico Ottawa",
+          "logo": "../logos/CPL/Atletico Ottawa.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
+        },
+        {
+          "name": "Forge FC",
+          "logo": "../logos/CPL/Forge FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
+        },
+        {
+          "name": "York United FC",
+          "logo": "../logos/CPL/York United FC.png",
+          "league": "CPL",
+          "leagueLogo": "../logos/CPL/CPL.png"
+        }
+      ],
       "junior_league": [
         {
-          "name": "Alabama Crimson Tide",
-          "logo": "../logos/NCAA/Alabama Crimson Tide-Photoroom.png",
-          "league": "NCAA",
-          "leagueLogo": "../logos/NCAA/NCAA.png"
+          "name": "Sault Ste Marie Greyhounds",
+          "logo": "../logos/OHL/Sault_Ste._Marie_Greyhounds.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Sudbury Wolves",
+          "logo": "../logos/OHL/Sudbury_Wolves.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "North Bay Battalion",
+          "logo": "../logos/OHL/North_Bay_Battalion.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Ottawa 67's",
+          "logo": "../logos/OHL/Ottawa_67's.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Owen Sound Attack",
+          "logo": "../logos/OHL/Owen_SOund_Attack.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Barrie Colts",
+          "logo": "../logos/OHL/Barrie_Colts.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Peterborough Petes",
+          "logo": "../logos/OHL/Peterborough_Petes.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Kingston Frontenacs",
+          "logo": "../logos/OHL/Kingston_Frontenacs.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Oshawa Generals",
+          "logo": "../logos/OHL/Oshawa_Generals.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Mississauga Steelheads",
+          "logo": "../logos/OHL/Mississauga_Steelheads.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Brantford Bulldogs",
+          "logo": "../logos/OHL/Hamilton_Bulldogs.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Guelph Storm",
+          "logo": "../logos/OHL/Guelph_Storm.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Kitchener Rangers",
+          "logo": "../logos/OHL/Kitchener_Rangers.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Niagara IceDogs",
+          "logo": "../logos/OHL/Niagara_IceDogs.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "London Knights",
+          "logo": "../logos/OHL/London_Knights.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Sarnia Sting",
+          "logo": "../logos/OHL/Sarnia_Sting.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Windsor Spitfires",
+          "logo": "../logos/OHL/Windsor_Spitfires.png",
+          "league": "OHL",
+          "leagueLogo": "../logos/OHL/OHL.png"
+        },
+        {
+          "name": "Carleton Ravens",
+          "logo": "../logos/USPORTS/Carleton Ravens.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Ottawa Gee-Gees",
+          "logo": "../logos/USPORTS/Ottawa Gee-Gees.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Toronto Varsity Blues",
+          "logo": "../logos/USPORTS/Varsity Blues.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Toronto Metropolitan Bold",
+          "logo": "../logos/USPORTS/Toronto Metropolitan Bold.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Queen's Golden Gaels",
+          "logo": "../logos/USPORTS/Queens Gaels.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "York Lions",
+          "logo": "../logos/USPORTS/York Lions.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Laurentian Voyageurs",
+          "logo": "../logos/USPORTS/Laurentian Voyageurs.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Royal Military College Paladins",
+          "logo": "../logos/USPORTS/Royal Military College Paladins.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Trent Excalibur",
+          "logo": "../logos/USPORTS/Trent Excalibur.jpg",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Nipissing Lakers",
+          "logo": "../logos/USPORTS/Nipissing Lakers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Ontario Tech Ridgebacks",
+          "logo": "../logos/USPORTS/Ontario Tech Ridgebacks.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Western Ontario Mustangs",
+          "logo": "../logos/USPORTS/Western Ontario Mustangs.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Windsor Lancers",
+          "logo": "../logos/USPORTS/Windsor Lancers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "MacMaster Marauders",
+          "logo": "../logos/USPORTS/MacMaster Marauders.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Guelph Gryphons",
+          "logo": "../logos/USPORTS/Guelph Gryphons.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Waterloo Warriors",
+          "logo": "../logos/USPORTS/Waterloo Warriors.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Laurier Golden Hawks",
+          "logo": "../logos/USPORTS/Laurier Golden Hawks.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Brock Badgers",
+          "logo": "../logos/USPORTS/Brock Badgers.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+        },
+        {
+          "name": "Lakehead Thunderwolves",
+          "logo": "../logos/USPORTS/Lakehead Thunderwolves.png",
+          "league": "USPORTS",
+          "leagueLogo": "../logos/USPORTS/USPORTS.png"
         }
       ],
       "stadiums": [
         {
-          "name": "Bryant-Denny Stadium",
-          "city": "Tuscaloosa",
-          "capacity": "100.077 seats",
-          "residents": "Alabama Crimson Tide (NCAA Football)",
+          "name": "Rogers Centre",
+          "city": "Toronto",
+          "capacity": "39.150 seats",
+          "residents": "Toronto Blue Jays (MLB)",
           "pictures": [
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA.jpeg",
-            "../stadiums-ncaa/stadiums/ALABAMA - BRYANT-DENNY STADIUM - TUSCALOOSA CRIMSON TIDE.jpg"
+            "../stadiums-pro/TORONTO - ROGERS CENTRE.jpg",
+            "../stadiums-pro/TORONTO - ROGERS CENTRE BLUE JAYS.jpg"
+          ]
+        },
+        {
+          "name": "BMO Field",
+          "city": "Toronto",
+          "capacity": "27.980 seats",
+          "residents": "Toronto Argonauts (CFL) and Toronto FC (MLS)",
+          "pictures": [
+            "../stadiums-pro/TORONTO - BMO FIELD.jpg",
+            "../stadiums-pro/TORONTO - BMO FIELD FC.jpg" 
+          ]
+        },
+        {
+          "name": "TD Place Stadium",
+          "city": "Ottawa",
+          "capacity": "24.000 seats",
+          "residents": "Ottawa Redblacks (CFL) and Atletico Ottawa (CPL)",
+          "pictures": [
+            "../stadiums-pro/OTTAWA - TD PLACE STADIUM.jpg",
+            "../stadiums-pro/OTTAWA - TD PLACE STADIUM FC.jpg" 
+          ]
+        },
+        {
+          "name": "Tim Horton's Field",
+          "city": "Hamilton",
+          "capacity": "23.218 seats",
+          "residents": "Hamilton Tiger-Cats (CFL) and Forge FC (CPL)",
+          "pictures": [
+            "../stadiums-pro/HAMILTON - TIM HORTONS FIELD.webp",
+            "../stadiums-pro/HAMILTON - TIM HORTONS FIELD TIGER-CATS.jpg" 
+          ]
+        },
+        {
+          "name": "Canadian Tire Centre",
+          "city": "Ottawa",
+          "capacity": "20.500 seats",
+          "residents": "Ottawa Senators (NHL)",
+          "pictures": [
+            "../stadiums-pro/OTTAWA - CANADIAN TIRE CENTER.jpg",
+            "../stadiums-pro/OTTAWA - CANADIAN TIRE CENTER SENATORS.jpg" 
+          ]
+        },
+        {
+          "name": "Scotiabank Arena",
+          "city": "Toronto",
+          "capacity": "19.800 seats",
+          "residents": "Toronto Maple Leafs (NHL) and Toronto Raptors (NBA)",
+          "pictures": [
+            "../stadiums-pro/TORONTO - SCOTIABANK ARENA.jpg",
+            "../stadiums-pro/TORONTO - SCOTIABANK ARENA MAPLE LEAFS.jpg"
+          ]
+        },
+        {
+          "name": "Coca-Cola Coliseum",
+          "city": "Toronto",
+          "capacity": "10.279 seats",
+          "residents": "Toronto Marlies (AHL)",
+          "pictures": [
+            "../stadiums-pro/TORONTO - COCA COLA COLISEUM.webp",
+            "../stadiums-pro/TORONTO - COCA COLA COLISEUM MARLIES.jpg"  
+          ]
+        },
+        {
+          "name": "Budweiser Gardens",
+          "city": "London",
+          "capacity": "10.200 seats",
+          "residents": "London Knights (OHL) and London Lightning (BSL)",
+          "pictures": [
+            "../stadiums-pro/LONDON - BUDWEISER GARDENS.jpg",
+            "../stadiums-pro/LONDON - BUDWEISER GARDENS KNIGHTS.jpg"  
+          ]
+        },
+        {
+          "name": "TD Place Arena",
+          "city": "Ottawa",
+          "capacity": "9.500 seats",
+          "residents": "Ottawa (PWHL), Ottawa 67's (OHL) and Ottawa Blackjacks (BSL)",
+          "pictures": [
+            "../stadiums-pro/OTTAWA - TD PLACE.jfif",
+            "../stadiums-pro/OTTAWA - TD PLACE ARENA.jpg"  
+          ]
+        },
+        {
+          "name": "CAA Arena",
+          "city": "Belleville",
+          "capacity": "4.365 seats",
+          "residents": "Belleville Senators (AHL)",
+          "pictures": [
+            "../stadiums-pro/BELLEVILLE - CAA ARENA.jpeg",
+            "../stadiums-pro/BELLEVILLE - CAA ARENA SENS.jpg"  
+          ]
+        },
+        {
+          "name": "Mattamy Athletic Centre",
+          "city": "Toronto",
+          "capacity": "3.850 seats",
+          "residents": "Toronto (PWHL)",
+          "pictures": [
+            "../stadiums-pro/TORONTO - MATTAMY ATHLETIC CENTRE.jfif",
+            "../stadiums-pro/TORONTO - MATTAMY ATHLETIC CENTRE PWHL.jpg"  
           ]
         }
       ],
       "players": [
         {
-          "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "name": "Auston Matthews",
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATTHEWS.webp"
+        },
+        {
+          "name": "Erik Karlsson",
+          "picture": "../players/CANADA/ONTARIO/SENATORS - ERIK KARLSSON.jpeg"
+        },
+        {
+          "name": "Vince Carter",
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - CARTER.jpg"
+        },
+        {
+          "name": "Roy Halladay",
+          "picture": "../players/CANADA/ONTARIO/JAYS - ROY HALLADAY.jpg"
+        },
+        {
+          "name": "Natalie Spooner",
+          "picture": "../players/CANADA/ONTARIO/PWHL - NATALIE SPOONER.jpg"
+        },
+        {
+          "name": "Mats Sundin",
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATS SUNDIN.jpg"
+        },
+        {
+          "name": "Daniel Alfredsson",
+          "picture": "../players/CANADA/ONTARIO/SENATORS - DANIEL ALFREDSSON 1.jpg"
+        },
+        {
+          "name": "Kyle Lowry",
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - LOWRY 2.jpg"
+        },
+        {
+          "name": "Dave Stieb",
+          "picture": "../players/CANADA/ONTARIO/JAYS - DAVE STIEB.jpg"
+        },
+        {
+          "name": "Sarah Nurse",
+          "picture": "../players/CANADA/ONTARIO/PWHL - SARAH NURSE.jpg"
+        },
+        {
+          "name": "Dave Keon",
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - DAVE KEON.jpg"
+        },
+        {
+          "name": "Marian Hossa",
+          "picture": "../players/CANADA/ONTARIO/SENATORS - MARIAN HOSSA 2.jpg"
+        },
+        {
+          "name": "Kawhi Leonard",
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - KAWHI.webp"
+        },
+        {
+          "name": "Jose Bautista",
+          "picture": "../players/CANADA/ONTARIO/JAYS - JOSE BAUTISTA.jpg"
+        },
+        {
+          "name": "Borje Salming",
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - BORJE SALMING 2.jpg"
+        },
+        {
+          "name": "Chris Bosh",
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - BOSH 2.jpg"
+        },
+        {
+          "name": "Roberto Alomar",
+          "picture": "../players/CANADA/ONTARIO/JAYS - ROBERTO ALOMAR.jpeg"
+        },
+        {
+          "name": "Wayne Gretzky",
+          "picture": "../players/CANADA/ONTARIO/GREYHOUNDS - GRETZKY.jpg"
+        },
+        {
+          "name": "Bobby Hull",
+          "picture": "../players/CANADA/ONTARIO/CATHARINES - HULL.png"
+        },
+        {
+          "name": "Patrick Kane",
+          "picture": "../players/CANADA/ONTARIO/KNIGHTS - KANE.jpg"
+        },
+        {
+          "name": "Steve Yzerman",
+          "picture": "../players/CANADA/ONTARIO/PETES - YZERMAN.png"
+        },
+        {
+          "name": "Bobby Orr",
+          "picture": "../players/CANADA/ONTARIO/GENERALS - ORR.webp"
+        },
+        {
+          "name": "Chris Pronger",
+          "picture": "../players/CANADA/ONTARIO/PETES - PRONGER.jfif"
+        },
+        {
+          "name": "Stan Mikita",
+          "picture": "../players/CANADA/ONTARIO/TEEPEES - MIKITA.png"
         }
       ]
     },
@@ -1076,6 +1597,18 @@
           "picture": "../players/CANADA/SASKATCHEWAN/PATS - BEDARD.jpg"
         },
         {
+          "name": "Joe Sakic",
+          "picture": "../players/CANADA/SASKATCHEWAN/BRONCOS - SAKIC.jpg"
+        },
+        {
+          "name": "Bryan Trottier",
+          "picture": "../players/CANADA/SASKATCHEWAN/BRONCOS - TROTTIER.jfif"
+        },
+        {
+          "name": "Mike Modano",
+          "picture": "../players/CANADA/SASKATCHEWAN/RAIDERS - MODANO.jpg"
+        },
+        {
           "name": "Brayden Point",
           "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - POINT.jpg"
         },
@@ -1098,10 +1631,6 @@
         {
           "name": "Theoren Fleury",
           "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - FLEURY.jpg"
-        },
-        {
-          "name": "Ed Litzenberger",
-          "picture": "../players/CANADA/SASKATCHEWAN/PATS - ED LITZENBERGER.jpg"
         }
       ]
     },
