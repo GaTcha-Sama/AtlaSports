@@ -12,7 +12,7 @@ function Home() {
     if (item.id === 'can') {
       navigate('/gallery-can');
     } else if (item.id === 'usa') {
-      navigate('/gallery-usa');
+      navigate('/gallery-usa'); 
     }
   };
 

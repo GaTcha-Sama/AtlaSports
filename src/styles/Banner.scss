@@ -1,14 +1,11 @@
 @import '../variables.scss';
 
 .banner {
-    background-image: url('../assets/banner-img.png');
-    background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
     border-radius: 20px;
-    padding: 120px;
+    padding: 10px;
     margin-bottom: 50px;
-    background-color: white;
     &__title {
         display: flex;
         font-family: $main-text;
