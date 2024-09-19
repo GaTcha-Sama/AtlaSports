@@ -498,7 +498,7 @@
         },
         {
           "name": "Golden State Warriors",
-          "logo": "../logos/NBA/Golden-State-Warriors-Logo.webp",
+          "logo": "../logos/NBA/gsw.webp",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
         },
@@ -6849,6 +6849,10 @@
         {
           "name": "Lou Gehrig",
           "picture": "../players/NEW YORK/YANKEES - LOU GEHRIG.jpeg"
+        },
+        {
+          "name": "Thierry Henry",
+          "picture": "../players/NEW YORK/REDBULLS - HENRY.webp"
         },
         {
           "name": "Carmelo Anthony",
