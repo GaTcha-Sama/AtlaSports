@@ -94,25 +94,25 @@
           "name": "Alberta Golden Bears",
           "logo": "../logos/USPORTS/Alberta Golden Bears.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Calgary Dinos",
           "logo": "../logos/USPORTS/Calgary Dinos.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "MacEwan Griffins",
           "logo": "../logos/USPORTS/Macewan Griffins.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Mount Royal Cougars",
           "logo": "../logos/USPORTS/Mount Royal Cougars.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Lethbridge Pronghorns",
@@ -315,43 +315,43 @@
           "name": "British Columbia Thunderbirds",
           "logo": "../logos/USPORTS/BC Thunderbirds.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Trinity Western Spartans",
           "logo": "../logos/USPORTS/Trinity Western Spartans.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Victoria Vikes",
           "logo": "../logos/USPORTS/Victoria Vikes.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Fraser Valley Cascades",
           "logo": "../logos/USPORTS/Fraser Valley Cascades.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Northern British Columbia Timberwolves",
           "logo": "../logos/USPORTS/Northern BC Timberwolves.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Thompson Rivers WolfPack",
           "logo": "../logos/USPORTS/Thompson Rivers WolfPack.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "BC-Okanagan Heat",
           "logo": "../logos/USPORTS/BC-Okanagan Heat.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -490,19 +490,19 @@
           "name": "Brandon Bobcats",
           "logo": "../logos/USPORTS/Brandon Bobcats.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Winnipeg Wesmen",
           "logo": "../logos/USPORTS/Winnipeg Wesmen.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Manitoba Bisons",
           "logo": "../logos/USPORTS/Manitoba Bisons.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -591,25 +591,25 @@
           "name": "Mount Allison Mounties",
           "logo": "../logos/USPORTS/Mount Allison Mounties.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Moncton Aigles Bleu(e)s",
           "logo": "../logos/USPORTS/Moncton Aigles Bleu(e)s.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "New Brunswick Reds",
           "logo": "../logos/USPORTS/New Brunswick Reds.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "St. Thomas Tommies",
           "logo": "../logos/USPORTS/St. Thomas Tommies.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -689,7 +689,7 @@
           "name": "Newfoundland Seahawks",
           "logo": "../logos/USPORTS/Newfoundland Seahawks.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -745,31 +745,31 @@
           "name": "Acadia Axemen",
           "logo": "../logos/USPORTS/Acadia Axemen.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Cape Breton Capers",
           "logo": "../logos/USPORTS/Cape Breton Capers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Dalhousie Tigers",
           "logo": "../logos/USPORTS/Dalhousie Tigers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "St. Mary's Huskies",
           "logo": "../logos/USPORTS/Saint Mary's Huskies.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "St. Francis Xavier X-Men",
           "logo": "../logos/USPORTS/St. Francis Xavier X-Men.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -1066,115 +1066,115 @@
           "name": "Carleton Ravens",
           "logo": "../logos/USPORTS/Carleton Ravens.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Ottawa Gee-Gees",
           "logo": "../logos/USPORTS/Ottawa Gee-Gees.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Toronto Varsity Blues",
           "logo": "../logos/USPORTS/Varsity Blues.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Toronto Metropolitan Bold",
           "logo": "../logos/USPORTS/Toronto Metropolitan Bold.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Queen's Golden Gaels",
           "logo": "../logos/USPORTS/Queens Gaels.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "York Lions",
           "logo": "../logos/USPORTS/York Lions.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Laurentian Voyageurs",
           "logo": "../logos/USPORTS/Laurentian Voyageurs.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Royal Military College Paladins",
           "logo": "../logos/USPORTS/Royal Military College Paladins.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Trent Excalibur",
           "logo": "../logos/USPORTS/Trent Excalibur.jpg",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Nipissing Lakers",
           "logo": "../logos/USPORTS/Nipissing Lakers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Ontario Tech Ridgebacks",
           "logo": "../logos/USPORTS/Ontario Tech Ridgebacks.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Western Ontario Mustangs",
           "logo": "../logos/USPORTS/Western Ontario Mustangs.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Windsor Lancers",
           "logo": "../logos/USPORTS/Windsor Lancers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "MacMaster Marauders",
           "logo": "../logos/USPORTS/MacMaster Marauders.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Guelph Gryphons",
           "logo": "../logos/USPORTS/Guelph Gryphons.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Waterloo Warriors",
           "logo": "../logos/USPORTS/Waterloo Warriors.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Laurier Golden Hawks",
           "logo": "../logos/USPORTS/Laurier Golden Hawks.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Brock Badgers",
           "logo": "../logos/USPORTS/Brock Badgers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Lakehead Thunderwolves",
           "logo": "../logos/USPORTS/Lakehead Thunderwolves.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -1417,7 +1417,7 @@
           "name": "UPEI Panthers",
           "logo": "../logos/USPORTS/UPEI Panthers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -1570,61 +1570,61 @@
           "name": "Concordia Stingers",
           "logo": "../logos/USPORTS/Concordia Stingers.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Laval Rouge et Or",
           "logo": "../logos/USPORTS/Laval Rouge et Or.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "UQAM Citadins",
           "logo": "../logos/USPORTS/UQAM Citadins.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "McGill Redbirds",
           "logo": "../logos/USPORTS/McGill Redbirds.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Bishop Gaiters",
           "logo": "../logos/USPORTS/Bishop Gaiters.jpg",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "ETS Piranhas",
           "logo": "../logos/USPORTS/ETS Piranhas.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Montréal Carabins",
           "logo": "../logos/USPORTS/Montreal Carabins.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Trois-Rivières Patriotes",
           "logo": "../logos/USPORTS/UQTR Patriotes.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Sherbrooke Vert et Or",
           "logo": "../logos/USPORTS/Sherbrooke Vert et Or.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Chicoutimi Inuk",
           "logo": "../logos/USPORTS/Chicoutimi Inuk.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -1845,19 +1845,19 @@
           "name": "Saskatchewan Huskies",
           "logo": "../logos/USPORTS/Saskatchewan Huskies.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Regina Rams",
           "logo": "../logos/USPORTS/Regina Rams.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         },
         {
           "name": "Regina Cougars",
           "logo": "../logos/USPORTS/Regina Cougars.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
