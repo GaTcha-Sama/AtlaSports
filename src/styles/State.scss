@@ -21,3 +21,35 @@
 .state__players {
     background-color: $main-color;
 }
+
+.state__navbar {
+    background-color: #333;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    margin-bottom: 0;
+  
+    ul {
+      list-style: none;
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 0;
+    }
+  
+    li {
+      display: inline;
+    }
+  
+    a {
+      color: white;
+      text-decoration: none;
+      padding: 1rem 1rem;
+      font-size: 1.7rem;
+  
+      &:hover {
+        background-color: #555;
+        border-radius: 5px;
+      }
+    }
+  }

@@ -22,7 +22,7 @@ function GalleryCAN() {
         <h1 className='country'>CANADA​​</h1>
       </section>
       <section className='country__text'>
-        <p className='country__text'>In this gallery you can choose among the 13 provinces of Canada</p>
+        <p className='country__text'>In this gallery you can choose among the 10 provinces of Canada, the 3 territories are just here because they exist but there are no professional or junior teams in them.</p>
       </section>
       
       <div className="search-container">

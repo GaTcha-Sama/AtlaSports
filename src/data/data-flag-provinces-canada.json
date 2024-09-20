@@ -16,7 +16,7 @@
         },
         {
           "name": "Calgary Flames",
-          "logo": "../logos/NHL/Calgary-Flames-Logo.png",
+          "logo": "../logos/NHL/Calgary-Flames.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
@@ -118,7 +118,7 @@
           "name": "Lethbridge Pronghorns",
           "logo": "../logos/USPORTS/Lethbridge Pronghorns.png",
           "league": "USPORTS",
-          "leagueLogo": "../logos/USPORTS/USPORTS.png"
+          "leagueLogo": "../logos/USPORTS/Ulogo.png"
         }
       ],
       "stadiums": [
@@ -885,14 +885,14 @@
           "leagueLogo": "../logos/MLS/MLS.png"
         },
         {
-          "name": "Toronto",
-          "logo": "../logos/PWHL/Toronto_PWHL.jpg",
+          "name": "Toronto Sceptres",
+          "logo": "../logos/PWHL/Toronto-Sceptres.png",
           "league": "PWHL",
           "leagueLogo": "../logos/PWHL/PWHL.png"
         },
         {
-          "name": "Ottawa",
-          "logo": "../logos/PWHL/Ottawa_PWHL.jpg",
+          "name": "Ottawa Charge",
+          "logo": "../logos/PWHL/Ottawa-Charge.png",
           "league": "PWHL",
           "leagueLogo": "../logos/PWHL/PWHL.png"
         }
@@ -1467,8 +1467,8 @@
           "leagueLogo": "../logos/MLS/MLS.png"
         },
         {
-          "name": "Montréal",
-          "logo": "../logos/PWHL/Montreal_PWHL.jpg",
+          "name": "Montréal Victoire",
+          "logo": "../logos/PWHL/Montreal-Victoire.png",
           "league": "PWHL",
           "leagueLogo": "../logos/PWHL/PWHL.png"
         }

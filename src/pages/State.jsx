@@ -21,26 +21,43 @@ function State() {
 
   return (
     <div className='state'>
+      
       <h1 className='state__title'>{stateInfo.nom}</h1>
-      <div className='state__map'>
-      {/*  <Map map={stateInfo.map} city={stateInfo.city} /> A FAIRE EN DERNIER */}
-      </div>
-      <div className='state__logos' style={gradientStyle}>
+
+      {/* Navbar for navigation */}
+      <nav className="state__navbar">
+        <ul>
+          <li><a href="#teams">TEAMS</a></li>
+          <li><a href="#stadiums">STADIUMS & ARENAS</a></li>
+          <li><a href="#players">PLAYERS</a></li>
+        </ul>
+      </nav>
+
+      {/*<div className='state__map'>
+        {/*  <Map map={stateInfo.map} city={stateInfo.city} /> A FAIRE EN DERNIER 
+      </div> */}
+
+      {/* TEAMS Section */}
+      <div id='teams' className='state__logos' style={gradientStyle}>
         <h1 className='state__title-container'>TEAMS</h1>
         <Logos majorLeague={stateInfo.major_league} 
                 minorLeague={stateInfo.minor_league} 
                 juniorLeague={stateInfo.junior_league} />
       </div>
-      <div className='state__stadiums'>
-        <h1 className='state__title-container'>BIGGESTS STADIUMS & ARENAS</h1>
+
+      {/* STADIUMS & ARENAS Section */}
+      <div id='stadiums' className='state__stadiums'>
+        <h1 className='state__title-container'>BIGGEST STADIUMS & ARENAS</h1>
         <Stadiums stadiums={stateInfo.stadiums} />
       </div>
-      <div className='state__players' style={gradientStyle}>
-        <h1 className='state__title-container' >FAMOUS PLAYERS</h1>
+
+      {/* PLAYERS Section */}
+      <div id='players' className='state__players' style={gradientStyle}>
+        <h1 className='state__title-container'>FAMOUS PLAYERS</h1>
         <Players players={stateInfo.players} />
       </div>
     </div>
   )
 }
 
-export default State
+export default State;

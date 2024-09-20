@@ -26,7 +26,7 @@ function Form() {
 
   return (
     <div className="form-container">
-      <form onSubmit={handleSubmit} className="contact-form">
+      <form onSubmit={handleSubmit} className="contact-form" >
         <div className="form-group">
           <label htmlFor="name">Name</label>
           <input

@@ -8,7 +8,7 @@ function Stadiums({ stadiums }) {
         <div className='stadium__container'>
           <div key={stadium.name} className='stadium__photo'>          
             {stadium.pictures.map((picture, index) => (
-              <img key={index} src={picture} alt="chase field" className='stadium__img'/>
+              <img key={index} src={picture} alt="stadium" className='stadium__img'/>
             ))}          
           </div>
           <h3 className='stadium__title'>{stadium.name}</h3>

@@ -13,10 +13,10 @@ function About() {
             Copyrights : All logos belongs to the professional leagues and their clubs.
           </li>
           <li className='about__list'>
-            Respect : This is a sport website so the fair-play is essential.
+            Respect : This is a sport website so the fair-play is essential, otherwise it's a 10 yard penalty or 2 minutes in jail. Think about it !
           </li>
           <li className='about__list'>
-            Updates : If you have information on changing a logo, moving a franchise or changing the name of a stadium, do not hesitate to contact me !
+            Updates : If you have information on changing a logo, moving a franchise or changing the name of a stadium, do not hesitate to contact me ! I'm developping this website on my own.
           </li>
         </ul>
       </section>

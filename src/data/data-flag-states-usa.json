@@ -4201,8 +4201,8 @@
           "leagueLogo": "../logos/MLS/MLS.png"
         },
         {
-          "name": "Boston",
-          "logo": "../logos/PWHL/Boston_PWHL.jpg",
+          "name": "Boston Fleet",
+          "logo": "../logos/PWHL/Boston-Fleet.png",
           "league": "PWHL",
           "leagueLogo": "../logos/PWHL/PWHL.png"
         }
@@ -4903,8 +4903,8 @@
           "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
         },
         {
-          "name": "Minnesota",
-          "logo": "../logos/PWHL/Minnesota_PWHL.jpg",
+          "name": "Minnesota Frost",
+          "logo": "../logos/PWHL/Minnesota-Frost.png",
           "league": "PWHL",
           "leagueLogo": "../logos/PWHL/PWHL.png"
         }
@@ -6359,8 +6359,8 @@
           "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
         },
         {
-          "name": "New York",
-          "logo": "../logos/PWHL/New_York_PWHL.jpg",
+          "name": "New York Sirens",
+          "logo": "../logos/PWHL/NY-Sirens.png",
           "league": "PWHL",
           "leagueLogo": "../logos/PWHL/PWHL.png"
         },
