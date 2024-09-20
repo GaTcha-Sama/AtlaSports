@@ -19,7 +19,7 @@ function GalleryUSA() {
   return (
     <>
       <section>
-        <h1 className='country'>🇺🇸​​ UNITED STATES OF AMERICA 🇺🇸​​</h1>
+        <h1 className='country'>UNITED STATES OF AMERICA​​</h1>
       </section>
       <section className='country__text'>
         <p className='country__text'>In this gallery you can choose among the 50 states of the US</p>

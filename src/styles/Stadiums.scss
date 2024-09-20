@@ -4,6 +4,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    &__capacity {
+        display: flex;
+        border-radius: 10px;
+        background-color: burlywood;
+        font-size: 15px;
+    }
     &__container {
         flex-direction: column;
         display: flex;

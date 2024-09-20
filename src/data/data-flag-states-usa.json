@@ -3,6 +3,7 @@
       "id": 1,
       "nom": "Alabama",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/AB.jpg",  
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -120,6 +121,7 @@
       "id": 2,
       "nom": "Alaska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/AK.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -183,6 +185,7 @@
       "id": 3,
       "nom": "Arizona",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/AZ.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -404,6 +407,7 @@
       "id": 4,
       "nom": "Arkansas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arkansas.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/AR.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -473,6 +477,7 @@
       "id": 5,
       "nom": "California (North)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/CA.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -828,6 +833,7 @@
       "id": 505,
       "nom": "California (South)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/CA.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -1233,6 +1239,7 @@
       "id": 6,
       "nom": "Colorado",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Colorado.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/CO.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -1490,6 +1497,7 @@
       "id": 7,
       "nom": "Connecticut",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Connecticut.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/CT.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -1645,6 +1653,7 @@
       "id": 8,
       "nom": "Delaware",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Delaware.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/DE.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -1715,6 +1724,7 @@
       "id": 10,
       "nom": "Florida (North)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/FL.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -1970,6 +1980,7 @@
       "id": 1001,
       "nom": "Florida (South)",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/FL.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -2253,6 +2264,7 @@
       "id": 11,
       "nom": "Georgia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/GE.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -2488,6 +2500,7 @@
       "id": 12,
       "nom": "Hawaii",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/HW.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -2535,6 +2548,7 @@
       "id": 13,
       "nom": "Idaho",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Idaho.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/ID.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -2625,6 +2639,7 @@
       "id": 14,
       "nom": "Illinois",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Illinois.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/IL.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -2998,6 +3013,7 @@
       "id": 15,
       "nom": "Indiana",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flag_of_Indiana.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/IN.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -3257,6 +3273,7 @@
       "id": 16,
       "nom": "Iowa",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Iowa.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/IW.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -3413,6 +3430,7 @@
       "id": 17,
       "nom": "Kansas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Kansas.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/KS.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -3548,6 +3566,7 @@
       "id": 18,
       "nom": "Kentucky",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_Kentucky.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/KT.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -3697,6 +3716,7 @@
       "id": 19,
       "nom": "Louisiana",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Louisiana.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/LO.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -3911,6 +3931,7 @@
       "id": 20,
       "nom": "Maine",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_State_of_Maine.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MA.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -4009,6 +4030,7 @@
       "id": 21,
       "nom": "Maryland",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MY.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -4165,6 +4187,7 @@
       "id": 22,
       "nom": "Massachusetts",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Massachusetts.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MA.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -4476,6 +4499,7 @@
       "id": 23,
       "nom": "Michigan",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Flag_of_Michigan.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MG.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -4861,6 +4885,7 @@
       "id": 24,
       "nom": "Minnesota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Minnesota.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MN.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -5142,6 +5167,7 @@
       "id": 25,
       "nom": "Mississippi",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Mississippi.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MS.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -5289,6 +5315,7 @@
       "id": 26,
       "nom": "Missouri",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Flag_of_Missouri.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MI.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -5524,6 +5551,7 @@
       "id": 27,
       "nom": "Montana",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Montana.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/MT.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -5597,6 +5625,7 @@
       "id": 28,
       "nom": "Nebraska",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Nebraska.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NE.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -5761,6 +5790,7 @@
       "id": 29,
       "nom": "Nevada",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Nevada.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NV.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -5966,6 +5996,7 @@
       "id": 30,
       "nom": "New Hampshire",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_New_Hampshire.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NH.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -6033,6 +6064,7 @@
       "id": 31,
       "nom": "New Jersey",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_New_Jersey.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NJ.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -6171,6 +6203,7 @@
       "id": 32,
       "nom": "New Mexico",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_New_Mexico.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NM.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -6275,6 +6308,7 @@
       "id": 33,
       "nom": "New York",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NY.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -6872,6 +6906,7 @@
       "id": 34,
       "nom": "North Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_North_Carolina.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/NC.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -7315,6 +7350,7 @@
       "id": 35,
       "nom": "North Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_North_Dakota.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/ND.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -7410,6 +7446,7 @@
       "id": 36,
       "nom": "Ohio",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Ohio.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/OH.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -7913,6 +7950,7 @@
       "id": 37,
       "nom": "Oklahoma",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/OK.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -8112,6 +8150,7 @@
       "id": 38,
       "nom": "Oregon",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Oregon.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/OR.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -8293,6 +8332,7 @@
       "id": 39,
       "nom": "Pennsylvania",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/PN.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -8754,6 +8794,7 @@
       "id": 40,
       "nom": "Rhode Island",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Rhode_Island.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/RI.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -8840,6 +8881,7 @@
       "id": 41,
       "nom": "South Carolina",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_South_Carolina.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/SC.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -8998,6 +9040,7 @@
       "id": 42,
       "nom": "South Dakota",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_South_Dakota.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/SD.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -9104,6 +9147,7 @@
       "id": 43,
       "nom": "Tennessee",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Tennessee.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/TN.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -9445,16 +9489,577 @@
         }
       ]
     },
-    { "__comment": "TEXAS - A FAIRE EN DERNIER",
+    { "__comment": "TEXAS",
       "id": 44,
       "nom": "Texas",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
-      "carte": "state-layer/TX.jpg"
+      "landscape": "../landscapes/USA/TEXAS.jpg",
+      "carte": "state-layer/TX.jpg",
+      "map": "../map/arizona-test.jpg",
+      "city": "../map/phoenix-test.jpg",
+      "backgroundGradient": "linear-gradient(to right, #FFD700, #bf1e2e)",
+      "major_league": [
+        {
+          "name": "Dallas Cowboys",
+          "logo": "../logos/NFL/Dallas-Cowboys-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Houston Texans",
+          "logo": "../logos/NFL/Texans-Logo.png",
+          "league": "NFL",
+          "leagueLogo": "../logos/NFL/NFL-Logo.png"
+        },
+        {
+          "name": "Houston Astros",
+          "logo": "../logos/MLB/Houston-Astros-logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "Texas Rangers",
+          "logo": "../logos/MLB/Texas-Rangers-Logo.png",
+          "league": "MLB",
+          "leagueLogo": "../logos/MLB/MLB-Logo.png"
+        },
+        {
+          "name": "San Antonio Spurs",
+          "logo": "../logos/NBA/San-Antonio-Spurs-logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Dallas Mavericks",
+          "logo": "../logos/NBA/Dallas-Mavericks-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Houston Rockets",
+          "logo": "../logos/NBA/Houston-Rockets-Logo.png",
+          "league": "NBA",
+          "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
+        },
+        {
+          "name": "Dallas Stars",
+          "logo": "../logos/NHL/Dallas-Stars-logo.png",
+          "league": "NHL",
+          "leagueLogo": "../logos/NHL/NHL-Logo.png"
+        },
+        {
+          "name": "Austin FC",
+          "logo": "../logos/MLS/Austin FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "FC Dallas",
+          "logo": "../logos/MLS/FC Dallas.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Houston Dynamo FC",
+          "logo": "../logos/MLS/Houston Dynamo FC.png",
+          "league": "MLS",
+          "leagueLogo": "../logos/MLS/MLS.png"
+        },
+        {
+          "name": "Dallas Wings",
+          "logo": "../logos/WNBA/Dallas_Wings_logo.svg.png",
+          "league": "WNBA",
+          "leagueLogo": "../logos/WNBA/WNBA-Logo.png"
+        },
+        {
+          "name": "Houston Dash",
+          "logo": "../logos/NWSL/Houston Dash.png",
+          "league": "NWSL",
+          "leagueLogo": "../logos/NWSL/NWSL.png"
+        }
+      ],
+      "minor_league": [
+        {
+          "name": "Austin Spurs",
+          "logo": "../logos/NBA GL/Austin_Spurs_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Rio Grande Valley Vipers",
+          "logo": "../logos/NBA GL/Rio_Grande_Valley_Vipers_Logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Texas Legends",
+          "logo": "../logos/NBA GL/Texas_Legends_logo.svg.png",
+          "league": "NBA G-League",
+          "leagueLogo": "../logos/NBA GL/NBAGL.png"
+        },
+        {
+          "name": "Texas Stars",
+          "logo": "../logos/AHL/Texas_Stars_logo.svg.png",
+          "league": "AHL",
+          "leagueLogo": "../logos/AHL/AHL.png"
+        },
+        {
+          "name": "El Paso Chihuahuas",
+          "logo": "../logos/PCL/El_Paso_Chihuahuas.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Round Rock Express",
+          "logo": "../logos/PCL/Round-Rock-Express.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Sugar Land Space Cowboys",
+          "logo": "../logos/PCL/Sugar_Land_Space_Cowboys.png",
+          "league": "PCL",
+          "leagueLogo": "../logos/PCL/Triple-A.png"
+        },
+        {
+          "name": "Allen Americans",
+          "logo": "../logos/ECHL/Allen-Americans-logo.png",
+          "league": "ECHL",
+          "leagueLogo": "../logos/ECHL/ECHL.png"
+        }
+      ],
+      "junior_league": [
+        {
+          "name": "Texas Longhorns",
+          "logo": "../logos/NCAA/Texas Longhorns.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Texas A&M Aggies",
+          "logo": "../logos/NCAA/Texas-AM-Aggies-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UTSA (Texas-San Antonio) Roadrunners",
+          "logo": "../logos/NCAA/Texas-SA-Roadrunners-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Texas Tech Red Raiders",
+          "logo": "../logos/NCAA/Texas-Tech-Red-Raiders-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UTEP (Texas-El Paso) Miners",
+          "logo": "../logos/NCAA/Texas-El Paso Miners.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Rice Owls",
+          "logo": "../logos/NCAA/Rice-Owls-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Baylor Bears",
+          "logo": "../logos/NCAA/Baylor-Bears-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "TCU (Texas Christian) Horned Frogs",
+          "logo": "../logos/NCAA/TCU-Horned-Frogs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Houston Cougars",
+          "logo": "../logos/NCAA/Houston-Cougars-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "SMU (Southern Methodist) Mustangs",
+          "logo": "../logos/NCAA/SMU-Mustangs-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "North Texas Mean Green",
+          "logo": "../logos/NCAA/North Texas Mean Green.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Texas State Bobcats",
+          "logo": "../logos/NCAA/Texas-State-Bobcats-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Texas Southern Tigers",
+          "logo": "../logos/NCAA/Texas-Southern-Tigers-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Texas-Arlington Mavericks",
+          "logo": "../logos/NCAA/Texas-Arlington-Mavericks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "UTRGV (Texas-Rio Grande Valley) Vaqueros",
+          "logo": "../logos/NCAA/Texas-Rio Grande Valley Vaqueros.jpg",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        },
+        {
+          "name": "Stephen F. Austin Lumberjacks",
+          "logo": "../logos/NCAA/Stephen-F.-Austin-Lumberjacks-logo.png",
+          "league": "NCAA",
+          "leagueLogo": "../logos/NCAA/NCAA.png"
+        }
+      ],
+      "stadiums": [
+        {
+          "name": "AT&T Stadium",
+          "city": "Arlington",
+          "capacity": "100.000 seats",
+          "residents": "Dallas Cowboys (NFL)",
+          "pictures": [
+            "../stadiums-pro/DALLAS - AT&T STADIUM.jpg",
+            "../stadiums-pro/DALLAS - AT&T STADIUM COWBOYS.jpg"
+          ]
+        },
+        {
+          "name": "NRG Park",
+          "city": "Houston",
+          "capacity": "71.500 seats",
+          "residents": "Houston Texans (NFL)",
+          "pictures": [
+            "../stadiums-pro/HOUSTON - NRG STADIUM.jpg",
+            "../stadiums-pro/HOUSTON - NRG STADIUM TEXANS.jpg"
+          ]
+        },
+        {
+          "name": "Minute Maid Park",
+          "city": "Houston",
+          "capacity": "40.963 seats",
+          "residents": "Houston Astros (MLB)",
+          "pictures": [
+            "../stadiums-pro/HOUSTON - MINUTE MAID PARK.jpg",
+            "../stadiums-pro/HOUSTON - MINUTE MAID PARK ASTROS.jpg"
+          ]
+        },
+        {
+          "name": "Globe Life Field",
+          "city": "Arlington",
+          "capacity": "40.300 seats",
+          "residents": "Texas Rangers (MLB)",
+          "pictures": [
+            "../stadiums-pro/ARLINGTON - GLOBAL LIFE PARK.jpg",
+            "../stadiums-pro/ARLINGTON - GLOBAL LIFE PARK RANGERS.jpg"
+          ]
+        },
+        {
+          "name": "American Airlines Center",
+          "city": "Dallas",
+          "capacity": "20.000 seats",
+          "residents": "Dallas Mavericks (NBA) and Dallas Stars (NHL)",
+          "pictures": [
+            "../stadiums-pro/DALLAS - AMERICAN AIRLINES CENTER.jpg",
+            "../stadiums-pro/DALLAS - AMERICAN AIRLINES CENTER MAVERICKS.jpg"
+          ]
+        },
+        {
+          "name": "Frost Bank Center",
+          "city": "San Antonio",
+          "capacity": "18.581 seats",
+          "residents": "San Antonio Spurs (NBA)",
+          "pictures": [
+            "../stadiums-pro/SAN ANTONIO - AT&T CENTER.jpg",
+            "../stadiums-pro/SAN ANTONIO - AT&T CENTER SPURS.jpg"
+          ]
+        },
+        {
+          "name": "Toyota Center",
+          "city": "Houston",
+          "capacity": "18.300 seats",
+          "residents": "Houston Rockets (NBA)",
+          "pictures": [
+            "../stadiums-pro/HOUSTON - TOYOTA CENTER.png",
+            "../stadiums-pro/HOUSTON - TOYOTA CENTER ROCKETS.jpg"
+          ]
+        },
+        {
+          "name": "Shell Energy Stadium",
+          "city": "Houston",
+          "capacity": "22.000 seats",
+          "residents": "Houston Dynamo FC (MLS) and Houston Dash (NWSL)",
+          "pictures": [
+            "../stadiums-pro/HOUSTON - SHELL ENERGY STADIUM.jpg",
+            "../stadiums-pro/HOUSTON - SHELL ENERGY STADIUM FC.jpeg"
+          ]
+        },
+        {
+          "name": "Q2 Stadium",
+          "city": "Austin",
+          "capacity": "20.738 seats",
+          "residents": "Austin FC (MLS)",
+          "pictures": [
+            "../stadiums-pro/AUSTIN - Q2 STADIUM.webp",
+            "../stadiums-pro/AUSTIN - Q2 STADIUM FC.jpg"
+          ]
+        },
+        {
+          "name": "Toyota Stadium",
+          "city": "Frisco",
+          "capacity": "20.500 seats",
+          "residents": "FC Dallas (MLS)",
+          "pictures": [
+            "../stadiums-pro/DALLAS - TOYOTA STADIUM.jpg",
+            "../stadiums-pro/DALLAS - TOYOTA STADIUM FC.jpg"
+          ]
+        },        
+        {
+          "name": "College Park Center",
+          "city": "Arlington",
+          "capacity": "7.000 seats",
+          "residents": "Texas-Arlington Mavericks (NCAA Basket) and Dallas Wings (WNBA)",
+          "pictures": [
+            "../stadiums-pro/DALLAS - COLLEGE PARK CENTER.jpg",
+            "../stadiums-pro/DALLAS - COLLEGE PARK CENTER WINGS.jpg"
+          ]
+        },
+        {
+          "name": "Dell Diamond",
+          "city": "Round Rock",
+          "capacity": "11.631 seats",
+          "residents": "Round Rock Express (PCL)",
+          "pictures": [
+            "../stadiums-pro/AUSTIN - DELL DIAMOND.jpg",
+            "../stadiums-pro/AUSTIN - DELL DIAMOND EXPRESS.jfif"
+          ]
+        },
+        {
+          "name": "Southwest University Park",
+          "city": "El Paso",
+          "capacity": "9.500 seats",
+          "residents": "El Paso Chihuahuas (PCL)",
+          "pictures": [
+            "../stadiums-pro/EL PASO - SOUTHWEST UNIVERSITY PARK.jpg",
+            "../stadiums-pro/EL PASO - SOUTHWEST UNIVERSITY PARK CHIHUAHUAS.jpg"
+          ]
+        },
+        {
+          "name": "Bert Ogden Arena",
+          "city": "Edinburg",
+          "capacity": "9.324 seats",
+          "residents": "Rio Grande Valley Vipers (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/RIO GRANDE - BERT OGDEN ARENA.jpg",
+            "../stadiums-pro/RIO GRANDE - BERT OGDEN ARENA VIPERS.png"
+          ]
+        },
+        {
+          "name": "H-E-B Center",
+          "city": "Cedar Park",
+          "capacity": "8.000 seats",
+          "residents": "Austin Spurs (NBA G-League) and Texas Stars (AHL)",
+          "pictures": [
+            "../stadiums-pro/AUSTIN - HEB CENTER.jpg",
+            "../stadiums-pro/AUSTIN - HEB CENTER STARS.jpg"
+          ]
+        },
+        {
+          "name": "Constellation Field",
+          "city": "Sugar Land",
+          "capacity": "7.500 seats",
+          "residents": "Sugar Land Space Cowboys (PCL)",
+          "pictures": [
+            "../stadiums-pro/SUGAR LAND - CONSTELLATION FIELD.jpg",
+            "../stadiums-pro/SUGAR LAND - CONSTELLATION FIELD SPACE.jpg"
+          ]
+        },
+        {
+          "name": "Comerica Center",
+          "city": "Frisco",
+          "capacity": "7.000 seats",
+          "residents": "Texas Legends (NBA G-League)",
+          "pictures": [
+            "../stadiums-pro/FRISCO - COMERICA CENTER.jpg",
+            "../stadiums-pro/FRISCO - COMERICA CENTER LEGENDS.jpg"
+          ]
+        },
+        {
+          "name": "Kyle Field",
+          "city": "College Station",
+          "capacity": "102.733 seats",
+          "residents": "Texas A&M Aggies (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TEXAS A&M - KYLE FIELD.jpg",
+            "../stadiums-ncaa/stadiums/TEXAS A&M - KYLE FIELD - COLLEGE STATION.jpg"
+          ]
+        },        
+        {
+          "name": "DKR-Texas Memorial Stadium",
+          "city": "Austin",
+          "capacity": "100.119 seats",
+          "residents": "Texas Longhorns (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TEXAS - DARRELL K. ROYAL-TEXAS MEMORIAL STADIUM - AUSTIN.jpg",
+            "../stadiums-ncaa/stadiums/TEXAS - DARRELL K. ROYAL-TEXAS MEMORIAL STADIUM - AUSTIN LONGHORNS.jpg"
+          ]
+        },
+        {
+          "name": "Alamodome",
+          "city": "San Antonio",
+          "capacity": "72.000 seats",
+          "residents": "UTSA Roadrunners (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/UTSA - ALAMODOME.jpg",
+            "../stadiums-ncaa/stadiums/UTSA - ALAMODOME ROADRUNNERS.jpg"
+          ]
+        },
+        {
+          "name": "Jones AT&T Stadium",
+          "city": "Lubbock",
+          "capacity": "60.454 seats",
+          "residents": "Texas Tech Red Raiders (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TEXAS TECH - JONES STADIUM.jpg",
+            "../stadiums-ncaa/stadiums/TEXAS TECH - JONES STADIUM RED.jpg"
+          ]
+        },        
+        {
+          "name": "gctrchcgryehyrehjvetejuut cjyuttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+          "city": "Austin",
+          "capacity": "100.119 seats",
+          "residents": "Texas Longhorns (NCAA Football)",
+          "pictures": [
+            "../stadiums-ncaa/stadiums/TEXAS - DARRELL K. ROYAL-TEXAS MEMORIAL STADIUM - AUSTIN.jpg",
+            "../stadiums-ncaa/stadiums/TEXAS - DARRELL K. ROYAL-TEXAS MEMORIAL STADIUM - AUSTIN LONGHORNS.jpg"
+          ]
+        },
+        {
+          "name": "Jones",
+          "city": "Berkeley",
+          "capacity": "11.858 seats",
+          "residents": "Cal Golden Bears (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY.jpg",
+            "../stadiums-ncaa/arenas/CALIFORNIA - HAAS PAVILION - BERKELEY GOLDEN BEARS.jpg"
+          ]
+        },        
+        {
+          "name": "Maples Pavilion",
+          "city": "Stanford",
+          "capacity": "7.233 seats",
+          "residents": "Stanford Cardinal (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD.jpg",
+            "../stadiums-ncaa/arenas/STANFORD - MAPLES PAVILION - STANFORD CARDINAL.jpg"
+          ]
+        },
+        {
+          "name": "Events Center Arena",
+          "city": "San Jose",
+          "capacity": "5.000 seats",
+          "residents": "San Jose State Spartans (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE.jpg",
+            "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE SPARTANS.jpg"
+          ]
+        },
+        {
+          "name": "Hornets Nest",
+          "city": "Sacramento",
+          "capacity": "1.012 seats",
+          "residents": "Sacramento State Hornets (NCAA Basket)",
+          "pictures": [
+            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO.jpg",
+            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO HORNETS.jpg"
+          ]
+        }
+      ],
+      "players": [
+        {
+          "name": "Stephen Curry",
+          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
+        },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Ken Stabler",
+          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+        },
+        {
+          "name": "Mark McGwire",
+          "picture": "../players/CALIFORNIA/A's - MARK MCGWIRE.jpg"
+        },
+        {
+          "name": "Joe Thornton",
+          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+        },
+        {
+          "name": "Rickey Henderson",
+          "picture": "../players/CALIFORNIA/A's - RICKEY HENDERSON 1.jpg"
+        },
+        {
+          "name": "Willie Mays",
+          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+        },
+        {
+          "name": "Rick Barry",
+          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
+        },
+        {
+          "name": "Jerry Rice",
+          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
+        },
+        {
+          "name": "Barry Bonds",
+          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
+        },
+        {
+          "name": "Rich Gannon",
+          "picture": "../players/CALIFORNIA/RAIDERS - RICH GANNON.jpg"
+        },
+        {
+          "name": "Chris Webber",
+          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+        },
+        {
+          "name": "John Elway",
+          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
+        },
+        {
+          "name": "Bill Russell",
+          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg"
+        },
+        {
+          "name": "Aaron Rodgers",
+          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+        },
+        {
+          "name": "Paul George",
+          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg"
+        }
+      ]
     },
     { "__comment": "UTAH",
       "id": 45,
       "nom": "Utah",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Utah.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/UT.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -9680,6 +10285,7 @@
       "id": 46,
       "nom": "Vermont",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Vermont.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/VT.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -9721,6 +10327,7 @@
       "id": 47,
       "nom": "Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Virginia.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/VI.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -9913,6 +10520,7 @@
       "id": 48,
       "nom": "Washington",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Washington.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/WA.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -10228,6 +10836,7 @@
       "id": 9,
       "nom": "Washington D.C.",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Washington%2C_D.C.svg",
+      "landscape": "../landscapes/USA/WASHINGTON DC.webp",
       "carte": "state-layer/DC.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -10440,6 +11049,7 @@
       "id": 49,
       "nom": "West Virginia",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_West_Virginia.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/WV.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -10534,6 +11144,7 @@
       "id": 50,
       "nom": "Wisconsin",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Wisconsin.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/WI.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
@@ -10775,6 +11386,7 @@
       "id": 51,
       "nom": "Wyoming",
       "drapeau": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg",
+      "landscape": "../landscapes/USA/CALIFORNIA NORTH.jpeg",
       "carte": "state-layer/WY.jpg",
       "map": "../map/arizona-test.jpg",
       "city": "../map/phoenix-test.jpg",
