@@ -19,7 +19,7 @@ function sortStadiums(stadiums, order = 'asc') {
 }
 
 function Stadiums({ stadiums }) {
-  const [sortOrder, setSortOrder] = useState('asc');
+  const [sortOrder, setSortOrder] = useState('desc');
 
   const handleSortToggle = () => {
     setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');

@@ -53,7 +53,7 @@ function State() {
 
       {/* PLAYERS Section */}
       <div id='players' className='state__players' style={gradientStyle}>
-        <h1 className='state__title-container'>FAMOUS PLAYERS</h1>
+        <h1 className='state__title-container'>FAMOUS PLAYERS OF ALL TIME</h1>
         <Players players={stateInfo.players} />
       </div>
     </div>
