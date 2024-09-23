@@ -11,6 +11,8 @@
 
         @media (max-width: 580px) {
           font-size: 40px; 
+          padding-top: 10px;
+          padding-bottom: 10px;
       }
     }
     &__title-container {
@@ -20,7 +22,7 @@
         padding-top: 20px;
 
         @media (max-width: 580px) {
-          font-size: 25px;            
+          font-size: 25px;      
       }
     }
 

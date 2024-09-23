@@ -4,20 +4,38 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 10px;
+
+  @media (max-width: 580px) {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+
   &__container {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
     padding: 20px;
+
+    @media (max-width: 580px) {
+      padding: 10px;
+    }
+
     &__img {
       height: 350px;
       width: 100%;
       object-fit: contain;
+
+      @media (max-width: 580px) {
+        height: 100px;
+      }
     }
     &__title {
       padding-top: 10px;
       font-weight: 600;
+
+      @media (max-width: 580px) {
+        font-size: 10px;
+      }
     }
   }
 }
