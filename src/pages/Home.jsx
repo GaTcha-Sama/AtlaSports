@@ -34,9 +34,9 @@ function Home() {
         Right now, just choose the country you want and I wish you a nice journey on this website ! Have fun, peace ! ​✌️​ <br />
         PS : Thank you guys for all the support, it's awesome ! ​🤩​
       </p>
-      <div>
+     {/*} <div>
         <ChatBot />
-      </div>
+      </div> */}
       </section>
       <section className='home__gallery'>
       {DataCountries.map((item) => (

@@ -8,48 +8,67 @@
         font-size: 70px;
         padding-top: 30px;
         padding-bottom: 30px;
+
+        @media (max-width: 580px) {
+          font-size: 40px; 
+      }
     }
     &__title-container {
         margin: 20px;
         justify-content: center;
         display: flex;
         padding-top: 20px;
-    }
-}
 
-.state__logos,
-.state__players {
-    background-color: $main-color;
-}
-
-.state__navbar {
-    background-color: #333;
-    padding: 1rem;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    margin-bottom: 0;
-  
-    ul {
-      list-style: none;
-      display: flex;
-      justify-content: space-around;
-      margin-bottom: 0;
-    }
-  
-    li {
-      display: inline;
-    }
-  
-    a {
-      color: white;
-      text-decoration: none;
-      padding: 1rem 1rem;
-      font-size: 1.7rem;
-  
-      &:hover {
-        background-color: #555;
-        border-radius: 5px;
+        @media (max-width: 580px) {
+          font-size: 25px;            
       }
     }
-  }
+
+    &__logos {
+      background-color: $main-color;
+    }
+
+    &__players {
+      background-color: $main-color;
+    }
+
+    &__navbar {
+      background-color: #333;
+      padding: 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      margin-bottom: 0;
+  
+      &__list {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 0;
+
+        @media (max-width: 580px) {
+          padding-left: 0; 
+      }
+      }
+    
+      &__title {
+        display: inline;                   
+      }
+      }
+    
+      a {
+        color: white;
+        text-decoration: none;
+        padding: 1rem 1rem;
+        font-size: 1.7rem;
+    
+        &:hover {
+          background-color: #555;
+          border-radius: 5px;
+        }
+
+        @media (max-width: 580px) {
+          font-size: 12px; 
+      }
+}
+}

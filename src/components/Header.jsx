@@ -48,7 +48,7 @@ function Header() {
         </div>
       )}
 
-       {/* Afficher l'image du paysage si on est sur une page d'état USA et que l'image est disponible */}
+       {/* Afficher l'image du paysage si on est sur une page de province CANADA et que l'image est disponible */}
        {isProvincePage && landscapeImageCAN && (
         <div>
           <img src={landscapeImageCAN} alt="landscape" className='header__logo' />

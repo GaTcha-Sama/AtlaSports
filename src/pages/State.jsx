@@ -26,10 +26,10 @@ function State() {
 
       {/* Navbar for navigation */}
       <nav className="state__navbar">
-        <ul>
-          <li><a href="#teams">TEAMS</a></li>
-          <li><a href="#stadiums">STADIUMS & ARENAS</a></li>
-          <li><a href="#players">PLAYERS</a></li>
+        <ul className='state__navbar__list'>
+          <li className='state__navbar__title'><a href="#teams">TEAMS</a></li>
+          <li className='state__navbar__title'><a href="#stadiums">STADIUMS & ARENAS</a></li>
+          <li className='state__navbar__title'><a href="#players">PLAYERS</a></li>
         </ul>
       </nav>
 
