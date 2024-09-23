@@ -10,9 +10,19 @@
     padding: 10px;
     padding-top: 20px;
     font-family: $main-text;
+
+    @media (max-width: 580px) {
+        gap: 5px;
+      }
+
     &__medias {
         color: white;
         font-size: 200%;
+
+        @media (max-width: 580px) {
+            font-size: 150%;
+          }
+
         &__icon {
             padding: 10px;
             color: white;
@@ -20,6 +30,10 @@
     }
     &__copyrights {
         padding-bottom: 10px;
+
+        @media (max-width: 580px) {
+            font-size: 10px;
+          }
     }
 }
 
