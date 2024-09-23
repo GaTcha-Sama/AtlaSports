@@ -6,12 +6,21 @@
     display: flex;
     justify-content: center;
     padding-top: 20px;
+
+    @media (max-width: 580px) {
+        font-size: 20px;
+      }
+
     &__text {
         font-family: $main-text;
         justify-content: center;
         display: flex;
         font-size: 25px;
 
+        @media (max-width: 580px) {
+            font-size: 11px;
+            margin-left: 10px;
+          }
     }
 }
 
@@ -20,10 +29,14 @@
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
     margin: 20px;
-    width: 100%;
+    width: 95%;
     justify-content: space-around;
     display: flex;
     flex-wrap: wrap;
+
+    @media (max-width: 580px) {
+        margin: 10px;
+      }
 
     &__item {
         position: relative;
@@ -41,6 +54,11 @@
         display: flex;
         justify-content: center;
         align-items: center;
+
+        @media (max-width: 580px) {
+            height: 60px;
+            width: 85px;
+          }
     }
 
     &__img {
@@ -64,6 +82,11 @@
         text-align: center;
         padding: 5px;
         border-radius: 5px;
+
+        @media (max-width: 580px) {
+            font-size: 8px;
+            padding: 2px;
+          }
     }
 
     &__overlay {
@@ -78,6 +101,10 @@
         display: flex;
         justify-content: center;
         align-items: center; /* Center items vertically */
+
+        @media (max-width: 580px) {
+            
+          }
     }
 
     &__card:hover .gallery__overlay {
@@ -100,6 +127,10 @@
     align-items: center;
     width: 100%;
     margin: 20px 0;
+
+    @media (max-width: 580px) {
+        margin: 0;
+      }
 }
 
 .search-content {
@@ -110,6 +141,10 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visual effect */
     border: solid 1px black;
     margin-bottom: 20px; /* Adjust margin bottom */
+
+    @media (max-width: 580px) {
+        padding: 4px;
+      }
 }
 
 .search-list {
@@ -120,4 +155,8 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     max-height: 200px; /* Optional: limit the height of the list */
     overflow-y: auto; /* Optional: add scroll for overflow */
+
+    @media (max-width: 580px) {
+        font-size: 12px;
+      }
 }

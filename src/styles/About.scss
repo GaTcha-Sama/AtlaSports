@@ -10,9 +10,17 @@
     &__title {
         font-weight: 700;
         margin-bottom: 20px;
+
+        @media (max-width: 580px) {
+            font-size: 20px;
+          }
     }
     &__list {
         list-style-type: disc;
         padding: 10px;
+
+        @media (max-width: 580px) {
+            font-size: 15px;
+          }
     }
 }
