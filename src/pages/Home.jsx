@@ -1,5 +1,5 @@
 import React from 'react'
-import ChatBot from 'react-chatbotify'
+// import ChatBot from 'react-chatbotify'
 import '../styles/Home.scss'
 import {useNavigate} from 'react-router-dom'
 import DataCountries from '../data/data-flag-countries.json'
@@ -23,7 +23,7 @@ function Home() {
           <Banner />
         </div>
       <p className='home__welcome'>
-        Hi everybody and welcome! 👋​<br />
+        Hi everybody and welcome on AtlaSports ! 👋​<br />
         On this website you can find an atlas where most of major and minor league clubs are known in North America,
         specially in Canada and United States. <br />
         The objective is to map all over the world so after Canada and USA,

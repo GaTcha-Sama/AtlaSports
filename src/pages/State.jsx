@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import '../styles/State.scss'
-// import Map from '../components/State/Map'
+import Map from '../components/State/Map'
 import Logos from '../components/State/Logos'
 import Stadiums from '../components/State/Stadiums'
 import Players from '../components/State/Players'
@@ -33,9 +33,13 @@ function State() {
         </ul>
       </nav>
 
-      {/*<div className='state__map'>
-        {/*  <Map map={stateInfo.map} city={stateInfo.city} /> A FAIRE EN DERNIER 
-      </div> */}
+      {/* MAP Section */}
+      <div className="state__map">
+        <Map 
+          map={stateInfo.carte} 
+          city={{ latitude: stateInfo.latitude, longitude: stateInfo.longitude }} 
+        />
+      </div>
 
       {/* TEAMS Section */}
       <div id='teams' className='state__logos' style={gradientStyle}>
