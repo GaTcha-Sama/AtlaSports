@@ -1,5 +1,5 @@
 import React from 'react'
-import { useParams } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import '../styles/State.scss'
 import Map from '../components/State/Map'
 import Logos from '../components/State/Logos'
@@ -28,8 +28,12 @@ function State() {
       <nav className="state__navbar">
         <ul className='state__navbar__list'>
           <li className='state__navbar__title'><a href="#teams">TEAMS</a></li>
-          <li className='state__navbar__title'><a href="#stadiums">STADIUMS & ARENAS</a></li>
+          <li className='state__navbar__title'><a href="#stadiums">STADIUMS</a></li>
           <li className='state__navbar__title'><a href="#players">PLAYERS</a></li>
+          <li className='state__navbar__gallery-title'>
+            {/* Link to go back to the gallery */}
+            <Link to="/gallery-usa">Gallery</Link>
+          </li>
         </ul>
       </nav>
 

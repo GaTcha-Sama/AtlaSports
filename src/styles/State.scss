@@ -22,7 +22,7 @@
         padding-top: 20px;
 
         @media (max-width: 580px) {
-          font-size: 25px;      
+          font-size: 20px;   
       }
     }
 
@@ -55,6 +55,12 @@
     
       &__title {
         display: inline;                   
+      }
+
+      &__gallery-title {
+        display: inline; 
+        background-color: chocolate;
+        border-radius: 10px;               
       }
       }
     

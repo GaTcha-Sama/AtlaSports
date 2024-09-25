@@ -24,9 +24,21 @@
     border-radius: 20px;
     height: 250px;
 
+    @media (max-width: 1000px) {
+      height: 200px; 
+  }
+
+  @media (max-width: 830px) {
+    height: 150px; 
+}
+
     @media (max-width: 580px) {
       height: 100px; 
   }
+
+  @media (max-width: 400px) {
+    height: 80px; 
+}
   }
   
   &__navbar-container {
@@ -43,6 +55,7 @@
     gap: 50px;
     padding: 0; 
     margin-right: 30px;
+    margin-top: 10px;
 
     @media (max-width: 580px) {
       gap: 10px; 
@@ -52,6 +65,14 @@
       margin-right: 10px;
   }
 
+    @media (max-width: 1000px) {
+      gap: 40px;
+    }
+
+    @media (max-width: 830px) {
+      gap: 20px;
+    }
+
     &__txt {
       color: black;
       &.active {
@@ -59,8 +80,12 @@
         text-decoration-color: black;
       }
       @media (max-width: 580px) {
-        font-size: 15px; 
+        font-size: 14px; 
     }
+
+      @media (max-width: 400px) {
+        font-size: 12px; 
+    }      
     }
   }
 }
