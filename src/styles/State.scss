@@ -41,6 +41,13 @@
       top: 0;
       z-index: 10;
       margin-bottom: 0;
+
+      @media (max-width: 580px) {
+        position: fixed; // fixe la navbar
+        bottom: 0; // la place en bas de l'écran
+        top: unset; // enlève la propriété "top"
+        width: 100%; // fait en sorte qu'elle prenne toute la largeur de l'écran
+      }
   
       &__list {
         list-style: none;
