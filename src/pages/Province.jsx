@@ -1,5 +1,7 @@
 import React from 'react'
 import { useParams, Link } from 'react-router-dom'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import { faPeopleGroup, faUser, faKaaba, faTable } from '@fortawesome/free-solid-svg-icons'
 import '../styles/State.scss'
 import Map from '../components/State/Map'
 import Logos from '../components/State/Logos'
@@ -26,12 +28,12 @@ function Province() {
       {/* Navbar for navigation */}
       <nav className="state__navbar">
         <ul className='state__navbar__list'>
-          <li className='state__navbar__title'><a href="#teams">TEAMS</a></li>
-          <li className='state__navbar__title'><a href="#stadiums">STADIUMS & ARENAS</a></li>
-          <li className='state__navbar__title'><a href="#players">PLAYERS</a></li>
+          <li className='state__navbar__title'><a href="#teams"><FontAwesomeIcon icon={faPeopleGroup} className='state__navbar__title__logo'/>Teams</a></li>
+          <li className='state__navbar__title'><a href="#stadiums"><FontAwesomeIcon icon={faKaaba} className='state__navbar__title__logo'/>Stadiums</a></li>
+          <li className='state__navbar__title'><a href="#players"><FontAwesomeIcon icon={faUser} className='state__navbar__title__logo'/>Players</a></li>
           <li className='state__navbar__gallery-title'>
             {/* Link to go back to the gallery */}
-            <Link to="/gallery-can">Gallery</Link>
+            <Link to="/gallery-usa"><FontAwesomeIcon icon={faTable} className='state__navbar__title__logo'/>Gallery</Link>
           </li>
         </ul>
       </nav>
