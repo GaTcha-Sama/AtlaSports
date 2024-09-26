@@ -61,7 +61,15 @@
       }
     
       &__title {
-        display: inline;                   
+        display: inline;   
+
+        @media (max-width: 580px) {
+           
+      }
+        
+        &__logo {
+          margin-right: 10px;
+        }
       }
 
       &__gallery-title {

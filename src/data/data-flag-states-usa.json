@@ -370,10 +370,6 @@
           "picture": "../players/ARIZONA/D'BACKS - RANDY JOHNSON.jpg"
         },
         {
-          "name": "Charles Barkley",
-          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg"
-        },
-        {
           "name": "Steve Nash",
           "picture": "../players/ARIZONA/SUNS - NASH.jpg"
         },
@@ -386,19 +382,62 @@
           "picture": "../players/ARIZONA/MERCURY - TAURASI.jpg"
         },
         {
-          "name": "Kurt Warner",
-          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
-        },
-        {
           "name": "Shane Doan",
           "team": "Arizona Coyotes",
           "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg"
         },
         {
+          "name": "Charles Barkley",
+          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg"
+        },
+        {
+          "name": "Kurt Warner",
+          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
+        },
+        {
           "name": "Brittney Griner",
-          "team": "Arizona Coyotes",
           "picture": "../players/ARIZONA/MERCURY - GRINER.webp"
         },
+        {
+          "name": "Clayton Keller",
+          "picture": "../players/ARIZONA/COYOTES - CLAYTON KELLER.webp"
+        },
+        {
+          "name": "Paul Goldschmidt",
+          "picture": "../players/ARIZONA/D'BACKS - PAUL GOLDSCHMIDT.jpg"
+        },        
+        {
+          "name": "Luiz Gonzalez",
+          "picture": "../players/ARIZONA/D'BACKS - LUIS GONZALEZ.jpg"
+        },
+        {
+          "name": "Devin Booker",
+          "picture": "../players/ARIZONA/SUNS - BOOKER 2.jpg"
+        },
+        {
+          "name": "Larry Wilson",
+          "picture": "../players/ARIZONA/CARDINALS - LARRY WILSON.jpg"
+        },
+        {
+          "name": "DeWanna Bonner",
+          "picture": "../players/ARIZONA/MERCURY - DEWANNA BONNER.jpg"
+        },
+        {
+          "name": "Brandon Webb",
+          "picture": "../players/ARIZONA/D'BACKS - BRANDON WEBB.jpg"
+        },        
+        {
+          "name": "Amar'e Stoudemire",
+          "picture": "../players/ARIZONA/SUNS - STOUDEMIRE.jpg"
+        },
+        {
+          "name": "Aeneas Williams",
+          "picture": "../players/ARIZONA/CARDINALS - AENEAS WILLIAMS.jpg"
+        },
+        {
+          "name": "Kevin Durant",
+          "picture": "../players/ARIZONA/SUNS - KD.webp"
+        },        
         {
           "name": "Rob Gronkowski",
           "picture": "../players/ARIZONA/ARIZONA - GRONKOWSKI.jpg"
@@ -406,6 +445,22 @@
         {
           "name": "James Harden",
           "picture": "../players/ARIZONA/ARIZONA STATE - HARDEN.jpg"
+        },
+        {
+          "name": "Andre Iguodala",
+          "picture": "../players/ARIZONA/ARIZONA - IGUODALA.jpg"
+        },
+        {
+          "name": "Terrell Suggs",
+          "picture": "../players/ARIZONA/ARIZONA STATE - TERRELL SUGGS.jpg"
+        },
+        {
+          "name": "Mike Bibby",
+          "picture": "../players/ARIZONA/ARIZONA - BIBBY.jpg"
+        },
+        {
+          "name": "Fat Lever",
+          "picture": "../players/ARIZONA/ARIZONA STATE - LEVER.jpg"
         }
       ]
     },
@@ -478,6 +533,14 @@
         {
           "name": "Lance Alworth",
           "picture": "../players/ARKANSAS/ARKANSAS - LANCE ALWORTH.jpg"
+        },
+        {
+          "name": "Sidney Moncrief",
+          "picture": "../players/ARKANSAS/ARKANSAS - MONCRIEF.jpg"
+        },
+        {
+          "name": "Joe Johnson",
+          "picture": "../players/ARKANSAS/ARKANSAS - JOHNSON.jpg"
         }
       ]
     },
@@ -3099,7 +3162,7 @@
       "junior_league": [
         {
           "name": "Notre Dame Fighting Irish",
-          "logo": "../logos/NCAA/NOtre Dame Fighting Irish-Photoroom.png",
+          "logo": "../logos/NCAA/Notre-Dame-Fighting-Irish.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -3646,7 +3709,7 @@
         },
         {
           "name": "Eastern Kentucky Colonels",
-          "logo": "../logos/NCAA/Eastern-Kentucky-Colonels-logo.png",
+          "logo": "../logos/NCAA/Eastern-Kentucky-Colonels.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -3785,7 +3848,7 @@
         },
         {
           "name": "Louisiana Ragin' Cajuns",
-          "logo": "../logos/NCAA/Louisiana-Ragin-Cajuns-Logo.png",
+          "logo": "../logos/NCAA/Louisiana-Ragin-Cajuns.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -3803,7 +3866,7 @@
         },
         {
           "name": "Southern Jaguars",
-          "logo": "../logos/NCAA/Southern-Jaguar-Logo.png",
+          "logo": "../logos/NCAA/Southern-Jaguar.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -4317,7 +4380,7 @@
         },
         {
           "name": "Boston University Terriers",
-          "logo": "../logos/NCAA/Boston-University-Terriers-logo.png",
+          "logo": "../logos/NCAA/Boston-University-Terriers.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -4421,7 +4484,7 @@
           "capacity": "9.493 seats",
           "residents": "UMass Minutemen (NCAA Basket & Hockey)",
           "pictures": [
-            "../stadiums-ncaa/arenas/UMASS - WILLIAMS D. MULLINS MEMORIAL CENTER - AMHERST.jpg",
+            "../stadiums-ncaa/arenas/UMASS - WILLIAMS D. MULLINS MEMORIAL CENTER - AMHERST.JPG",
             "../stadiums-ncaa/arenas/UMASS - WILLIAMS D. MULLINS MEMORIAL CENTER - AMHERST MASS.jpeg"
           ]
         },
@@ -4661,7 +4724,7 @@
         },
         {
           "name": "Oakland Golden Grizzlies",
-          "logo": "../logos/NCAA/Oakland-GOlden-Grizzlies-Logo.png",
+          "logo": "../logos/NCAA/Oakland-Golden-Grizzlies.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -5082,7 +5145,7 @@
           "residents": "St. Paul Saints (IL)",
           "pictures": [
             "../stadiums-pro/SAINT PAUL - CHS FIELD.jpg",
-            "../stadiums-pro/SAINT PAUL - CHS FIELD SiaNTS.jpg"
+            "../stadiums-pro/SAINT PAUL - CHS FIELD SAINTS.jpg"
           ]
         },
         {
@@ -5153,7 +5216,7 @@
         },
         {
           "name": "Randy Moss",
-          "picture": "../players/MINNESOTA/VIKINGS - RANDy MOSS.jpg"
+          "picture": "../players/MINNESOTA/VIKINGS - RANDY MOSS.jpg"
         },
         {
           "name": "Harmon Killebrew",
@@ -5377,13 +5440,13 @@
       "major_league": [
         {
           "name": "Kansas City Chiefs",
-          "logo": "../logos/NFL/Kansas-City-chiefs-Logo.png",
+          "logo": "../logos/NFL/Kansas-City-Chiefs.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
         {
           "name": "St. Louis Cardinals",
-          "logo": "../logos/MLB/St.-Louis-Cardinals-Logo.png",
+          "logo": "../logos/MLB/Saint-Louis-Cardinals.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
@@ -5524,7 +5587,7 @@
           "residents": "Missouri Tigers (NCAA Basket)",
           "pictures": [
             "../stadiums-ncaa/arenas/MISSOURI - MIZZOU ARENA - COLUMBIA.jpg",
-            "../stadiums-ncaa/arenas/MISSOURI - MIZZOU ARENA - COLUMBIA TIGERS.jpg"
+            "../stadiums-ncaa/arenas/MISSOURI - MIZZOU ARENA - COLUMBIA TIGERS.JPG"
           ]
         },
         {
@@ -5692,7 +5755,7 @@
       "minor_league": [
         {
           "name": "Omaha Storm Chasers",
-          "logo": "../logos/IL/Omaha_Storm_CHasers.png",
+          "logo": "../logos/IL/Omaha_Storm_Chasers.png",
           "league": "IL",
           "leagueLogo": "../logos/IL/Triple-A.png"
         }
@@ -5700,37 +5763,37 @@
       "junior_league": [
         {
           "name": "Nebraska Cornhuskers",
-          "logo": "../logos/NCAA/nebraska-cornhuskers-logo.png",
+          "logo": "../logos/NCAA/Nebraska-Cornhuskers.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Nebraska-Omaha Mavericks",
-          "logo": "../logos/NCAA/nebraska-omaha-mavericks-logo.png",
+          "logo": "../logos/NCAA/Nebraska-Omaha-Mavericks.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Creighton Bluejays",
-          "logo": "../logos/NCAA/creighton-bluejays-logo.png",
+          "logo": "../logos/NCAA/Creighton-Bluejays.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Lincoln Stars",
-          "logo": "../logos/USHL/lincoln_stars.png",
+          "logo": "../logos/USHL/Lincoln_Stars.png",
           "league": "USHL",
           "leagueLogo": "../logos/USHL/USHL.png"
         },
         {
           "name": "Tri-City Storm",
-          "logo": "../logos/USHL/tri-city_storm.png",
+          "logo": "../logos/USHL/Tri-City_Storm.png",
           "league": "USHL",
           "leagueLogo": "../logos/USHL/USHL.png"
         },
         {
           "name": "Omaha Lancers",
-          "logo": "../logos/USHL/omaha_lancers.png",
+          "logo": "../logos/USHL/Omaha_Lancers.png",
           "league": "USHL",
           "leagueLogo": "../logos/USHL/USHL.png"
         }
@@ -5832,7 +5895,7 @@
         },
         {
           "name": "Ndamukong Suh",
-          "picture": "../players/NEBRASKA/NEBRASKA - ndamukong suh.jpg"
+          "picture": "../players/NEBRASKA/NEBRASKA - NDAMUKONG SUH.jpg"
         },
         {
           "name": "Paul Stastny",
@@ -6145,7 +6208,7 @@
       "junior_league": [
         {
           "name": "Rutgers Scarlet Knights",
-          "logo": "../logos/NCAA/Rutgers-Scarlet-Knights-logo.png",
+          "logo": "../logos/NCAA/Rutgers-Scarlet-Knights.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6292,7 +6355,7 @@
         },
         {
           "name": "New Mexico State Aggies",
-          "logo": "../logos/NCAA/New-Mexico-State-Aggies-logo.png",
+          "logo": "../logos/NCAA/New-Mexico-State-Aggies.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6311,7 +6374,7 @@
           "residents": "Albuquerque Isotopes (PCL)",
           "pictures": [
             "../stadiums-pro/ALBUQUERQUE - ISOTOPES PARK.jpg_large",
-            "../stadiums-pro/ALBUQUERQUE - ISOTOPES PARK isotopes.jpg"
+            "../stadiums-pro/ALBUQUERQUE - ISOTOPES PARK ISOTOPES.jpg"
           ]
         },
         {
@@ -6402,7 +6465,7 @@
         },
         {
           "name": "New York Yankees",
-          "logo": "../logos/MLB/New-York-Yankees-logo.png",
+          "logo": "../logos/MLB/New-York-Yankees.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
@@ -6482,19 +6545,19 @@
         },
         {
           "name": "Long Island Nets",
-          "logo": "../logos/NBA GL/LOng_Island_Nets_logo.svg.png",
+          "logo": "../logos/NBA GL/Long_Island_Nets.png",
           "league": "NBA G-League",
           "leagueLogo": "../logos/NBA GL/NBAGL.png"
         },
         {
           "name": "Utica Comets",
-          "logo": "../logos/AHL/Utica_COmets_(2021)_logo.svg.png",
+          "logo": "../logos/AHL/Utica_Comets.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
         {
           "name": "Rochester Americans",
-          "logo": "../logos/AHL/rochester_americans.svg.png",
+          "logo": "../logos/AHL/Rochester_Americans.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
@@ -6568,7 +6631,7 @@
         },
         {
           "name": "Cornell Big Red",
-          "logo": "../logos/NCAA/Cornell-big-red-logo.png",
+          "logo": "../logos/NCAA/Cornell-Big-Red.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6580,7 +6643,7 @@
         },
         {
           "name": "Clarkson Golden Knights",
-          "logo": "../logos/NCAA/Clarkson-Golden-Knights-logo.png",
+          "logo": "../logos/NCAA/Clarkson-Golden-Knights.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6592,7 +6655,7 @@
         },
         {
           "name": "Iona Gaels",
-          "logo": "../logos/NCAA/iona-Gaels-logo.png",
+          "logo": "../logos/NCAA/Iona-Gaels.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6604,7 +6667,7 @@
         },
         {
           "name": "Buffalo Bulls",
-          "logo": "../logos/NCAA/Buffalo-Bulls-logo.png",
+          "logo": "../logos/NCAA/Buffalo-Bulls.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6616,7 +6679,7 @@
         },
         {
           "name": "Canisius Golden Griffins",
-          "logo": "../logos/NCAA/Canisius-Golden-Griffins-logo.png",
+          "logo": "../logos/NCAA/Canisius-Golden-Griffins.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -6990,7 +7053,7 @@
         },
         {
           "name": "Charlotte Hornets",
-          "logo": "../logos/NBA/Charlotte-Hornets-logo.png",
+          "logo": "../logos/NBA/Charlotte-Hornets.png",
           "league": "NBA",
           "leagueLogo": "../logos/NBA/National-Basketball-Association-Logo.png"
         },
@@ -7054,7 +7117,7 @@
         },
         {
           "name": "North Carolina State Wolfpack",
-          "logo": "../logos/NCAA/North-Carolina-State-Wolfpack-Logo.png",
+          "logo": "../logos/NCAA/North-Carolina-State-Wolfpack.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7066,7 +7129,7 @@
         },
         {
           "name": "Wake Forest Demon Deacons",
-          "logo": "../logos/NCAA/Wake-Forest-Demon-Deacons-logo.png",
+          "logo": "../logos/NCAA/Wake-Forest-Demon-Deacons.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7078,13 +7141,13 @@
         },
         {
           "name": "North Carolina A&T Aggies",
-          "logo": "../logos/NCAA/North-Carolina-AT-Aggies-logo.png",
+          "logo": "../logos/NCAA/North-Carolina-AT-Aggies.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Western Carolina Catamounts",
-          "logo": "../logos/NCAA/Western-Carolina-Catamounts-Logo.png",
+          "logo": "../logos/NCAA/Western-Carolina-Catamounts.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7096,7 +7159,7 @@
         },
         {
           "name": "North Carolina-Asheville Bulldogs",
-          "logo": "../logos/NCAA/North-Carolina-Asheville-Bulldogs-Logo.png",
+          "logo": "../logos/NCAA/North-Carolina-Asheville-Bulldogs.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7114,7 +7177,7 @@
         },
         {
           "name": "Davidson Wildcats",
-          "logo": "../logos/NCAA/Davidson-Wildcats-Logo.png",
+          "logo": "../logos/NCAA/Davidson-Wildcats.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7534,13 +7597,13 @@
         },
         {
           "name": "Cincinnati Bengals",
-          "logo": "../logos/NFL/Cincinnati-Bengals-Logo.png",
+          "logo": "../logos/NFL/Cincinnati-Bengals.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
         {
           "name": "Cleveland Guardians",
-          "logo": "../logos/MLB/Cleveland-Guardians-logo.png",
+          "logo": "../logos/MLB/Cleveland-Guardians.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
@@ -7596,7 +7659,7 @@
         },
         {
           "name": "Cleveland Monsters",
-          "logo": "../logos/AHL/Cleveland_Monsters_Logo.svg.png",
+          "logo": "../logos/AHL/Cleveland_Monsters.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
@@ -7608,7 +7671,7 @@
         },
         {
           "name": "Toledo Walleye",
-          "logo": "../logos/ECHL/Toledo_Walleye_logo.svg.png",
+          "logo": "../logos/ECHL/Toledo_Walleye.png",
           "league": "ECHL",
           "leagueLogo": "../logos/ECHL/ECHL.png"
         }
@@ -7616,7 +7679,7 @@
       "junior_league": [
         {
           "name": "Ohio State Buckeyes",
-          "logo": "../logos/NCAA/Ohio state Buckeyes.png",
+          "logo": "../logos/NCAA/Ohio State Buckeyes.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7628,7 +7691,7 @@
         },
         {
           "name": "Cincinnati Bearcats",
-          "logo": "../logos/NCAA/Cincinnati-Bearcats-logo.png",
+          "logo": "../logos/NCAA/Cincinnati-Bearcats.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7640,7 +7703,7 @@
         },
         {
           "name": "Akron Zips",
-          "logo": "../logos/NCAA/Akron-Zips-Logo.png",
+          "logo": "../logos/NCAA/Akron-Zips.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7652,7 +7715,7 @@
         },
         {
           "name": "Cleveland State Vikings",
-          "logo": "../logos/NCAA/Cleveland-State-Vikings-logo.png",
+          "logo": "../logos/NCAA/Cleveland-State-Vikings-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -7670,13 +7733,13 @@
         },
         {
           "name": "Bowling Green Falcons",
-          "logo": "../logos/NCAA/Bowling-Green-Falcons-logo.png",
+          "logo": "../logos/NCAA/Bowling-Green-Falcons-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Miami-Ohio Redhawks",
-          "logo": "../logos/NCAA/Miami-Ohio-Redhawks-logo.png",
+          "logo": "../logos/NCAA/Miami-Ohio-Redhawks-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -8482,19 +8545,19 @@
         },
         {
           "name": "Hershey Bears",
-          "logo": "../logos/AHL/Hershey_Bears_Logo.svg.png",
+          "logo": "../logos/AHL/Hershey_Bears_logo.svg.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
         {
           "name": "Lehigh Valley Phantoms",
-          "logo": "../logos/AHL/Lehigh_Valley_Phantoms_Logo.svg.png",
+          "logo": "../logos/AHL/Lehigh_Valley_Phantoms_logo.svg.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
         {
           "name": "Wilkes-Barre/Scranton Penguins",
-          "logo": "../logos/AHL/Wilkes-Barre_Scranton_Penguins_Logo.svg.png",
+          "logo": "../logos/AHL/Wilkes-Barre_Scranton_Penguins_logo.svg.png",
           "league": "AHL",
           "leagueLogo": "../logos/AHL/AHL.png"
         },
@@ -8751,7 +8814,7 @@
           "residents": "Erie Otters (OHL)",
           "pictures": [
             "../stadiums-ncaa/arenas/ERIE - INSURANCE ARENA.jpg",
-            "../stadiums-ncaa/arenas/ERIE - INSURANCE ARENA OTTERS.jpg"
+            "../stadiums-ncaa/arenas/ERIE - INSURANCE ARENA OTTERS.JPG"
           ]
         }
       ],
@@ -8899,7 +8962,7 @@
         },
         {
           "name": "Brown Bears",
-          "logo": "../logos/NCAA/Brown-Bears-logo.png",
+          "logo": "../logos/NCAA/Brown-Bears-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -8974,7 +9037,7 @@
       "minor_league": [
         {
           "name": "South Carolina Stingrays",
-          "logo": "../logos/ECHL/South_Carolina_Stingrays_logo.svg.png",
+          "logo": "../logos/ECHL/South_Carolina_Stingrays.png",
           "league": "ECHL",
           "leagueLogo": "../logos/ECHL/ECHL.png"
         },
@@ -8988,7 +9051,7 @@
       "junior_league": [
         {
           "name": "Clemson Tigers",
-          "logo": "../logos/NCAA/Clemson-Tigers-logo.png",
+          "logo": "../logos/NCAA/Clemson-Tigers-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -9006,7 +9069,7 @@
         },
         {
           "name": "Coastal Carolina Chanticleers",
-          "logo": "../logos/NCAA/Coastal-Carolina-Chanticleers-logo.png",
+          "logo": "../logos/NCAA/Coastal-Carolina-Chanticleers-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -9307,7 +9370,7 @@
         },
         {
           "name": "Vanderbilt Commodores",
-          "logo": "../logos/NCAA/Vanderbilt-Commodores-logo.png",
+          "logo": "../logos/NCAA/Vanderbilt-Commodores-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -9319,7 +9382,7 @@
         },
         {
           "name": "Chattanooga Mocs",
-          "logo": "../logos/NCAA/Chattanooga-Mocs-logo.png",
+          "logo": "../logos/NCAA/Chattanooga-Mocs-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -9603,7 +9666,7 @@
         },
         {
           "name": "Houston Astros",
-          "logo": "../logos/MLB/Houston-Astros-logo.png",
+          "logo": "../logos/MLB/Houston-Astros-Logo.png",
           "league": "MLB",
           "leagueLogo": "../logos/MLB/MLB-Logo.png"
         },
@@ -9713,7 +9776,7 @@
         },
         {
           "name": "Allen Americans",
-          "logo": "../logos/ECHL/Allen-Americans-logo.png",
+          "logo": "../logos/ECHL/Allen-Americans-Logo.png",
           "league": "ECHL",
           "leagueLogo": "../logos/ECHL/ECHL.png"
         }
@@ -10377,7 +10440,7 @@
         },
         {
           "name": "Utah Grizzlies",
-          "logo": "../logos/ECHL/Utah_Grizzlies_logo.svg.png",
+          "logo": "../logos/ECHL/Utah_Grizzlies_Logo.svg.png",
           "league": "ECHL",
           "leagueLogo": "../logos/ECHL/ECHL.png"
         }
@@ -10504,7 +10567,7 @@
         {
           "name": "Dee Events Center",
           "city": "Ogden",
-          "capacity": "12.2222 seats",
+          "capacity": "12.222 seats",
           "residents": "Weber State Wildcats (NCAA Basket)",
           "pictures": [
             "../stadiums-ncaa/arenas/WEBER STATE - DEE EVENTS CENTER - OGDEN.jpg",
@@ -10517,7 +10580,7 @@
           "capacity": "10.270 seats",
           "residents": "Utah State Aggies (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/UTAH STATE - SMITH SPECTRUM - LOGAN.jpg",
+            "../stadiums-ncaa/arenas/UTAH STATE - SMITH SPECTRUM - LOGAN.JPG",
             "../stadiums-ncaa/arenas/UTAH STATE - SMITH SPECTRUM - LOGAN USU.jpg"
           ]
         }
@@ -10626,7 +10689,7 @@
       "junior_league": [
         {
           "name": "Virginia Cavaliers",
-          "logo": "../logos/NCAA/Virginia-Cavaliers-logo.png",
+          "logo": "../logos/NCAA/Virginia-Cavaliers-Logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -10852,13 +10915,13 @@
       "junior_league": [
         {
           "name": "Washington Huskies",
-          "logo": "../logos/NCAA/Washington-Huskies-Logo.png",
+          "logo": "../logos/NCAA/Washington-Huskies-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Washington State Cougars",
-          "logo": "../logos/NCAA/Washington-State-Cougars-Logo.png",
+          "logo": "../logos/NCAA/Washington-State-Cougars-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -11008,7 +11071,7 @@
           "capacity": "10.000 seats",
           "residents": "Washington Huskies (NCAA Basket)",
           "pictures": [
-            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA AT HEC EDMUNDSON PAVILION - SEATTLE.jpg",
+            "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA AT HEC EDMUNDSON PAVILION - SEATTLE.JPG",
             "../stadiums-ncaa/arenas/WASHINGTON - ALASKA AIRLINES ARENA - SEATTLE HUSKIES.jpg"
           ]
         },
@@ -11169,13 +11232,13 @@
       "junior_league": [
         {
           "name": "Georgetown Hoyas",
-          "logo": "../logos/NCAA/Georgetown-Hoyas-Logo.png",
+          "logo": "../logos/NCAA/Georgetown-Hoyas-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
         {
           "name": "Howard Bison",
-          "logo": "../logos/NCAA/Howard-Bison-Logo.png",
+          "logo": "../logos/NCAA/Howard-Bison-logo.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -11436,7 +11499,7 @@
       "major_league": [
         {
           "name": "Green Bay Packers",
-          "logo": "../logos/NFL/Green-Bay-Packers-Logo.png",
+          "logo": "../logos/NFL/Green-Bay-Packers-logo.png",
           "league": "NFL",
           "leagueLogo": "../logos/NFL/NFL-Logo.png"
         },
@@ -11470,7 +11533,7 @@
       "junior_league": [
         {
           "name": "Wisconsin Badgers",
-          "logo": "../logos/NCAA/Wisconsin-BAdgers-logo.png",
+          "logo": "../logos/NCAA/Wisconsin-Badgers.png",
           "league": "NCAA",
           "leagueLogo": "../logos/NCAA/NCAA.png"
         },
@@ -11646,7 +11709,7 @@
         },
         {
           "name": "Dwyane Wade",
-          "picture": "../players/WISCONSIN/MARQUETTE - WADE.jpg"
+          "picture": "../players/WISCONSIN/MARQUETTE - WADE.JPG"
         },
         {
           "name": "Joe Pavelski",

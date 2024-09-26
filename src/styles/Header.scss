@@ -74,10 +74,10 @@
     }
 
     &__txt {
-      color: black;
+      color: white;
       &.active {
         text-decoration: underline;
-        text-decoration-color: black;
+        text-decoration-color: white;
       }
       @media (max-width: 580px) {
         font-size: 14px; 

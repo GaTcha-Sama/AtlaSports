@@ -871,7 +871,7 @@
         },
         {
           "name": "Ottawa Senators",
-          "logo": "../logos/NHL/Ottawa-Senators-Logo.png",
+          "logo": "../logos/NHL/Ottawa-Senators-logo.png",
           "league": "NHL",
           "leagueLogo": "../logos/NHL/NHL-Logo.png"
         },
@@ -1007,7 +1007,7 @@
         },
         {
           "name": "Owen Sound Attack",
-          "logo": "../logos/OHL/Owen_SOund_Attack.png",
+          "logo": "../logos/OHL/Owen_Sound_Attack.png",
           "league": "OHL",
           "leagueLogo": "../logos/OHL/OHL.png"
         },
@@ -1286,7 +1286,7 @@
           "residents": "Ottawa Charge (PWHL), Ottawa 67's (OHL) and Ottawa Blackjacks (BSL)",
           "pictures": [
             "../stadiums-pro/OTTAWA - TD PLACE.jfif",
-            "../stadiums-pro/OTTAWA - TD PLACE ARENA.jpg"  
+            "../stadiums-pro/OTTAWA - TD PLACE ARENA.JPG"  
           ]
         },
         {
@@ -1963,7 +1963,7 @@
         },
         {
           "name": "Morgan Rielly",
-          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - RIELLY.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - RIELLY.JPG"
         },
         {
           "name": "Braden Holtby",
