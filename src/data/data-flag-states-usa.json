@@ -841,52 +841,116 @@
           "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
         },
         {
-          "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "name": "Jerry Rice",
+          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
         },
         {
-          "name": "Ken Stabler",
-          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+          "name": "Rickey Henderson",
+          "picture": "../players/CALIFORNIA/AS - RICKEY HENDERSON 1.jpg"
         },
         {
-          "name": "Mark McGwire",
-          "picture": "../players/CALIFORNIA/A's - MARK MCGWIRE.jpg"
-        },
+          "name": "Gene Upshaw & Art Shell",
+          "picture": "../players/CALIFORNIA/RAIDERS - ART SHELL - GENE UPSHAW.jpg"
+        },        
         {
           "name": "Joe Thornton",
           "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
         },
         {
-          "name": "Rickey Henderson",
-          "picture": "../players/CALIFORNIA/A's - RICKEY HENDERSON 1.jpg"
-        },
-        {
           "name": "Willie Mays",
           "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+        },  
+        {
+          "name": "Chris Webber",
+          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+        },     
+        {
+          "name": "Klay Thompson",
+          "picture": "../players/CALIFORNIA/WARRIORS - THOMPSON.jpeg"
         },
+        {
+          "name": "Joe Montana",
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+        },
+        {
+          "name": "Jim 'Catfish' Hunter",
+          "picture": "../players/CALIFORNIA/AS - JIM CATFISH HUNTER.jpg"
+        },
+        {
+          "name": "Jim Otto",
+          "picture": "../players/CALIFORNIA/RAIDERS - JIM OTTO 2.jpg"
+        }, 
         {
           "name": "Rick Barry",
           "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
-        },
+        },       
         {
-          "name": "Jerry Rice",
-          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
+          "name": "Joe Pavelski",
+          "picture": "../players/CALIFORNIA/SHARKS - PAVELSKI.webp"
         },
         {
           "name": "Barry Bonds",
           "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
+        },  
+        {
+          "name": "Mitch Richmond",
+          "picture": "../players/CALIFORNIA/KINGS - RICHMOND 1.jpg"
+        }, 
+        {
+          "name": "Wilt Chamberlain",
+          "picture": "../players/CALIFORNIA/WARRIORS - CHAMBERLAIN.jpg"
         },
         {
-          "name": "Rich Gannon",
-          "picture": "../players/CALIFORNIA/RAIDERS - RICH GANNON.jpg"
+          "name": "Steve Young",
+          "picture": "../players/CALIFORNIA/49ERS - YOUNG.jpg"
         },
         {
-          "name": "Chris Webber",
-          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+          "name": "Reggie Jackson",
+          "picture": "../players/CALIFORNIA/AS - REGGIE JACKSON.jpg"
+        },
+        {
+          "name": "Tim Brown",
+          "picture": "../players/CALIFORNIA/RAIDERS - TIM BROWN.jpg"
+        },        
+        {
+          "name": "Patrick Marleau",
+          "picture": "../players/CALIFORNIA/SHARKS - MARLEAU 4.jpg"
+        },
+        {
+          "name": "Buster Posey",
+          "picture": "../players/CALIFORNIA/GIANTS - BUSTER POSEY.jpg"
+        },  
+        {
+          "name": "Kevin Durant",
+          "picture": "../players/CALIFORNIA/WARRIORS - DURANT 5.jpg"
+        }, 
+        {
+          "name": "Ronnie Lott",
+          "picture": "../players/CALIFORNIA/49ERS - RONNIE LOTT.jpg"
+        },
+        {
+          "name": "Mark McGwire",
+          "picture": "../players/CALIFORNIA/AS - MARK MCGWIRE.jpg"
+        },
+        {
+          "name": "Ken Stabler",
+          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+        },        
+        {
+          "name": "Brent Burns",
+          "picture": "../players/CALIFORNIA/SHARKS - BURNS.jpg"
+        },
+        {
+          "name": "Juan Marichal",
+          "picture": "../players/CALIFORNIA/GIANTS - JUAN MARICHAL.jpg"
         },
         {
           "name": "John Elway",
           "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
+        },
+        {
+          "name": "Tony Gonzalez",
+          "picture": "../players/CALIFORNIA/CALIFORNIA - TONY GONZALEZ.jpg"
         },
         {
           "name": "Bill Russell",
@@ -895,6 +959,14 @@
         {
           "name": "Aaron Rodgers",
           "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+        },
+        {
+          "name": "Jason Kidd",
+          "picture": "../players/CALIFORNIA/CALIFORNIA - KIDD.jpg"
+        },
+        {
+          "name": "Marshawn Lynch",
+          "picture": "../players/CALIFORNIA/CALIFORNIA - MARSHAWN LYNCH.jpg"
         },
         {
           "name": "Paul George",
@@ -1253,8 +1325,8 @@
           "picture": "../players/CALIFORNIA/KINGS - GRETZKY 2.jpg"
         },
         {
-          "name": "Albert Pujols",
-          "picture": "../players/CALIFORNIA/ANGELS - ALBERT PUJOLS.jpg"
+          "name": "Mike Trout",
+          "picture": "../players/CALIFORNIA/ANGELS - TROUT.jpg"
         },
         {
           "name": "Aaron Donald",
@@ -1265,40 +1337,168 @@
           "picture": "../players/CALIFORNIA/DODGERS - OHTANI.jpg"
         },
         {
-          "name": "Jerry West",
-          "picture": "../players/CALIFORNIA/LAKERS - JERRY WEST.jpg"
+          "name": "Chris Paul",
+          "picture": "../players/CALIFORNIA/CLIPPERS - PAUL 2.jpg"
         },
         {
-          "name": "Mike Trout",
-          "picture": "../players/CALIFORNIA/ANGELS - TROUT.jpg"
-        },
-        {
-          "name": "Earvin 'Magic' Johnson",
-          "picture": "../players/CALIFORNIA/LAKERS - MAGIC.jpg"
-        },
-        {
-          "name": "Lisa Leslie",
-          "picture": "../players/CALIFORNIA/SPARKS - LESLIE.jpg"
+          "name": "Tony Gwynn",
+          "picture": "../players/CALIFORNIA/PADRES - TONY GWYNN.jpg"
         },
         {
           "name": "Teemu Selänne",
           "picture": "../players/CALIFORNIA/DUCKS - SELANNE.jpg"
         },
         {
-          "name": "Kurt Warner",
-          "picture": "../players/CALIFORNIA/RAMS - KURT WARNER.jpg"
+          "name": "Lisa Leslie",
+          "picture": "../players/CALIFORNIA/SPARKS - LESLIE.jpg"
         },
         {
-          "name": "Shaquille O'Neal",
-          "picture": "../players/CALIFORNIA/LAKERS - SHAQ 1.jpeg"
+          "name": "LaDainian Tomlinson",
+          "picture": "../players/CALIFORNIA/CHARGERS - LADAINIAN TOMLINSON.jpg"
+        },
+        {
+          "name": "David Beckham",
+          "picture": "../players/CALIFORNIA/GALAXY - BECKHAM.jpg"
+        },
+        {
+          "name": "Gareth Bale",
+          "picture": "../players/CALIFORNIA/LAFC - BALE.webp"
+        },
+        {
+          "name": "Earvin 'Magic' Johnson",
+          "picture": "../players/CALIFORNIA/LAKERS - MAGIC.jpg"
+        },
+        {
+          "name": "Marcel Dionne",
+          "picture": "../players/CALIFORNIA/KINGS - MARCEL DIONNE.jpg"
+        },
+        {
+          "name": "Chuck Finley",
+          "picture": "../players/CALIFORNIA/ANGELS - CHUCK FINLEY.jpg"
+        },
+        {
+          "name": "Eric Dickerson",
+          "picture": "../players/CALIFORNIA/RAMS - ERIC DICKERSON 2.jpg"
         },
         {
           "name": "Sandy Koufax",
           "picture": "../players/CALIFORNIA/DODGERS - SANDY KOUFAX.jpg"
         },
         {
+          "name": "Blake Griffin",
+          "picture": "../players/CALIFORNIA/CLIPPERS - GRIFFIN 2.jpg"
+        },
+        {
+          "name": "Dave Winfield",
+          "picture": "../players/CALIFORNIA/PADRES - DAVE WINFIELD.jpg"
+        },
+        {
+          "name": "Paul Kariya",
+          "picture": "../players/CALIFORNIA/DUCKS - KARIYA 2.jpg"
+        },
+        {
           "name": "Candace Parker",
           "picture": "../players/CALIFORNIA/SPARKS - PARKER.jpg"
+        },
+        {
+          "name": "Junior Seau",
+          "picture": "../players/CALIFORNIA/CHARGERS - JUNIOR SEAU 1.jpg"
+        },
+        {
+          "name": "Steven Gerrard",
+          "picture": "../players/CALIFORNIA/GALAXY - GERRARD.webp"
+        },
+        {
+          "name": "Olivier Giroud",
+          "picture": "../players/CALIFORNIA/LAFC - GIROUD.jpg"
+        },
+        {
+          "name": "Jerry West",
+          "picture": "../players/CALIFORNIA/LAKERS - JERRY WEST.jpg"
+        },
+        {
+          "name": "Drew Doughty",
+          "picture": "../players/CALIFORNIA/KINGS - DOUGHTY 1.jpg"
+        },
+        {
+          "name": "Garrett Anderson",
+          "picture": "../players/CALIFORNIA/ANGELS - GARRETT ANDERSON.jpg"
+        },
+        {
+          "name": "Marshall Faulk",
+          "picture": "../players/CALIFORNIA/RAMS - MARSHALL FAULK.jpg"
+        },
+        {
+          "name": "Clayton Kershaw",
+          "picture": "../players/CALIFORNIA/DODGERS - CLAYTON KERSHAW.jpg"
+        },
+        {
+          "name": "Scott Niedermayer",
+          "picture": "../players/CALIFORNIA/DUCKS - SCOTT NIEDERMAYER.jpg"
+        },
+        {
+          "name": "Trevor Hoffman",
+          "picture": "../players/CALIFORNIA/PADRES - TREVOR HOFFMAN.jpg"
+        },
+        {
+          "name": "Antonio Gates",
+          "picture": "../players/CALIFORNIA/CHARGERS - ANTONIO GATES 2.jpg"
+        },
+        {
+          "name": "Zlatan Ibrahimovic",
+          "picture": "../players/CALIFORNIA/GALAXY - ZLATAN.jpg"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "picture": "../players/CALIFORNIA/LAKERS - SHAQ 1.jpeg"
+        },
+        {
+          "name": "Luc Robitaille",
+          "picture": "../players/CALIFORNIA/KINGS - LUC ROBITAILLE.jpg"
+        },
+        {
+          "name": "Nolan Ryan",
+          "picture": "../players/CALIFORNIA/ANGELS - NOLAN RYAN.jpg"
+        },
+        {
+          "name": "Deacon Jones",
+          "picture": "../players/CALIFORNIA/RAMS - DEACON JONES 2.jpg"
+        },
+        {
+          "name": "Duke Snider",
+          "picture": "../players/CALIFORNIA/DODGERS - DUKE SNIDER.webp"
+        },
+        {
+          "name": "Ryan Getzlaf",
+          "picture": "../players/CALIFORNIA/DUCKS - GETZLAF.jpg"
+        },
+        {
+          "name": "Jake Peavy",
+          "picture": "../players/CALIFORNIA/PADRES - JAKE PEAVY.jpg"
+        },
+        {
+          "name": "Dan Fouts",
+          "picture": "../players/CALIFORNIA/CHARGERS - DAN FOUTS 1.jpg"
+        },
+        {
+          "name": "Robbie Keane",
+          "picture": "../players/CALIFORNIA/GALAXY - KEANE.webp"
+        },
+        {
+          "name": "Elgin Baylor",
+          "picture": "../players/CALIFORNIA/LAKERS - BAYLOR 1.jpg"
+        },
+        {
+          "name": "Kurt Warner",
+          "picture": "../players/CALIFORNIA/RAMS - KURT WARNER.jpg"
+        },
+        {
+          "name": "Don Drysdale",
+          "picture": "../players/CALIFORNIA/DODGERS - DON DRYSDALE.webp"
+        },
+        {
+          "name": "LeBron James",
+          "picture": "../players/CALIFORNIA/LAKERS - LBJ.jpg"
         },
         {
           "name": "Kareem Abdul-Jabbar",
@@ -1307,6 +1507,34 @@
         {
           "name": "Kawhi Leonard",
           "picture": "../players/CALIFORNIA/SAN DIEGO STATE - LEONARD.jpg"
+        },
+        {
+          "name": "Bill Walton",
+          "picture": "../players/CALIFORNIA/UCLA - WALTON 1.jpeg"
+        },
+        {
+          "name": "DeMar DeRozan",
+          "picture": "../players/CALIFORNIA/USC - DEROZAN.jpg"
+        },
+        {
+          "name": "Russell Westbrook",
+          "picture": "../players/CALIFORNIA/UCLA - WESTBROOK.JPG"
+        },
+        {
+          "name": "Anthony Munoz",
+          "picture": "../players/CALIFORNIA/UCLA - TROY AIKMAN.jpg"
+        },
+        {
+          "name": "Reggie Miller",
+          "picture": "../players/CALIFORNIA/UCLA - MILLER.jpg"
+        },
+        {
+          "name": "O.J. Simpson",
+          "picture": "../players/CALIFORNIA/USC - OJ SIMPSON.jpg"
+        },
+        {
+          "name": "Baron Davis",
+          "picture": "../players/CALIFORNIA/UCLA - DAVIS.jpg"
         }
       ]
     },
@@ -5219,6 +5447,10 @@
           "picture": "../players/MINNESOTA/VIKINGS - RANDY MOSS.jpg"
         },
         {
+          "name": "Geroge Mikan",
+          "picture": "../players/MINNESOTA/LAKERS - GEORGE MIKAN 1.jpg"
+        },
+        {
           "name": "Harmon Killebrew",
           "picture": "../players/MINNESOTA/TWINS - HARMON KILLEBREW.jpg"
         },
@@ -6896,6 +7128,10 @@
           "picture": "../players/NEW YORK/NETS - ERVING.jpg"
         },
         {
+          "name": "Jackie Robinson",
+          "picture": "../players/NEW YORK/JACKIE ROBINSON.jpg"
+        },
+        {
           "name": "Mark Messier",
           "picture": "../players/NEW YORK/RANGERS - MARK MESSIER.jpg"
         },
@@ -6916,17 +7152,17 @@
           "picture": "../players/NEW YORK/ISLANDERS - MIKE BOSSY.jpg"
         },
         {
+          "name": "Mel Ott",
+          "picture": "../players/NEW YORK/GIANTS - MEL OTT.webp"
+        },
+        {
           "name": "Dominik Hasek",
           "picture": "../players/NEW YORK/SABRES - DOMINIK HASEK 2.jpg"
         },
         {
           "name": "Bruce Smith",
           "picture": "../players/NEW YORK/BILLS - BRUCE SMITH.jpeg"
-        },
-        {
-          "name": "Jackie Robinson",
-          "picture": "../players/NEW YORK/JACKIE ROBINSON.jpg"
-        },
+        },        
         {
           "name": "Derek Jeter",
           "picture": "../players/NEW YORK/YANKEES - DEREK JETER.jpg"
@@ -6934,6 +7170,10 @@
         {
           "name": "Eli Manning",
           "picture": "../players/NEW YORK/GIANTS - ELI MANNING 2.jpg"
+        },
+        {
+          "name": "Christy Matthewson",
+          "picture": "../players/NEW YORK/GIANTS - CHRISTY MATTHEWSON.jpg"
         },
         {
           "name": "Jason Kidd",
@@ -7014,6 +7254,10 @@
         {
           "name": "Lou Gehrig",
           "picture": "../players/NEW YORK/YANKEES - LOU GEHRIG.jpeg"
+        },
+        {
+          "name": "Bob McAdoo",
+          "picture": "../players/NEW YORK/BRAVES - MCADOO 1.jpg"
         },
         {
           "name": "Thierry Henry",
@@ -7984,6 +8228,10 @@
         {
           "name": "Jim Brown",
           "picture": "../players/OHIO/BROWNS - JIM BROWN 2.jpg"
+        },
+        {
+          "name": "Oscar Robertson",
+          "picture": "../players/OHIO/ROYALS - ROBERTSON 2.jpg"
         },
         {
           "name": "Joe Morgan",
