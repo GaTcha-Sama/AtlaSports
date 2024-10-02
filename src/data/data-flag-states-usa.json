@@ -1745,45 +1745,73 @@
           "picture": "../players/COLORADO/BRONCOS - VON MILLER 2.jpg"
         },
         {
-          "name": "Cale Makar",
-          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg"
-        },
-        {
-          "name": "Nikola Jokic",
-          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg"
-        },
-        {
-          "name": "Patrick Roy",
-          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg"
-        },
-        {
-          "name": "Larry Walker",
-          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg"
+          "name": "Nolan Arenado",
+          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg"
         },
         {
           "name": "Joe Sakic",
           "picture": "../players/COLORADO/AVALANCHE - SAKIC 2.jpg"
-        },
+        },        
         {
-          "name": "Carmelo Anthony",
-          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg"
+          "name": "Nikola Jokic",
+          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg"
         },
         {
           "name": "John Elway",
           "picture": "../players/COLORADO/BRONCOS - JOHN ELWAY 2.jpg"
         },
         {
-          "name": "Nathan MacKinnon",
-          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.webp"
+          "name": "Larry Walker",
+          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg"
         },
         {
-          "name": "Nolan Arenado",
-          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg"
+          "name": "Patrick Roy",
+          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg"
         },
+        {
+          "name": "Carmelo Anthony",
+          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg"
+        },
+        {
+          "name": "Terrell Davis",
+          "picture": "../players/COLORADO/BRONCOS - TERRELL DAVIS.jpg"
+        },
+        {
+          "name": "Todd Helton",
+          "picture": "../players/COLORADO/ROCKIES - TODD HELTON.jpg"
+        },
+        {
+          "name": "Cale Makar",
+          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg"
+        }, 
+        {
+          "name": "Jamal Murray",
+          "picture": "../players/COLORADO/NUGGETS - MURRAY.webp"
+        },  
+        {
+          "name": "Shannon Sharpe",
+          "picture": "../players/COLORADO/BRONCOS - SHANNON SHARPE.jpg"
+        }, 
+        {
+          "name": "Troy Tulowitzki",
+          "picture": "../players/COLORADO/ROCKIES - TROY TULOWITZKI.jpg"
+        },
+        {
+          "name": "Nathan MacKinnon",
+          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.jpg"
+        },
+        {
+          "name": "Alex English",
+          "picture": "../players/COLORADO/NUGGETS - ENGLISH 1.jpg"
+        }, 
         {
           "name": "Peyton Manning",
           "picture": "../players/COLORADO/BRONCOS - MANNING.jpg"
         },
+        {
+          "name": "Dikembe Mutombo",
+          "picture": "../players/COLORADO/NUGGETS - MUTOMBO.jpg"
+        }, 
         {
           "name": "Peter Forsberg",
           "picture": "../players/COLORADO/AVALANCHE - FORSBERG.jpg"
@@ -1941,6 +1969,14 @@
         {
           "name": "Breanna Stewart",
           "picture": "../players/CONNECTICUT/UCONN - STEWART.webp"
+        },
+        {
+          "name": "Cliff Robinson",
+          "picture": "../players/CONNECTICUT/UCONN - ROBINSON.jpg"
+        },
+        {
+          "name": "Rudy Gay",
+          "picture": "../players/CONNECTICUT/UCONN - GAY.jpg"
         },
         {
           "name": "Kemba Walker",
@@ -2235,19 +2271,19 @@
         },
         {
           "name": "Tony Boselli",
-          "picture": "../players/FLORIDA/JAGUARS - BOSELLI.jpg"
+          "picture": "../players/FLORIDA/JAGUARS - TONY BOSELLI.jpg"
         },
         {
-          "name": "Tracy McGrady",
-          "picture": "../players/FLORIDA/MAGIC - MCGRADY 2.jpg"
+          "name": "Kaka",
+          "picture": "../players/FLORIDA/CITY - KAKA.jpg"
         },
         {
           "name": "Alex Morgan",
           "picture": "../players/FLORIDA/PRIDE - MORGAN.jpg"
         },
         {
-          "name": "Anfernee 'Penny' Hardaway",
-          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg"
+          "name": "Tracy McGrady",
+          "picture": "../players/FLORIDA/MAGIC - MCGRADY.jpg"
         },
         {
           "name": "Fred Taylor",
@@ -2258,13 +2294,21 @@
           "picture": "../players/FLORIDA/PRIDE - MARTA.jpg"
         },
         {
-          "name": "Dwight Howard",
-          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg"
+          "name": "Anfernee 'Penny' Hardaway",
+          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg"
         },
         {
-          "name": "Kaka",
-          "picture": "../players/FLORIDA/CITY - KAKA.jpg"
-        },
+          "name": "Jimmy Smith",
+          "picture": "../players/FLORIDA/JAGUARS - JIMMY SMITH.jpg"
+        },       
+        {
+          "name": "Dwight Howard",
+          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg"
+        }, 
+        {
+          "name": "Dave Cowens",
+          "picture": "../players/FLORIDA/FLORIDA STATE - COWENS.jpg"
+        },      
         {
           "name": "Bradley Beal",
           "picture": "../players/FLORIDA/FLORIDA - BEAL 1.jpg"
@@ -2284,6 +2328,10 @@
         {
           "name": "Joachim Noah",
           "picture": "../players/FLORIDA/FLORIDA - NOAH.jpg"
+        },
+        {
+          "name": "Sam Cassell",
+          "picture": "../players/FLORIDA/FLORIDA STATE - CASSELL.jpg"
         }
       ]
     },
@@ -2516,8 +2564,12 @@
           "picture": "../players/FLORIDA/INTER - MESSI.jpg"
         },
         {
-          "name": "Tom Brady",
-          "picture": "../players/FLORIDA/BUCS - BRADY.jpg"
+          "name": "Warren Sapp",
+          "picture": "../players/FLORIDA/BUCCANEERS - WARREN SAPP 1.jpg"
+        },
+        {
+          "name": "Evan Longoria",
+          "picture": "../players/FLORIDA/RAYS - EVAN LONGORIA.jpg"
         },
         {
           "name": "LeBron James",
@@ -2536,8 +2588,12 @@
           "picture": "../players/FLORIDA/MARLINS - STANTON.jpg"
         },
         {
-          "name": "Sergei Bobrovsky",
-          "picture": "../players/FLORIDA/PANTHERS - BOBROVSKY.jpg"
+          "name": "Aleksander Barkov",
+          "picture": "../players/FLORIDA/PANTHERS - BARKOV.jpg"
+        },
+        {
+          "name": "Ben Zobrist",
+          "picture": "../players/FLORIDA/RAYS - BEN ZOBRIST.jpg"
         },
         {
           "name": "Bob Griese",
@@ -2552,24 +2608,64 @@
           "picture": "../players/FLORIDA/LIGHTNING - NIKITA KUCHEROV 1.jpg"
         },
         {
-          "name": "Warren Sapp",
-          "picture": "../players/FLORIDA/BUCCANEERS - WARREN SAPP 2.jpg"
+          "name": "Hanley Ramirez",
+          "picture": "../players/FLORIDA/MARLINS - HANLEY RAMIREZ.jpg"
+        },
+        {
+          "name": "Sergei Bobrovsky",
+          "picture": "../players/FLORIDA/PANTHERS - BOBROVSKY.jpg"
+        },
+        {
+          "name": "Derrick Brooks",
+          "picture": "../players/FLORIDA/BUCCANEERS - DERRICK BROOKS.jpg"
+        },
+        {
+          "name": "Carl Crawford",
+          "picture": "../players/FLORIDA/RAYS - CARL CRAWFORD.jpg"
         },
         {
           "name": "Pavel Bure",
           "picture": "../players/FLORIDA/PANTHERS - PAVEL BURE 2.jpg"
         },
         {
-          "name": "Evan Longoria",
-          "picture": "../players/FLORIDA/RAYS - EVAN LONGORIA.jpg"
-        },
-        {
           "name": "Victor Hedman",
           "picture": "../players/FLORIDA/LIGHTNING - VICTOR HEDMAN.jpg"
         },
         {
+          "name": "Carlos Valderrama",
+          "picture": "../players/FLORIDA/TAMPA - VALDERRAMA.jpg"
+        },
+        {
+          "name": "Larry Csonka",
+          "picture": "../players/FLORIDA/DOLPHINS - LARRY CSONKA 2.jpg"
+        },
+        {
+          "name": "Vincent Lecavalier",
+          "picture": "../players/FLORIDA/LIGHTNING - LECAVALIER.jpg"
+        },
+        {
+          "name": "Josh Johnson",
+          "picture": "../players/FLORIDA/MARLINS - JOSH JOHNSON.jfif"
+        },
+        {
+          "name": "Lee Roy Selmon",
+          "picture": "../players/FLORIDA/BUCCANEERS - LEE ROY SELMON 1.jpg"
+        },
+        {
+          "name": "David Price",
+          "picture": "../players/FLORIDA/RAYS - DAVID PRICE.jpg"
+        },
+        {
           "name": "Ray Lewis",
           "picture": "../players/FLORIDA/MIAMI - RAY LEWIS.jpg"
+        },
+        {
+          "name": "Rick Barry",
+          "picture": "../players/FLORIDA/MIAMI - BARRY.jpg"
+        },
+        {
+          "name": "Michael Irvin",
+          "picture": "../players/FLORIDA/MIAMI - MICHAEL IRVIN.jpg"
         }
       ]
     },
@@ -2778,8 +2874,8 @@
           "picture": "../players/GEORGIA/THRASHERS - KOVALCHUK.jpg"
         },
         {
-          "name": "Greg Maddux",
-          "picture": "../players/GEORGIA/BRAVES - GREG MADDUX.jpg"
+          "name": "Phil Niekro",
+          "picture": "../players/GEORGIA/BRAVES - PHIL NIEKRO.jpg"
         },
         {
           "name": "Julio Jones",
@@ -2794,12 +2890,40 @@
           "picture": "../players/GEORGIA/THRASHERS - KOZLOV.jpg"
         },
         {
-          "name": "Matt Ryan",
-          "picture": "../players/GEORGIA/FALCONS - MATT RYAN 2.jpg"
-        },
-        {
           "name": "Warren Spahn",
           "picture": "../players/GEORGIA/BRAVES - WARREN SPAHN.jpg"
+        },
+        {
+          "name": "Matt Ryan",
+          "picture": "../players/GEORGIA/FALCONS - MATT RYAN.jpg"
+        },
+        {
+          "name": "Trae Young",
+          "picture": "../players/GEORGIA/HAWKS - YOUNG.jpeg"
+        },
+        {
+          "name": "Marian Hossa",
+          "picture": "../players/GEORGIA/THRASHERS - HOSSA.jpg"
+        },
+        {
+          "name": "Chipper Jones",
+          "picture": "../players/GEORGIA/BRAVES - CHIPPER JONES.jpg"
+        },
+        {
+          "name": "Tommy Nobis",
+          "picture": "../players/GEORGIA/FALCONS - TOMMY NOBIS 2.jpg"
+        },
+        {
+          "name": "Joe Johnson",
+          "picture": "../players/GEORGIA/HAWKS - JOHNSON 1.jpg"
+        },
+        {
+          "name": "Greg Maddux",
+          "picture": "../players/GEORGIA/BRAVES - GREG MADDUX.jpg"
+        },
+        {
+          "name": "Dikembe Mutombo",
+          "picture": "../players/GEORGIA/HAWKS - MUTOMBO 1.jpg"
         },
         {
           "name": "Chris Bosh",
@@ -2808,6 +2932,14 @@
         {
           "name": "Shannon Sharpe",
           "picture": "../players/GEORGIA/SAVANNAH STATE - SHANNON SHARPE.jpg"
+        },
+        {
+          "name": "Stephon Marbury",
+          "picture": "../players/GEORGIA/GEORGIA TECH - MARBURY.jpg"
+        },
+        {
+          "name": "Mark Price",
+          "picture": "../players/GEORGIA/GEORGIA TECH - PRICE.jpg"
         }
       ]
     },
@@ -3261,24 +3393,28 @@
           "picture": "../players/ILLINOIS/BULLS - JORDAN 4.jpg"
         },
         {
-          "name": "Sammy Sosa",
-          "picture": "../players/ILLINOIS/CUBS - SAMMY SOSA.jpg"
+          "name": "Cap Anson",
+          "picture": "../players/ILLINOIS/CUBS - CAP ANSON.jpg"
         },
         {
-          "name": "Stan Mikita",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - STAN MIKITA 1.jpg"
+          "name": "Patrick Kane",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - PATRICK KANE.jpg"
         },
         {
           "name": "Walter Payton",
           "picture": "../players/ILLINOIS/BEARS - WALTER PAYTON 2.jpg"
         },
         {
-          "name": "Jim Thome",
-          "picture": "../players/ILLINOIS/WHITE SOX - JIM THOME.jpg"
+          "name": "Eddie Collins",
+          "picture": "../players/ILLINOIS/WHITE SOX - EDDIE COLLINS.jpg"
         },
         {
-          "name": "Patrick Kane",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - PATRICK KANE.jpg"
+          "name": "Bobby Hull",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - BOBBY HULL 1.jpg"
+        },
+        {
+          "name": "Hristo Stoichkov",
+          "picture": "../players/ILLINOIS/FIRE - STOICHKOV.jpg"
         },
         {
           "name": "Bronko Nagurski",
@@ -3289,32 +3425,80 @@
           "picture": "../players/ILLINOIS/BULLS - PIPPEN.jpg"
         },
         {
-          "name": "Greg Maddux",
-          "picture": "../players/ILLINOIS/CUBS - GREG MADDUX.jpg"
+          "name": "Sammy Sosa",
+          "picture": "../players/ILLINOIS/CUBS - SAMMY SOSA.jpg"
         },
         {
-          "name": "Nellie Fox",
-          "picture": "../players/ILLINOIS/WHITE SOX - NELLIE FOX.jpg"
+          "name": "Frank Thomas",
+          "picture": "../players/ILLINOIS/WHITE SOX - FRANK THOMAS.jfif"
         },
         {
           "name": "Derrick Rose",
           "picture": "../players/ILLINOIS/BULLS - ROSE.jpg"
         },
         {
-          "name": "Jonathan Toews",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - JONATHAN TOEWS 2.jpg"
+          "name": "Ryne Sandberg",
+          "picture": "../players/ILLINOIS/CUBS - RYNE SANDBERG.jpg"
+        },
+        {
+          "name": "Bastian Schweinsteiger",
+          "picture": "../players/ILLINOIS/FIRE - SCHWEINSTEIGER.jpg"
+        },
+        {
+          "name": "Stan Mikita",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - STAN MIKITA 1.jpg"
+        },
+        {
+          "name": "Gale Sayers",
+          "picture": "../players/ILLINOIS/BEARS - GALE SAYERS.jpg"
+        },
+        {
+          "name": "'Shoeless' Joe Jackson",
+          "picture": "../players/ILLINOIS/WHITE SOX - SHOLESS JOE JACKSON.jpg"
+        },
+        {
+          "name": "Duncan Keith",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - KEITH.webp"
         },
         {
           "name": "Dick Butkus",
           "picture": "../players/ILLINOIS/BEARS - DICK BUTKUS 2.jpg"
         },
         {
-          "name": "Bobby Hull",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - BOBBY HULL 1.jpg"
+          "name": "Bob Love",
+          "picture": "../players/ILLINOIS/BULLS - BOB LOVE.jpg"
+        },
+        {
+          "name": "Ernie Banks",
+          "picture": "../players/ILLINOIS/CUBS - ERNIE BANKS.png"
+        },
+        {
+          "name": "Luke Appling",
+          "picture": "../players/ILLINOIS/WHITE SOX - LUKE APPLING.webp"
         },
         {
           "name": "Dennis Rodman",
           "picture": "../players/ILLINOIS/BULLS - RODMAN 1.jpg"
+        },
+        {
+          "name": "Ron Santo",
+          "picture": "../players/ILLINOIS/CUBS - RON SANTO.jpg"
+        },
+        {
+          "name": "Glenn Hall",
+          "picture": "../players/ILLINOIS/BLACKHAWKS - GLENN HALL 2.jpg"
+        },
+        {
+          "name": "Brian Urlacher",
+          "picture": "../players/ILLINOIS/BEARS - BRIAN URLACHER.webp"
+        },
+        {
+          "name": "Carlton Fisk",
+          "picture": "../players/ILLINOIS/WHITE SOX - CARLTON FISK.jpg"
+        },
+        {
+          "name": "Walt Frazier",
+          "picture": "../players/ILLINOIS/SOUTHERN ILLINOIS - FRAZIER.jpeg"
         },
         {
           "name": "Otto Graham",
@@ -3327,6 +3511,10 @@
         {
           "name": "Tony Romo",
           "picture": "../players/ILLINOIS/EASTERN ILLINOIS - TONY ROMO.jpg"
+        },
+        {
+          "name": "Deron Williams",
+          "picture": "../players/ILLINOIS/ILLINOIS - WILLIAMS.jpg"
         }
       ]
     },
@@ -5837,6 +6025,10 @@
         {
           "name": "Patrick Mahomes",
           "picture": "../players/MISSOURI/CHIEFS - MAHOMES.webp"
+        },
+        {
+          "name": "Bob Pettit",
+          "picture": "../players/MISSOURI/HAWKS - PETTIT 2.jpg"
         },
         {
           "name": "Chris Pronger",
