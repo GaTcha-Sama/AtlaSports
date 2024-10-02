@@ -1,0 +1,49 @@
+.carroussel {
+    margin: 0;
+    height: 415px;
+    width: 100%;
+    position: relative;
+    margin-bottom: 30px;
+    @media (max-width:768px) {
+        height: 255px;
+    }
+    &__picture {
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+        border-radius: 25px;
+        @media (max-width:768px) {
+            border-radius: 10px;
+        }
+    }
+    &__numbers {
+        color: white;
+        position: absolute;
+        bottom: 0px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        @media (max-width:768px) {
+            display: none;
+        }
+    }
+    &__arrow-img {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        cursor: pointer;
+        height: 82px;
+        width: 48px;
+        @media (max-width:768px) {
+            height: 20px;
+            height: 24px;
+            width: 12px;
+        }
+    }
+    &__previous-arrow {
+        left: 10px;
+    }
+    &__next-arrow {
+        right: 10px;
+    }      
+}

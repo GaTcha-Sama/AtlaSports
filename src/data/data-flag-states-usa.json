@@ -823,16 +823,6 @@
             "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE.jpg",
             "../stadiums-ncaa/arenas/SAN JOSE STATE - EVENTS CENTER ARENA - SAN JOSE SPARTANS.jpg"
           ]
-        },
-        {
-          "name": "Hornets Nest",
-          "city": "Sacramento",
-          "capacity": "1.012 seats",
-          "residents": "Sacramento State Hornets (NCAA Basket)",
-          "pictures": [
-            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO.jpg",
-            "../stadiums-ncaa/arenas/SACRAMENTO STATE - HORNETS NEST - SACRAMENTO HORNETS.jpg"
-          ]
         }
       ],
       "players": [

@@ -24,6 +24,12 @@
         display: flex;
         flex-wrap: wrap;
 
+        @media (max-width: 1200px) and (min-width: 581px) {
+            border: none;
+            background-color: transparent;
+            padding-right: 0;
+        }
+
         @media (max-width: 580px) {
             border: solid 2px black; 
             margin: 5px;
@@ -40,6 +46,10 @@
         flex-wrap: nowrap;
         width: 100%;
         flex-direction: row;
+
+        @media (max-width: 1200px) and (min-width: 581px) {
+            display: none; // Cache les images individuelles quand le Carroussel est affiché
+        }
 
         @media (max-width: 580px) {
             flex-direction: column; 
