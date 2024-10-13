@@ -34,7 +34,7 @@ function State() {
           <li className='state__navbar__title'><a href="#players"><FontAwesomeIcon icon={faUser} className='state__navbar__title__logo'/>Players</a></li>
           <li className='state__navbar__gallery-title'>
             {/* Link to go back to the gallery */}
-            <Link to="/gallery-usa"><FontAwesomeIcon icon={faTable} className='state__navbar__title__logo'/>Gallery</Link>
+            <Link to="/gallery-usa"><FontAwesomeIcon icon={faTable} className='state__navbar__title__logo'/>Back to gallery</Link>
           </li>
         </ul>
       </nav>
