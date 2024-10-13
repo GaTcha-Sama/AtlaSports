@@ -30,13 +30,16 @@
       }
     }
     &__title {
+      background-color: maroon;
+      color: gold;
       padding-top: 10px;
       font-weight: 600;
-      text-shadow: 2px 2px 5px rgba(255, 255, 255, 1); // Ajout de l'ombre blanche
+      padding: 4px;
+      margin-top: 5px;
+      border: 2px goldenrod;
 
       @media (max-width: 580px) {
         font-size: 10px;
-        text-shadow: 1px 1px 3px rgba(255, 255, 255, 1); // Ajustement pour les petits écrans
       }
     }
   }
