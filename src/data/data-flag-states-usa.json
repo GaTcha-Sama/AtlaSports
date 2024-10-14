@@ -107,15 +107,18 @@
       "players": [
         {
           "name": "Julio Jones",
-          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg"
+          "picture": "../players/ALABAMA/ALABAMA - JULIO JONES.jpg",
+          "sport":"Football"
         },
         {
           "name": "Charles Barkley",
-          "picture": "../players/ALABAMA/AUBURN - BARKLEY.jpg"
+          "picture": "../players/ALABAMA/AUBURN - BARKLEY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "DeMarcus Ware",
-          "picture": "../players/ALABAMA/TROY - DEMARCUS WARE.jpg"
+          "picture": "../players/ALABAMA/TROY - DEMARCUS WARE.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -181,7 +184,8 @@
       "players": [
         {
           "name": "Scott Gomez",
-          "picture": "../players/ALASKA/SCOTT GOMEZ.jpg"
+          "picture": "../players/ALASKA/SCOTT GOMEZ.jpg",
+          "sport":"Hockey"
         }
       ]
     },
@@ -367,100 +371,123 @@
       "players": [
         {
           "name": "Randy Johnson",
-          "picture": "../players/ARIZONA/D'BACKS - RANDY JOHNSON.jpg"
+          "picture": "../players/ARIZONA/D'BACKS - RANDY JOHNSON.jpg",
+          "sport": "Baseball"
         },
         {
           "name": "Steve Nash",
-          "picture": "../players/ARIZONA/SUNS - NASH.jpg"
+          "picture": "../players/ARIZONA/SUNS - NASH.jpg",
+          "sport": "Basket"
         },
         {
           "name": "Larry Fitzgerald",
-          "picture": "../players/ARIZONA/CARDINALS - LARRY FITZGERALD 3.jpg"
+          "picture": "../players/ARIZONA/CARDINALS - LARRY FITZGERALD 3.jpg",
+          "sport":"Football"
         },
         {
           "name": "Diana Taurasi",
-          "picture": "../players/ARIZONA/MERCURY - TAURASI.jpg"
+          "picture": "../players/ARIZONA/MERCURY - TAURASI.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Shane Doan",
-          "team": "Arizona Coyotes",
-          "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg"
+          "picture": "../players/ARIZONA/ARIZONA COYOTES/COYOTES - SHANE DOAN 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Charles Barkley",
-          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg"
+          "picture": "../players/ARIZONA/SUNS - BARKLEY 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Kurt Warner",
-          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg"
+          "picture": "../players/ARIZONA/CARDINALS - KURT WARNER.jpg",
+          "sport":"Football"
         },
         {
           "name": "Brittney Griner",
-          "picture": "../players/ARIZONA/MERCURY - GRINER.webp"
+          "picture": "../players/ARIZONA/MERCURY - GRINER.webp",
+          "sport":"Basket"
         },
         {
           "name": "Clayton Keller",
-          "picture": "../players/ARIZONA/COYOTES - CLAYTON KELLER.webp"
+          "picture": "../players/ARIZONA/COYOTES - CLAYTON KELLER.webp",
+          "sport":"Hockey"
         },
         {
           "name": "Paul Goldschmidt",
-          "picture": "../players/ARIZONA/D'BACKS - PAUL GOLDSCHMIDT.jpg"
+          "picture": "../players/ARIZONA/D'BACKS - PAUL GOLDSCHMIDT.jpg",
+          "sport":"Baseball"
         },        
         {
           "name": "Luiz Gonzalez",
-          "picture": "../players/ARIZONA/D'BACKS - LUIS GONZALEZ.jpg"
+          "picture": "../players/ARIZONA/D'BACKS - LUIS GONZALEZ.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Devin Booker",
-          "picture": "../players/ARIZONA/SUNS - BOOKER 2.jpg"
+          "picture": "../players/ARIZONA/SUNS - BOOKER 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Larry Wilson",
-          "picture": "../players/ARIZONA/CARDINALS - LARRY WILSON.jpg"
+          "picture": "../players/ARIZONA/CARDINALS - LARRY WILSON.jpg",
+          "sport":"Football"
         },
         {
           "name": "DeWanna Bonner",
-          "picture": "../players/ARIZONA/MERCURY - DEWANNA BONNER.jpg"
+          "picture": "../players/ARIZONA/MERCURY - DEWANNA BONNER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Brandon Webb",
-          "picture": "../players/ARIZONA/D'BACKS - BRANDON WEBB.jpg"
+          "picture": "../players/ARIZONA/D'BACKS - BRANDON WEBB.jpg",
+          "sport":"Baseball"
         },        
         {
           "name": "Amar'e Stoudemire",
-          "picture": "../players/ARIZONA/SUNS - STOUDEMIRE.jpg"
+          "picture": "../players/ARIZONA/SUNS - STOUDEMIRE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Aeneas Williams",
-          "picture": "../players/ARIZONA/CARDINALS - AENEAS WILLIAMS.jpg"
+          "picture": "../players/ARIZONA/CARDINALS - AENEAS WILLIAMS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Kevin Durant",
-          "picture": "../players/ARIZONA/SUNS - KD.webp"
+          "picture": "../players/ARIZONA/SUNS - KD.webp",
+          "sport":"Basket"
         },        
         {
           "name": "Rob Gronkowski",
-          "picture": "../players/ARIZONA/ARIZONA - GRONKOWSKI.jpg"
+          "picture": "../players/ARIZONA/ARIZONA - GRONKOWSKI.jpg",
+          "sport":"Football"
         },
         {
           "name": "James Harden",
-          "picture": "../players/ARIZONA/ARIZONA STATE - HARDEN.jpg"
+          "picture": "../players/ARIZONA/ARIZONA STATE - HARDEN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Andre Iguodala",
-          "picture": "../players/ARIZONA/ARIZONA - IGUODALA.jpg"
+          "picture": "../players/ARIZONA/ARIZONA - IGUODALA.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Terrell Suggs",
-          "picture": "../players/ARIZONA/ARIZONA STATE - TERRELL SUGGS.jpg"
+          "picture": "../players/ARIZONA/ARIZONA STATE - TERRELL SUGGS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Mike Bibby",
-          "picture": "../players/ARIZONA/ARIZONA - BIBBY.jpg"
+          "picture": "../players/ARIZONA/ARIZONA - BIBBY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Fat Lever",
-          "picture": "../players/ARIZONA/ARIZONA STATE - LEVER.jpg"
+          "picture": "../players/ARIZONA/ARIZONA STATE - LEVER.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -528,19 +555,23 @@
       "players": [
         {
           "name": "Scottie Pippen",
-          "picture": "../players/ARKANSAS/CENTRAL ARKANSAS - PIPPEN.jpg"
+          "picture": "../players/ARKANSAS/CENTRAL ARKANSAS - PIPPEN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Lance Alworth",
-          "picture": "../players/ARKANSAS/ARKANSAS - LANCE ALWORTH.jpg"
+          "picture": "../players/ARKANSAS/ARKANSAS - LANCE ALWORTH.jpg",
+          "sport":"Football"
         },
         {
           "name": "Sidney Moncrief",
-          "picture": "../players/ARKANSAS/ARKANSAS - MONCRIEF.jpg"
+          "picture": "../players/ARKANSAS/ARKANSAS - MONCRIEF.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Joe Johnson",
-          "picture": "../players/ARKANSAS/ARKANSAS - JOHNSON.jpg"
+          "picture": "../players/ARKANSAS/ARKANSAS - JOHNSON.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -828,139 +859,173 @@
       "players": [
         {
           "name": "Stephen Curry",
-          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg"
+          "picture": "../players/CALIFORNIA/WARRIORS - CURRY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Jerry Rice",
-          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg"
+          "picture": "../players/CALIFORNIA/49ERS - RICE.jpg",
+          "sport":"Football"
         },
         {
           "name": "Rickey Henderson",
-          "picture": "../players/CALIFORNIA/AS - RICKEY HENDERSON 1.jpg"
+          "picture": "../players/CALIFORNIA/AS - RICKEY HENDERSON 1.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Gene Upshaw & Art Shell",
-          "picture": "../players/CALIFORNIA/RAIDERS - ART SHELL - GENE UPSHAW.jpg"
+          "picture": "../players/CALIFORNIA/RAIDERS - ART SHELL - GENE UPSHAW.jpg",
+          "sport":"Football"
         },        
         {
           "name": "Joe Thornton",
-          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg"
+          "picture": "../players/CALIFORNIA/SHARKS - THORNTON.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Willie Mays",
-          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg"
+          "picture": "../players/CALIFORNIA/GIANTS - WILLIE MAYS.jpg",
+          "sport":"Baseball"
         },  
         {
           "name": "Chris Webber",
-          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg"
+          "picture": "../players/CALIFORNIA/KINGS - WEBBER.jpg",
+          "sport":"Basket"
         },     
         {
           "name": "Klay Thompson",
-          "picture": "../players/CALIFORNIA/WARRIORS - THOMPSON.jpeg"
+          "picture": "../players/CALIFORNIA/WARRIORS - THOMPSON.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "Joe Montana",
-          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg"
+          "picture": "../players/CALIFORNIA/49ERS - MONTANA 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Jim 'Catfish' Hunter",
-          "picture": "../players/CALIFORNIA/AS - JIM CATFISH HUNTER.jpg"
+          "picture": "../players/CALIFORNIA/AS - JIM CATFISH HUNTER.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Jim Otto",
-          "picture": "../players/CALIFORNIA/RAIDERS - JIM OTTO 2.jpg"
+          "picture": "../players/CALIFORNIA/RAIDERS - JIM OTTO 2.jpg",
+          "sport":"Football"
         }, 
         {
           "name": "Rick Barry",
-          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg"
+          "picture": "../players/CALIFORNIA/WARRIORS - BARRY 1.jpg",
+          "sport":"Basket"
         },       
         {
           "name": "Joe Pavelski",
-          "picture": "../players/CALIFORNIA/SHARKS - PAVELSKI.webp"
+          "picture": "../players/CALIFORNIA/SHARKS - PAVELSKI.webp",
+          "sport":"Hockey"
         },
         {
           "name": "Barry Bonds",
-          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg"
+          "picture": "../players/CALIFORNIA/GIANTS - BARRY BONDS.jpg",
+          "sport":"Baseball"
         },  
         {
           "name": "Mitch Richmond",
-          "picture": "../players/CALIFORNIA/KINGS - RICHMOND 1.jpg"
+          "picture": "../players/CALIFORNIA/KINGS - RICHMOND 1.jpg",
+          "sport":"Basket"
         }, 
         {
           "name": "Wilt Chamberlain",
-          "picture": "../players/CALIFORNIA/WARRIORS - CHAMBERLAIN.jpg"
+          "picture": "../players/CALIFORNIA/WARRIORS - CHAMBERLAIN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Steve Young",
-          "picture": "../players/CALIFORNIA/49ERS - YOUNG.jpg"
+          "picture": "../players/CALIFORNIA/49ERS - YOUNG.jpg",
+          "sport":"Football"
         },
         {
           "name": "Reggie Jackson",
-          "picture": "../players/CALIFORNIA/AS - REGGIE JACKSON.jpg"
+          "picture": "../players/CALIFORNIA/AS - REGGIE JACKSON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Tim Brown",
-          "picture": "../players/CALIFORNIA/RAIDERS - TIM BROWN.jpg"
+          "picture": "../players/CALIFORNIA/RAIDERS - TIM BROWN.jpg",
+          "sport":"Football"
         },        
         {
           "name": "Patrick Marleau",
-          "picture": "../players/CALIFORNIA/SHARKS - MARLEAU 4.jpg"
+          "picture": "../players/CALIFORNIA/SHARKS - MARLEAU 4.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Buster Posey",
-          "picture": "../players/CALIFORNIA/GIANTS - BUSTER POSEY.jpg"
+          "picture": "../players/CALIFORNIA/GIANTS - BUSTER POSEY.jpg",
+          "sport":"Baseball"
         },  
         {
           "name": "Kevin Durant",
-          "picture": "../players/CALIFORNIA/WARRIORS - DURANT 5.jpg"
+          "picture": "../players/CALIFORNIA/WARRIORS - DURANT 5.jpg",
+          "sport":"Basket"
         }, 
         {
           "name": "Ronnie Lott",
-          "picture": "../players/CALIFORNIA/49ERS - RONNIE LOTT.jpg"
+          "picture": "../players/CALIFORNIA/49ERS - RONNIE LOTT.jpg",
+          "sport":"Football"
         },
         {
           "name": "Mark McGwire",
-          "picture": "../players/CALIFORNIA/AS - MARK MCGWIRE.jpg"
+          "picture": "../players/CALIFORNIA/AS - MARK MCGWIRE.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Ken Stabler",
-          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg"
+          "picture": "../players/CALIFORNIA/RAIDERS - KEN STABLER 1.jpg",
+          "sport":"Football"
         },        
         {
           "name": "Brent Burns",
-          "picture": "../players/CALIFORNIA/SHARKS - BURNS.jpg"
+          "picture": "../players/CALIFORNIA/SHARKS - BURNS.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Juan Marichal",
-          "picture": "../players/CALIFORNIA/GIANTS - JUAN MARICHAL.jpg"
+          "picture": "../players/CALIFORNIA/GIANTS - JUAN MARICHAL.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "John Elway",
-          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg"
+          "picture": "../players/CALIFORNIA/STANFORD - JOHN ELWAY.jpg",
+          "sport":"Football"
         },
         {
           "name": "Tony Gonzalez",
-          "picture": "../players/CALIFORNIA/CALIFORNIA - TONY GONZALEZ.jpg"
+          "picture": "../players/CALIFORNIA/CALIFORNIA - TONY GONZALEZ.jpg",
+          "sport":"Football"
         },
         {
           "name": "Bill Russell",
-          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg"
+          "picture": "../players/CALIFORNIA/SAN FRANCISCO - RUSSELL.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Aaron Rodgers",
-          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg"
+          "picture": "../players/CALIFORNIA/CALIFORNIA - AARON RODGERS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Jason Kidd",
-          "picture": "../players/CALIFORNIA/CALIFORNIA - KIDD.jpg"
+          "picture": "../players/CALIFORNIA/CALIFORNIA - KIDD.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Marshawn Lynch",
-          "picture": "../players/CALIFORNIA/CALIFORNIA - MARSHAWN LYNCH.jpg"
+          "picture": "../players/CALIFORNIA/CALIFORNIA - MARSHAWN LYNCH.jpg",
+          "sport":"Football"
         },
         {
           "name": "Paul George",
-          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg"
+          "picture": "../players/CALIFORNIA/FRESNO STATE - GEORGE.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -1308,223 +1373,278 @@
       "players": [
         {
           "name": "Kobe Bryant",
-          "picture": "../players/CALIFORNIA/LAKERS - KOBE BRYANT 2.jpg"
+          "picture": "../players/CALIFORNIA/LAKERS - KOBE BRYANT 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Wayne Gretzky",
-          "picture": "../players/CALIFORNIA/KINGS - GRETZKY 2.jpg"
+          "picture": "../players/CALIFORNIA/KINGS - GRETZKY 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Mike Trout",
-          "picture": "../players/CALIFORNIA/ANGELS - TROUT.jpg"
+          "picture": "../players/CALIFORNIA/ANGELS - TROUT.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Aaron Donald",
-          "picture": "../players/CALIFORNIA/RAMS - DONALD.jpg"
+          "picture": "../players/CALIFORNIA/RAMS - DONALD.jpg",
+          "sport":"Football"
         },
         {
           "name": "Shohei Ohtani",
-          "picture": "../players/CALIFORNIA/DODGERS - OHTANI.jpg"
+          "picture": "../players/CALIFORNIA/DODGERS - OHTANI.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Chris Paul",
-          "picture": "../players/CALIFORNIA/CLIPPERS - PAUL 2.jpg"
+          "picture": "../players/CALIFORNIA/CLIPPERS - PAUL 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Tony Gwynn",
-          "picture": "../players/CALIFORNIA/PADRES - TONY GWYNN.jpg"
+          "picture": "../players/CALIFORNIA/PADRES - TONY GWYNN.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Teemu Selänne",
-          "picture": "../players/CALIFORNIA/DUCKS - SELANNE.jpg"
+          "picture": "../players/CALIFORNIA/DUCKS - SELANNE.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Lisa Leslie",
-          "picture": "../players/CALIFORNIA/SPARKS - LESLIE.jpg"
+          "picture": "../players/CALIFORNIA/SPARKS - LESLIE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "LaDainian Tomlinson",
-          "picture": "../players/CALIFORNIA/CHARGERS - LADAINIAN TOMLINSON.jpg"
+          "picture": "../players/CALIFORNIA/CHARGERS - LADAINIAN TOMLINSON.jpg",
+          "sport":"Football"
         },
         {
           "name": "David Beckham",
-          "picture": "../players/CALIFORNIA/GALAXY - BECKHAM.jpg"
+          "picture": "../players/CALIFORNIA/GALAXY - BECKHAM.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Gareth Bale",
-          "picture": "../players/CALIFORNIA/LAFC - BALE.webp"
+          "picture": "../players/CALIFORNIA/LAFC - BALE.webp",
+          "sport":"Soccer"
         },
         {
           "name": "Earvin 'Magic' Johnson",
-          "picture": "../players/CALIFORNIA/LAKERS - MAGIC.jpg"
+          "picture": "../players/CALIFORNIA/LAKERS - MAGIC.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Marcel Dionne",
-          "picture": "../players/CALIFORNIA/KINGS - MARCEL DIONNE.jpg"
+          "picture": "../players/CALIFORNIA/KINGS - MARCEL DIONNE.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Chuck Finley",
-          "picture": "../players/CALIFORNIA/ANGELS - CHUCK FINLEY.jpg"
+          "picture": "../players/CALIFORNIA/ANGELS - CHUCK FINLEY.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Eric Dickerson",
-          "picture": "../players/CALIFORNIA/RAMS - ERIC DICKERSON 2.jpg"
+          "picture": "../players/CALIFORNIA/RAMS - ERIC DICKERSON 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Sandy Koufax",
-          "picture": "../players/CALIFORNIA/DODGERS - SANDY KOUFAX.jpg"
+          "picture": "../players/CALIFORNIA/DODGERS - SANDY KOUFAX.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Blake Griffin",
-          "picture": "../players/CALIFORNIA/CLIPPERS - GRIFFIN 2.jpg"
+          "picture": "../players/CALIFORNIA/CLIPPERS - GRIFFIN 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Dave Winfield",
-          "picture": "../players/CALIFORNIA/PADRES - DAVE WINFIELD.jpg"
+          "picture": "../players/CALIFORNIA/PADRES - DAVE WINFIELD.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Paul Kariya",
-          "picture": "../players/CALIFORNIA/DUCKS - KARIYA 2.jpg"
+          "picture": "../players/CALIFORNIA/DUCKS - KARIYA 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Candace Parker",
-          "picture": "../players/CALIFORNIA/SPARKS - PARKER.jpg"
+          "picture": "../players/CALIFORNIA/SPARKS - PARKER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Junior Seau",
-          "picture": "../players/CALIFORNIA/CHARGERS - JUNIOR SEAU 1.jpg"
+          "picture": "../players/CALIFORNIA/CHARGERS - JUNIOR SEAU 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Steven Gerrard",
-          "picture": "../players/CALIFORNIA/GALAXY - GERRARD.webp"
+          "picture": "../players/CALIFORNIA/GALAXY - GERRARD.webp",
+          "sport":"Soccer"
         },
         {
           "name": "Olivier Giroud",
-          "picture": "../players/CALIFORNIA/LAFC - GIROUD.jpg"
+          "picture": "../players/CALIFORNIA/LAFC - GIROUD.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Jerry West",
-          "picture": "../players/CALIFORNIA/LAKERS - JERRY WEST.jpg"
+          "picture": "../players/CALIFORNIA/LAKERS - JERRY WEST.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Drew Doughty",
-          "picture": "../players/CALIFORNIA/KINGS - DOUGHTY 1.jpg"
+          "picture": "../players/CALIFORNIA/KINGS - DOUGHTY 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Garrett Anderson",
-          "picture": "../players/CALIFORNIA/ANGELS - GARRETT ANDERSON.jpg"
+          "picture": "../players/CALIFORNIA/ANGELS - GARRETT ANDERSON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Marshall Faulk",
-          "picture": "../players/CALIFORNIA/RAMS - MARSHALL FAULK.jpg"
+          "picture": "../players/CALIFORNIA/RAMS - MARSHALL FAULK.jpg",
+          "sport":"Football"
         },
         {
           "name": "Clayton Kershaw",
-          "picture": "../players/CALIFORNIA/DODGERS - CLAYTON KERSHAW.jpg"
+          "picture": "../players/CALIFORNIA/DODGERS - CLAYTON KERSHAW.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Scott Niedermayer",
-          "picture": "../players/CALIFORNIA/DUCKS - SCOTT NIEDERMAYER.jpg"
+          "picture": "../players/CALIFORNIA/DUCKS - SCOTT NIEDERMAYER.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Trevor Hoffman",
-          "picture": "../players/CALIFORNIA/PADRES - TREVOR HOFFMAN.jpg"
+          "picture": "../players/CALIFORNIA/PADRES - TREVOR HOFFMAN.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Antonio Gates",
-          "picture": "../players/CALIFORNIA/CHARGERS - ANTONIO GATES 2.jpg"
+          "picture": "../players/CALIFORNIA/CHARGERS - ANTONIO GATES 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Zlatan Ibrahimovic",
-          "picture": "../players/CALIFORNIA/GALAXY - ZLATAN.jpg"
+          "picture": "../players/CALIFORNIA/GALAXY - ZLATAN.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Shaquille O'Neal",
-          "picture": "../players/CALIFORNIA/LAKERS - SHAQ 1.jpeg"
+          "picture": "../players/CALIFORNIA/LAKERS - SHAQ 1.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "Luc Robitaille",
-          "picture": "../players/CALIFORNIA/KINGS - LUC ROBITAILLE.jpg"
+          "picture": "../players/CALIFORNIA/KINGS - LUC ROBITAILLE.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Nolan Ryan",
-          "picture": "../players/CALIFORNIA/ANGELS - NOLAN RYAN.jpg"
+          "picture": "../players/CALIFORNIA/ANGELS - NOLAN RYAN.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Deacon Jones",
-          "picture": "../players/CALIFORNIA/RAMS - DEACON JONES 2.jpg"
+          "picture": "../players/CALIFORNIA/RAMS - DEACON JONES 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Duke Snider",
-          "picture": "../players/CALIFORNIA/DODGERS - DUKE SNIDER.webp"
+          "picture": "../players/CALIFORNIA/DODGERS - DUKE SNIDER.webp",
+          "sport":"Baseball"
         },
         {
           "name": "Ryan Getzlaf",
-          "picture": "../players/CALIFORNIA/DUCKS - GETZLAF.jpg"
+          "picture": "../players/CALIFORNIA/DUCKS - GETZLAF.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Jake Peavy",
-          "picture": "../players/CALIFORNIA/PADRES - JAKE PEAVY.jpg"
+          "picture": "../players/CALIFORNIA/PADRES - JAKE PEAVY.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Dan Fouts",
-          "picture": "../players/CALIFORNIA/CHARGERS - DAN FOUTS 1.jpg"
+          "picture": "../players/CALIFORNIA/CHARGERS - DAN FOUTS 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Robbie Keane",
-          "picture": "../players/CALIFORNIA/GALAXY - KEANE.webp"
+          "picture": "../players/CALIFORNIA/GALAXY - KEANE.webp",
+          "sport":"Soccer"
         },
         {
           "name": "Elgin Baylor",
-          "picture": "../players/CALIFORNIA/LAKERS - BAYLOR 1.jpg"
+          "picture": "../players/CALIFORNIA/LAKERS - BAYLOR 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Kurt Warner",
-          "picture": "../players/CALIFORNIA/RAMS - KURT WARNER.jpg"
+          "picture": "../players/CALIFORNIA/RAMS - KURT WARNER.jpg",
+          "sport":"Football"
         },
         {
           "name": "Don Drysdale",
-          "picture": "../players/CALIFORNIA/DODGERS - DON DRYSDALE.webp"
+          "picture": "../players/CALIFORNIA/DODGERS - DON DRYSDALE.webp",
+          "sport":"Baseball"
         },
         {
           "name": "LeBron James",
-          "picture": "../players/CALIFORNIA/LAKERS - LBJ.jpg"
+          "picture": "../players/CALIFORNIA/LAKERS - LBJ.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Kareem Abdul-Jabbar",
-          "picture": "../players/CALIFORNIA/UCLA - KAJ.JPG"
+          "picture": "../players/CALIFORNIA/UCLA - KAJ.JPG",
+          "sport":"Basket"
         },
         {
           "name": "Kawhi Leonard",
-          "picture": "../players/CALIFORNIA/SAN DIEGO STATE - LEONARD.jpg"
+          "picture": "../players/CALIFORNIA/SAN DIEGO STATE - LEONARD.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Bill Walton",
-          "picture": "../players/CALIFORNIA/UCLA - WALTON 1.jpeg"
+          "picture": "../players/CALIFORNIA/UCLA - WALTON 1.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "DeMar DeRozan",
-          "picture": "../players/CALIFORNIA/USC - DEROZAN.jpg"
+          "picture": "../players/CALIFORNIA/USC - DEROZAN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Russell Westbrook",
-          "picture": "../players/CALIFORNIA/UCLA - WESTBROOK.JPG"
+          "picture": "../players/CALIFORNIA/UCLA - WESTBROOK.jpg",
+          "sport":"Basket"
         },
         {
-          "name": "Anthony Munoz",
-          "picture": "../players/CALIFORNIA/UCLA - TROY AIKMAN.jpg"
+          "name": "Troy Aikman",
+          "picture": "../players/CALIFORNIA/UCLA - TROY AIKMAN.jpg",
+          "sport":"Football"
         },
         {
           "name": "Reggie Miller",
-          "picture": "../players/CALIFORNIA/UCLA - MILLER.jpg"
+          "picture": "../players/CALIFORNIA/UCLA - MILLER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "O.J. Simpson",
-          "picture": "../players/CALIFORNIA/USC - OJ SIMPSON.jpg"
+          "picture": "../players/CALIFORNIA/USC - OJ SIMPSON.jpg",
+          "sport":"Football"
         },
         {
           "name": "Baron Davis",
-          "picture": "../players/CALIFORNIA/UCLA - DAVIS.jpg"
+          "picture": "../players/CALIFORNIA/UCLA - DAVIS.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -1732,87 +1852,108 @@
       "players": [
         {
           "name": "Von Miller",
-          "picture": "../players/COLORADO/BRONCOS - VON MILLER 2.jpg"
+          "picture": "../players/COLORADO/BRONCOS - VON MILLER 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Nolan Arenado",
-          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg"
+          "picture": "../players/COLORADO/ROCKIES - NOLAN ARENADO.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Joe Sakic",
-          "picture": "../players/COLORADO/AVALANCHE - SAKIC 2.jpg"
+          "picture": "../players/COLORADO/AVALANCHE - SAKIC 2.jpg",
+          "sport":"Hockey"
         },        
         {
           "name": "Nikola Jokic",
-          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg"
+          "picture": "../players/COLORADO/NUGGETS - JOKIC.jpg",
+          "sport":"Basket"
         },
         {
           "name": "John Elway",
-          "picture": "../players/COLORADO/BRONCOS - JOHN ELWAY 2.jpg"
+          "picture": "../players/COLORADO/BRONCOS - JOHN ELWAY 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Larry Walker",
-          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg"
+          "picture": "../players/COLORADO/ROCKIES - LARRY WALKER.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Patrick Roy",
-          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg"
+          "picture": "../players/COLORADO/AVALANCHE - ROY.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Carmelo Anthony",
-          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg"
+          "picture": "../players/COLORADO/NUGGETS - ANTHONY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Terrell Davis",
-          "picture": "../players/COLORADO/BRONCOS - TERRELL DAVIS.jpg"
+          "picture": "../players/COLORADO/BRONCOS - TERRELL DAVIS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Todd Helton",
-          "picture": "../players/COLORADO/ROCKIES - TODD HELTON.jpg"
+          "picture": "../players/COLORADO/ROCKIES - TODD HELTON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Cale Makar",
-          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg"
+          "picture": "../players/COLORADO/AVALANCHE - MAKAR.jpg",
+          "sport":"Hockey"
         }, 
         {
           "name": "Jamal Murray",
-          "picture": "../players/COLORADO/NUGGETS - MURRAY.webp"
+          "picture": "../players/COLORADO/NUGGETS - MURRAY.webp",
+          "sport":"Basket"
         },  
         {
           "name": "Shannon Sharpe",
-          "picture": "../players/COLORADO/BRONCOS - SHANNON SHARPE.jpg"
+          "picture": "../players/COLORADO/BRONCOS - SHANNON SHARPE.jpg",
+          "sport":"Football"
         }, 
         {
           "name": "Troy Tulowitzki",
-          "picture": "../players/COLORADO/ROCKIES - TROY TULOWITZKI.jpg"
+          "picture": "../players/COLORADO/ROCKIES - TROY TULOWITZKI.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Nathan MacKinnon",
-          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.jpg"
+          "picture": "../players/COLORADO/AVALANCHE - MCKINNON.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Alex English",
-          "picture": "../players/COLORADO/NUGGETS - ENGLISH 1.jpg"
+          "picture": "../players/COLORADO/NUGGETS - ENGLISH 1.jpg",
+          "sport":"Basket"
         }, 
         {
           "name": "Peyton Manning",
-          "picture": "../players/COLORADO/BRONCOS - MANNING.jpg"
+          "picture": "../players/COLORADO/BRONCOS - MANNING.jpg",
+          "sport":"Football"
         },
         {
           "name": "Dikembe Mutombo",
-          "picture": "../players/COLORADO/NUGGETS - MUTOMBO.jpg"
+          "picture": "../players/COLORADO/NUGGETS - MUTOMBO.jpg",
+          "sport":"Basket"
         }, 
         {
           "name": "Peter Forsberg",
-          "picture": "../players/COLORADO/AVALANCHE - FORSBERG.jpg"
+          "picture": "../players/COLORADO/AVALANCHE - FORSBERG.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Chauncey Billups",
-          "picture": "../players/COLORADO/COLORADO - BILLUPS.jpg"
+          "picture": "../players/COLORADO/COLORADO - BILLUPS.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Vincent Jackson",
-          "picture": "../players/COLORADO/NORTHERN COLORADO - VINCENT JACKSON.jpg"
+          "picture": "../players/COLORADO/NORTHERN COLORADO - VINCENT JACKSON.jpg",
+          "sport":"Football"
         }
       ]
     },

@@ -1,12 +1,47 @@
 @import '../variables.scss';
 
 .players {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 10px;
+  display: flex;
+  flex-direction: column;
 
   @media (max-width: 580px) {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+
+  &__filters {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+    gap: 3px;
+  }
+
+  &__filters .active {
+    background-color: #bf1e2e;
+    color: white;
+  }
+
+  &__filters button {
+    border-radius: 10px;
+    margin: 4px;
+    padding: 4px;
+  }
+
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+
+    /* Limite à 5 joueurs maximum par ligne */
+    @media (min-width: 1024px) {
+      grid-template-columns: repeat(5, 1fr);
+    }
+
+    @media (max-width: 580px) {
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 5px;
+    }
   }
 
   &__container {
@@ -29,14 +64,16 @@
         height: 100px;
       }
     }
+
     &__title {
       background-color: maroon;
       color: gold;
+      border-radius: 5px;
       padding-top: 10px;
       font-weight: 600;
-      padding: 4px;
+      padding: 5px;
       margin-top: 5px;
-      border: 2px goldenrod;
+      border: 2px solid goldenrod;
 
       @media (max-width: 580px) {
         font-size: 10px;
