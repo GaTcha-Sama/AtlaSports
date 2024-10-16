@@ -2071,55 +2071,68 @@
       "players": [
         {
           "name": "Tina Charles",
-          "picture": "../players/CONNECTICUT/SUN - CHARLES.jpg"
+          "picture": "../players/CONNECTICUT/SUN - CHARLES.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Ron Francis",
-          "picture": "../players/CONNECTICUT/WHALERS - RON FRANCIS.jpg"
+          "picture": "../players/CONNECTICUT/WHALERS - RON FRANCIS.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Jonquel Jones",
-          "picture": "../players/CONNECTICUT/SUN - JONES.webp"
+          "picture": "../players/CONNECTICUT/SUN - JONES.webp",
+          "sport":"Basket"
         },
         {
           "name": "Ray Allen",
-          "picture": "../players/CONNECTICUT/UCONN - ALLEN.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - ALLEN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Diana Taurasi",
-          "picture": "../players/CONNECTICUT/UCONN - TAURASI.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - TAURASI.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Sue Bird",
-          "picture": "../players/CONNECTICUT/UCONN - BIRD.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - BIRD.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Maya Moore",
-          "picture": "../players/CONNECTICUT/UCONN - MOORE.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - MOORE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Breanna Stewart",
-          "picture": "../players/CONNECTICUT/UCONN - STEWART.webp"
+          "picture": "../players/CONNECTICUT/UCONN - STEWART.webp",
+          "sport":"Basket"
         },
         {
           "name": "Cliff Robinson",
-          "picture": "../players/CONNECTICUT/UCONN - ROBINSON.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - ROBINSON.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Rudy Gay",
-          "picture": "../players/CONNECTICUT/UCONN - GAY.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - GAY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Kemba Walker",
-          "picture": "../players/CONNECTICUT/UCONN - WALKER.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - WALKER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Vin Baker",
-          "picture": "../players/CONNECTICUT/HARTFORD - BAKER.jpg"
+          "picture": "../players/CONNECTICUT/HARTFORD - BAKER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Richard 'Rip' Hamilton",
-          "picture": "../players/CONNECTICUT/UCONN - HAMILTON.jpg"
+          "picture": "../players/CONNECTICUT/UCONN - HAMILTON.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -2192,7 +2205,8 @@
       "players": [
         {
           "name": "Joe Flacco",
-          "picture": "../players/DELAWARE/DELAWARE - JOE FLACCO.jpg"
+          "picture": "../players/DELAWARE/DELAWARE - JOE FLACCO.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -2398,71 +2412,88 @@
       "players": [
         {
           "name": "Shaquille O'Neal",
-          "picture": "../players/FLORIDA/MAGIC - O'NEAL 4.jpg"
+          "picture": "../players/FLORIDA/MAGIC - O'NEAL 4.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Tony Boselli",
-          "picture": "../players/FLORIDA/JAGUARS - TONY BOSELLI.jpg"
+          "picture": "../players/FLORIDA/JAGUARS - TONY BOSELLI.jpg",
+          "sport":"Football"
         },
         {
           "name": "Kaka",
-          "picture": "../players/FLORIDA/CITY - KAKA.jpg"
+          "picture": "../players/FLORIDA/CITY - KAKA.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Alex Morgan",
-          "picture": "../players/FLORIDA/PRIDE - MORGAN.jpg"
+          "picture": "../players/FLORIDA/PRIDE - MORGAN.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Tracy McGrady",
-          "picture": "../players/FLORIDA/MAGIC - MCGRADY.jpg"
+          "picture": "../players/FLORIDA/MAGIC - MCGRADY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Fred Taylor",
-          "picture": "../players/FLORIDA/JAGUARS - FRED TAYLOR.jpg"
+          "picture": "../players/FLORIDA/JAGUARS - FRED TAYLOR.jpg",
+          "sport":"Football"
         },
         {
           "name": "Marta",
-          "picture": "../players/FLORIDA/PRIDE - MARTA.jpg"
+          "picture": "../players/FLORIDA/PRIDE - MARTA.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Anfernee 'Penny' Hardaway",
-          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg"
+          "picture": "../players/FLORIDA/MAGIC - HARDAWAY 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Jimmy Smith",
-          "picture": "../players/FLORIDA/JAGUARS - JIMMY SMITH.jpg"
+          "picture": "../players/FLORIDA/JAGUARS - JIMMY SMITH.jpg",
+          "sport":"Football"
         },       
         {
           "name": "Dwight Howard",
-          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg"
+          "picture": "../players/FLORIDA/MAGIC - HOWARD 2.jpg",
+          "sport":"Basket"
         }, 
         {
           "name": "Dave Cowens",
-          "picture": "../players/FLORIDA/FLORIDA STATE - COWENS.jpg"
+          "picture": "../players/FLORIDA/FLORIDA STATE - COWENS.jpg",
+          "sport":"Basket"
         },      
         {
           "name": "Bradley Beal",
-          "picture": "../players/FLORIDA/FLORIDA - BEAL 1.jpg"
+          "picture": "../players/FLORIDA/FLORIDA - BEAL 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Warrick Dunn",
-          "picture": "../players/FLORIDA/FLORIDA STATE - WARRICK DUNN.jpg"
+          "picture": "../players/FLORIDA/FLORIDA STATE - WARRICK DUNN.jpg",
+          "sport":"Football"
         },
         {
           "name": "Al Horford",
-          "picture": "../players/FLORIDA/FLORIDA - HORFORD.JPG"
+          "picture": "../players/FLORIDA/FLORIDA - HORFORD.JPG",
+          "sport":"Basket"
         },
         {
           "name": "Emmitt Smith",
-          "picture": "../players/FLORIDA/FLORIDA - EMMITT SMITH.jpg"
+          "picture": "../players/FLORIDA/FLORIDA - EMMITT SMITH.jpg",
+          "sport":"Football"
         },
         {
           "name": "Joachim Noah",
-          "picture": "../players/FLORIDA/FLORIDA - NOAH.jpg"
+          "picture": "../players/FLORIDA/FLORIDA - NOAH.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Sam Cassell",
-          "picture": "../players/FLORIDA/FLORIDA STATE - CASSELL.jpg"
+          "picture": "../players/FLORIDA/FLORIDA STATE - CASSELL.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -2672,131 +2703,163 @@
       "players": [
         {
           "name": "Dwyane Wade",
-          "picture": "../players/FLORIDA/HEAT - WADE 1.jpg"
+          "picture": "../players/FLORIDA/HEAT - WADE 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Dan Marino",
-          "picture": "../players/FLORIDA/DOLPHINS - DAN MARINO 1.jpg"
+          "picture": "../players/FLORIDA/DOLPHINS - DAN MARINO 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Martin St. Louis",
-          "picture": "../players/FLORIDA/LIGHTNING - MARTIN ST. LOUIS.jpg"
+          "picture": "../players/FLORIDA/LIGHTNING - MARTIN ST. LOUIS.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Miguel Cabrera",
-          "picture": "../players/FLORIDA/MARLINS - MIGUEL CABRERA.jpg"
+          "picture": "../players/FLORIDA/MARLINS - MIGUEL CABRERA.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Roberto Luongo",
-          "picture": "../players/FLORIDA/PANTHERS - ROBERTO LUONGO 1.jpg"
+          "picture": "../players/FLORIDA/PANTHERS - ROBERTO LUONGO 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Lionel Messi",
-          "picture": "../players/FLORIDA/INTER - MESSI.jpg"
+          "picture": "../players/FLORIDA/INTER - MESSI.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Warren Sapp",
-          "picture": "../players/FLORIDA/BUCCANEERS - WARREN SAPP 1.jpg"
+          "picture": "../players/FLORIDA/BUCCANEERS - WARREN SAPP 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Evan Longoria",
-          "picture": "../players/FLORIDA/RAYS - EVAN LONGORIA.jpg"
+          "picture": "../players/FLORIDA/RAYS - EVAN LONGORIA.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "LeBron James",
-          "picture": "../players/FLORIDA/HEAT - JAMES 4.jpg"
+          "picture": "../players/FLORIDA/HEAT - JAMES 4.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Jason Taylor",
-          "picture": "../players/FLORIDA/DOLPHINS - JASON TAYLOR 1.jpg"
+          "picture": "../players/FLORIDA/DOLPHINS - JASON TAYLOR 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Steven Stamkos",
-          "picture": "../players/FLORIDA/LIGHTNING - STEVEN STAMKOS.jpg"
+          "picture": "../players/FLORIDA/LIGHTNING - STEVEN STAMKOS.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Giancarlo Stanton",
-          "picture": "../players/FLORIDA/MARLINS - STANTON.jpg"
+          "picture": "../players/FLORIDA/MARLINS - STANTON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Aleksander Barkov",
-          "picture": "../players/FLORIDA/PANTHERS - BARKOV.jpg"
+          "picture": "../players/FLORIDA/PANTHERS - BARKOV.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Ben Zobrist",
-          "picture": "../players/FLORIDA/RAYS - BEN ZOBRIST.jpg"
+          "picture": "../players/FLORIDA/RAYS - BEN ZOBRIST.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Bob Griese",
-          "picture": "../players/FLORIDA/DOLPHINS - BOB GRIESE.jpg"
+          "picture": "../players/FLORIDA/DOLPHINS - BOB GRIESE.jpg",
+          "sport":"Football"
         },
         {
           "name": "Alonzo Mourning",
-          "picture": "../players/FLORIDA/HEAT - MOURNING.jpg"
+          "picture": "../players/FLORIDA/HEAT - MOURNING.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Nikita Kucherov",
-          "picture": "../players/FLORIDA/LIGHTNING - NIKITA KUCHEROV 1.jpg"
+          "picture": "../players/FLORIDA/LIGHTNING - NIKITA KUCHEROV 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Hanley Ramirez",
-          "picture": "../players/FLORIDA/MARLINS - HANLEY RAMIREZ.jpg"
+          "picture": "../players/FLORIDA/MARLINS - HANLEY RAMIREZ.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Sergei Bobrovsky",
-          "picture": "../players/FLORIDA/PANTHERS - BOBROVSKY.jpg"
+          "picture": "../players/FLORIDA/PANTHERS - BOBROVSKY.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Derrick Brooks",
-          "picture": "../players/FLORIDA/BUCCANEERS - DERRICK BROOKS.jpg"
+          "picture": "../players/FLORIDA/BUCCANEERS - DERRICK BROOKS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Carl Crawford",
-          "picture": "../players/FLORIDA/RAYS - CARL CRAWFORD.jpg"
+          "picture": "../players/FLORIDA/RAYS - CARL CRAWFORD.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Pavel Bure",
-          "picture": "../players/FLORIDA/PANTHERS - PAVEL BURE 2.jpg"
+          "picture": "../players/FLORIDA/PANTHERS - PAVEL BURE 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Victor Hedman",
-          "picture": "../players/FLORIDA/LIGHTNING - VICTOR HEDMAN.jpg"
+          "picture": "../players/FLORIDA/LIGHTNING - VICTOR HEDMAN.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Carlos Valderrama",
-          "picture": "../players/FLORIDA/TAMPA - VALDERRAMA.jpg"
+          "picture": "../players/FLORIDA/TAMPA - VALDERRAMA.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Larry Csonka",
-          "picture": "../players/FLORIDA/DOLPHINS - LARRY CSONKA 2.jpg"
+          "picture": "../players/FLORIDA/DOLPHINS - LARRY CSONKA 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Vincent Lecavalier",
-          "picture": "../players/FLORIDA/LIGHTNING - LECAVALIER.jpg"
+          "picture": "../players/FLORIDA/LIGHTNING - LECAVALIER.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Josh Johnson",
-          "picture": "../players/FLORIDA/MARLINS - JOSH JOHNSON.jfif"
+          "picture": "../players/FLORIDA/MARLINS - JOSH JOHNSON.jfif",
+          "sport":"Baseball"
         },
         {
           "name": "Lee Roy Selmon",
-          "picture": "../players/FLORIDA/BUCCANEERS - LEE ROY SELMON 1.jpg"
+          "picture": "../players/FLORIDA/BUCCANEERS - LEE ROY SELMON 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "David Price",
-          "picture": "../players/FLORIDA/RAYS - DAVID PRICE.jpg"
+          "picture": "../players/FLORIDA/RAYS - DAVID PRICE.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Ray Lewis",
-          "picture": "../players/FLORIDA/MIAMI - RAY LEWIS.jpg"
+          "picture": "../players/FLORIDA/MIAMI - RAY LEWIS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Rick Barry",
-          "picture": "../players/FLORIDA/MIAMI - BARRY.jpg"
+          "picture": "../players/FLORIDA/MIAMI - BARRY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Michael Irvin",
-          "picture": "../players/FLORIDA/MIAMI - MICHAEL IRVIN.jpg"
+          "picture": "../players/FLORIDA/MIAMI - MICHAEL IRVIN.jpg",
+          "sport":"Football"
         }
       ]
     },
