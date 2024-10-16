@@ -3053,87 +3053,108 @@
       "players": [
         {
           "name": "Hank Aaron",
-          "picture": "../players/GEORGIA/BRAVES - HANK AARON.jpg"
+          "picture": "../players/GEORGIA/BRAVES - HANK AARON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Deion Sanders",
-          "picture": "../players/GEORGIA/FALCONS - DEION SANDERS 1.jpg"
+          "picture": "../players/GEORGIA/FALCONS - DEION SANDERS 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Dominique Wilkins",
-          "picture": "../players/GEORGIA/HAWKS - WILKINS 2.jpg"
+          "picture": "../players/GEORGIA/HAWKS - WILKINS 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Ilya Kovalchuk",
-          "picture": "../players/GEORGIA/THRASHERS - KOVALCHUK.jpg"
+          "picture": "../players/GEORGIA/THRASHERS - KOVALCHUK.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Phil Niekro",
-          "picture": "../players/GEORGIA/BRAVES - PHIL NIEKRO.jpg"
+          "picture": "../players/GEORGIA/BRAVES - PHIL NIEKRO.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Julio Jones",
-          "picture": "../players/GEORGIA/FALCONS - JULIO JONES 1.jpg"
+          "picture": "../players/GEORGIA/FALCONS - JULIO JONES 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Pete Maravich",
-          "picture": "../players/GEORGIA/HAWKS - MARAVICH.jpg"
+          "picture": "../players/GEORGIA/HAWKS - MARAVICH.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Vyacheslav Kozlov",
-          "picture": "../players/GEORGIA/THRASHERS - KOZLOV.jpg"
+          "picture": "../players/GEORGIA/THRASHERS - KOZLOV.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Warren Spahn",
-          "picture": "../players/GEORGIA/BRAVES - WARREN SPAHN.jpg"
+          "picture": "../players/GEORGIA/BRAVES - WARREN SPAHN.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Matt Ryan",
-          "picture": "../players/GEORGIA/FALCONS - MATT RYAN.jpg"
+          "picture": "../players/GEORGIA/FALCONS - MATT RYAN.jpg",
+          "sport":"Football"
         },
         {
           "name": "Trae Young",
-          "picture": "../players/GEORGIA/HAWKS - YOUNG.jpeg"
+          "picture": "../players/GEORGIA/HAWKS - YOUNG.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "Marian Hossa",
-          "picture": "../players/GEORGIA/THRASHERS - HOSSA.jpg"
+          "picture": "../players/GEORGIA/THRASHERS - HOSSA.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Chipper Jones",
-          "picture": "../players/GEORGIA/BRAVES - CHIPPER JONES.jpg"
+          "picture": "../players/GEORGIA/BRAVES - CHIPPER JONES.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Tommy Nobis",
-          "picture": "../players/GEORGIA/FALCONS - TOMMY NOBIS 2.jpg"
+          "picture": "../players/GEORGIA/FALCONS - TOMMY NOBIS 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Joe Johnson",
-          "picture": "../players/GEORGIA/HAWKS - JOHNSON 1.jpg"
+          "picture": "../players/GEORGIA/HAWKS - JOHNSON 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Greg Maddux",
-          "picture": "../players/GEORGIA/BRAVES - GREG MADDUX.jpg"
+          "picture": "../players/GEORGIA/BRAVES - GREG MADDUX.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Dikembe Mutombo",
-          "picture": "../players/GEORGIA/HAWKS - MUTOMBO 1.jpg"
+          "picture": "../players/GEORGIA/HAWKS - MUTOMBO 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Chris Bosh",
-          "picture": "../players/GEORGIA/GEORGIA TECH - BOSH.jpg"
+          "picture": "../players/GEORGIA/GEORGIA TECH - BOSH.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Shannon Sharpe",
-          "picture": "../players/GEORGIA/SAVANNAH STATE - SHANNON SHARPE.jpg"
+          "picture": "../players/GEORGIA/SAVANNAH STATE - SHANNON SHARPE.jpg",
+          "sport":"Football"
         },
         {
           "name": "Stephon Marbury",
-          "picture": "../players/GEORGIA/GEORGIA TECH - MARBURY.jpg"
+          "picture": "../players/GEORGIA/GEORGIA TECH - MARBURY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Mark Price",
-          "picture": "../players/GEORGIA/GEORGIA TECH - PRICE.jpg"
+          "picture": "../players/GEORGIA/GEORGIA TECH - PRICE.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -3183,7 +3204,8 @@
       "players": [
         {
           "name": "Jason Elam",
-          "picture": "../players/HAWAII/ELAM.webp"
+          "picture": "../players/HAWAII/ELAM.webp",
+          "sport":"Football"
         }
       ]
     },
@@ -3272,11 +3294,13 @@
       "players": [
         {
           "name": "Ryan Clady",
-          "picture": "../players/IDAHO/BOISE ST - RYAN CLADY.jpg"
+          "picture": "../players/IDAHO/BOISE ST - RYAN CLADY.jpg",
+          "sport":"Football"
         },
         {
           "name": "Jared Allen",
-          "picture": "../players/IDAHO/IDAHO STATE - JARED ALLEN.jpg"
+          "picture": "../players/IDAHO/IDAHO STATE - JARED ALLEN.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -3584,131 +3608,163 @@
       "players": [
         {
           "name": "Michael Jordan",
-          "picture": "../players/ILLINOIS/BULLS - JORDAN 4.jpg"
+          "picture": "../players/ILLINOIS/BULLS - JORDAN 4.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Cap Anson",
-          "picture": "../players/ILLINOIS/CUBS - CAP ANSON.jpg"
+          "picture": "../players/ILLINOIS/CUBS - CAP ANSON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Patrick Kane",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - PATRICK KANE.jpg"
+          "picture": "../players/ILLINOIS/BLACKHAWKS - PATRICK KANE.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Walter Payton",
-          "picture": "../players/ILLINOIS/BEARS - WALTER PAYTON 2.jpg"
+          "picture": "../players/ILLINOIS/BEARS - WALTER PAYTON 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Eddie Collins",
-          "picture": "../players/ILLINOIS/WHITE SOX - EDDIE COLLINS.jpg"
+          "picture": "../players/ILLINOIS/WHITE SOX - EDDIE COLLINS.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Bobby Hull",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - BOBBY HULL 1.jpg"
+          "picture": "../players/ILLINOIS/BLACKHAWKS - BOBBY HULL 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Hristo Stoichkov",
-          "picture": "../players/ILLINOIS/FIRE - STOICHKOV.jpg"
+          "picture": "../players/ILLINOIS/FIRE - STOICHKOV.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Bronko Nagurski",
-          "picture": "../players/ILLINOIS/BEARS - BRONKO NAGURSKI 1.jpg"
+          "picture": "../players/ILLINOIS/BEARS - BRONKO NAGURSKI 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Scottie Pippen",
-          "picture": "../players/ILLINOIS/BULLS - PIPPEN.jpg"
+          "picture": "../players/ILLINOIS/BULLS - PIPPEN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Sammy Sosa",
-          "picture": "../players/ILLINOIS/CUBS - SAMMY SOSA.jpg"
+          "picture": "../players/ILLINOIS/CUBS - SAMMY SOSA.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Frank Thomas",
-          "picture": "../players/ILLINOIS/WHITE SOX - FRANK THOMAS.jfif"
+          "picture": "../players/ILLINOIS/WHITE SOX - FRANK THOMAS.jfif",
+          "sport":"Baseball"
         },
         {
           "name": "Derrick Rose",
-          "picture": "../players/ILLINOIS/BULLS - ROSE.jpg"
+          "picture": "../players/ILLINOIS/BULLS - ROSE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Ryne Sandberg",
-          "picture": "../players/ILLINOIS/CUBS - RYNE SANDBERG.jpg"
+          "picture": "../players/ILLINOIS/CUBS - RYNE SANDBERG.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Bastian Schweinsteiger",
-          "picture": "../players/ILLINOIS/FIRE - SCHWEINSTEIGER.jpg"
+          "picture": "../players/ILLINOIS/FIRE - SCHWEINSTEIGER.jpg",
+          "sport":"Soccer"
         },
         {
           "name": "Stan Mikita",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - STAN MIKITA 1.jpg"
+          "picture": "../players/ILLINOIS/BLACKHAWKS - STAN MIKITA 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Gale Sayers",
-          "picture": "../players/ILLINOIS/BEARS - GALE SAYERS.jpg"
+          "picture": "../players/ILLINOIS/BEARS - GALE SAYERS.jpg",
+          "sport":"Football"
         },
         {
           "name": "'Shoeless' Joe Jackson",
-          "picture": "../players/ILLINOIS/WHITE SOX - SHOLESS JOE JACKSON.jpg"
+          "picture": "../players/ILLINOIS/WHITE SOX - SHOLESS JOE JACKSON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Duncan Keith",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - KEITH.webp"
+          "picture": "../players/ILLINOIS/BLACKHAWKS - KEITH.webp",
+          "sport":"Hockey"
         },
         {
           "name": "Dick Butkus",
-          "picture": "../players/ILLINOIS/BEARS - DICK BUTKUS 2.jpg"
+          "picture": "../players/ILLINOIS/BEARS - DICK BUTKUS 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Bob Love",
-          "picture": "../players/ILLINOIS/BULLS - BOB LOVE.jpg"
+          "picture": "../players/ILLINOIS/BULLS - BOB LOVE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Ernie Banks",
-          "picture": "../players/ILLINOIS/CUBS - ERNIE BANKS.png"
+          "picture": "../players/ILLINOIS/CUBS - ERNIE BANKS.png",
+          "sport":"Baseball"
         },
         {
           "name": "Luke Appling",
-          "picture": "../players/ILLINOIS/WHITE SOX - LUKE APPLING.webp"
+          "picture": "../players/ILLINOIS/WHITE SOX - LUKE APPLING.webp",
+          "sport":"Baseball"
         },
         {
           "name": "Dennis Rodman",
-          "picture": "../players/ILLINOIS/BULLS - RODMAN 1.jpg"
+          "picture": "../players/ILLINOIS/BULLS - RODMAN 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Ron Santo",
-          "picture": "../players/ILLINOIS/CUBS - RON SANTO.jpg"
+          "picture": "../players/ILLINOIS/CUBS - RON SANTO.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Glenn Hall",
-          "picture": "../players/ILLINOIS/BLACKHAWKS - GLENN HALL 2.jpg"
+          "picture": "../players/ILLINOIS/BLACKHAWKS - GLENN HALL 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Brian Urlacher",
-          "picture": "../players/ILLINOIS/BEARS - BRIAN URLACHER.webp"
+          "picture": "../players/ILLINOIS/BEARS - BRIAN URLACHER.webp",
+          "sport":"Football"
         },
         {
           "name": "Carlton Fisk",
-          "picture": "../players/ILLINOIS/WHITE SOX - CARLTON FISK.jpg"
+          "picture": "../players/ILLINOIS/WHITE SOX - CARLTON FISK.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Walt Frazier",
-          "picture": "../players/ILLINOIS/SOUTHERN ILLINOIS - FRAZIER.jpeg"
+          "picture": "../players/ILLINOIS/SOUTHERN ILLINOIS - FRAZIER.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "Otto Graham",
-          "picture": "../players/ILLINOIS/NORTHWESTERN - OTTO GRAHAM.jpg"
+          "picture": "../players/ILLINOIS/NORTHWESTERN - OTTO GRAHAM.jpg",
+          "sport":"Football"
         },
         {
           "name": "George Mikan",
-          "picture": "../players/ILLINOIS/DEPAUL - MIKAN.jpeg"
+          "picture": "../players/ILLINOIS/DEPAUL - MIKAN.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "Tony Romo",
-          "picture": "../players/ILLINOIS/EASTERN ILLINOIS - TONY ROMO.jpg"
+          "picture": "../players/ILLINOIS/EASTERN ILLINOIS - TONY ROMO.jpg",
+          "sport":"Football"
         },
         {
           "name": "Deron Williams",
-          "picture": "../players/ILLINOIS/ILLINOIS - WILLIAMS.jpg"
+          "picture": "../players/ILLINOIS/ILLINOIS - WILLIAMS.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -3934,43 +3990,53 @@
       "players": [
         {
           "name": "Peyton Manning",
-          "picture": "../players/INDIANA/COLTS - PEYTON MANNING 1.jpg"
+          "picture": "../players/INDIANA/COLTS - PEYTON MANNING 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Reggie Miller",
-          "picture": "../players/INDIANA/PACERS - MILLER.jpg"
+          "picture": "../players/INDIANA/PACERS - MILLER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Tamika Catchings",
-          "picture": "../players/INDIANA/FEVER - CATCHINGS.webp"
+          "picture": "../players/INDIANA/FEVER - CATCHINGS.webp",
+          "sport":"Basket"
         },
         {
           "name": "Johnny Unitas",
-          "picture": "../players/INDIANA/COLTS - JOHNNY UNITAS.jpg"
+          "picture": "../players/INDIANA/COLTS - JOHNNY UNITAS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Paul George",
-          "picture": "../players/INDIANA/PACERS - GEORGE.jpg"
+          "picture": "../players/INDIANA/PACERS - GEORGE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Caitlin Clark",
-          "picture": "../players/INDIANA/FEVER - CLARK.jpg"
+          "picture": "../players/INDIANA/FEVER - CLARK.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Larry Bird",
-          "picture": "../players/INDIANA/INDIANA STATE - BIRD.jpg"
+          "picture": "../players/INDIANA/INDIANA STATE - BIRD.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Drew Brees",
-          "picture": "../players/INDIANA/PURDUE - DREW BREES.jpg"
+          "picture": "../players/INDIANA/PURDUE - DREW BREES.jpg",
+          "sport":"Football"
         },
         {
           "name": "Isiah Thomas",
-          "picture": "../players/INDIANA/INDIANA - THOMAS 1.jpg"
+          "picture": "../players/INDIANA/INDIANA - THOMAS 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Joe Montana",
-          "picture": "../players/INDIANA/NOTRE DAME - MONTANA.jpg"
+          "picture": "../players/INDIANA/NOTRE DAME - MONTANA.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -4121,15 +4187,18 @@
       "players": [
         {
           "name": "Caitlin Clark",
-          "picture": "../players/IOWA/IOWA - CLARK.jpg"
+          "picture": "../players/IOWA/IOWA - CLARK.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Kurt Warner",
-          "picture": "../players/IOWA/NORTHERN IOWA - KURT WARNER.jpg"
+          "picture": "../players/IOWA/NORTHERN IOWA - KURT WARNER.jpg",
+          "sport":"Football"
         },
         {
           "name": "Emlen Tunnell",
-          "picture": "../players/IOWA/IOWA - EMLEN TUNNELL.jpg"
+          "picture": "../players/IOWA/IOWA - EMLEN TUNNELL.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -4255,19 +4324,23 @@
       "players": [
         {
           "name": "Wilt Chamberlain",
-          "picture": "../players/KANSAS/KANSAS - CHAMBERLAIN.jpg"
+          "picture": "../players/KANSAS/KANSAS - CHAMBERLAIN.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Joel Embiid",
-          "picture": "../players/KANSAS/KANSAS - EMBIID.jpg"
+          "picture": "../players/KANSAS/KANSAS - EMBIID.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Darren Sproles",
-          "picture": "../players/KANSAS/KANSAS STATE - DARREN SPROLES.jpg"
+          "picture": "../players/KANSAS/KANSAS STATE - DARREN SPROLES.jpg",
+          "sport":"Football"
         },
         {
           "name": "Paul Pierce",
-          "picture": "../players/KANSAS/KANSAS - PIERCE.jpg"
+          "picture": "../players/KANSAS/KANSAS - PIERCE.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -4395,31 +4468,38 @@
       "players": [
         {
           "name": "Anthony Davis",
-          "picture": "../players/KENTUCKY/KENTUCKY - DAVIS.jpg"
+          "picture": "../players/KENTUCKY/KENTUCKY - DAVIS.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Wes Unseld",
-          "picture": "../players/KENTUCKY/LOUISVILLE - UNSELD.jpg"
+          "picture": "../players/KENTUCKY/LOUISVILLE - UNSELD.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Karl-Anthony Towns",
-          "picture": "../players/KENTUCKY/KENTUCKY - TOWNS.jpg"
+          "picture": "../players/KENTUCKY/KENTUCKY - TOWNS.jpg",
+          "sport":"Basket"
         },
         {
           "name": "George Blanda",
-          "picture": "../players/KENTUCKY/KENTUCKY - GEORGE BLANDA.jpg"
+          "picture": "../players/KENTUCKY/KENTUCKY - GEORGE BLANDA.jpg",
+          "sport":"Football"
         },
         {
           "name": "Devin Booker",
-          "picture": "../players/KENTUCKY/KENTUCKY - BOOKER.jpg"
+          "picture": "../players/KENTUCKY/KENTUCKY - BOOKER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Johnny Unitas",
-          "picture": "../players/KENTUCKY/LOUISVILLE - JOHN UNITAS.jpg"
+          "picture": "../players/KENTUCKY/LOUISVILLE - JOHN UNITAS.jpg",
+          "sport":"Football"
         },
         {
           "name": "Rajon Rondo",
-          "picture": "../players/KENTUCKY/KENTUCKY - RONDO.jpg"
+          "picture": "../players/KENTUCKY/KENTUCKY - RONDO.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -4584,59 +4664,73 @@
       "players": [
         {
           "name": "Anthony Davis",
-          "picture": "../players/LOUISIANA/PELICANS - DAVIS.jpg"
+          "picture": "../players/LOUISIANA/PELICANS - DAVIS.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Drew Brees",
-          "picture": "../players/LOUISIANA/SAINTS - DREW BREES 1.jpg"
+          "picture": "../players/LOUISIANA/SAINTS - DREW BREES 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Chris Paul",
-          "picture": "../players/LOUISIANA/PELICANS - PAUL.jpg"
+          "picture": "../players/LOUISIANA/PELICANS - PAUL.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Rickey Jackson",
-          "picture": "../players/LOUISIANA/SAINTS - RICKEY JACKSON 1.jpg"
+          "picture": "../players/LOUISIANA/SAINTS - RICKEY JACKSON 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Zion Williamson",
-          "picture": "../players/LOUISIANA/PELICANS - ZION.jpg"
+          "picture": "../players/LOUISIANA/PELICANS - ZION.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Darren Sproles",
-          "picture": "../players/LOUISIANA/SAINTS - DARREN SPROLES 2.jpg"
+          "picture": "../players/LOUISIANA/SAINTS - DARREN SPROLES 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Brandon Ingram",
-          "picture": "../players/LOUISIANA/PELICANS - INGRAM.jpg"
+          "picture": "../players/LOUISIANA/PELICANS - INGRAM.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Willie Roaf",
-          "picture": "../players/LOUISIANA/SAINTS - WILLIE ROAF 1.jpg"
+          "picture": "../players/LOUISIANA/SAINTS - WILLIE ROAF 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Shaquille O'Neal",
-          "picture": "../players/LOUISIANA/LSU - O'NEAL.jpg"
+          "picture": "../players/LOUISIANA/LSU - O'NEAL.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Odell Beckham Jr",
-          "picture": "../players/LOUISIANA/LSU - BECKHAM JR.jpg"
+          "picture": "../players/LOUISIANA/LSU - BECKHAM JR.jpg",
+          "sport":"Football"
         },
         {
           "name": "Bob Pettit",
-          "picture": "../players/LOUISIANA/LSU - PETTIT 1.jpeg"
+          "picture": "../players/LOUISIANA/LSU - PETTIT 1.jpeg",
+          "sport":"Basket"
         },
         {
           "name": "Karl Malone",
-          "picture": "../players/LOUISIANA/LOUISIANA TECH - MALONE.jpg"
+          "picture": "../players/LOUISIANA/LOUISIANA TECH - MALONE.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Pete Maravich",
-          "picture": "../players/LOUISIANA/LSU - MARAVICH.jpg"
+          "picture": "../players/LOUISIANA/LSU - MARAVICH.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Brian Mitchell",
-          "picture": "../players/LOUISIANA/LOUISIANA-LAFAYETTE - BRIAN MITCHELL.jpg"
+          "picture": "../players/LOUISIANA/LOUISIANA-LAFAYETTE - BRIAN MITCHELL.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -4729,15 +4823,18 @@
       "players": [
         {
           "name": "Paul Kariya",
-          "picture": "../players/MAINE/MAINE - PAUL KARIYA.jpg"
+          "picture": "../players/MAINE/MAINE - PAUL KARIYA.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Ben Bishop",
-          "picture": "../players/MAINE/MAINE - BISHOP.jpg_large"
+          "picture": "../players/MAINE/MAINE - BISHOP.jpg_large",
+          "sport":"Hockey"
         },
         {
           "name": "Jimmy Howard",
-          "picture": "../players/MAINE/MAINE - HOWARD.jpg"
+          "picture": "../players/MAINE/MAINE - HOWARD.jpg",
+          "sport":"Hockey"
         }
       ]
     },
