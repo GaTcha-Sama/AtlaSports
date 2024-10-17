@@ -7131,31 +7131,38 @@
       "players": [
         {
           "name": "Martin Brodeur",
-          "picture": "../players/NEW JERSEY/DEVILS - MARTIN BRODEUR 2.jpg"
+          "picture": "../players/NEW JERSEY/DEVILS - MARTIN BRODEUR 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Scott Stevens",
-          "picture": "../players/NEW JERSEY/DEVILS - SCOTT STEVENS 1.jpg"
+          "picture": "../players/NEW JERSEY/DEVILS - SCOTT STEVENS 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Scott Niedermayer",
-          "picture": "../players/NEW JERSEY/DEVILS - SCOTT NIEDERMAYER.jpg"
+          "picture": "../players/NEW JERSEY/DEVILS - SCOTT NIEDERMAYER.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Patrik Elias",
-          "picture": "../players/NEW JERSEY/DEVILS - PATRICK ELIAS 1.jpg"
+          "picture": "../players/NEW JERSEY/DEVILS - PATRICK ELIAS 1.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Jack Hughes",
-          "picture": "../players/NEW JERSEY/DEVILS - JACK HUGHES.jpg"
+          "picture": "../players/NEW JERSEY/DEVILS - JACK HUGHES.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Hobey Baker",
-          "picture": "../players/NEW JERSEY/PRINCETON - HOBEY BAKER.jpg"
+          "picture": "../players/NEW JERSEY/PRINCETON - HOBEY BAKER.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Bill Bradley",
-          "picture": "../players/NEW JERSEY/PRINCETON - BILL BRADLEY.jpg"
+          "picture": "../players/NEW JERSEY/PRINCETON - BILL BRADLEY.jpg",
+          "sport":"Basket"
         }
       ]
     },
@@ -7254,15 +7261,18 @@
       "players": [
         {
           "name": "Brian Urlacher",
-          "picture": "../players/NEW MEXICO/NM - BRIAN URLACHER.jpg"
+          "picture": "../players/NEW MEXICO/NM - BRIAN URLACHER.jpg",
+          "sport":"Football"
         },
         {
           "name": "Pascal Siakam",
-          "picture": "../players/NEW MEXICO/NM STATE - SIAKAM.jpg"
+          "picture": "../players/NEW MEXICO/NM STATE - SIAKAM.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Terance Mathis",
-          "picture": "../players/NEW MEXICO/NM - TERANCE MATHIS.jpg"
+          "picture": "../players/NEW MEXICO/NM - TERANCE MATHIS.jpg",
+          "sport":"Football"
         }
       ]
     },
@@ -7718,163 +7728,203 @@
       "players": [
         {
           "name": "Babe Ruth",
-          "picture": "../players/NEW YORK/YANKEES - BABE RUTH.jpg"
+          "picture": "../players/NEW YORK/YANKEES - BABE RUTH.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Lawrence Taylor",
-          "picture": "../players/NEW YORK/GIANTS - LAWRENCE TAYLOR 2.jpg"
+          "picture": "../players/NEW YORK/GIANTS - LAWRENCE TAYLOR 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Julius Erving",
-          "picture": "../players/NEW YORK/NETS - ERVING.jpg"
+          "picture": "../players/NEW YORK/NETS - ERVING.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Jackie Robinson",
-          "picture": "../players/NEW YORK/JACKIE ROBINSON.jpg"
+          "picture": "../players/NEW YORK/JACKIE ROBINSON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Mark Messier",
-          "picture": "../players/NEW YORK/RANGERS - MARK MESSIER.jpg"
+          "picture": "../players/NEW YORK/RANGERS - MARK MESSIER.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Jacob DeGrom",
-          "picture": "../players/NEW YORK/METS - JACOB DEGROM.webp"
+          "picture": "../players/NEW YORK/METS - JACOB DEGROM.webp",
+          "sport":"Baseball"
         },
         {
           "name": "Joe Namath",
-          "picture": "../players/NEW YORK/JETS - JOE NAMATH 2.jpg"
+          "picture": "../players/NEW YORK/JETS - JOE NAMATH 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Willis Reed",
-          "picture": "../players/NEW YORK/KNICKS - REED.jpg"
+          "picture": "../players/NEW YORK/KNICKS - REED.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Mike Bossy",
-          "picture": "../players/NEW YORK/ISLANDERS - MIKE BOSSY.jpg"
+          "picture": "../players/NEW YORK/ISLANDERS - MIKE BOSSY.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Mel Ott",
-          "picture": "../players/NEW YORK/GIANTS - MEL OTT.webp"
+          "picture": "../players/NEW YORK/GIANTS - MEL OTT.webp",
+          "sport":"Football"
         },
         {
           "name": "Dominik Hasek",
-          "picture": "../players/NEW YORK/SABRES - DOMINIK HASEK 2.jpg"
+          "picture": "../players/NEW YORK/SABRES - DOMINIK HASEK 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Bruce Smith",
-          "picture": "../players/NEW YORK/BILLS - BRUCE SMITH.jpeg"
+          "picture": "../players/NEW YORK/BILLS - BRUCE SMITH.jpeg",
+          "sport":"Football"
         },        
         {
           "name": "Derek Jeter",
-          "picture": "../players/NEW YORK/YANKEES - DEREK JETER.jpg"
+          "picture": "../players/NEW YORK/YANKEES - DEREK JETER.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Eli Manning",
-          "picture": "../players/NEW YORK/GIANTS - ELI MANNING 2.jpg"
+          "picture": "../players/NEW YORK/GIANTS - ELI MANNING 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Christy Matthewson",
-          "picture": "../players/NEW YORK/GIANTS - CHRISTY MATTHEWSON.jpg"
+          "picture": "../players/NEW YORK/GIANTS - CHRISTY MATTHEWSON.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Jason Kidd",
-          "picture": "../players/NEW YORK/NETS - KIDD 1.jpg"
+          "picture": "../players/NEW YORK/NETS - KIDD 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Henrik Lundqvist",
-          "picture": "../players/NEW YORK/RANGERS - HENRIK LUNDQVIST.jpeg"
+          "picture": "../players/NEW YORK/RANGERS - HENRIK LUNDQVIST.jpeg",
+          "sport":"Hockey"
         },
         {
           "name": "Tom Seaver",
-          "picture": "../players/NEW YORK/METS - TOM SEAVER.jpg"
+          "picture": "../players/NEW YORK/METS - TOM SEAVER.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Curtis Martin",
-          "picture": "../players/NEW YORK/JETS - CURTIS MARTIN 1.jpg"
+          "picture": "../players/NEW YORK/JETS - CURTIS MARTIN 1.jpg",
+          "sport":"Football"
         },
         {
           "name": "Patrick Ewing",
-          "picture": "../players/NEW YORK/KNICKS - EWING 2.jpg"
+          "picture": "../players/NEW YORK/KNICKS - EWING 2.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Bryan Trottier",
-          "picture": "../players/NEW YORK/ISLANDERS - BRYAN TROTTIER.jpg"
+          "picture": "../players/NEW YORK/ISLANDERS - BRYAN TROTTIER.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Gilbert Perreault",
-          "picture": "../players/NEW YORK/SABRES - GILBERT PERREAULT 2.jpg"
+          "picture": "../players/NEW YORK/SABRES - GILBERT PERREAULT 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Jim Kelly",
-          "picture": "../players/NEW YORK/BILLS - JIM KELLY.jpg"
+          "picture": "../players/NEW YORK/BILLS - JIM KELLY.jpg",
+          "sport":"Football"
         },
         {
           "name": "Roy Campanella",
-          "picture": "../players/NEW YORK/ROY CAMPANELLA.jpg"
+          "picture": "../players/NEW YORK/ROY CAMPANELLA.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Joe DiMaggio",
-          "picture": "../players/NEW YORK/YANKEES - JOE DIMAGGIO.jpg"
+          "picture": "../players/NEW YORK/YANKEES - JOE DIMAGGIO.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Michael Strahan",
-          "picture": "../players/NEW YORK/GIANTS - MICHAEL STRAHAN 2.jpg"
+          "picture": "../players/NEW YORK/GIANTS - MICHAEL STRAHAN 2.jpg",
+          "sport":"Football"
         },
         {
           "name": "Yogi Berra",
-          "picture": "../players/NEW YORK/YANKEES - YOGI BERRA.jpg"
+          "picture": "../players/NEW YORK/YANKEES - YOGI BERRA.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Brian Leetch",
-          "picture": "../players/NEW YORK/RANGERS - BRIAN LEETCH 2.jpg"
+          "picture": "../players/NEW YORK/RANGERS - BRIAN LEETCH 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Mike Piazza",
-          "picture": "../players/NEW YORK/METS - MIKE PIAZZA.jpg"
+          "picture": "../players/NEW YORK/METS - MIKE PIAZZA.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Don Maynard",
-          "picture": "../players/NEW YORK/JETS - DON MAYNARD 1.jpg"
+          "picture": "../players/NEW YORK/JETS - DON MAYNARD 1.jpg",
+          "sport":"Football"
         },
         {
-          "name": "Joe Frazier",
-          "picture": "../players/NEW YORK/KNICKS - FRAZIER.jpg"
+          "name": "Walt Frazier",
+          "picture": "../players/NEW YORK/KNICKS - FRAZIER.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Denis Potvin",
-          "picture": "../players/NEW YORK/ISLANDERS - DENIS POTVIN 2.jpg"
+          "picture": "../players/NEW YORK/ISLANDERS - DENIS POTVIN 2.jpg",
+          "sport":"Hockey"
         },
         {
           "name": "Aaron Judge",
-          "picture": "../players/NEW YORK/YANKEES - AARON JUDGE 1.jpg"
+          "picture": "../players/NEW YORK/YANKEES - AARON JUDGE 1.jpg",
+          "sport":"Baseball"
         },
         {
           "name": "Andre Reed",
-          "picture": "../players/NEW YORK/BILLS - ANDRE REED.jpg"
+          "picture": "../players/NEW YORK/BILLS - ANDRE REED.jpg",
+          "sport":"Football"
         },
         {
           "name": "Lou Gehrig",
-          "picture": "../players/NEW YORK/YANKEES - LOU GEHRIG.jpeg"
+          "picture": "../players/NEW YORK/YANKEES - LOU GEHRIG.jpeg",
+          "sport":"Baseball"
         },
         {
           "name": "Bob McAdoo",
-          "picture": "../players/NEW YORK/BRAVES - MCADOO 1.jpg"
+          "picture": "../players/NEW YORK/BRAVES - MCADOO 1.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Thierry Henry",
-          "picture": "../players/NEW YORK/REDBULLS - HENRY.webp"
+          "picture": "../players/NEW YORK/REDBULLS - HENRY.webp",
+          "sport":"Soccer"
         },
         {
           "name": "Carmelo Anthony",
-          "picture": "../players/NEW YORK/SYRACUSE - ANTHONY.jpg"
+          "picture": "../players/NEW YORK/SYRACUSE - ANTHONY.jpg",
+          "sport":"Basket"
         },
         {
           "name": "Donovan McNabb",
-          "picture": "../players/NEW YORK/SYRACUSE - DONOVAN MCNABB.jpg"
+          "picture": "../players/NEW YORK/SYRACUSE - DONOVAN MCNABB.jpg",
+          "sport":"Football"
         },
         {
           "name": "Chris Mullin",
-          "picture": "../players/NEW YORK/ST JOHN'S - MULLIN.jpg"
+          "picture": "../players/NEW YORK/ST JOHN'S - MULLIN.jpg",
+          "sport":"Basket"
         }
       ]
     },
