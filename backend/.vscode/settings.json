@@ -1,3 +1,0 @@
-{
-    "python.analysis.extraPaths": ["${workspaceFolder}/venv/Lib/site-packages"]
-}

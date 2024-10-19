@@ -1,11 +1,9 @@
 @import '../variables.scss';
 
 .home {
-    background: linear-gradient(to right, #cbcaa5, #334d50);
+    background: white;
     padding-bottom: 20px;
-    &__banner {
-        background: linear-gradient(to right, #cbcaa5, #334d50);
-    }
+    margin-top: 20px;
     &__welcome {
         font-family: $main-text;
         border: solid 3px black;
