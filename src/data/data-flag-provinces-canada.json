@@ -189,43 +189,53 @@
       "players": [
         {
           "name": "Wayne Gretzky",
-          "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg"
+          "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+          "sport":"Edmonton Oilers"
         },
         {
           "name": "Connor McDavid",
-          "picture": "../players/CANADA/ALBERTA/OILERS - CONNOR MCDAVID 1.jpg"
+          "picture": "../players/CANADA/ALBERTA/OILERS - CONNOR MCDAVID 1.jpg",
+          "sport":"Edmonton Oilers"
         },
         {
           "name": "Mark Messier",
-          "picture": "../players/CANADA/ALBERTA/OILERS - MARK MESSIER 1.jpg"
+          "picture": "../players/CANADA/ALBERTA/OILERS - MARK MESSIER 1.jpg",
+          "sport":"Edmonton Oilers"
         },
         {
           "name": "Al McInnis",
-          "picture": "../players/CANADA/ALBERTA/FLAMES - AL MACINNIS 1.jpg"
+          "picture": "../players/CANADA/ALBERTA/FLAMES - AL MACINNIS 1.jpg",
+          "sport":"Calgary Flames"
         },
         {
           "name": "Leon Draisaitl",
-          "picture": "../players/CANADA/ALBERTA/OILERS - DRAISAITL.jpg"
+          "picture": "../players/CANADA/ALBERTA/OILERS - DRAISAITL.jpg",
+          "sport":"Edmonton Oilers"
         },
         {
           "name": "Paul Coffey",
-          "picture": "../players/CANADA/ALBERTA/OILERS - PAUL COFFEY 1.jpg"
+          "picture": "../players/CANADA/ALBERTA/OILERS - PAUL COFFEY 1.jpg",
+          "sport":"Edmonton Oilers"
         },
         {
           "name": "Joe Nieuwendyk",
-          "picture": "../players/CANADA/ALBERTA/FLAMES - JOE NIEUWENDYK.jpg"
+          "picture": "../players/CANADA/ALBERTA/FLAMES - JOE NIEUWENDYK.jpg",
+          "sport":"Calgary Flames"
         },
         {
           "name": "Jari Kurri",
-          "picture": "../players/CANADA/ALBERTA/OILERS - JARI KURRI.jpg"
+          "picture": "../players/CANADA/ALBERTA/OILERS - JARI KURRI.jpg",
+          "sport":"Edmonton Oilers"
         },
         {
           "name": "Lanny McDonald",
-          "picture": "../players/CANADA/ALBERTA/FLAMES - LANNY MCDONALD.jpg"
+          "picture": "../players/CANADA/ALBERTA/FLAMES - LANNY MCDONALD.jpg",
+          "sport":"Calgary Flames"
         },
         {
           "name": "Jarome Iginla",
-          "picture": "../players/CANADA/ALBERTA/FLAMES - JAROME IGINLA 1.jpg"
+          "picture": "../players/CANADA/ALBERTA/FLAMES - JAROME IGINLA 1.jpg",
+          "sport":"Calgary Flames"
         }
       ]
     },
@@ -415,31 +425,38 @@
       "players": [
         {
           "name": "Henrik Sedin",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - HENRIK SEDIN 1.jpg"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - HENRIK SEDIN 1.jpg",
+          "sport":"Vancouver Canucks"
         },
         {
           "name": "Daniel Sedin",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - DANIEL SEDIN 1.jpg"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - DANIEL SEDIN 1.jpg",
+          "sport":"Vancouver Canucks"
         },
         {
           "name": "Pavel Bure",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - PAVEL BURE.jpeg"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - PAVEL BURE.jpeg",
+          "sport":"Vancouver Canucks"
         },
         {
           "name": "Markus Näslund",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - MARKUS NASLUND.jpg"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/CANUCKS - MARKUS NASLUND.jpg",
+          "sport":"Vancouver Canucks"
         },
         {
           "name": "Scott Niedermayer",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/BLAZERS - NIEDERMAYER.jpg"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/BLAZERS - NIEDERMAYER.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Duncan Keith",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/ROCKETS - KEITH.webp"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/ROCKETS - KEITH.webp",
+          "sport":"Junior League"
         },
         {
           "name": "Grant Fuhr",
-          "picture": "../players/CANADA/BRITISH COLUMBIA/VICTORIA - FUHR.jpeg"
+          "picture": "../players/CANADA/BRITISH COLUMBIA/VICTORIA - FUHR.jpeg",
+          "sport":"Junior League"
         }
       ]
     },
@@ -539,31 +556,38 @@
       "players": [
         {
           "name": "Dale Hawerchuk",
-          "picture": "../players/CANADA/MANITOBA/JETS - HAWERCHUK.jpg"
+          "picture": "../players/CANADA/MANITOBA/JETS - HAWERCHUK.jpg",
+          "sport":"Winnipeg Jets"
         },
         {
           "name": "Connor Hellebuyck",
-          "picture": "../players/CANADA/MANITOBA/JETS - HELLEBUYCK.webp"
+          "picture": "../players/CANADA/MANITOBA/JETS - HELLEBUYCK.webp",
+          "sport":"Winnipeg Jets"
         },
         {
           "name": "Bobby Hull",
-          "picture": "../players/CANADA/MANITOBA/JETS - BOBBY HULL.webp"
+          "picture": "../players/CANADA/MANITOBA/JETS - BOBBY HULL.webp",
+          "sport":"Winnipeg Jets"
         },
         {
           "name": "Teemu Selänne",
-          "picture": "../players/CANADA/MANITOBA/JETS - SELANNE.webp"
+          "picture": "../players/CANADA/MANITOBA/JETS - SELANNE.webp",
+          "sport":"Winnipeg Jets"
         },
         {
           "name": "Dustin Byfuglien",
-          "picture": "../players/CANADA/MANITOBA/JETS - DUSTIN BYFUGLIEN 2.jpg"
+          "picture": "../players/CANADA/MANITOBA/JETS - DUSTIN BYFUGLIEN 2.jpg",
+          "sport":"Winnipeg Jets"
         },
         {
           "name": "Blake Wheeler",
-          "picture": "../players/CANADA/MANITOBA/JETS - WHEELER.jpg"
+          "picture": "../players/CANADA/MANITOBA/JETS - WHEELER.jpg",
+          "sport":"Winnipeg Jets"
         },
         {
           "name": "Bobby Clarke",
-          "picture": "../players/CANADA/MANITOBA/BOMBERS - CLARKE.png"
+          "picture": "../players/CANADA/MANITOBA/BOMBERS - CLARKE.png",
+          "sport":"Junior League"
         }
       ]
     },
@@ -659,23 +683,28 @@
       "players": [
         {
           "name": "Patrice Bergeron",
-          "picture": "../players/CANADA/NEW BRUNSWICK/ACADIE - BERGERON.jpg"
+          "picture": "../players/CANADA/NEW BRUNSWICK/ACADIE - BERGERON.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Jonathan Huberdeau",
-          "picture": "../players/CANADA/NEW BRUNSWICK/ST JOHN - HUBERDEAU.jpg"
+          "picture": "../players/CANADA/NEW BRUNSWICK/ST JOHN - HUBERDEAU.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Roberto Luongo",
-          "picture": "../players/CANADA/NEW BRUNSWICK/ACADIE - LUONGO.jpg"
+          "picture": "../players/CANADA/NEW BRUNSWICK/ACADIE - LUONGO.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Conor Garland",
-          "picture": "../players/CANADA/NEW BRUNSWICK/MONCTON - CONOR GARLAND.jpg"
+          "picture": "../players/CANADA/NEW BRUNSWICK/MONCTON - CONOR GARLAND.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Thomas Chabot",
-          "picture": "../players/CANADA/NEW BRUNSWICK/ST JOHN - THOMAS CHABOT.jpg"
+          "picture": "../players/CANADA/NEW BRUNSWICK/ST JOHN - THOMAS CHABOT.jpg",
+          "sport":"Junior League"
         }
       ]
     },
@@ -722,7 +751,8 @@
       "players": [
         {
           "name": "Zach O'Brien",
-          "picture": "../players/CANADA/NEWFOUNDLAND/ZACH OBRIEN.avif"
+          "picture": "../players/CANADA/NEWFOUNDLAND/ZACH OBRIEN.avif",
+          "sport":"Junior League"
         }
       ]
     },
@@ -835,19 +865,23 @@
       "players": [
         {
           "name": "Nathan MacKinnon",
-          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - MACKINNON.jpg"
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - MACKINNON.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Jean-Sébastien Giguère",
-          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - GIGUERE.jpeg"
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - GIGUERE.jpeg",
+          "sport":"Junior League"
         },
         {
           "name": "Alex Tanguay",
-          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - TANGUAY.jfif"
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - TANGUAY.jfif",
+          "sport":"Junior League"
         },
         {
           "name": "Jonathan Drouin",
-          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - DROUIN.jpg"
+          "picture": "../players/CANADA/NOVA SCOTIA/MOOSEHEADS - DROUIN.jpg",
+          "sport":"Junior League"
         }
       ]
     },
@@ -1313,107 +1347,133 @@
       "players": [
         {
           "name": "Auston Matthews",
-          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATTHEWS.webp"
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATTHEWS.webp",
+          "sport":"Toronto Maple Leafs"
         },
         {
           "name": "Erik Karlsson",
-          "picture": "../players/CANADA/ONTARIO/SENATORS - ERIK KARLSSON.jpeg"
+          "picture": "../players/CANADA/ONTARIO/SENATORS - ERIK KARLSSON.jpeg",
+          "sport":"Ottawa Senators"
         },
         {
           "name": "Vince Carter",
-          "picture": "../players/CANADA/ONTARIO/RAPTORS - CARTER.jpg"
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - CARTER.jpg",
+          "sport":"Toronto Raptors"
         },
         {
           "name": "Roy Halladay",
-          "picture": "../players/CANADA/ONTARIO/JAYS - ROY HALLADAY.jpg"
+          "picture": "../players/CANADA/ONTARIO/JAYS - ROY HALLADAY.jpg",
+          "sport":"Toronto Blue Jays"
         },
         {
           "name": "Natalie Spooner",
-          "picture": "../players/CANADA/ONTARIO/PWHL - NATALIE SPOONER.jpg"
+          "picture": "../players/CANADA/ONTARIO/PWHL - NATALIE SPOONER.jpg",
+          "sport":"Toronto Sceptres"
         },
         {
           "name": "Sebastian Giovinco",
-          "picture": "../players/CANADA/ONTARIO/FC - GIOVINCO.jpg"
+          "picture": "../players/CANADA/ONTARIO/FC - GIOVINCO.jpg",
+          "sport":"Toronto FC"
         },
         {
           "name": "Mats Sundin",
-          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATS SUNDIN.jpg"
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - MATS SUNDIN.jpg",
+          "sport":"Toronto Maple Leafs"
         },
         {
           "name": "Daniel Alfredsson",
-          "picture": "../players/CANADA/ONTARIO/SENATORS - DANIEL ALFREDSSON 1.jpg"
+          "picture": "../players/CANADA/ONTARIO/SENATORS - DANIEL ALFREDSSON 1.jpg",
+          "sport":"Ottawa Senators"
         },
         {
           "name": "Kyle Lowry",
-          "picture": "../players/CANADA/ONTARIO/RAPTORS - LOWRY 2.jpg"
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - LOWRY 2.jpg",
+          "sport":"Toronto Raptors"
         },
         {
           "name": "Dave Stieb",
-          "picture": "../players/CANADA/ONTARIO/JAYS - DAVE STIEB.jpg"
+          "picture": "../players/CANADA/ONTARIO/JAYS - DAVE STIEB.jpg",
+          "sport":"Toronto Blue Jays"
         },
         {
           "name": "Sarah Nurse",
-          "picture": "../players/CANADA/ONTARIO/PWHL - SARAH NURSE.jpg"
+          "picture": "../players/CANADA/ONTARIO/PWHL - SARAH NURSE.jpg",
+          "sport":"Toronto Sceptres"
         },
         {
           "name": "Jermain Defoe",
-          "picture": "../players/CANADA/ONTARIO/FC - DEFOE.jpg"
+          "picture": "../players/CANADA/ONTARIO/FC - DEFOE.jpg",
+          "sport":"Toronto FC"
         },
         {
           "name": "Dave Keon",
-          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - DAVE KEON.jpg"
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - DAVE KEON.jpg",
+          "sport":"Toronto Maple Leafs"
         },
         {
           "name": "Marian Hossa",
-          "picture": "../players/CANADA/ONTARIO/SENATORS - MARIAN HOSSA 2.jpg"
+          "picture": "../players/CANADA/ONTARIO/SENATORS - MARIAN HOSSA 2.jpg",
+          "sport":"Ottawa Senators"
         },
         {
           "name": "Kawhi Leonard",
-          "picture": "../players/CANADA/ONTARIO/RAPTORS - KAWHI.webp"
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - KAWHI.webp",
+          "sport":"Toronto Raptors"
         },
         {
           "name": "Jose Bautista",
-          "picture": "../players/CANADA/ONTARIO/JAYS - JOSE BAUTISTA.jpg"
+          "picture": "../players/CANADA/ONTARIO/JAYS - JOSE BAUTISTA.jpg",
+          "sport":"Toronto Blue Jays"
         },
         {
           "name": "Borje Salming",
-          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - BORJE SALMING 2.jpg"
+          "picture": "../players/CANADA/ONTARIO/MAPLES LEAFS - BORJE SALMING 2.jpg",
+          "sport":"Toronto Maple Leafs"
         },
         {
           "name": "Chris Bosh",
-          "picture": "../players/CANADA/ONTARIO/RAPTORS - BOSH 2.jpg"
+          "picture": "../players/CANADA/ONTARIO/RAPTORS - BOSH 2.jpg",
+          "sport":"Toronto Raptors"
         },
         {
           "name": "Roberto Alomar",
-          "picture": "../players/CANADA/ONTARIO/JAYS - ROBERTO ALOMAR.jpeg"
+          "picture": "../players/CANADA/ONTARIO/JAYS - ROBERTO ALOMAR.jpeg",
+          "sport":"Toronto Blue Jays"
         },
         {
           "name": "Wayne Gretzky",
-          "picture": "../players/CANADA/ONTARIO/GREYHOUNDS - GRETZKY.jpg"
+          "picture": "../players/CANADA/ONTARIO/GREYHOUNDS - GRETZKY.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Bobby Hull",
-          "picture": "../players/CANADA/ONTARIO/CATHARINES - HULL.png"
+          "picture": "../players/CANADA/ONTARIO/CATHARINES - HULL.png",
+          "sport":"Junior League"
         },
         {
           "name": "Patrick Kane",
-          "picture": "../players/CANADA/ONTARIO/KNIGHTS - KANE.jpg"
+          "picture": "../players/CANADA/ONTARIO/KNIGHTS - KANE.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Steve Yzerman",
-          "picture": "../players/CANADA/ONTARIO/PETES - YZERMAN.png"
+          "picture": "../players/CANADA/ONTARIO/PETES - YZERMAN.png",
+          "sport":"Junior League"
         },
         {
           "name": "Bobby Orr",
-          "picture": "../players/CANADA/ONTARIO/GENERALS - ORR.webp"
+          "picture": "../players/CANADA/ONTARIO/GENERALS - ORR.webp",
+          "sport":"Junior League"
         },
         {
           "name": "Chris Pronger",
-          "picture": "../players/CANADA/ONTARIO/PETES - PRONGER.jfif"
+          "picture": "../players/CANADA/ONTARIO/PETES - PRONGER.jfif",
+          "sport":"Junior League"
         },
         {
           "name": "Stan Mikita",
-          "picture": "../players/CANADA/ONTARIO/TEEPEES - MIKITA.png"
+          "picture": "../players/CANADA/ONTARIO/TEEPEES - MIKITA.png",
+          "sport":"Junior League"
         }
       ]
     },
@@ -1459,7 +1519,8 @@
       "players": [
         {
           "name": "Pierre-Olivier Joseph",
-          "picture": "../players/CANADA/PEI/POJ.jpg"
+          "picture": "../players/CANADA/PEI/POJ.jpg",
+          "sport":"Junior League"
         }
       ]
     },
@@ -1739,83 +1800,103 @@
       "players": [
         {
           "name": "Maurice Richard",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - MAURICE RICHARD 1.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - MAURICE RICHARD 1.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Patrick Roy",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - ROY.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - ROY.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Guy Lafleur",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - LAFLEUR 1.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - LAFLEUR 1.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Howie Morenz",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - HOWIE MORENZ 1.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - HOWIE MORENZ 1.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Jean Béliveau",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - BELIVEAU.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - BELIVEAU.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Larry Robinson",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - LARRY ROBINSON 1.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - LARRY ROBINSON 1.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "George Vézina",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - GEORGE VEZINA.jpeg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - GEORGE VEZINA.jpeg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Carey Price",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - PRICE.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - PRICE.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Henri Richard",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - HENRI RICHARD.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - HENRI RICHARD.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Jacques Plante",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - JACQUES PLANTE 2.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - JACQUES PLANTE 2.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Ken Dryden",
-          "picture": "../players/CANADA/QUEBEC/CANADIENS - KEN DRYDEN 1.jpg"
+          "picture": "../players/CANADA/QUEBEC/CANADIENS - KEN DRYDEN 1.jpg",
+          "sport":"Montréal Canadiens"
         },
         {
           "name": "Marie-Philip Poulin",
-          "picture": "../players/CANADA/QUEBEC/PWHL - MARIE-PHILIP POULIN.jpg"
+          "picture": "../players/CANADA/QUEBEC/PWHL - MARIE-PHILIP POULIN.jpg",
+          "sport":"Montréal Victoire"
         },
         {
           "name": "Didier Drogba",
-          "picture": "../players/CANADA/QUEBEC/CF - DROGBA.jpg"
+          "picture": "../players/CANADA/QUEBEC/CF - DROGBA.jpg",
+          "sport":"CF Montréal"
         },
         {
           "name": "Alessandro Nesta",
-          "picture": "../players/CANADA/QUEBEC/CF - NESTA.webp"
+          "picture": "../players/CANADA/QUEBEC/CF - NESTA.webp",
+          "sport":"CF Montréal"
         },
         {
           "name": "Marco Di Vaio",
-          "picture": "../players/CANADA/QUEBEC/CF - DI VAIO.jpg"
+          "picture": "../players/CANADA/QUEBEC/CF - DI VAIO.jpg",
+          "sport":"CF Montréal"
         },
         {
           "name": "Sidney Crosby",
-          "picture": "../players/CANADA/QUEBEC/OCEANIC - CROSBY.png"
+          "picture": "../players/CANADA/QUEBEC/OCEANIC - CROSBY.png",
+          "sport":"Junior League"
         },
         {
           "name": "Mario Lemieux",
-          "picture": "../players/CANADA/QUEBEC/LAVAL - LEMIEUX.jpg"
+          "picture": "../players/CANADA/QUEBEC/LAVAL - LEMIEUX.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Mike Bossy",
-          "picture": "../players/CANADA/QUEBEC/LAVAL - BOSSY.jpg"
+          "picture": "../players/CANADA/QUEBEC/LAVAL - BOSSY.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Martin Brodeur",
-          "picture": "../players/CANADA/QUEBEC/LASERS - BRODEUR.jpg"
+          "picture": "../players/CANADA/QUEBEC/LASERS - BRODEUR.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Ray Bourque",
-          "picture": "../players/CANADA/QUEBEC/HAWKS - BOURQUE.jpg"
+          "picture": "../players/CANADA/QUEBEC/HAWKS - BOURQUE.jpg",
+          "sport":"Junior League"
         }
       ]
     },
@@ -1935,43 +2016,53 @@
       "players": [
         {
           "name": "Connor Bedard",
-          "picture": "../players/CANADA/SASKATCHEWAN/PATS - BEDARD.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/PATS - BEDARD.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Joe Sakic",
-          "picture": "../players/CANADA/SASKATCHEWAN/BRONCOS - SAKIC.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/BRONCOS - SAKIC.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Bryan Trottier",
-          "picture": "../players/CANADA/SASKATCHEWAN/BRONCOS - TROTTIER.jfif"
+          "picture": "../players/CANADA/SASKATCHEWAN/BRONCOS - TROTTIER.jfif",
+          "sport":"Junior League"
         },
         {
           "name": "Mike Modano",
-          "picture": "../players/CANADA/SASKATCHEWAN/RAIDERS - MODANO.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/RAIDERS - MODANO.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Brayden Point",
-          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - POINT.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - POINT.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Bernie Federko",
-          "picture": "../players/CANADA/SASKATCHEWAN/BLADES - FEDERKO.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/BLADES - FEDERKO.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Clark Gillies",
-          "picture": "../players/CANADA/SASKATCHEWAN/PATS - GILLIES.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/PATS - GILLIES.jpg",
+          "sport":"Junior League"
         },
         {
           "name": "Morgan Rielly",
-          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - RIELLY.JPG"
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - RIELLY.JPG",
+          "sport":"Junior League"
         },
         {
           "name": "Braden Holtby",
-          "picture": "../players/CANADA/SASKATCHEWAN/BLADES - HOLTBY.jfif"
+          "picture": "../players/CANADA/SASKATCHEWAN/BLADES - HOLTBY.jfif",
+          "sport":"Junior League"
         },
         {
           "name": "Theoren Fleury",
-          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - FLEURY.jpg"
+          "picture": "../players/CANADA/SASKATCHEWAN/WARRIORS - FLEURY.jpg",
+          "sport":"Junior League"
         }
       ]
     },

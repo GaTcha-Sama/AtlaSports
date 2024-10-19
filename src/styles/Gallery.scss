@@ -160,3 +160,29 @@
         font-size: 12px;
       }
 }
+
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    position: relative;
+  
+    svg {
+      border: 1px solid #ddd;
+      border-radius: 10px;
+    }
+  }
+  
+  .tooltip {
+    position: absolute;
+    bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    pointer-events: none;
+  }
+
+  
