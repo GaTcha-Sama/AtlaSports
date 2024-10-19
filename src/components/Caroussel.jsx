@@ -10,7 +10,9 @@ const Caroussel = ({ pictures }) => {
     if (direction === 'next') {
       setCurrentPicture((prevPicture) => (prevPicture + 1) % pictures.length);
     } else if (direction === 'previous') {
-      setCurrentPicture((prevPicture) => (prevPicture === 0 ? pictures.length - 1 : prevPicture - 1));
+      setCurrentPicture((prevPicture) =>
+        prevPicture === 0 ? pictures.length - 1 : prevPicture - 1
+      );
     }
   }
 
@@ -41,9 +43,16 @@ const Caroussel = ({ pictures }) => {
       )}
 
       {pictures.length > 1 && (
-        <p className="carroussel__numbers">
-          {currentPicture + 1} / {pictures.length}
-        </p>
+        <div className="carroussel__dots">
+          {pictures.map((_, index) => (
+            <div
+              key={index}
+              className={`carroussel__dot ${
+                index === currentPicture ? 'carroussel__dot--active' : ''
+              }`}
+            />
+          ))}
+        </div>
       )}
     </div>
   );

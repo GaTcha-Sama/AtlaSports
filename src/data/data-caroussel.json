@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "caroussel": [
+        {
+          "pictures": [
+            "../landscapes/USA/ALASKA.jpg",
+            "../landscapes/USA/ARIZONA.jpg"
+          ]
+        }
+      ]
+    }
+]

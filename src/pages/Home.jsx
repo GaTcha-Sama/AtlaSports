@@ -3,6 +3,15 @@ import React from 'react'
 import '../styles/Home.scss'
 import {useNavigate} from 'react-router-dom'
 import DataCountries from '../data/data-flag-countries.json'
+import Caroussel from '../components/Caroussel'
+
+const carousselImages = [
+  '../homecaroussel/NBA.jpg',
+  '../homecaroussel/MLB.jpg',
+  '../homecaroussel/NHL.webp',
+  '../homecaroussel/NFL.webp',
+  '../homecaroussel/MLS.jpg'
+];
 
 function Home() {
   const navigate = useNavigate();
@@ -18,6 +27,9 @@ function Home() {
   return (
     <main className='home'>
       <section>
+      <div>
+        <Caroussel pictures={carousselImages} />
+      </div>
       <p className='home__welcome'>
         Hi everybody and welcome on AtlaSports ! 👋​<br />
         On this website you can find an atlas where most of major and minor league clubs are known in North America,
