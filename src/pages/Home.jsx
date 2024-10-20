@@ -4,6 +4,9 @@ import '../styles/Home.scss'
 import {useNavigate} from 'react-router-dom'
 import DataCountries from '../data/data-flag-countries.json'
 import Caroussel from '../components/Caroussel'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faSearchengin} from '@fortawesome/free-brands-svg-icons'
+
 
 const carousselImages = [
   '../homecaroussel/NBA.jpg',
@@ -21,7 +24,23 @@ function Home() {
       navigate('/gallery-can');
     } else if (item.id === 'usa') {
       navigate('/gallery-usa'); 
-    }
+    } else if (item.id === 'fra') {
+      navigate('/gallery-fra'); 
+    } else if (item.id === 'eng') {
+      navigate('/gallery-eng'); 
+    } else if (item.id === 'ger') {
+      navigate('/gallery-ger'); 
+    } else if (item.id === 'ita') {
+      navigate('/gallery-ita'); 
+    } else if (item.id === 'spa') {
+      navigate('/gallery-spa'); 
+    } else if (item.id === 'nzl') {
+      navigate('/gallery-nzl'); 
+    } else if (item.id === 'aus') {
+      navigate('/gallery-aus'); 
+    } else if (item.id === 'irl') {
+      navigate('/gallery-irl'); 
+    } 
   };
 
   return (
@@ -42,9 +61,27 @@ function Home() {
         Right now, just choose the country you want and I wish you a nice journey on this website ! Have fun, peace ! ​✌️​ <br />
         PS : Thank you guys for all the support, it's awesome ! ​🤩​
       </p>
-     {/*} <div>
-        <ChatBot />
-      </div> */}
+      </section>
+      <section className='home__research'>
+        <div className='home__research__box'>
+          <h1 className='home__research__box__title'>Where are you?</h1>
+          <div className='home__research__box__search'>
+            <input className='home__research__box__input' placeholder='Geolocate me' />
+            <input className='home__research__box__input' placeholder='Which sport' />
+            <input className='home__research__box__input' placeholder='Number of tickets' type='number' />
+            <button className='home__research__box__submit'><FontAwesomeIcon icon={faSearchengin} /></button>
+          </div>
+        </div>
+        <div className='home__research__box'>
+          <h1 className='home__research__box__title'>Where do you go?</h1>
+          <div className='home__research__box__search'>
+            <input className='home__research__box__input' placeholder='Destination' />
+            <input className='home__research__box__input' placeholder='Arrival' type='date' lang="en" />
+            <input className='home__research__box__input' placeholder='Departure' type='date' lang="en" />
+            <input className='home__research__box__input' placeholder='Number of tickets' type='number' />
+            <button className='home__research__box__submit'><FontAwesomeIcon icon={faSearchengin} /></button>
+          </div>
+        </div>
       </section>
       <section className='home__gallery'>
       {DataCountries.map((item) => (
@@ -56,6 +93,9 @@ function Home() {
         </div>      
       ))}
       </section>
+       {/* <div>
+        <ChatBot />
+      </div> */}
     </main>
   );
 }
