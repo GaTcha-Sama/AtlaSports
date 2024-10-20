@@ -67,7 +67,21 @@ function Home() {
           <h1 className='home__research__box__title'>Where are you?</h1>
           <div className='home__research__box__search'>
             <input className='home__research__box__input' placeholder='Geolocate me' />
-            <input className='home__research__box__input' placeholder='Which sport' />
+            <select className='home__research__box__input home__research__box__select' name="sport">
+              <option value="">Select a sport</option>
+              <option value="football">All sports </option>
+              <option value="football">Football/Soccer</option>
+              <option value="basketball">Basketball</option>
+              <option value="tennis">Hockey</option>
+              <option value="rugby">Rugby</option>
+              <option value="cricket">Foot US/Football</option>
+              <option value="golf">Handball</option>
+              <option value="baseball">Baseball</option>
+              <option value="volleyball">Volleyball</option>
+              <option value="golf">Australian rules</option>
+              <option value="baseball">Cricket</option>
+              <option value="volleyball">Volleyball</option>
+            </select>
             <input className='home__research__box__input' placeholder='Number of tickets' type='number' />
             <button className='home__research__box__submit'><FontAwesomeIcon icon={faSearchengin} /></button>
           </div>
@@ -76,14 +90,15 @@ function Home() {
           <h1 className='home__research__box__title'>Where do you go?</h1>
           <div className='home__research__box__search'>
             <input className='home__research__box__input' placeholder='Destination' />
-            <input className='home__research__box__input' placeholder='Arrival' type='date' lang="en" />
-            <input className='home__research__box__input' placeholder='Departure' type='date' lang="en" />
+            <input className='home__research__box__input' placeholder='Arrival' type='date' />
+            <input className='home__research__box__input' placeholder='Departure' type='date' />
             <input className='home__research__box__input' placeholder='Number of tickets' type='number' />
             <button className='home__research__box__submit'><FontAwesomeIcon icon={faSearchengin} /></button>
           </div>
         </div>
       </section>
-      <section className='home__gallery'>
+      <h1 style={{marginTop: '50px', paddingLeft: '30px'}}>Curious ? Just check by country what could interest you !</h1>
+      <section className='home__gallery'>        
       {DataCountries.map((item) => (
         <div key={item.id}>
           <button type="button" className='home__gallery__card' onClick={() => handleItemClick(item)}>
