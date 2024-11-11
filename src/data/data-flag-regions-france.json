@@ -1,0 +1,1245 @@
+[
+    { "__comment": "BRETAGNE",
+        "id": 123456,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123457,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123458,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123459,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123460,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123461,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123462,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123463,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123464,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123465,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      },
+      { "__comment": "BRETAGNE",
+        "id": 123466,
+        "nom": "Bretagne",
+        "latitude": 53.9333,
+        "longitude": -116.5765,
+        "drapeau": "../flags/FRANCE/Bretagne.png",
+        "landscape": "../landscapes/CAN/ALBERTA.jpg",
+        "carte": "state-layer/Canada/AL.jpg",  
+        "map": "../map/arizona-test.jpg",
+        "city": "../map/phoenix-test.jpg",
+        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "football_league": [
+          {
+            "name": "Edmonton Oilers",
+            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
+            "league": "NHL",
+            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+          }
+        ],
+        "basket_league": [
+          {
+            "name": "Calgary Wranglers",
+            "logo": "../logos/AHL/Calgary Wranglers.png",
+            "league": "AHL",
+            "leagueLogo": "../logos/AHL/AHL.png"
+          }
+        ],
+        "rugby_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "handball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "icehockey_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "volley_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "footus_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "baseball_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "gaelic_league": [
+          {
+            "name": "Edmonton Oil Kings",
+            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "league": "WHL",
+            "leagueLogo": "../logos/WHL/WHL.png"
+          }
+        ],
+        "stadiums": [
+          {
+            "name": "Roazhon Park",
+            "city": "Rennes",
+            "capacity": "30.000 seats",
+            "residents": "Stade Rennais (L1)",
+            "pictures": [
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
+              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+            ]
+          },
+          {
+            "name": "Stade Francis Le Blé",
+            "city": "Brest",
+            "capacity": "15.400 seats",
+            "residents": "Stade Brestois (L1)",
+            "pictures": [
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
+              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+            ]
+          }
+        ],
+        "players": [
+          {
+            "name": "Bruno Grougi",
+            "picture": "../players/CANADA/ALBERTA/OILERS - WAYNE GRETZKY.jpeg",
+            "sport":"SB29"
+          }
+        ]
+      }
+  ]

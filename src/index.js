@@ -7,6 +7,7 @@ import 'leaflet/dist/leaflet.css';
 import Home from './pages/Home';
 import State from './pages/State';
 import Province from './pages/Province';
+import Region from './pages/Region';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Error from './pages/Error';
@@ -44,6 +45,7 @@ root.render(
         <Route path="/gallery-irl" element={<GalleryIRL />} />
         <Route path="/state/:id" element={<State />} />
         <Route path="/province/:id" element={<Province />} />
+        <Route path="/region/:id" element={<Region />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Error />} />
