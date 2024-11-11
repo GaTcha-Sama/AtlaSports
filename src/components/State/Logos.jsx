@@ -69,7 +69,7 @@ function Logos({ majorLeague = [],
 
       {footballLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Football Teams :</h2>
           <div className='logo__teams'>
             {footballLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -86,7 +86,7 @@ function Logos({ majorLeague = [],
 
       {basketLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Basketball Teams :</h2>
           <div className='logo__teams'>
             {basketLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -103,7 +103,7 @@ function Logos({ majorLeague = [],
 
       {rugbyLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Rugby Teams :</h2>
           <div className='logo__teams'>
             {rugbyLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -120,7 +120,7 @@ function Logos({ majorLeague = [],
 
       {handballLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Handball Teams :</h2>
           <div className='logo__teams'>
             {handballLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -135,9 +135,26 @@ function Logos({ majorLeague = [],
         </>
       )}
 
+      {volleyLeague.length > 0 && (
+        <>
+          <h2 className='logo__level'>Volleyball Teams :</h2>
+          <div className='logo__teams'>
+            {volleyLeague.map(team => (
+              <div key={team.name} className='logo__club'>                
+                <div className='logo__club__content'>
+                  <img src={team.logo} alt={team.name} className='logo__club__img'/>
+                </div>
+                <p className='logo__club__title'>{team.name}</p>
+                <img src={team.leagueLogo} alt={team.leagueLogo} className='logo__club__league'/>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+
       {icehockeyLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Hockey Teams :</h2>
           <div className='logo__teams'>
             {icehockeyLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -154,7 +171,7 @@ function Logos({ majorLeague = [],
 
       {footusLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>American Football Teams :</h2>
           <div className='logo__teams'>
             {footusLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -169,26 +186,9 @@ function Logos({ majorLeague = [],
         </>
       )}
 
-      {volleyLeague.length > 0 && (
-        <>
-          <h2 className='logo__level'>Major League Teams :</h2>
-          <div className='logo__teams'>
-            {volleyLeague.map(team => (
-              <div key={team.name} className='logo__club'>                
-                <div className='logo__club__content'>
-                  <img src={team.logo} alt={team.name} className='logo__club__img'/>
-                </div>
-                <p className='logo__club__title'>{team.name}</p>
-                <img src={team.leagueLogo} alt={team.leagueLogo} className='logo__club__league'/>
-              </div>
-            ))}
-          </div>
-        </>
-      )}
-
       {baseballLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Baseball Teams :</h2>
           <div className='logo__teams'>
             {baseballLeague.map(team => (
               <div key={team.name} className='logo__club'>                
@@ -205,7 +205,7 @@ function Logos({ majorLeague = [],
 
       {gaelicLeague.length > 0 && (
         <>
-          <h2 className='logo__level'>Major League Teams :</h2>
+          <h2 className='logo__level'>Gaelic AA Teams :</h2>
           <div className='logo__teams'>
             {gaelicLeague.map(team => (
               <div key={team.name} className='logo__club'>                

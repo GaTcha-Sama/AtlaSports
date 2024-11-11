@@ -6,6 +6,7 @@ import LogoGoatsNorthAmerica from '../assets/header-goats.jpg';
 import Banner from '../components/Home/Banner';
 import LandscapeDataUSA from '../data/data-flag-states-usa.json';
 import LandscapeDataCAN from '../data/data-flag-provinces-canada.json';
+import LandscapeDataFRA from '../data/data-flag-regions-france.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser, faHouse, faEnvelope, faCopyright } from '@fortawesome/free-solid-svg-icons';
 
@@ -16,19 +17,23 @@ function Header() {
   const isCurrentPage = (path) => location.pathname === path;
 
   const isGalleryPageNorthAmerica = 
-    location.pathname === '/gallery-can' || location.pathname === '/gallery-usa';
+    location.pathname === '/gallery-can' || location.pathname === '/gallery-usa' || location.pathname === '/gallery-fra';
 
   const isStatePage = location.pathname.startsWith('/state');
   const isProvincePage = location.pathname.startsWith('/province');
+  const isRegionPage = location.pathname.startsWith('/region');
 
   const stateId = parseInt(location.pathname.split('/')[2], 10);
   const provinceId = parseInt(location.pathname.split('/')[2], 10);
+  const regionId = parseInt(location.pathname.split('/')[2], 10);
 
   const stateData = LandscapeDataUSA.find(state => state.id === stateId);
   const provinceData = LandscapeDataCAN.find(province => province.id === provinceId);
+  const regionData = LandscapeDataFRA.find(region => region.id === regionId);
 
   const landscapeImageUSA = stateData ? stateData.landscape : '';
   const landscapeImageCAN = provinceData ? provinceData.landscape : '';
+  const landscapeImageFRA = regionData ? regionData.landscape : '';
 
   return (
     <header className='header'>
@@ -59,6 +64,12 @@ function Header() {
       {isProvincePage && landscapeImageCAN && (
         <div>
           <img src={landscapeImageCAN} alt="landscape" className='header__logo' />
+        </div>
+      )}
+
+      {isRegionPage && landscapeImageFRA && (
+        <div>
+          <img src={landscapeImageFRA} alt="landscape" className='header__logo' />
         </div>
       )}
 

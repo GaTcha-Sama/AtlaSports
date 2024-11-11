@@ -2,84 +2,82 @@
     { "__comment": "BRETAGNE",
         "id": 123456,
         "nom": "Bretagne",
-        "latitude": 53.9333,
-        "longitude": -116.5765,
+        "latitude": 48.202,
+        "longitude": -2.9326,
         "drapeau": "../flags/FRANCE/Bretagne.png",
-        "landscape": "../landscapes/CAN/ALBERTA.jpg",
-        "carte": "state-layer/Canada/AL.jpg",  
-        "map": "../map/arizona-test.jpg",
-        "city": "../map/phoenix-test.jpg",
-        "backgroundGradient": "linear-gradient(to right, #87CEEB, #32CD32)",
+        "landscape": "../landscapes/FRA/BZH.jpg",
+        "carte": "state-layer/France/BZH.png",  
+        "backgroundGradient": "linear-gradient(to right, #5e8d5a, #87c0d9, #9da3a4)",
         "football_league": [
           {
-            "name": "Edmonton Oilers",
-            "logo": "../logos/NHL/Edmonton-Oilers-Logo.png",
-            "league": "NHL",
-            "leagueLogo": "../logos/NHL/NHL-Logo.png"
+            "name": "Stade Rennais",
+            "logo": "../logos/EUROPE/FRANCE/FOOT/L1/Rennes.png",
+            "league": "Ligue 1",
+            "leagueLogo": "../logos/EUROPE/FRANCE/FOOT/L1/L1.png"
+          },
+          {
+            "name": "Stade Brestois",
+            "logo": "../logos/EUROPE/FRANCE/FOOT/L1/Brest.png",
+            "league": "Ligue 1",
+            "leagueLogo": "../logos/EUROPE/FRANCE/FOOT/L1/L1.png"
+          },
+          {
+            "name": "FC Lorient",
+            "logo": "../logos/EUROPE/FRANCE/FOOT/L2/Lorient.png",
+            "league": "Ligue 2",
+            "leagueLogo": "../logos/EUROPE/FRANCE/FOOT/L2/L2.png"
+          },
+          {
+            "name": "EA Guingamp",
+            "logo": "../logos/EUROPE/FRANCE/FOOT/L2/EAG.png",
+            "league": "Ligue 2",
+            "leagueLogo": "../logos/EUROPE/FRANCE/FOOT/L2/L2.png"
+          },
+          {
+            "name": "US Concarneau",
+            "logo": "../logos/EUROPE/FRANCE/FOOT/NAT/Concarneau.png",
+            "league": "Nationale",
+            "leagueLogo": "../logos/EUROPE/FRANCE/FOOT/NAT/Nationale.svg"
           }
         ],
         "basket_league": [
           {
-            "name": "Calgary Wranglers",
-            "logo": "../logos/AHL/Calgary Wranglers.png",
-            "league": "AHL",
-            "leagueLogo": "../logos/AHL/AHL.png"
+            "name": "Les Béliers de Kemper",
+            "logo": "../logos/EUROPE/FRANCE/BASKET/Quimper.png",
+            "league": "Pro B",
+            "leagueLogo": "../logos/EUROPE/FRANCE/BASKET/PRO B/PRO-B.png"
           }
         ],
         "rugby_league": [
           {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
-            "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
+            "name": "RC Vannes",
+            "logo": "../logos/EUROPE/FRANCE/RUGBY/TOP14/Vannes.png",
+            "league": "Top 14",
+            "leagueLogo": "../logos/EUROPE/FRANCE/RUGBY/TOP14/TOP14.png"
           }
         ],
         "handball_league": [
           {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
-            "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
-          }
-        ],
-        "icehockey_league": [
-          {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
-            "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
+            "name": "Cesson-Rennes Métropole Handball",
+            "logo": "../logos/EUROPE/FRANCE/HAND/D1M/Cesson.png",
+            "league": "Starligue",
+            "leagueLogo": "../logos/EUROPE/FRANCE/HAND/D1M/Starligue.png"
           }
         ],
         "volley_league": [
           {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
-            "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
+            "name": "Rennes EC Volley",
+            "logo": "../logos/EUROPE/FRANCE/VOLLEY/LIGUE-B/Rennes.png",
+            "league": "Ligue B",
+            "leagueLogo": "../logos/EUROPE/FRANCE/VOLLEY/LIGUE-B/Ligue-B.svg"
           }
         ],
-        "footus_league": [
+        "icehockey_league": [
           {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
+            "name": "Les Albatros de Brest",
+            "logo": "../logos/EUROPE/FRANCE/HOCKEY/D1/Brest.png",
             "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
-          }
-        ],
-        "baseball_league": [
-          {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
-            "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
-          }
-        ],
-        "gaelic_league": [
-          {
-            "name": "Edmonton Oil Kings",
-            "logo": "../logos/WHL/Edmonton_Oil_Kings.png",
-            "league": "WHL",
-            "leagueLogo": "../logos/WHL/WHL.png"
+            "leagueLogo": "../logos/EUROPE/FRANCE/HOCKEY/D1/D1.png"
           }
         ],
         "stadiums": [
