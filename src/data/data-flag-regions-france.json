@@ -59,7 +59,7 @@
         "handball_league": [
           {
             "name": "Cesson-Rennes Métropole Handball",
-            "logo": "../logos/EUROPE/FRANCE/HAND/D1M/Cesson.png",
+            "logo": "../logos/EUROPE/FRANCE/HAND/D1M/Cesson-Rennes.png",
             "league": "Starligue",
             "leagueLogo": "../logos/EUROPE/FRANCE/HAND/D1M/Starligue.png"
           }
@@ -84,21 +84,51 @@
           {
             "name": "Roazhon Park",
             "city": "Rennes",
-            "capacity": "30.000 seats",
+            "capacity": "29.778 seats",
             "residents": "Stade Rennais (L1)",
             "pictures": [
-              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM.jpg",
-              "../stadiums-pro/EDMONTON - COMMONWEALTH STADIUM ELKS.jpg"
+              "../stadiums-world/FRANCE/BRETAGNE/ROAZHON PARK - RENNES.avif",
+              "../stadiums-world/FRANCE/BRETAGNE/ROAZHON PARK - RENNES - IN.avif"
+            ]
+          },
+          {
+            "name": "Stade de Roudourou",
+            "city": "Guingamp",
+            "capacity": "19.060 seats",
+            "residents": "EA Guingamp (L2)",
+            "pictures": [
+              "../stadiums-world/FRANCE/BRETAGNE/ROUDOUROU - GUINGAMP.png",
+              "../stadiums-world/FRANCE/BRETAGNE/ROUDOUROU - GUINGAMP - IN.jpg"
+            ]
+          },
+          {
+            "name": "Stade du Moustoir",
+            "city": "Lorient",
+            "capacity": "18.500 seats",
+            "residents": "FC Lorient (L2)",
+            "pictures": [
+              "../stadiums-world/FRANCE/BRETAGNE/MOUSTOIR - LORIENT.avif",
+              "../stadiums-world/FRANCE/BRETAGNE/MOUSTOIR - LORIENT - IN.jpg"
             ]
           },
           {
             "name": "Stade Francis Le Blé",
             "city": "Brest",
-            "capacity": "15.400 seats",
+            "capacity": "15.220 seats",
             "residents": "Stade Brestois (L1)",
             "pictures": [
-              "../stadiums-pro/CALGARY - MCMAHON STADIUM.jpg",
-              "../stadiums-pro/CALGARY - MCMAHON STADIUM STAMPEDERS.jpg"
+              "../stadiums-world/FRANCE/BRETAGNE/FRANCIS LE BLE - BREST.jpg",
+              "../stadiums-world/FRANCE/BRETAGNE/FRANCIS LE BLE - BREST - IN.jpg"
+            ]
+          },
+          {
+            "name": "Stade de la Rabine",
+            "city": "Vannes",
+            "capacity": "11.303 seats",
+            "residents": "RC Vannes (Top 14)",
+            "pictures": [
+              "../stadiums-world/FRANCE/BRETAGNE/LA RABINE - VANNES.jpg",
+              "../stadiums-world/FRANCE/BRETAGNE/LA RABINE - VANNES - IN.jpg"
             ]
           }
         ],
